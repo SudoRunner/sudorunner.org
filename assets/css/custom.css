@@ -212,3 +212,33 @@
   font-size: 0.72rem;
   padding: 0.12rem 0.45rem;
 }
+
+/* Project gallery polish */
+.sr-project-card {
+  min-height: 230px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.sr-project-card p {
+  margin-top: 0.45rem;
+}
+
+.sr-project-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.85rem;
+}
+
+.sr-section-note {
+  font-size: 0.95rem;
+  opacity: 0.88;
+  margin-top: -0.35rem;
+  margin-bottom: 1rem;
+}
+
+.sr-muted {
+  opacity: 0.82;
+}
