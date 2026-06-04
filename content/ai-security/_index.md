@@ -9,6 +9,8 @@ showReadingTime: false
 
 # AI & Security
 
+<span class="sr-eyebrow">Portfolio Gallery</span>
+
 This section explores concept notes, research ideas, and future lab work at the intersection of artificial intelligence, cybersecurity operations, vulnerability management, ServiceNow SecOps, and OT/ICS security.
 
 The goal is not to present AI as a replacement for security professionals. Instead, this section focuses on how AI could support better triage, prioritization, ownership assignment, communication, and risk translation across technical and operational teams.

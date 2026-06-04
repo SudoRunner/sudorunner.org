@@ -9,6 +9,8 @@ showReadingTime: false
 
 # Resume
 
+<span class="sr-eyebrow">Public Resume</span>
+
 I am a U.S. citizen and Penn State Cybersecurity Analytics & Operations graduate focused on ServiceNow SecOps, Vulnerability Response, cybersecurity operations, vulnerability management, and OT/ICS security.
 
 ## Professional Focus

@@ -9,6 +9,8 @@ showReadingTime: false
 
 # Credentials
 
+<span class="sr-eyebrow">Education & Certifications</span>
+
 This page highlights my education, certifications, academic achievements, and cybersecurity-related credentials.
 
 <div class="sr-card-grid">

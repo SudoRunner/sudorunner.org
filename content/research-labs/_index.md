@@ -9,6 +9,8 @@ showReadingTime: false
 
 # Research & Labs
 
+<span class="sr-eyebrow">Portfolio Gallery</span>
+
 This section is for hands-on cybersecurity research, lab work, technical notes, and practical security experiments.
 
 The goal is to document how I investigate security concepts, build lab environments, test workflows, analyze findings, and translate technical lessons into clear operational takeaways.
@@ -142,3 +144,4 @@ Shorter writeups on cybersecurity concepts, tools, frameworks, and lessons learn
 </div>
 
 </div>
+

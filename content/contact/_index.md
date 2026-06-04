@@ -9,6 +9,8 @@ showReadingTime: false
 
 # Contact
 
+<span class="sr-eyebrow">Professional Contact</span>
+
 I am open to professional opportunities related to ServiceNow SecOps, Vulnerability Response, cybersecurity operations, vulnerability management, Cybersecurity Analyst roles, and OT/ICS security.
 
 ## Open To

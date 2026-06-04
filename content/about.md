@@ -9,6 +9,8 @@ showReadingTime: false
 
 # About
 
+<span class="sr-eyebrow">Professional Profile</span>
+
 I’m Vlad K., a U.S. citizen and Penn State graduate with a B.S. in Cybersecurity Analytics & Operations, graduating Cum Laude with a 3.88 GPA.
 
 I created **sudoRunner** as a cybersecurity portfolio and technical notebook to showcase selected projects, hands-on labs, professional lessons, ServiceNow SecOps notes, AI security ideas, OT/ICS security concepts, and redacted academic work.
