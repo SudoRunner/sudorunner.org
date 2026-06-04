@@ -17,32 +17,19 @@ This page highlights my education, certifications, academic achievements, and cy
 
 <div class="sr-card">
 
+<div class="sr-card">
+
 ### Penn State University
 
-**B.S. Cybersecurity Analytics & Operations**
-Graduated **Cum Laude**
+**B.S. Cybersecurity Analytics & Operations**  
+Graduated <span class="sr-honor">Cum Laude</span>  
 GPA: **3.88**
 
 Relevant areas of study included cybersecurity operations, network security, application development, risk analysis, incident response, and exposure to ICS/SCADA concepts in simulated smart grid environments.
 
 <div class="sr-project-meta">
   <span class="sr-status sr-status-complete">Completed</span>
-  <span class="sr-status sr-status-progress">Cum Laude</span>
-</div>
-
-</div>
-
-<div class="sr-card">
-
-### SANS NetWars
-
-Placed **14th nationwide** in a SANS NetWars cybersecurity competition.
-
-<div class="sr-project-meta">
-  <span class="sr-status sr-status-complete">Achievement</span>
-  <span class="sr-status sr-status-lab">Hands-On</span>
-</div>
-
+  <span class="sr-status sr-status-honor">Cum Laude</span>
 </div>
 
 </div>

@@ -11,85 +11,207 @@ showReadingTime: false
 
 <span class="sr-eyebrow">Public Resume</span>
 
-I am a U.S. citizen and Penn State Cybersecurity Analytics & Operations graduate focused on ServiceNow SecOps, Vulnerability Response, cybersecurity operations, vulnerability management, and OT/ICS security.
+I am a U.S. citizen and Penn State Cybersecurity Analytics & Operations graduate focused on **ServiceNow SecOps**, **Vulnerability Response**, **cybersecurity operations**, **vulnerability management**, and **OT/ICS security**.
+
+<div class="sr-cta-row">
+  <a class="sr-button" href="/files/Vlad_K_Public_Resume.pdf">Download Resume PDF</a>
+  <a class="sr-button" href="/contact/">Contact Me</a>
+  <a class="sr-button-secondary sr-button" href="/credentials/">Credentials</a>
+  <a class="sr-button-secondary sr-button" href="/projects/">Projects</a>
+</div>
+
+<div class="sr-callout">
+
+<strong>Privacy note:</strong> This is a public-facing resume version. It uses a professional contact alias and omits private contact details.
+
+</div>
+
+---
 
 ## Professional Focus
 
-* ServiceNow SecOps
-* Vulnerability Response
-* Cybersecurity Analyst roles
-* Vulnerability management
-* Security operations
-* OT/ICS security
-* Risk-based remediation
-* Security workflow improvement
+<div class="sr-card-grid">
 
-## Experience Snapshot
+<div class="sr-card">
 
-### ServiceNow SecOps / Vulnerability Response
+### ServiceNow SecOps
 
-My professional experience includes supporting ServiceNow SecOps and Vulnerability Response work in client-facing environments.
+Security Operations, Vulnerability Response, workflow design, vulnerable item lifecycle, remediation ownership, and implementation support.
 
-Relevant work included:
+<span class="sr-status sr-status-lab">Primary Focus</span>
 
-* Supporting Vulnerability Response workflow discussions
-* Participating in requirements gathering and stakeholder workshops
-* Creating and tracking user stories
-* Documenting functional requirements and process flows
-* Supporting UAT, training documentation, and go-live readiness
-* Helping translate security workflow needs into structured implementation tasks
+</div>
+
+<div class="sr-card">
+
+### Vulnerability Management
+
+Risk-based remediation, prioritization, asset context, exception handling, validation, closure, and stakeholder communication.
+
+<span class="sr-status sr-status-progress">Core Area</span>
+
+</div>
+
+<div class="sr-card">
 
 ### Cybersecurity Operations
 
-My cybersecurity background includes academic and hands-on exposure to:
+Security analysis, incident response concepts, SIEM exposure, packet analysis, malware investigation labs, IDS/firewall labs, and security documentation.
 
-* Network security
-* Vulnerability assessment
-* Incident response concepts
-* SIEM and log analysis concepts
-* Packet analysis
-* Malware investigation labs
-* IDS/firewall configuration labs
-* Cloud and Microsoft security fundamentals
+<span class="sr-status sr-status-complete">Core Skill Area</span>
+
+</div>
+
+<div class="sr-card">
 
 ### OT/ICS Security
 
-I am especially interested in OT/ICS security and cyber-physical risk.
+SCADA, PLC/Modbus concepts, cyber-physical risk, operational disruption analysis, smart grid concepts, NIST CSF, and IEC 62443 interest.
 
-My academic work included exposure to ICS/SCADA concepts in simulated smart grid and lab environments, including SCADA visibility, PLC communication concepts, Modbus-related investigation, operational disruption analysis, and recovery validation.
+<span class="sr-status sr-status-progress">Specialty Interest</span>
+
+</div>
+
+</div>
+
+---
+
+## Experience Snapshot
+
+<div class="sr-card-grid">
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### ServiceNow SecOps / Vulnerability Response
+
+Professional experience supporting ServiceNow SecOps and Vulnerability Response work in client-facing environments.
+
+Relevant work included requirements gathering, stakeholder workshops, user stories, functional requirements, process flows, UAT support, training documentation, and go-live readiness.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-status sr-status-lab">ServiceNow</span>
+  <span class="sr-status sr-status-progress">Client-Facing</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### Cybersecurity Labs & Analysis
+
+Academic and hands-on exposure to network security, vulnerability assessment, packet analysis, OpenVAS, Snort, iptables, malware investigation, wireless security, and controlled CTF practice.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-status sr-status-complete">Hands-On Labs</span>
+  <span class="sr-status sr-status-lab">Security Analysis</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### OT/ICS Security Exposure
+
+Academic exposure to ICS/SCADA concepts in simulated smart grid and lab environments, including SCADA visibility, PLC communication concepts, Modbus-related investigation, operational disruption analysis, and recovery validation.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-status sr-status-progress">OT/ICS</span>
+  <span class="sr-status sr-status-lab">SCADA Lab</span>
+</div>
+
+</div>
+
+</div>
+
+---
 
 ## Education
 
+<div class="sr-card">
+
 ### Penn State University
 
-**B.S. Cybersecurity Analytics & Operations**
-Graduated **Cum Laude**
+**B.S. Cybersecurity Analytics & Operations**  
+Graduated <span class="sr-honor">Cum Laude</span>  
 GPA: **3.88**
+
+<div class="sr-project-meta">
+  <span class="sr-status sr-status-complete">Completed</span>
+  <span class="sr-status sr-status-honor">Cum Laude</span>
+</div>
+
+</div>
+
+---
 
 ## Certifications & Credentials
 
-* ServiceNow Certified System Administrator — Exam scheduled June 2026
-* ISC2 Certified in Cybersecurity
-* Microsoft AZ-900
-* Microsoft SC-900
-* Penn State Security and Risk Analysis Certificate
-* NSA certificate program coursework completed
-* SANS NetWars — 14th nationwide placement
+| Credential                                        | Status                                                                     |
+| ------------------------------------------------- | -------------------------------------------------------------------------- |
+| ServiceNow Certified System Administrator         | <span class="sr-status sr-status-progress">Exam scheduled June 2026</span> |
+| ISC2 Certified in Cybersecurity                   | <span class="sr-status sr-status-complete">Completed</span>                |
+| Microsoft AZ-900                                  | <span class="sr-status sr-status-complete">Completed</span>                |
+| Microsoft SC-900                                  | <span class="sr-status sr-status-complete">Completed</span>                |
+| Penn State Security and Risk Analysis Certificate | <span class="sr-status sr-status-complete">Completed</span>                |
+| NSA Certificate Program Coursework                | <span class="sr-status sr-status-complete">Coursework completed</span>     |
+| SANS NetWars                                      | <span class="sr-status sr-status-lab">14th nationwide placement</span>     |
+
+---
 
 ## Portfolio Highlights
 
-* [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
-* [ServiceNow Vulnerability Response Lab: From Finding to Closure](/projects/servicenow-vulnerability-response-lab/)
-* [Network Traffic Analysis and ML-Based Anomaly Detection](/projects/network-traffic-analysis-ml-anomaly-detection/)
-* [ICS IT/OT Application-Level DoS Attack Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/)
-* [IST 451 Security Labs Collection](/research-labs/ist-451-security-labs-collection/)
+<div class="sr-card-grid">
 
-## Resume Download
+<div class="sr-card">
 
-Download my public resume here:
+### [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
 
-[Download Resume PDF](/files/K_Vladyslav_Resume_6_4_2026.pdf)
+Hands-on Vulnerability Response and SecOps workflow portfolio hub.
 
-## Contact
+<span class="sr-status sr-status-lab">ServiceNow</span>
 
-For professional opportunities, please visit the [Contact](/contact/) page.
+</div>
+
+<div class="sr-card">
+
+### [ServiceNow Vulnerability Response Lab](/projects/servicenow-vulnerability-response-lab/)
+
+End-to-end vulnerable item workflow from finding to closure.
+
+<span class="sr-status sr-status-progress">Vulnerability Response</span>
+
+</div>
+
+<div class="sr-card">
+
+### [Network Traffic Analysis and ML-Based Anomaly Detection](/projects/network-traffic-analysis-ml-anomaly-detection/)
+
+Packet analysis, machine learning, clustering, Splunk, and security recommendations.
+
+<span class="sr-status sr-status-concept">ML + Security</span>
+
+</div>
+
+<div class="sr-card">
+
+### [ICS IT/OT Application-Level DoS Attack Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/)
+
+SCADA/OT disruption investigation and recovery validation.
+
+<span class="sr-status sr-status-progress">OT/ICS</span>
+
+</div>
+
+</div>

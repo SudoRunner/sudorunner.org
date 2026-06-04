@@ -307,3 +307,34 @@
   border: 1px solid rgba(59, 130, 246, 0.30);
   margin-bottom: 0.75rem;
 }
+
+/* Academic honor badge */
+.sr-status-honor {
+  color: #1f2937;
+  background: #facc15;
+  border: 1px solid #fde047;
+  box-shadow: 0 0 14px rgba(250, 204, 21, 0.35);
+}
+
+/* Inline academic honor text */
+.sr-honor {
+  color: #facc15;
+  font-weight: 800;
+  text-shadow: 0 0 10px rgba(250, 204, 21, 0.35);
+}
+
+/* FORCE academic honor styling */
+.sr-status.sr-status-honor,
+span.sr-status-honor {
+  color: #111827 !important;
+  background: #facc15 !important;
+  border: 1px solid #fde047 !important;
+  box-shadow: 0 0 16px rgba(250, 204, 21, 0.45) !important;
+  font-weight: 800 !important;
+}
+
+.sr-honor {
+  color: #facc15 !important;
+  font-weight: 900 !important;
+  text-shadow: 0 0 12px rgba(250, 204, 21, 0.45) !important;
+}
