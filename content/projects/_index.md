@@ -37,11 +37,12 @@ Hands-on labs and writeups related to vulnerable items, assignment groups, remed
 
 ### Redacted Academic Projects
 
-Selected Penn State cybersecurity projects converted into sanitized case studies. These will focus on the problem, methods, tools, security concepts, and lessons learned without publishing full solutions.
+Selected Penn State cybersecurity projects converted into sanitized case studies. These focus on the problem, methods, tools, security concepts, and lessons learned without publishing full solutions.
+
+**Featured project:** [Network Traffic Analysis and ML-Based Anomaly Detection](/projects/network-traffic-analysis-ml-anomaly-detection/)
 
 **Planned project areas:**
 
-* Network security
 * Incident response
 * Risk analysis
 * ICS/SCADA or smart grid concepts

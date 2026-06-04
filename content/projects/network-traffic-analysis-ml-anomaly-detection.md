@@ -1,0 +1,178 @@
+---
+
+title: "Network Traffic Analysis and ML-Based Anomaly Detection"
+description: "A redacted academic cybersecurity project involving network traffic analysis, suspicious file investigation, supervised machine learning, clustering, and security recommendations."
+date: 2026-06-04
+tags: ["Cybersecurity", "Network Traffic Analysis", "Machine Learning", "Wireshark", "Splunk", "Security Onion", "Anomaly Detection"]
+categories: ["Projects"]
+showDate: true
+showAuthor: false
+showReadingTime: true
+---------------------
+
+# Network Traffic Analysis and ML-Based Anomaly Detection
+
+> **Content Type:** Redacted Academic Project / Cybersecurity Case Study
+>
+> This case study is based on academic coursework completed at Penn State. It has been rewritten and sanitized for portfolio use. It does not include teammate names, professor names, student emails, raw screenshots, full submitted files, or unnecessary identifying details.
+
+## Overview
+
+This project focused on analyzing network traffic to distinguish normal activity from potentially suspicious or malicious behavior.
+
+The work combined packet-level investigation, traffic analysis, supervised machine learning, clustering, and security recommendations. The goal was to evaluate network activity, identify suspicious patterns, compare classification approaches, and communicate findings in a way that could support security operations decision-making.
+
+## Project Context
+
+The project scenario involved a fictional organization reviewing network traffic collected over a multi-day period. The dataset contained a mix of legitimate traffic and potentially suspicious activity.
+
+The main challenge was that not all data was clearly labeled, which reflects a realistic security operations problem: analysts often need to investigate large volumes of network activity without perfect ground truth.
+
+## Tools and Technologies
+
+Tools and concepts used included:
+
+* Wireshark
+* Security Onion
+* Splunk
+* Python
+* scikit-learn
+* pandas
+* supervised machine learning
+* clustering
+* traffic classification
+* anomaly detection
+* confusion matrices
+* precision, recall, accuracy, and F1 score
+
+## My Role
+
+For this project, I contributed to the analysis, machine learning experimentation, interpretation of results, and security recommendations.
+
+The project required both technical analysis and written communication. The final output needed to explain what was observed, what methods were used, which results were meaningful, and what actions could improve the organization’s security posture.
+
+## Analysis Performed
+
+### Packet and Traffic Investigation
+
+The project included investigation of suspicious network traffic using packet analysis tools.
+
+One notable finding involved a large executable download from an unfamiliar hostname. This traffic was reviewed as potentially suspicious because executable downloads from unexpected or advertisement-related sources can create malware risk.
+
+The analysis considered:
+
+* source and destination details
+* packet-level context
+* TCP stream behavior
+* file type concerns
+* suspicious hostname context
+* possible malware delivery risk
+
+### Supervised Machine Learning
+
+The project also used supervised machine learning to classify labeled network flow data as normal or attack traffic.
+
+Several classification models were evaluated:
+
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* Multi-Layer Perceptron
+
+The workflow included:
+
+* loading labeled network flow data
+* removing irrelevant fields
+* encoding categorical variables
+* selecting useful traffic features
+* scaling feature values
+* splitting training and testing data
+* fitting classification models
+* comparing model performance
+
+Performance was evaluated using:
+
+* confusion matrix
+* accuracy
+* precision
+* recall
+* F1 score
+
+### Clustering and Anomaly Detection
+
+The project also explored clustering approaches for identifying unusual traffic behavior.
+
+The clustering analysis included:
+
+* K-Means
+* DBSCAN
+* traffic length observations
+* outlier review
+* comparison between dense clusters and less structured traffic groupings
+
+This helped demonstrate how unsupervised methods can support anomaly detection when labeled data is incomplete or unavailable.
+
+## Key Findings
+
+The project highlighted several important cybersecurity lessons.
+
+First, suspicious network activity may require multiple forms of analysis. A packet capture alone may show technical evidence, but the analyst still needs context to determine whether the activity is truly malicious, suspicious, or benign.
+
+Second, supervised machine learning can help classify large volumes of network flow data, but model results must be interpreted carefully. Accuracy alone is not enough. Precision, recall, F1 score, confusion matrices, and false negatives matter when evaluating detection usefulness.
+
+Third, clustering can help identify unusual traffic patterns, but not every cluster or outlier automatically represents malicious behavior. Analyst judgment is still required.
+
+Fourth, security recommendations should connect technical findings to operational improvements such as better monitoring, employee training, patching, IDS/IPS, SIEM visibility, and incident response readiness.
+
+## Security Recommendations
+
+Based on the analysis, the project recommended improvements such as:
+
+* strengthening intrusion detection and intrusion prevention capabilities
+* using SIEM tools for centralized visibility and alerting
+* improving employee awareness around suspicious downloads and phishing risk
+* maintaining regular patching and firmware updates
+* disabling unnecessary services
+* enforcing multi-factor authentication where appropriate
+* performing log review, audits, and recurring security assessments
+* using machine learning as a supporting tool for large-scale detection and triage
+
+## What This Project Demonstrates
+
+This project demonstrates hands-on academic experience with:
+
+* network traffic analysis
+* packet investigation
+* suspicious file review
+* cybersecurity data analysis
+* supervised machine learning
+* anomaly detection concepts
+* Splunk-based security analysis
+* comparing model performance
+* translating findings into security recommendations
+
+## Lessons Learned
+
+The most important lesson from this project is that cybersecurity analysis requires both technical evidence and context.
+
+Machine learning can help identify patterns at scale, but it should not replace analyst review. Packet captures, flow data, model outputs, and SIEM results all need to be interpreted together.
+
+The project also reinforced the importance of communicating findings clearly. A technically interesting result only becomes useful when it leads to better detection, prioritization, response, or risk reduction.
+
+## What I Would Improve
+
+If I expanded this project today, I would improve it by:
+
+* documenting the feature engineering process more clearly
+* separating model performance by attack and normal traffic classes
+* focusing more on false negatives and detection impact
+* adding clearer visualizations of model comparison
+* creating a cleaned lab version of the dataset workflow
+* mapping findings to MITRE ATT&CK or security operations use cases
+* building a short detection-and-response playbook from the suspicious traffic finding
+
+## Portfolio Note
+
+This page is a sanitized case study. The original academic files are not published because they contain course metadata, group details, screenshots, and raw project formatting that are not necessary for employer review.
+
+The purpose of this writeup is to show the project’s technical scope, methods used, and cybersecurity lessons learned without exposing full submissions or unnecessary identifying information.
