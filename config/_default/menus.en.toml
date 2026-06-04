@@ -10,14 +10,46 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+
 [[main]]
 name = "About"
 pageRef = "about"
 weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+name = "Projects"
+pageRef = "projects"
+weight = 20
+
+[[main]]
+ name = "Research & Labs"
+ pageRef = "research-labs"
+ weight = 30
+
+[[main]]
+ name = "AI & Security"
+ pageRef = "ai-security"
+ weight = 40
+
+[[main]]
+  name = "OT/ICS Security"
+  pageRef = "ot-ics-security"
+  weight = 50
+
+[[main]]
+  name = "Credentials"
+  pageRef = "credentials"
+  weight = 60 
+
+[[main]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 70  
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 80  
 
 #[[main]]
 #  name = "example sub-menu 1"
@@ -42,16 +74,6 @@ weight = 10
 #  pageRef = "categories/awesome"
 #  weight = 20
 
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -67,3 +89,4 @@ weight = 10
 #   name = "Categories"
 #   pageRef = "categories"
 #   weight = 20
+
