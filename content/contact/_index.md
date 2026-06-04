@@ -11,38 +11,46 @@ showReadingTime: false
 
 I am open to professional opportunities related to ServiceNow SecOps, Vulnerability Response, cybersecurity operations, vulnerability management, Cybersecurity Analyst roles, and OT/ICS security.
 
-## Professional Interests
+## Open To
 
-I am especially interested in roles and projects involving:
+* ServiceNow SecOps Consultant roles
+* ServiceNow Vulnerability Response roles
+* Cybersecurity Analyst roles
+* Vulnerability management roles
+* Security operations roles
+* OT/ICS security opportunities
+* Consulting and implementation-focused cybersecurity work
 
-* ServiceNow SecOps
-* Vulnerability Response
-* Vulnerability management
-* Security operations
-* Cybersecurity analysis
-* OT/ICS security
-* Risk-based remediation
-* Security workflow improvement
+## Professional Focus
 
-## Contact Options
+My strongest areas of interest include:
 
-### LinkedIn
+* ServiceNow SecOps and Vulnerability Response
+* Security workflow design
+* Vulnerability remediation ownership
+* Risk-based prioritization
+* Cybersecurity operations
+* OT/ICS security and cyber-physical risk
+* AI-assisted security workflow ideas
 
-Connect with me on LinkedIn for professional opportunities, networking, and cybersecurity-related discussions.
+## LinkedIn
 
-**LinkedIn:** Add LinkedIn URL here
+Add LinkedIn URL here.
 
-### Email
+## Email
 
-A professional contact email will be added here.
+Add professional email here.
 
-**Email:** Add professional email here
-
-### Book an Intro Call
+## Book an Intro Call
 
 A scheduling link will be added here for recruiters, consultants, and professional contacts.
 
-**Book Intro Call:** Coming soon
+## Portfolio Links
+
+* [Resume](/resume/)
+* [Projects](/projects/)
+* [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
+* [Credentials](/credentials/)
 
 ## Note
 
