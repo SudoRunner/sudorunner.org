@@ -1,6 +1,6 @@
 ---
 title: "sudoRunner"
-description: "Cybersecurity portfolio for Vlad Kunov."
+description: "Cybersecurity portfolio for Vlad K."
 showDate: false
 showAuthor: false
 showReadingTime: false

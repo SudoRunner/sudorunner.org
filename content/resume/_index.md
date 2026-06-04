@@ -1,7 +1,7 @@
 ---
 
 title: "Resume"
-description: "Resume and professional background for Vlad Kunov."
+description: "Resume and professional background for Vlad K."
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -86,7 +86,8 @@ GPA: **3.88**
 
 Download my public resume here:
 
-[Download Resume PDF](/files/K_Vladyslav_Resume_6_4_2026.pdf)
+[Download Resume PDF](/files/K_Vladyslav_Resume_6_4_2026
+.pdf)
 
 ## Contact
 
