@@ -104,6 +104,7 @@ Privacy decisions included:
 * avoiding raw publication of academic files
 * rewriting projects as sanitized case studies
 * excluding student names, professor names, screenshots, credentials, lab IPs, and full solution files
+* publishing a dedicated [Security & Privacy](/security-privacy/) statement explaining public resume, contact alias, redaction, and security header practices
 
 ## Content Structure
 
