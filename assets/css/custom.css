@@ -1082,3 +1082,36 @@ footer .text-sm {
     display: none !important;
   }
 }
+
+/* Header compacting fix */
+header .logo,
+header img.logo,
+header a img,
+header .main-menu img {
+  width: 34px !important;
+  height: 34px !important;
+  max-width: 34px !important;
+  max-height: 34px !important;
+  min-width: 34px !important;
+  object-fit: contain !important;
+  border-radius: 0.5rem !important;
+}
+
+header .main-menu {
+  gap: 0.75rem !important;
+}
+
+header .main-menu > a:first-child,
+header a[href="/"] {
+  min-width: max-content !important;
+  max-width: none !important;
+  overflow: visible !important;
+  white-space: nowrap !important;
+}
+
+header .main-menu > a:first-child span,
+header a[href="/"] span {
+  overflow: visible !important;
+  text-overflow: clip !important;
+  white-space: nowrap !important;
+}
