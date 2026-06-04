@@ -74,24 +74,21 @@ The site includes a custom design layer built on top of the Blowfish theme.
 Custom features include:
 
 * compact homepage landing page
+* custom SVG terminal-style logo
 * button-style call-to-action links
+* Start Here portfolio review workflow
+* vertical guided review path with directional arrows
 * card-based project galleries
 * color-coded status badges
-* hover effects
+* bright academic honor styling for Cum Laude
+* dark-mode badge contrast tuning
+* hover effects on cards and buttons
 * subtle entrance animation
 * reusable callout boxes
 * consistent visual styling across sections
-* custom SVG logo integration
-* dark-mode badge contrast tuning
-* reusable card and badge design system
-* homepage hero customization
 * privacy-conscious public resume workflow
-* Cloudflare Email Routing for professional contact alias
-* Start Here workflow page
-* vertical review workflow
-* custom card/badge system
-* dark-mode contrast tuning
-* privacy-conscious resume/contact setup
+* professional email alias through Cloudflare Email Routing
+
 
 
 ## Privacy-Conscious Design
@@ -131,12 +128,21 @@ This project demonstrates practical experience with:
 * Git-based publishing workflow
 * Cloudflare Pages deployment
 * custom domain and DNS setup
+* Cloudflare Email Routing
+* Hugo and Blowfish configuration
+* Markdown-based content management
+* custom CSS design system
+* SVG logo integration
+* card-based UI layout
+* reusable badge components
+* responsive workflow design
 * privacy-conscious web publishing
+* public resume hosting
 * content architecture
-* Markdown-based technical writing
-* custom CSS design
+* technical writing
 * project documentation
-* employer-facing technical communication
+* employer-facing portfolio design
+
 
 ## Lessons Learned
 
