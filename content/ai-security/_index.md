@@ -31,9 +31,14 @@ Research and ideas focused on translating cybersecurity findings into language t
 
 A collection of concept-level security ideas that are realistic, professional, and grounded in actual cybersecurity workflows.
 
+## Featured Articles
+
+### [Using AI to Translate Vulnerability Risk Between Cybersecurity and OT Operations Teams](/ai-security/using-ai-to-translate-vulnerability-risk/)
+
+A concept for using AI to help translate vulnerability findings into operationally meaningful language for OT, ICS, cybersecurity, and business stakeholders.
+
 ## Planned Articles
 
-* Using AI to Translate Vulnerability Risk Between Cybersecurity and OT Operations Teams
 * AI-Powered Vulnerability Ownership Recommender for ServiceNow SecOps
 * Using AI to Summarize Vulnerable Item Context Without Losing Analyst Oversight
 * Where AI Helps in Vulnerability Response — and Where Human Judgment Still Matters
