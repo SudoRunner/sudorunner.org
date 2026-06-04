@@ -56,9 +56,11 @@ A curated collection of safe-to-publish visuals, diagrams, screenshots, and summ
 
 ### Security Operations & Risk
 
-Projects focused on translating technical findings into operational risk, prioritization, ownership, remediation planning, and stakeholder communication.
+Projects focused on translating technical findings into operational risk, prioritization, ownership, remediation planning, containment, and stakeholder communication.
 
----
+**Featured lab:** [Malware-Based Attack Investigation and Neutralization Lab](/projects/malware-based-attack-investigation-lab/)
+
+--
 
 ## Redaction Standard
 
