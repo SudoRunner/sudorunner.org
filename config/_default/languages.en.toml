@@ -12,7 +12,7 @@ title = "sudoRunner"
   logo = "img/sudorunner-logo.svg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "© { year } Vlad K. · sudoRunner · Cybersecurity Portfolio · ServiceNow SecOps · OT/ICS Security"
 
 # [params.author]
 name = "Vlad K."

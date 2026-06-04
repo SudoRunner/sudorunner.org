@@ -792,3 +792,40 @@ header nav a {
 .sr-flow-step:last-child::after {
   display: none !important;
 }
+
+/* Professional footer polish */
+footer {
+  margin-top: 4rem !important;
+  padding-top: 1.75rem !important;
+  padding-bottom: 1.75rem !important;
+  border-top: 1px solid rgba(148, 163, 184, 0.18) !important;
+  background: rgba(15, 23, 42, 0.38) !important;
+}
+
+footer,
+footer p,
+footer span {
+  font-size: 0.88rem !important;
+  color: rgba(226, 232, 240, 0.78) !important;
+}
+
+footer a {
+  color: rgba(226, 232, 240, 0.86) !important;
+  font-weight: 700 !important;
+  text-decoration: none !important;
+  transition: color 140ms ease, opacity 140ms ease;
+}
+
+footer a:hover {
+  color: #60a5fa !important;
+}
+
+footer nav,
+footer ul {
+  gap: 1rem !important;
+}
+
+footer .text-xs,
+footer .text-sm {
+  opacity: 0.9 !important;
+}
