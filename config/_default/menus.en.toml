@@ -89,3 +89,32 @@ weight = 20
 #   pageRef = "categories"
 #   weight = 20
 
+[[footer]]
+  name = "Start Here"
+  pageRef = "start-here"
+  weight = 10
+
+[[footer]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 20
+
+[[footer]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 30
+
+[[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 40
+
+[[footer]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/vki/"
+  weight = 50
+
+  [[footer]]
+  name = "Security & Privacy"
+  pageRef = "security-privacy"
+  weight = 60
