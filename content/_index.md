@@ -7,7 +7,7 @@ showAuthor: false
 showReadingTime: false
 ----------------------
 
-# Vlad Kunov
+# Vlad K.
 
 **U.S. Citizen | Penn State Cybersecurity Analytics & Operations, Cum Laude | ServiceNow SecOps | Vulnerability Response | OT/ICS Security**
 
