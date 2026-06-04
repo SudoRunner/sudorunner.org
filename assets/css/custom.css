@@ -569,3 +569,34 @@ header a:has(img) {
   padding-top: 2.25rem !important;
 }
 
+/* Stronger badge contrast for dark mode */
+.sr-status-complete {
+  color: #86efac !important;
+  background: rgba(34, 197, 94, 0.16) !important;
+  border-color: rgba(34, 197, 94, 0.45) !important;
+}
+
+.sr-status-progress {
+  color: #fbbf24 !important;
+  background: rgba(245, 158, 11, 0.16) !important;
+  border-color: rgba(245, 158, 11, 0.48) !important;
+}
+
+.sr-status-concept {
+  color: #60a5fa !important;
+  background: rgba(59, 130, 246, 0.16) !important;
+  border-color: rgba(59, 130, 246, 0.48) !important;
+}
+
+.sr-status-lab {
+  color: #c084fc !important;
+  background: rgba(139, 92, 246, 0.18) !important;
+  border-color: rgba(139, 92, 246, 0.50) !important;
+}
+
+.sr-status-honor {
+  color: #111827 !important;
+  background: #facc15 !important;
+  border-color: #fde047 !important;
+  box-shadow: 0 0 16px rgba(250, 204, 21, 0.45) !important;
+}

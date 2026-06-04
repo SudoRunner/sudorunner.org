@@ -81,6 +81,12 @@ Custom features include:
 * subtle entrance animation
 * reusable callout boxes
 * consistent visual styling across sections
+* custom SVG logo integration
+* dark-mode badge contrast tuning
+* reusable card and badge design system
+* homepage hero customization
+* privacy-conscious public resume workflow
+* Cloudflare Email Routing for professional contact alias
 
 ## Privacy-Conscious Design
 
