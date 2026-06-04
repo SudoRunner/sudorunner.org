@@ -1147,3 +1147,46 @@ footer ul {
 footer p {
   text-align: center !important;
 }
+
+/* Case study summary blocks */
+.sr-case-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 0.85rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.sr-case-item {
+  padding: 0.9rem;
+  border-radius: 0.9rem;
+  border: 1px solid rgba(148, 163, 184, 0.22);
+  background: rgba(148, 163, 184, 0.07);
+}
+
+.sr-case-label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-size: 0.74rem;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #60a5fa;
+}
+
+.sr-case-value {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: rgba(241, 245, 249, 0.94);
+}
+
+.sr-case-hero {
+  margin: 1.25rem 0 1.75rem 0;
+  padding: 1.15rem;
+  border-radius: 1rem;
+  border: 1px solid rgba(96, 165, 250, 0.28);
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.12), rgba(34, 197, 94, 0.08));
+}
+
+.sr-case-hero p {
+  margin-bottom: 0;
+}
