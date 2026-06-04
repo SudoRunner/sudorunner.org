@@ -35,13 +35,15 @@ My strongest areas of interest include:
 
 ## LinkedIn
 
-[Add LinkedIn URL here.](https://www.linkedin.com/in/vki/)
+Connect with me on LinkedIn:
+
+[linkedin.com/in/vki](https://www.linkedin.com/in/vki/)
 
 ## Email
 
 For professional opportunities, contact me at:
 
-**contact@sudorunner.org**
+[contact@sudorunner.org](mailto:contact@sudorunner.org)
 
 ## Book an Intro Call
 
