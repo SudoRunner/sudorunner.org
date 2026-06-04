@@ -40,6 +40,7 @@ Hands-on labs and writeups related to vulnerable items, assignment groups, remed
 Selected Penn State cybersecurity projects converted into sanitized case studies. These focus on the problem, methods, tools, security concepts, and lessons learned without publishing full solutions.
 
 **Featured project:** [Network Traffic Analysis and ML-Based Anomaly Detection](/projects/network-traffic-analysis-ml-anomaly-detection/)
+**Featured OT/ICS lab:** [ICS IT/OT Application-Level DoS Attack Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/)
 
 **Planned project areas:**
 

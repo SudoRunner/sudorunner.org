@@ -31,6 +31,14 @@ Writeups related to smart grid security, industrial network segmentation, contro
 
 A major challenge in OT/ICS security is communicating technical findings in a way that engineers, operators, and business stakeholders can act on. This section explores how security teams can translate vulnerability and risk information into operationally meaningful language.
 
+## Featured Case Studies
+
+### [ICS IT/OT Application-Level DoS Attack Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/)
+
+A redacted academic lab case study focused on investigating and recovering from an application-level denial-of-service condition affecting a SCADA/OT environment.
+
+---
+
 ## Planned Articles
 
 * What Makes OT/ICS Security Different from Traditional IT Security
