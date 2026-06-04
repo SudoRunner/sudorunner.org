@@ -10,6 +10,48 @@ showAuthor: false
 showReadingTime: true
 ---------------------
 
+<span class="sr-eyebrow">Redacted Academic Case Study</span>
+
+<div class="sr-case-hero">
+
+This case study summarizes a Penn State cybersecurity project involving packet-level investigation, suspicious file analysis, supervised machine learning, clustering, Splunk-based analysis, and security recommendations.
+
+</div>
+
+<div class="sr-case-summary">
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Type</span>
+  <span class="sr-case-value">Academic Cybersecurity Project</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Focus</span>
+  <span class="sr-case-value">Network Traffic Analysis</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Methods</span>
+  <span class="sr-case-value">Packet Review · ML Classification · Clustering</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Tools</span>
+  <span class="sr-case-value">Wireshark · Security Onion · Splunk · Python</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Outcome</span>
+  <span class="sr-case-value">Anomaly Detection + Security Recommendations</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Privacy Level</span>
+  <span class="sr-case-value">Redacted / No Raw Submission Published</span>
+</div>
+
+</div>
+
 # Network Traffic Analysis and ML-Based Anomaly Detection
 
 > **Content Type:** Redacted Academic Project / Cybersecurity Case Study

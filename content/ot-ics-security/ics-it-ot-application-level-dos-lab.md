@@ -10,6 +10,47 @@ showAuthor: false
 showReadingTime: true
 ---------------------
 
+<span class="sr-eyebrow">OT/ICS Case Study</span>
+
+<div class="sr-case-hero">
+
+This case study summarizes a redacted Penn State OT/ICS lab focused on investigating an application-level denial-of-service condition affecting SCADA visibility, identifying the source of disruptive activity, stopping the responsible process, and validating operational recovery.
+
+</div>
+
+<div class="sr-case-summary">
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Type</span>
+  <span class="sr-case-value">OT/ICS Academic Lab</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Focus</span>
+  <span class="sr-case-value">SCADA Visibility Disruption</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Concepts</span>
+  <span class="sr-case-value">PLC · Modbus · HMI · DoS</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Role</span>
+  <span class="sr-case-value">Incident Investigator</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Outcome</span>
+  <span class="sr-case-value">Attack Stopped + Measurements Restored</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Privacy Level</span>
+  <span class="sr-case-value">Redacted / No Raw Lab Details Published</span>
+</div>
+
+</div>
 # ICS IT/OT Application-Level DoS Attack Lab
 
 > **Content Type:** Redacted Academic Lab / OT/ICS Security Case Study

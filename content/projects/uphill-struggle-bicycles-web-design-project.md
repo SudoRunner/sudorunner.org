@@ -10,6 +10,48 @@ showAuthor: false
 showReadingTime: true
 ---------------------
 
+<span class="sr-eyebrow">Web Design Case Study</span>
+
+<div class="sr-case-hero">
+
+This case study summarizes a Penn State web design final project focused on building a multi-page static website using HTML, CSS, JavaScript, navigation, image presentation, hover effects, product-style layouts, and user-facing site structure.
+
+</div>
+
+<div class="sr-case-summary">
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Type</span>
+  <span class="sr-case-value">Academic Web Design Project</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Focus</span>
+  <span class="sr-case-value">Multi-Page Static Website</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Technologies</span>
+  <span class="sr-case-value">HTML · CSS · JavaScript</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Design Features</span>
+  <span class="sr-case-value">Navigation · Images · Hover Effects · Product Tables</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Outcome</span>
+  <span class="sr-case-value">Functional Bicycle Shop Website</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Portfolio Value</span>
+  <span class="sr-case-value">Front-End Design Foundation</span>
+</div>
+
+</div>
+
 # Uphill Struggle Bicycles Web Design Final Project
 
 > **Content Type:** Academic Web Design Project / Front-End Development Case Study
