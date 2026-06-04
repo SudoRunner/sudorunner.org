@@ -15,7 +15,7 @@ Welcome to **sudoRunner**, my cybersecurity portfolio and technical notebook for
 
 **Open to opportunities in ServiceNow SecOps, Vulnerability Response, Cybersecurity Analyst roles, vulnerability management, security operations, and OT/ICS security.**
 
-[View Resume](/resume/) · [Contact Me](/contact/) · [Book Intro Call](/contact/#book-an-intro-call)
+[View Resume](/resume/) · [Credentials](/credentials/) · [Contact Me](/contact/) · [Book Intro Call](/contact/#book-an-intro-call)
 
 ---
 
