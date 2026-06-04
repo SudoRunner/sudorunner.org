@@ -13,6 +13,12 @@ This section is for hands-on cybersecurity research, lab work, technical notes, 
 
 The goal is to document how I investigate security concepts, build lab environments, test workflows, analyze findings, and translate technical lessons into clear operational takeaways.
 
+## Featured Lab Collection
+
+### [IST 451 Security Labs Collection](/research-labs/ist-451-security-labs-collection/)
+
+A redacted academic lab collection covering service identification, Apache hardening, OpenVAS vulnerability scanning, SQL injection concepts, malware investigation, OT/ICS disruption, Snort IDS configuration, iptables firewalling, wireless security, and controlled CTF practice.
+
 ## Focus Areas
 
 ### Vulnerability Management Labs
