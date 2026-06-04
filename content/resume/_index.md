@@ -86,8 +86,7 @@ GPA: **3.88**
 
 Download my public resume here:
 
-[Download Resume PDF](/files/K_Vladyslav_Resume_6_4_2026
-.pdf)
+[Download Resume PDF](/files/K_Vladyslav_Resume_6_4_2026.pdf)
 
 ## Contact
 
