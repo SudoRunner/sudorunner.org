@@ -87,6 +87,12 @@ Custom features include:
 * homepage hero customization
 * privacy-conscious public resume workflow
 * Cloudflare Email Routing for professional contact alias
+* Start Here workflow page
+* vertical review workflow
+* custom card/badge system
+* dark-mode contrast tuning
+* privacy-conscious resume/contact setup
+
 
 ## Privacy-Conscious Design
 
