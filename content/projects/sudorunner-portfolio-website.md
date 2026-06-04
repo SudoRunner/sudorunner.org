@@ -10,6 +10,48 @@ showAuthor: false
 showReadingTime: true
 ---------------------
 
+<span class="sr-eyebrow">Portfolio Case Study</span>
+
+<div class="sr-case-hero">
+
+This case study documents the design, build, deployment, and security-conscious publishing decisions behind `sudoRunner`, a professional cybersecurity portfolio built with Hugo, Blowfish, GitHub, Cloudflare Pages, custom DNS, Email Routing, custom CSS, and portfolio-safe content architecture.
+
+</div>
+
+<div class="sr-case-summary">
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Type</span>
+  <span class="sr-case-value">Personal Web Project</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Focus</span>
+  <span class="sr-case-value">Cybersecurity Portfolio Infrastructure</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Role</span>
+  <span class="sr-case-value">Site Builder / Content Architect</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Stack</span>
+  <span class="sr-case-value">Hugo · Blowfish · GitHub · Cloudflare</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Outcome</span>
+  <span class="sr-case-value">Live Professional Portfolio</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Security Focus</span>
+  <span class="sr-case-value">Privacy-Aware Public Publishing</span>
+</div>
+
+</div>
+
 # sudoRunner Portfolio Website
 
 > **Content Type:** Personal Web Project / Portfolio Infrastructure
