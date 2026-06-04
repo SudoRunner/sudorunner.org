@@ -49,6 +49,10 @@ For professional opportunities, contact me at:
 
 A scheduling link will be added here for recruiters, consultants, and professional contacts.
 
+For now, please contact me directly at:
+
+[contact@sudorunner.org](mailto:contact@sudorunner.org)
+
 ## Portfolio Links
 
 * [Resume](/resume/)
