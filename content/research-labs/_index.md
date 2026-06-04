@@ -7,8 +7,6 @@ showAuthor: false
 showReadingTime: false
 ----------------------
 
-# Research & Labs
-
 <span class="sr-eyebrow">Portfolio Gallery</span>
 
 This section is for hands-on cybersecurity research, lab work, technical notes, and practical security experiments.

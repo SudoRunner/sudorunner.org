@@ -7,8 +7,6 @@ showAuthor: false
 showReadingTime: false
 ----------------------
 
-# AI & Security
-
 <span class="sr-eyebrow">Portfolio Gallery</span>
 
 This section explores concept notes, research ideas, and future lab work at the intersection of artificial intelligence, cybersecurity operations, vulnerability management, ServiceNow SecOps, and OT/ICS security.

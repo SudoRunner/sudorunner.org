@@ -1,6 +1,7 @@
 ---
-title: "sudoRunner"
+title: "Home"
 description: "Cybersecurity portfolio for Vlad K."
+showTitle: false
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -8,9 +9,9 @@ showReadingTime: false
 
 <div class="sr-home sr-animate">
 
-# Vlad K.
+<h1 class="sr-hero-title">Vlad K.</h1>
 
-**U.S. Citizen | Penn State Cybersecurity Analytics & Operations, Cum Laude | ServiceNow SecOps | Vulnerability Response | OT/ICS Security**
+**U.S. Citizen | Penn State Cybersecurity Analytics & Operations, <span class="sr-honor">Cum Laude</span> | ServiceNow SecOps | Vulnerability Response | OT/ICS Security**
 
 Cybersecurity portfolio focused on **ServiceNow SecOps**, **vulnerability management**, **security operations**, **AI-assisted SecOps ideas**, and **OT/ICS security**.
 

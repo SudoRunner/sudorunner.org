@@ -6,9 +6,6 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 ----------------------
-
-# About
-
 <span class="sr-eyebrow">Professional Profile</span>
 
 I’m Vlad K., a U.S. citizen and Penn State graduate with a B.S. in Cybersecurity Analytics & Operations, graduating Cum Laude with a 3.88 GPA.

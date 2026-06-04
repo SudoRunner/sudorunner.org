@@ -7,8 +7,6 @@ showAuthor: false
 showReadingTime: false
 ----------------------
 
-# OT/ICS Security
-
 <span class="sr-eyebrow">Portfolio Gallery</span>
 
 This section focuses on operational technology, industrial control systems, cyber-physical risk, and the security challenges that exist where cybersecurity meets real-world operations.

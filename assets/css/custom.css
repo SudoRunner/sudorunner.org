@@ -338,3 +338,234 @@ span.sr-status-honor {
   font-weight: 900 !important;
   text-shadow: 0 0 12px rgba(250, 204, 21, 0.45) !important;
 }
+
+/* Custom homepage hero title */
+.sr-hero-title {
+  font-size: clamp(2.4rem, 5vw, 4.5rem);
+  line-height: 1;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  margin-bottom: 1.25rem;
+}
+
+/* Centered custom homepage layout */
+.sr-home {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding-top: 3.5rem;
+  text-align: center;
+}
+
+.sr-home .sr-hero-title {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sr-home > p,
+.sr-home > strong,
+.sr-home > em {
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sr-home .sr-cta-row {
+  justify-content: center;
+  margin-top: 1.4rem;
+  margin-bottom: 2.1rem;
+}
+
+.sr-home hr {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.sr-home h2 {
+  text-align: center;
+  margin-bottom: 1.6rem;
+}
+
+.sr-home .sr-card-grid {
+  justify-content: center;
+  align-items: stretch;
+}
+
+@media (min-width: 1024px) {
+  .sr-home .sr-card-grid {
+    grid-template-columns: repeat(5, minmax(165px, 1fr));
+  }
+}
+
+@media (max-width: 1023px) {
+  .sr-home {
+    padding-top: 2rem;
+  }
+
+  .sr-home .sr-card-grid {
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  }
+}
+
+/* sudoRunner navbar logo mark */
+header a[href="/"]::before,
+header a[href="/#"]::before,
+header a[href="https://sudorunner.org/"]::before {
+  content: ">_";
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  margin-right: 0.45rem;
+  border-radius: 0.5rem;
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: -0.06em;
+  color: #0f172a;
+  background: linear-gradient(135deg, #60a5fa, #22c55e);
+  box-shadow: 0 0 16px rgba(96, 165, 250, 0.35);
+}
+
+header a[href="/"],
+header a[href="/#"],
+header a[href="https://sudorunner.org/"] {
+  display: inline-flex;
+  align-items: center;
+  font-weight: 850;
+}
+
+/* FORCE homepage hero centering */
+body.home .sr-home,
+.sr-home {
+  max-width: 1120px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-top: 3.5rem !important;
+  text-align: center !important;
+}
+
+.sr-home .sr-hero-title {
+  display: block !important;
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-bottom: 1.2rem !important;
+}
+
+.sr-home > p,
+.sr-home p {
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sr-home .sr-cta-row {
+  justify-content: center !important;
+}
+
+.sr-home .sr-card-grid {
+  justify-content: center !important;
+}
+
+/* HARD FIX: homepage centered landing layout */
+.prose .sr-home,
+.sr-home {
+  width: 100% !important;
+  max-width: 1120px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-top: 2.25rem !important;
+  text-align: center !important;
+}
+
+.prose .sr-home .sr-hero-title,
+.sr-home .sr-hero-title {
+  display: block !important;
+  width: 100% !important;
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-bottom: 1.2rem !important;
+}
+
+.prose .sr-home p,
+.sr-home p {
+  max-width: 850px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center !important;
+}
+
+.prose .sr-home .sr-cta-row,
+.sr-home .sr-cta-row {
+  justify-content: center !important;
+}
+
+.prose .sr-home h2,
+.sr-home h2 {
+  text-align: center !important;
+}
+
+.prose .sr-home .sr-card-grid,
+.sr-home .sr-card-grid {
+  justify-content: center !important;
+}
+
+/* Hide Blowfish auto-title only on the custom homepage */
+body:has(.sr-home) main h1:first-of-type:not(.sr-hero-title) {
+  display: none !important;
+}
+
+/* Remove extra spacing left behind by the hidden homepage title */
+body:has(.sr-home) main {
+  padding-top: 0 !important;
+}
+
+/* Apple-inspired navbar spacing and logo sizing */
+header {
+  min-height: 64px !important;
+  padding-top: 0.35rem !important;
+  padding-bottom: 0.35rem !important;
+}
+
+header img {
+  width: 42px !important;
+  height: 42px !important;
+  max-width: 42px !important;
+  max-height: 42px !important;
+  border-radius: 0.65rem;
+}
+
+header a {
+  font-size: 0.95rem !important;
+  font-weight: 700 !important;
+}
+
+header nav {
+  gap: 1.15rem !important;
+}
+
+header .main-menu,
+header ul,
+header nav ul {
+  gap: 1.1rem !important;
+}
+
+header a:hover {
+  color: #60a5fa !important;
+}
+
+/* Keep brand/logo area balanced */
+header a:has(img) {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.55rem !important;
+  font-weight: 900 !important;
+}
+
+/* Slightly improve homepage spacing under navbar */
+.sr-home {
+  padding-top: 2.25rem !important;
+}
+

@@ -7,8 +7,6 @@ showAuthor: false
 showReadingTime: false
 ----------------------
 
-# Projects
-
 <span class="sr-eyebrow">Portfolio Gallery</span>
 
 This section contains selected cybersecurity, ServiceNow, academic, technical, and web design projects that demonstrate practical security knowledge, structured problem solving, hands-on lab work, and front-end development experience.

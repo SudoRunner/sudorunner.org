@@ -1,0 +1,16 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const navLinks = Array.from(document.querySelectorAll("header a"));
+    const brandLink = navLinks.find((link) =>
+      link.textContent.trim().includes("sudoRunner")
+    );
+
+    if (brandLink && !brandLink.querySelector(".sr-nav-logo")) {
+      const logo = document.createElement("span");
+      logo.className = "sr-nav-logo";
+      logo.textContent = "▸_";
+      brandLink.prepend(logo);
+      brandLink.classList.add("sr-nav-brand");
+    }
+  });
+</script>
