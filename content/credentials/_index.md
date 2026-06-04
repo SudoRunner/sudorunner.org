@@ -9,7 +9,7 @@ showReadingTime: false
 
 # Credentials
 
-This section highlights my education, certifications, academic achievements, and cybersecurity-related credentials.
+This page highlights my education, certifications, academic achievements, and cybersecurity-related credentials.
 
 ## Education
 
@@ -21,42 +21,41 @@ GPA: **3.88**
 
 Relevant areas of study included cybersecurity operations, network security, application development, risk analysis, incident response, and exposure to ICS/SCADA concepts in simulated smart grid environments.
 
+---
+
 ## Certifications & Credential Progress
+
+| Credential                                                | Code / Detail                              | Status                                                                        |
+| --------------------------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------- |
+| ServiceNow Certified System Administrator                 | CSA                                        | <span style="color:#f59e0b; font-weight:600;">Exam scheduled June 2026</span> |
+| ISC2 Certified in Cybersecurity                           | CC                                         | <span style="color:#16a34a; font-weight:600;">Completed</span>                |
+| Microsoft Azure Fundamentals                              | AZ-900                                     | <span style="color:#16a34a; font-weight:600;">Completed</span>                |
+| Microsoft Security, Compliance, and Identity Fundamentals | SC-900                                     | <span style="color:#16a34a; font-weight:600;">Completed</span>                |
+| Penn State Security and Risk Analysis Certificate         | Academic certificate                       | <span style="color:#16a34a; font-weight:600;">Completed December 2024</span>  |
+| NSA Certificate Program Coursework                        | School-issued recognition letter available | <span style="color:#16a34a; font-weight:600;">Coursework completed</span>     |
+
+
+---
+
+## Certification Focus
 
 ### ServiceNow Certified System Administrator
 
-**Status:** Exam scheduled for June 2026
-
-This certification supports my professional focus on ServiceNow platform fundamentals, users, groups, roles, forms, lists, tables, workflows, administration concepts, and future ServiceNow SecOps/Vulnerability Response work.
+The ServiceNow CSA credential supports my professional focus on ServiceNow platform fundamentals, users, groups, roles, forms, lists, tables, workflows, administration concepts, and future ServiceNow SecOps/Vulnerability Response work.
 
 ### ISC2 Certified in Cybersecurity
 
-**ISC2 CC**
+The ISC2 CC credential demonstrates foundational cybersecurity knowledge across security principles, business continuity, incident response, access controls, network security, and security operations.
 
-The ISC2 Certified in Cybersecurity credential demonstrates foundational cybersecurity knowledge across security principles, business continuity, incident response, access controls, network security, and security operations.
+### Microsoft AZ-900 and SC-900
 
-### Microsoft Azure Fundamentals
+The Microsoft fundamentals certifications support my understanding of cloud, identity, security, compliance, governance, and Microsoft security concepts.
 
-**AZ-900**
+### Penn State Security and Risk Analysis Certificate
 
-Foundational Microsoft Azure certification covering cloud concepts, Azure services, Azure management, governance, identity, pricing, and support.
+This academic certificate supports my cybersecurity background in risk analysis, security concepts, cyber threat context, and applied security thinking.
 
-### Microsoft Security, Compliance, and Identity Fundamentals
-
-**SC-900**
-
-Foundational Microsoft certification covering security, compliance, identity, Microsoft Entra concepts, Microsoft Defender, Microsoft Purview, and Microsoft security capabilities.
-
-### Security and Risk Analysis Certificate
-
-**Penn State University**
-Completed December 2024
-
-Academic certificate focused on security, risk analysis, cyber threat context, and applied security concepts.
-
-### NSA Certificate Program Coursework
-
-Completed coursework requirements for an NSA certificate program through Penn State. School-issued recognition letter available.
+---
 
 ## Academic & Technical Achievements
 
@@ -71,6 +70,18 @@ Recognized on the Dean’s List for multiple consecutive semesters.
 ### SANS NetWars
 
 Placed **14th nationwide** in a SANS NetWars cybersecurity competition.
+
+---
+
+## Related Portfolio Work
+
+* [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
+* [ServiceNow Vulnerability Response Lab: From Finding to Closure](/projects/servicenow-vulnerability-response-lab/)
+* [Network Traffic Analysis and ML-Based Anomaly Detection](/projects/network-traffic-analysis-ml-anomaly-detection/)
+* [ICS IT/OT Application-Level DoS Attack Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/)
+* [IST 451 Security Labs Collection](/research-labs/ist-451-security-labs-collection/)
+
+---
 
 ## Future Credential Goals
 
