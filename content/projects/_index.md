@@ -33,6 +33,8 @@ Each project may include:
 
 Hands-on labs and writeups related to vulnerable items, assignment groups, remediation ownership, exception handling, validation, closure, and security workflow design.
 
+**Lab hub:** [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
+
 **Featured project:** [ServiceNow Vulnerability Response Lab: From Finding to Closure](/projects/servicenow-vulnerability-response-lab/)
 
 ### Redacted Academic Projects

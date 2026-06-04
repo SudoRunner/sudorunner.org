@@ -15,6 +15,12 @@ The goal is to document how I investigate security concepts, build lab environme
 
 ## Featured Lab Collection
 
+## Featured Labs & Collections
+
+### [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
+
+A hands-on lab hub focused on ServiceNow Security Operations, Vulnerability Response, vulnerable item workflows, remediation ownership, exception handling, validation, closure, and security operations process design.
+
 ### [IST 451 Security Labs Collection](/research-labs/ist-451-security-labs-collection/)
 
 A redacted academic lab collection covering service identification, Apache hardening, OpenVAS vulnerability scanning, SQL injection concepts, malware investigation, OT/ICS disruption, Snort IDS configuration, iptables firewalling, wireless security, and controlled CTF practice.
