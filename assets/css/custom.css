@@ -242,3 +242,68 @@
 .sr-muted {
   opacity: 0.82;
 }
+
+/* Advanced card accents inspired by earlier web design work */
+.sr-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.sr-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-top: 3px solid transparent;
+  opacity: 0;
+  transition: opacity 180ms ease, border-color 180ms ease;
+  pointer-events: none;
+}
+
+.sr-card:hover::before {
+  opacity: 1;
+  border-top-color: rgba(59, 130, 246, 0.85);
+}
+
+.sr-card a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+
+.sr-card:hover h3 a {
+  text-decoration-thickness: 2px;
+}
+
+.sr-project-card {
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+
+.sr-project-card:hover {
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.12);
+}
+
+/* More polished CTA layout */
+.sr-cta-row .sr-button:first-child {
+  border-color: rgba(34, 197, 94, 0.55);
+  background: rgba(34, 197, 94, 0.12);
+}
+
+.sr-cta-row .sr-button:first-child:hover {
+  border-color: rgba(34, 197, 94, 0.85);
+  background: rgba(34, 197, 94, 0.20);
+}
+
+/* Small label style for project/category pages */
+.sr-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.18rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #1d4ed8;
+  background: rgba(59, 130, 246, 0.12);
+  border: 1px solid rgba(59, 130, 246, 0.30);
+  margin-bottom: 0.75rem;
+}

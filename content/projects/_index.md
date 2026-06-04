@@ -9,6 +9,8 @@ showReadingTime: false
 
 # Projects
 
+<span class="sr-eyebrow">Portfolio Gallery</span>
+
 This section contains selected cybersecurity, ServiceNow, academic, technical, and web design projects that demonstrate practical security knowledge, structured problem solving, hands-on lab work, and front-end development experience.
 
 Projects are presented in a **redacted case-study format**. The goal is to show technical depth and decision-making without exposing private data, client information, full solutions, or sensitive implementation details.
