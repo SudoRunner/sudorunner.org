@@ -1,7 +1,7 @@
 ---
 
 title: "Projects"
-description: "Redacted cybersecurity, ServiceNow, academic, and technical portfolio projects."
+description: "Redacted cybersecurity, ServiceNow, academic, technical, and web design portfolio projects."
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -38,6 +38,23 @@ End-to-end Vulnerability Response workflow covering vulnerable item review, owne
 <div class="sr-project-meta">
   <span class="sr-status sr-status-lab">ServiceNow</span>
   <span class="sr-status sr-status-progress">SecOps</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [sudoRunner Portfolio Website](/projects/sudorunner-portfolio-website/)
+
+Professional cybersecurity portfolio built with Hugo, Blowfish, GitHub, Cloudflare Pages, custom DNS, email routing, Markdown content, custom CSS, cards, badges, and privacy-conscious publishing.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-status sr-status-concept">Web Project</span>
+  <span class="sr-status sr-status-complete">Live Site</span>
 </div>
 
 </div>
@@ -133,23 +150,51 @@ Front-end web design course project involving a multi-page static website, HTML,
 
 ## Project Categories
 
+<div class="sr-card-grid">
+
+<div class="sr-card">
+
 ### ServiceNow SecOps & Vulnerability Response
 
 Hands-on labs and writeups related to vulnerable items, assignment groups, remediation ownership, exception handling, validation, closure, and security workflow design.
 
-**Lab hub:** [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
+[ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
+
+<span class="sr-status sr-status-lab">Primary Focus</span>
+
+</div>
+
+<div class="sr-card">
 
 ### Redacted Academic Projects
 
 Selected Penn State cybersecurity projects converted into sanitized case studies. These focus on the problem, methods, tools, security concepts, and lessons learned without publishing full solutions.
 
+<span class="sr-status sr-status-complete">Portfolio-Safe</span>
+
+</div>
+
+<div class="sr-card">
+
 ### Web Design & Front-End Development
 
 Academic and personal web projects focused on HTML, CSS, JavaScript, layout design, navigation, image presentation, hover effects, and user-facing site structure.
 
+<span class="sr-status sr-status-concept">Design</span>
+
+</div>
+
+<div class="sr-card">
+
 ### Security Operations & Risk
 
 Projects focused on translating technical findings into operational risk, prioritization, ownership, remediation planning, containment, and stakeholder communication.
+
+<span class="sr-status sr-status-progress">SecOps</span>
+
+</div>
+
+</div>
 
 ---
 
