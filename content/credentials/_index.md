@@ -32,20 +32,60 @@ Relevant areas of study included cybersecurity operations, network security, app
 
 </div>
 
----
-
 ## Certifications & Credential Progress
 
-| Credential                                                | Code / Detail                              | Status                                                                     |
-| --------------------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------- |
-| ServiceNow Certified System Administrator                 | CSA                                        | <span class="sr-status sr-status-progress">Exam scheduled June 2026</span> |
-| ISC2 Certified in Cybersecurity                           | CC                                         | <span class="sr-status sr-status-complete">Completed</span>                |
-| Microsoft Azure Fundamentals                              | AZ-900                                     | <span class="sr-status sr-status-complete">Completed</span>                |
-| Microsoft Security, Compliance, and Identity Fundamentals | SC-900                                     | <span class="sr-status sr-status-complete">Completed</span>                |
-| Penn State Security and Risk Analysis Certificate         | Academic certificate                       | <span class="sr-status sr-status-complete">Completed December 2024</span>  |
-| NSA Certificate Program Coursework                        | School-issued recognition letter available | <span class="sr-status sr-status-complete">Coursework completed</span>     |
+<div class="sr-record-list">
 
----
+<div class="sr-record-row sr-record-head">
+  <div>Credential</div>
+  <div>Code / Detail</div>
+  <div>Status</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">ServiceNow Certified System Administrator</div>
+  <div class="sr-record-detail">CSA · scheduled June 2026</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-scheduled">Scheduled</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">ISC2 Certified in Cybersecurity</div>
+  <div class="sr-record-detail">CC</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Microsoft Azure Fundamentals</div>
+  <div class="sr-record-detail">AZ-900</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Microsoft Security, Compliance, and Identity Fundamentals</div>
+  <div class="sr-record-detail">SC-900</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Penn State Security and Risk Analysis Certificate</div>
+  <div class="sr-record-detail">SRA</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Penn State NSA Certificate Program</div>
+  <div class="sr-record-detail">NSA</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">SANS NetWars CTF</div>
+  <div class="sr-record-detail">14th nationwide placement</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-achievement">Completed</span></div>
+</div>
+
+</div>
+
 
 ## Certification Focus
 

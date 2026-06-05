@@ -138,17 +138,18 @@ Academic exposure to ICS/SCADA concepts in simulated smart grid and lab environm
 
 ## Education
 
-<div class="sr-card">
+<div class="sr-info-panel sr-static-panel">
 
 ### Penn State University
 
-**B.S. Cybersecurity Analytics & Operations**  
-Graduated <span class="sr-honor">Cum Laude</span>  
+**B.S. Cybersecurity Analytics & Operations**
+
+Graduated **Cum Laude**
 GPA: **3.88**
 
-<div class="sr-project-meta">
-  <span class="sr-status sr-status-complete">Completed</span>
-  <span class="sr-status sr-status-honor">Cum Laude</span>
+<div class="sr-static-label-row">
+  <span class="sr-static-label sr-static-label-complete">Completed</span>
+  <span class="sr-static-label sr-static-label-honor">Graduated Cum Laude</span>
 </div>
 
 </div>
@@ -157,17 +158,58 @@ GPA: **3.88**
 
 ## Certifications & Credentials
 
-| Credential                                        | Status                                                                     |
-| ------------------------------------------------- | -------------------------------------------------------------------------- |
-| ServiceNow Certified System Administrator         | <span class="sr-status sr-status-progress">Exam scheduled June 2026</span> |
-| ISC2 Certified in Cybersecurity                   | <span class="sr-status sr-status-complete">Completed</span>                |
-| Microsoft AZ-900                                  | <span class="sr-status sr-status-complete">Completed</span>                |
-| Microsoft SC-900                                  | <span class="sr-status sr-status-complete">Completed</span>                |
-| Penn State Security and Risk Analysis Certificate | <span class="sr-status sr-status-complete">Completed</span>                |
-| NSA Certificate Program Coursework                | <span class="sr-status sr-status-complete">Coursework completed</span>     |
-| SANS NetWars                                      | <span class="sr-status sr-status-lab">14th nationwide placement</span>     |
+<div class="sr-record-list">
 
----
+<div class="sr-record-row sr-record-head">
+  <div>Credential</div>
+  <div>Code / Detail</div>
+  <div>Status</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">ServiceNow Certified System Administrator</div>
+  <div class="sr-record-detail">CSA · scheduled June 2026</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-scheduled">Scheduled</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">ISC2 Certified in Cybersecurity</div>
+  <div class="sr-record-detail">CC</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Microsoft Azure Fundamentals</div>
+  <div class="sr-record-detail">AZ-900</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Microsoft Security, Compliance, and Identity Fundamentals</div>
+  <div class="sr-record-detail">SC-900</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Penn State Security and Risk Analysis Certificate</div>
+  <div class="sr-record-detail">SRA</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Penn State NSA Certificate Program</div>
+  <div class="sr-record-detail">NSA</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">SANS NetWars CTF</div>
+  <div class="sr-record-detail">14th nationwide placement</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-achievement">Completed</span></div>
+</div>
+
+</div>
+
 
 ## Portfolio Highlights
 

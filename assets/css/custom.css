@@ -2248,3 +2248,168 @@ border-radius: 0.55rem !important;
 }
 }
 
+/* =========================================================
+Static Info Panels + Credential Records
+Purpose: visually separate non-clickable content boxes from
+interactive CTA buttons and link controls.
+========================================================= */
+
+.sr-info-panel,
+.sr-static-panel,
+.sr-record-list,
+.sr-record-row {
+cursor: default !important;
+}
+
+.sr-info-panel,
+.sr-static-panel {
+padding: 1.15rem 1.25rem;
+border-radius: 0.85rem;
+border: 1px solid rgba(148, 163, 184, 0.2);
+background:
+linear-gradient(180deg, rgba(30, 41, 59, 0.68), rgba(15, 23, 42, 0.48));
+box-shadow: none;
+}
+
+.sr-info-panel:hover,
+.sr-static-panel:hover,
+.sr-record-row:hover {
+transform: none !important;
+box-shadow: none !important;
+}
+
+.sr-info-panel h3,
+.sr-static-panel h3 {
+margin-top: 0;
+margin-bottom: 0.65rem;
+}
+
+.sr-info-panel p,
+.sr-static-panel p {
+margin: 0.25rem 0;
+}
+
+.sr-static-label-row {
+display: flex;
+flex-wrap: wrap;
+gap: 0.45rem;
+margin-top: 0.9rem;
+}
+
+.sr-static-label {
+display: inline-flex;
+align-items: center;
+width: fit-content;
+max-width: 100%;
+padding: 0.26rem 0.55rem;
+border-radius: 0.42rem;
+border: 1px solid rgba(148, 163, 184, 0.22);
+background: rgba(148, 163, 184, 0.09);
+color: rgba(226, 232, 240, 0.9);
+font-size: 0.72rem;
+font-weight: 850;
+line-height: 1.15;
+letter-spacing: 0.01em;
+cursor: default;
+box-shadow: none;
+}
+
+.sr-static-label-complete {
+border-color: rgba(34, 197, 94, 0.35);
+background: rgba(34, 197, 94, 0.12);
+color: #86efac;
+}
+
+.sr-static-label-scheduled {
+border-color: rgba(245, 158, 11, 0.38);
+background: rgba(245, 158, 11, 0.12);
+color: #facc15;
+}
+
+.sr-static-label-honor {
+border-color: rgba(250, 204, 21, 0.45);
+background: rgba(250, 204, 21, 0.14);
+color: #facc15;
+box-shadow: 0 0 16px rgba(250, 204, 21, 0.14);
+}
+
+.sr-static-label-achievement {
+border-color: rgba(168, 85, 247, 0.4);
+background: rgba(168, 85, 247, 0.13);
+color: #c084fc;
+}
+
+.sr-record-list {
+display: grid;
+gap: 0.65rem;
+margin: 1rem 0 2rem 0;
+}
+
+.sr-record-row {
+display: grid;
+grid-template-columns: minmax(220px, 1.35fr) minmax(140px, 0.75fr) minmax(120px, 0.55fr);
+gap: 1rem;
+align-items: center;
+padding: 0.85rem 1rem;
+border-radius: 0.65rem;
+border: 1px solid rgba(148, 163, 184, 0.16);
+background: rgba(15, 23, 42, 0.24);
+}
+
+.sr-record-head {
+background: rgba(148, 163, 184, 0.11);
+border-color: rgba(148, 163, 184, 0.2);
+color: rgba(226, 232, 240, 0.94);
+font-size: 0.78rem;
+font-weight: 900;
+text-transform: uppercase;
+letter-spacing: 0.055em;
+}
+
+.sr-record-title {
+font-weight: 800;
+color: rgba(241, 245, 249, 0.94);
+}
+
+.sr-record-detail {
+color: rgba(203, 213, 225, 0.86);
+}
+
+.sr-record-status {
+display: flex;
+justify-content: flex-start;
+}
+
+@media (max-width: 768px) {
+.sr-info-panel,
+.sr-static-panel {
+padding: 1rem !important;
+border-radius: 0.8rem !important;
+}
+
+.sr-record-row {
+grid-template-columns: 1fr;
+gap: 0.45rem;
+padding: 0.95rem 1rem;
+}
+
+.sr-record-head {
+display: none;
+}
+
+.sr-record-detail::before {
+content: "Detail: ";
+font-weight: 850;
+color: rgba(226, 232, 240, 0.9);
+}
+
+.sr-record-status {
+margin-top: 0.2rem;
+}
+
+.sr-static-label {
+border-radius: 0.42rem !important;
+font-size: 0.72rem !important;
+}
+}
+
