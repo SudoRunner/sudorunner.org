@@ -204,6 +204,16 @@ Packet analysis, machine learning, clustering, Splunk, and security recommendati
 
 <div class="sr-card">
 
+### [Java Data Structures, OOP & Software Engineering Foundations](/projects/java-data-structures-software-engineering-foundations/)
+
+Java, object-oriented programming, data structures, Big-O analysis, UML/CRC modeling, testing, debugging, and Git workflow practice.
+
+<span class="sr-status sr-status-concept">Software Foundations</span>
+
+</div>
+
+<div class="sr-card">
+
 ### [ICS IT/OT Application-Level DoS Attack Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/)
 
 SCADA/OT disruption investigation and recovery validation.
