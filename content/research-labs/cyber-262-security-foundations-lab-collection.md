@@ -1,0 +1,460 @@
+---
+
+title: "CYBER 262 Security Foundations Lab Collection"
+description: "A redacted academic lab collection covering host-based defense, endpoint protection, Wazuh HIDS, Snort NIDS, Splunk fundamentals, Linux log analysis, Python strace parsing, two-factor authentication, and buffer overflow concepts."
+date: 2026-06-05
+tags: ["Cybersecurity", "Linux", "Python", "Wazuh", "Snort", "Splunk", "2FA", "Buffer Overflow", "Endpoint Protection", "Penn State"]
+categories: ["Research & Labs"]
+showDate: true
+showAuthor: false
+showReadingTime: true
+showWordCount: false
+--------------------
+
+<span class="sr-eyebrow">Redacted Academic Lab Collection</span>
+
+<div class="sr-case-hero">
+
+This case study summarizes selected Penn State CYBER 262 lab work focused on practical cybersecurity foundations, including Linux log analysis, host-based network defense, endpoint protection, HIDS/NIDS detection, Splunk fundamentals, two-factor authentication, Python-based system-call parsing, and introductory buffer overflow concepts.
+
+</div>
+
+<div class="sr-case-summary">
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Type</span>
+  <span class="sr-case-value">Academic Cybersecurity Lab Collection</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Focus</span>
+  <span class="sr-case-value">Security Foundations + Hands-On Labs</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Tools</span>
+  <span class="sr-case-value">Linux · Python · Wazuh · Snort · Splunk · UFW</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Concepts</span>
+  <span class="sr-case-value">Detection · Hardening · Logs · 2FA · Memory Safety</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Outcome</span>
+  <span class="sr-case-value">Built Practical Security Operations Foundation</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Privacy Level</span>
+  <span class="sr-case-value">Redacted / No Raw Lab Solutions Published</span>
+</div>
+
+</div>
+
+# CYBER 262 Security Foundations Lab Collection
+
+## Overview
+
+This lab collection summarizes selected academic work from CYBER 262, a hands-on cybersecurity course that introduced and reinforced foundational security concepts across Linux, endpoint protection, network defense, intrusion detection, authentication, log analysis, Python scripting, and memory-safety concepts.
+
+The purpose of including this collection in my portfolio is to show where many of my practical cybersecurity foundations began: working through labs, troubleshooting technical systems, reading logs, interpreting alerts, configuring defensive tools, and connecting technical findings to security decisions.
+
+This page is intentionally redacted. It does not publish raw lab submissions, full screenshots, exploit payloads, private course material, personal identifiers, credentials, secret keys, or complete solution files.
+
+---
+
+## Course Impact
+
+This course was a turning point in my cybersecurity development because it pushed me toward hands-on work beyond normal assignments, including CTF participation, independent research, and deeper systems-level learning.
+
+It helped reinforce an important lesson: cybersecurity is not only about completing labs. It is about staying curious, practicing outside the minimum requirements, and developing the discipline to understand how systems actually behave.
+
+---
+
+## Lab Areas Covered
+
+<div class="sr-concept-map">
+
+<div class="sr-concept-node sr-concept-core">
+
+### Linux + Log Analysis
+
+Command-line parsing, `grep`, `awk`, `sort`, `uniq`, log filtering, and evidence formatting.
+
+<span class="sr-status sr-status-lab">Linux</span>
+
+</div>
+
+<div class="sr-concept-node">
+
+### Host-Based Defense
+
+Firewall policy, UFW default deny, allowed services, scanning exposure, and drop-vs-reject reasoning.
+
+<span class="sr-status sr-status-complete">Defense</span>
+
+</div>
+
+<div class="sr-concept-node">
+
+### Endpoint Protection
+
+Microsoft System Center concepts, antimalware policies, endpoint alerts, deployments, updates, and reference imaging.
+
+<span class="sr-status sr-status-progress">Endpoint Security</span>
+
+</div>
+
+<div class="sr-concept-node">
+
+### HIDS + NIDS
+
+Wazuh HIDS, Snort NIDS, rootcheck, filesystem monitoring, SSH brute-force detection, rule validation, and alert review.
+
+<span class="sr-status sr-status-lab">Detection</span>
+
+</div>
+
+<div class="sr-concept-node">
+
+### Python + strace Parsing
+
+Python scripting to parse system-call logs, identify executed programs, count events, and extract process identifiers.
+
+<span class="sr-status sr-status-concept">Python</span>
+
+</div>
+
+<div class="sr-concept-node">
+
+### 2FA + Memory Safety
+
+TOTP concepts, replay resistance, time skew, rate limiting, Set-UID behavior, NOP sleds, EBP, and buffer overflow fundamentals.
+
+<span class="sr-status sr-status-progress">Security Concepts</span>
+
+</div>
+
+</div>
+
+---
+
+## Work Included
+
+### Practice Lab Environment
+
+The first lab involved accessing and navigating the Practice Labs environment.
+
+This was a basic setup lab, but it still matters because much of cybersecurity learning depends on being able to work inside lab infrastructure, troubleshoot access issues, and continue despite environment problems.
+
+Portfolio value:
+
+* lab environment setup
+* troubleshooting practice
+* endpoint protection exposure
+* early hands-on workflow discipline
+
+This lab is supporting material only and is not strong enough to publish as a standalone project.
+
+---
+
+### Host-Based Network Defense
+
+This lab focused on host-based network defense, scanning, weak service exposure, and firewall policy.
+
+The work included:
+
+* adding a user account to a system
+* scanning from Kali using Zenmap
+* password discovery using Ncrack
+* testing telnet access
+* applying UFW default deny behavior
+* configuring allowed access
+* validating which ports remained reachable
+* comparing drop and reject behavior
+
+The strongest portfolio value is the defensive reasoning: understanding that exposed services, weak credentials, and permissive firewall behavior create risk, and that firewall policy should be intentional rather than assumed.
+
+Key lesson:
+
+A host-based firewall is not only a configuration checkbox. It directly controls which services are exposed, which connections are allowed, and how much information a system reveals to a scanner or attacker.
+
+---
+
+### Endpoint Protection and Enterprise Controls
+
+This lab focused on Microsoft System Center and endpoint protection tasks.
+
+The work included:
+
+* adding an Endpoint Protection site system role
+* configuring endpoint protection alerts
+* configuring definition updates
+* reviewing automatic deployment rules
+* creating and deploying antimalware policies
+* reviewing compliance settings
+* configuring custom client settings
+* verifying endpoint protection installation
+* discussing the value of reference computers and imaging
+
+The strongest portfolio value is enterprise endpoint management thinking.
+
+Key lesson:
+
+Endpoint protection is not only antivirus. In an enterprise setting, it involves policy, deployment, update cadence, monitoring, compliance, alerting, and recoverability.
+
+---
+
+### Wazuh HIDS Detection
+
+This lab focused on host-based intrusion detection using Wazuh.
+
+The work included:
+
+* detecting SSH brute-force attempts
+* reviewing detailed log evidence
+* understanding Wazuh agent behavior
+* file integrity monitoring concepts
+* process and anomaly checks
+* rootkit/rootcheck behavior
+* hidden process detection
+* filesystem change detection
+* Kibana dashboard review
+* monitoring privilege escalation behavior such as `sudo su`
+
+The strongest portfolio value is detection and investigation workflow.
+
+Key lesson:
+
+A host-based intrusion detection system is useful because it connects endpoint activity, file integrity, process behavior, rootkit indicators, and log visibility into analyst-reviewable evidence.
+
+---
+
+### Snort NIDS and Security Onion
+
+This lab focused on Snort network intrusion detection.
+
+The work included:
+
+* validating Snort configuration
+* reviewing local detection rules
+* understanding rule chains
+* discussing `white_list.rules` and `black_list.rules`
+* identifying Security Onion rule directory placement
+* validating rules with `snort -T`
+* applying rule updates
+* searching alerts with command-line tools
+* reviewing alerts in Kibana
+* discussing filtering with Snort and downstream monitoring
+* explaining why a Snort sensor may be deployed in a DMZ
+* interpreting example Snort rules and alert messages
+
+The strongest portfolio value is network detection engineering fundamentals.
+
+Key lesson:
+
+NIDS work requires more than seeing alerts. Analysts must understand where rules live, how rules are validated, how alerts map to traffic behavior, where sensors should be placed, and how to investigate alerts efficiently.
+
+---
+
+### Metasploit and Penetration Testing Exposure
+
+This lab introduced Metasploit and penetration-testing workflow concepts.
+
+The available document is mostly screenshot placeholders, so I would treat it as supporting evidence only rather than a standalone portfolio item.
+
+Portfolio value:
+
+* exposure to penetration-testing tooling
+* offensive-security workflow awareness
+* lab-based attacker/defender context
+
+This should not be over-emphasized publicly because the available written evidence is limited.
+
+---
+
+### Linux Log Analysis
+
+The log analysis homework focused on Linux parsing and command-line analysis.
+
+The work included:
+
+* finding attempts to run `sudo`
+* counting attempts by a specific user
+* using `grep`
+* using `wc`
+* formatting output with `awk`
+* sorting output
+* summarizing occurrences with `uniq -c`
+* preparing findings for downstream review
+
+The strongest portfolio value is practical analyst workflow.
+
+Key lesson:
+
+Command-line parsing is a core analyst skill because it allows fast filtering, counting, formatting, and summarizing of raw evidence before it is moved into reports or other tools.
+
+---
+
+### Python-Based strace Parsing
+
+This work used Python to parse Linux `strace` output.
+
+The code and output show practice with:
+
+* reading log files
+* scanning for system-call patterns
+* counting events
+* identifying `execve`
+* identifying `write`
+* identifying `fstat`, `stat`, and `access`
+* extracting program names
+* extracting process IDs
+* building helper functions
+* printing structured analysis output
+
+This was an important bridge between programming and cybersecurity analysis.
+
+Key lesson:
+
+Python can help turn noisy system-call traces into structured evidence. Even simple parsing logic can help identify program execution, process behavior, file access patterns, and suspicious activity indicators.
+
+---
+
+### Splunk Fundamentals
+
+This lab introduced Splunk fundamentals.
+
+The available document is mostly structured around topic areas such as:
+
+* what Splunk is
+* intro to Splunk
+* using fields
+* scheduling reports and alerts
+* visualizations
+* search under the hood
+
+The written detail is limited, so this should be treated as supporting evidence rather than a major standalone case study.
+
+Portfolio value:
+
+* SIEM exposure
+* search and field concepts
+* alerting/reporting awareness
+* visualization awareness
+
+---
+
+### Two-Factor Authentication
+
+This lab focused on two-factor authentication concepts.
+
+The work included:
+
+* setting up a 2FA challenge-response flow
+* discussing secret keys
+* explaining time skew
+* explaining rate limiting
+* using Google Authenticator
+* validating SSH access
+* explaining how time-based, single-use tokens reduce replay risk
+
+The strongest portfolio value is authentication security reasoning.
+
+Key lesson:
+
+2FA security depends on implementation details. Time skew, rate limiting, single-use tokens, and time-based token validity all affect how resistant an authentication flow is to replay and brute-force attempts.
+
+---
+
+### Buffer Overflow Concepts
+
+This lab introduced buffer overflow behavior and low-level exploitation concepts.
+
+The work included:
+
+* Set-UID file permission review
+* running a vulnerable C program
+* observing segmentation faults
+* testing input length behavior
+* working with `badfile`
+* reviewing GDB values
+* analyzing hexdump output
+* identifying NOP behavior
+* discussing EBP
+* explaining what happens when execution returns to a controlled address
+
+The lab did not fully complete privilege escalation due to segmentation-fault behavior, so this portfolio page does not claim a successful exploit chain. The value is in the systems-level learning: stack behavior, memory layout, payload structure, debugging, and why memory safety matters.
+
+Key lesson:
+
+Buffer overflow concepts reveal how a program can behave differently from what a user sees on screen. Understanding stack behavior, return addresses, NOPs, and memory layout helps explain why memory safety is critical and how malicious code can execute without obvious user awareness.
+
+---
+
+## Skills Demonstrated
+
+This lab collection demonstrates:
+
+* Linux command-line analysis
+* log parsing and evidence formatting
+* Python scripting for security analysis
+* host-based firewall reasoning
+* endpoint protection concepts
+* Microsoft System Center exposure
+* Wazuh HIDS concepts
+* Snort NIDS concepts
+* Security Onion exposure
+* Kibana alert review
+* Splunk fundamentals
+* SSH brute-force detection
+* filesystem change detection
+* rootkit/rootcheck concepts
+* 2FA and TOTP reasoning
+* replay-attack prevention concepts
+* buffer overflow fundamentals
+* GDB/hexdump exposure
+* Set-UID and privilege concept awareness
+* defensive and offensive security context
+
+---
+
+## Security Operations Relevance
+
+This collection is relevant to security operations because it shows multiple layers of security work:
+
+* prevention through firewall policy and endpoint controls
+* detection through HIDS/NIDS tools
+* investigation through logs, Kibana, Splunk, and command-line parsing
+* authentication hardening through 2FA
+* systems-level understanding through buffer overflow labs
+* automation support through Python parsing
+
+Together, these labs helped build the foundation for later work in vulnerability management, ServiceNow SecOps, incident response, network traffic analysis, malware investigation, and OT/ICS security.
+
+---
+
+## What I Would Improve Today
+
+If I revisited this work today, I would improve it by:
+
+* writing cleaner executive summaries for each lab
+* separating screenshots from analysis more clearly
+* documenting exact investigation questions before each task
+* improving Python code structure and error handling
+* adding comments that explain why each parsing step matters
+* avoiding overly broad claims where lab evidence is limited
+* connecting each lab more directly to SOC workflows
+* adding diagrams for HIDS/NIDS detection flow
+* adding sanitized examples of alert triage notes
+* improving final recommendations for each defensive control
+
+---
+
+## Portfolio Note
+
+This page is a sanitized academic case study.
+
+Raw screenshots, full lab submissions, secret keys, exploit payloads, exact lab answers, personal identifiers, and complete solution files are not published. The purpose is to demonstrate cybersecurity foundations, analyst thinking, and practical lab exposure without turning the portfolio into a homework archive.
