@@ -1419,3 +1419,347 @@ footer p {
     justify-content: center;
   }
 }
+
+/* =========================================================
+sudoRunner Mobile HCI Stabilization
+Purpose: improve mobile readability, spacing, cards, badges,
+buttons, tables, guided navigation, and Safari safe areas.
+========================================================= */
+
+@media (max-width: 768px) {
+html {
+-webkit-text-size-adjust: 100%;
+text-size-adjust: 100%;
+}
+
+body {
+overflow-x: hidden;
+}
+
+main,
+article,
+.sr-page-shell,
+.sr-page-content {
+width: 100%;
+max-width: 100%;
+box-sizing: border-box;
+}
+
+.sr-page-shell {
+padding-left: 1rem !important;
+padding-right: 1rem !important;
+margin-left: auto;
+margin-right: auto;
+}
+
+.sr-page-content {
+overflow-wrap: break-word;
+word-break: normal;
+}
+
+.sr-page-content > * {
+max-width: 100%;
+}
+
+.prose,
+.prose p,
+.prose li,
+.sr-page-content p,
+.sr-page-content li {
+font-size: 1rem !important;
+line-height: 1.65 !important;
+}
+
+.prose h1,
+.sr-page-shell h1,
+.sr-page-content h1 {
+font-size: clamp(2.15rem, 10vw, 3.25rem) !important;
+line-height: 1.05 !important;
+letter-spacing: -0.045em;
+overflow-wrap: normal;
+}
+
+.prose h2,
+.sr-page-shell h2,
+.sr-page-content h2 {
+font-size: clamp(1.55rem, 7vw, 2.25rem) !important;
+line-height: 1.12 !important;
+letter-spacing: -0.025em;
+}
+
+.prose h3,
+.sr-page-shell h3,
+.sr-page-content h3 {
+font-size: clamp(1.15rem, 5.6vw, 1.55rem) !important;
+line-height: 1.2 !important;
+}
+
+.sr-eyebrow {
+display: inline-flex;
+max-width: 100%;
+white-space: normal;
+overflow-wrap: anywhere;
+line-height: 1.2;
+font-size: 0.72rem !important;
+padding: 0.42rem 0.65rem;
+}
+
+.sr-callout,
+.sr-card,
+.sr-project-card,
+.sr-case-hero,
+.sr-flow-step,
+.sr-concept-node,
+.sr-review-nav {
+width: 100%;
+max-width: 100%;
+box-sizing: border-box;
+overflow: hidden;
+border-radius: 1rem;
+}
+
+.sr-callout,
+.sr-card,
+.sr-project-card,
+.sr-case-hero,
+.sr-flow-step,
+.sr-concept-node {
+padding: 1rem !important;
+}
+
+.sr-card-grid,
+.sr-concept-map {
+display: grid !important;
+grid-template-columns: 1fr !important;
+gap: 1rem !important;
+width: 100%;
+}
+
+.sr-flow {
+display: grid !important;
+grid-template-columns: 1fr !important;
+gap: 1rem !important;
+width: 100%;
+}
+
+.sr-flow-step {
+min-height: auto !important;
+}
+
+.sr-flow-step::after,
+.sr-flow-step::before {
+max-width: 100%;
+}
+
+.sr-flow-number {
+width: 2rem;
+height: 2rem;
+min-width: 2rem;
+font-size: 0.85rem;
+}
+
+.sr-status,
+.sr-project-meta .sr-status,
+.sr-case-value,
+.sr-case-label {
+max-width: 100%;
+white-space: normal !important;
+overflow-wrap: anywhere;
+line-height: 1.25;
+font-size: 0.72rem !important;
+}
+
+.sr-project-meta {
+display: flex;
+flex-wrap: wrap;
+gap: 0.45rem;
+align-items: center;
+}
+
+.sr-cta-row {
+display: flex !important;
+flex-direction: column !important;
+align-items: stretch !important;
+gap: 0.75rem !important;
+width: 100%;
+}
+
+.sr-button,
+.sr-button-secondary,
+.sr-cta-row .sr-button,
+.sr-review-actions .sr-button {
+width: 100%;
+max-width: 100%;
+min-height: 46px;
+justify-content: center;
+text-align: center;
+white-space: normal !important;
+overflow-wrap: anywhere;
+line-height: 1.2;
+font-size: 1rem !important;
+padding: 0.72rem 1rem !important;
+box-sizing: border-box;
+}
+
+.sr-review-nav {
+margin: 2rem 0 1.5rem 0 !important;
+padding: 1rem !important;
+}
+
+.sr-review-nav-head {
+display: flex;
+flex-direction: column !important;
+gap: 0.75rem;
+align-items: flex-start;
+}
+
+.sr-review-nav-head h2 {
+font-size: 1.35rem !important;
+line-height: 1.15 !important;
+}
+
+.sr-review-nav-head p {
+font-size: 0.95rem !important;
+line-height: 1.55 !important;
+}
+
+.sr-review-progress {
+align-self: flex-start;
+font-size: 0.78rem !important;
+}
+
+.sr-review-steps {
+display: grid !important;
+grid-template-columns: 1fr 1fr !important;
+gap: 0.55rem !important;
+width: 100%;
+}
+
+.sr-review-steps a {
+justify-content: center;
+text-align: center;
+font-size: 0.82rem !important;
+line-height: 1.15;
+padding: 0.58rem 0.5rem !important;
+white-space: normal;
+}
+
+.sr-review-actions {
+display: flex !important;
+flex-direction: column !important;
+gap: 0.75rem !important;
+width: 100%;
+}
+
+.sr-case-summary {
+display: grid !important;
+grid-template-columns: 1fr !important;
+gap: 0.75rem !important;
+}
+
+.sr-case-item {
+width: 100%;
+max-width: 100%;
+box-sizing: border-box;
+}
+
+table {
+display: block;
+width: 100%;
+max-width: 100%;
+overflow-x: auto;
+white-space: normal;
+}
+
+th,
+td {
+font-size: 0.92rem !important;
+line-height: 1.4 !important;
+}
+
+pre,
+code {
+max-width: 100%;
+overflow-x: auto;
+white-space: pre-wrap;
+word-break: break-word;
+}
+
+img,
+svg,
+video {
+max-width: 100%;
+height: auto;
+}
+
+footer {
+padding-bottom: calc(4.5rem + env(safe-area-inset-bottom)) !important;
+}
+
+.sr-footer,
+.site-footer {
+text-align: center;
+}
+
+.sr-footer a,
+footer a {
+display: inline-flex;
+justify-content: center;
+margin: 0.25rem 0.4rem;
+}
+
+a[href^="mailto:"] {
+overflow-wrap: anywhere;
+word-break: break-word;
+}
+
+.sr-contact-email {
+display: inline-flex;
+align-items: center;
+gap: 0.5rem;
+max-width: 100%;
+overflow-wrap: anywhere;
+word-break: break-word;
+}
+
+.sr-contact-email::before {
+content: "✉";
+display: inline-flex;
+align-items: center;
+justify-content: center;
+width: 1.45rem;
+height: 1.45rem;
+min-width: 1.45rem;
+border-radius: 999px;
+border: 1px solid rgba(96, 165, 250, 0.45);
+background: rgba(59, 130, 246, 0.12);
+color: #93c5fd;
+font-size: 0.8rem;
+line-height: 1;
+}
+}
+
+@media (max-width: 420px) {
+.sr-page-shell {
+padding-left: 0.85rem !important;
+padding-right: 0.85rem !important;
+}
+
+.prose,
+.prose p,
+.prose li,
+.sr-page-content p,
+.sr-page-content li {
+font-size: 0.98rem !important;
+}
+
+.sr-review-steps {
+grid-template-columns: 1fr !important;
+}
+
+.sr-button,
+.sr-button-secondary,
+.sr-cta-row .sr-button {
+font-size: 0.96rem !important;
+}
+}
