@@ -117,8 +117,19 @@ Custom features include:
 
 * compact homepage landing page
 * custom SVG terminal-style logo
+* favicon and social sharing preview image
+* Apple-style desktop dropdown navigation
 * button-style call-to-action links
+* custom section and single-page layouts
 * Start Here portfolio review workflow
+* role-based Review Paths page
+* Capabilities Matrix page
+* Badge Legend page
+* Portfolio Changelog page
+* custom branded 404 page
+* security headers
+* security.txt contact standard
+* robots.txt and humans.txt metadata files
 * vertical guided review path with directional arrows
 * card-based project galleries
 * color-coded status badges
@@ -130,10 +141,8 @@ Custom features include:
 * consistent visual styling across sections
 * privacy-conscious public resume workflow
 * professional email alias through Cloudflare Email Routing
-* apple-style desktop dropdown navigation
-* custom section and single-page layouts
 * software foundations project integration
-
+* portfolio badge legend explaining status colors and content types
 
 
 ## Privacy-Conscious Design
@@ -191,6 +200,14 @@ This project demonstrates practical experience with:
 * technical writing
 * project documentation
 * employer-facing portfolio design
+* custom Hugo layout overrides
+* theme partial customization
+* dropdown navigation customization
+* security-conscious static site deployment
+* public metadata configuration
+* structured portfolio navigation
+* role-based content routing
+* capability-to-evidence mapping
 
 
 ## Lessons Learned
@@ -206,13 +223,14 @@ This project also reinforced how useful static websites can be for cybersecurity
 Future improvements may include:
 
 * adding a real scheduling link for intro calls
-* adding a protected contact form
-* improving mobile spacing
-* adding diagrams for selected projects
+* adding a protected contact form Cloudflare Turnstile
+* improving mobile spacing and navigation behavior
+* adding diagrams for selected projects and technical workflows
 * adding sanitized screenshots where appropriate
 * adding more ServiceNow SecOps lab content
 * adding more OT/ICS security notes
-* adding a changelog-style page for site improvements
+* adding more AI-assisted SecOps workflow concepts
+* continuing to review academic work and convert the strongest items into redacted case studies
 * improving accessibility and metadata
 * maintaining a public [Changelog](/changelog/) to document portfolio improvements over time
 
