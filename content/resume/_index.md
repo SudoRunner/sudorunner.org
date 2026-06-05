@@ -1,6 +1,6 @@
----
+﻿---
 
-title: "Resume"
+title: "IST 451: ICS/IT-OT Application-Level DoS Attack Lab"
 description: "Resume and professional background for Vlad K."
 showDate: false
 showAuthor: false
@@ -167,7 +167,7 @@ Focus Area: **Application Development**
 
 <div class="sr-record-row">
   <div class="sr-record-title">ServiceNow Certified System Administrator</div>
-  <div class="sr-record-detail">CSA · scheduled June 2026</div>
+  <div class="sr-record-detail">CSA Â· scheduled June 2026</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-scheduled">Scheduled</span></div>
 </div>
 
@@ -208,7 +208,6 @@ Focus Area: **Application Development**
 </div>
 
 </div>
-
 
 ## Portfolio Highlights
 

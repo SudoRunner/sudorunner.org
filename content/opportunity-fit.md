@@ -1,6 +1,6 @@
----
+﻿---
 
-title: "Opportunity Fit"
+title: "IST 451: Security Labs Collection"
 description: "Professional opportunity fit for ServiceNow SecOps, Vulnerability Response, cybersecurity operations, and OT/ICS security roles."
 showDate: false
 showAuthor: false

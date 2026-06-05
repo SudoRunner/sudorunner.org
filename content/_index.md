@@ -1,6 +1,6 @@
----
+﻿---
 
-title: "Home"
+title: "IST 311: Java Data Structures, OOP & Software Engineering Foundations"
 description: "Cybersecurity portfolio for Vlad K."
 showTitle: false
 showDate: false

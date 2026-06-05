@@ -1,6 +1,6 @@
----
+﻿---
 
-title: "Credentials"
+title: "IST 451: ICS/IT-OT Application-Level DoS Attack Lab"
 description: "Education, certifications, achievements, and cybersecurity credentials."
 showDate: false
 showAuthor: false
@@ -52,7 +52,7 @@ Relevant areas of study included cybersecurity operations, network security, app
 
 <div class="sr-record-row">
   <div class="sr-record-title">ServiceNow Certified System Administrator</div>
-  <div class="sr-record-detail">CSA · scheduled June 2026</div>
+  <div class="sr-record-detail">CSA Â· scheduled June 2026</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-scheduled">Scheduled</span></div>
 </div>
 
@@ -93,7 +93,6 @@ Relevant areas of study included cybersecurity operations, network security, app
 </div>
 
 </div>
-
 
 ## Certification Focus
 
