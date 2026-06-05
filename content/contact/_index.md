@@ -1,15 +1,16 @@
 ---
 
 title: "Contact"
-description: "Contact information for professional opportunities."
+description: "Professional contact options for ServiceNow SecOps, cybersecurity analyst, vulnerability management, OT/ICS security, and AI-assisted SecOps opportunities."
 showDate: false
 showAuthor: false
 showReadingTime: false
-----------------------
+showWordCount: false
+--------------------
 
 <span class="sr-eyebrow">Professional Contact</span>
 
-I am open to professional opportunities related to **ServiceNow SecOps**, **Vulnerability Response**, **cybersecurity operations**, **vulnerability management**, **Cybersecurity Analyst roles**, and **OT/ICS security**.
+This page provides professional contact options for relevant opportunities, technical conversations, and portfolio review follow-up.
 
 <div class="sr-callout">
 
@@ -23,39 +24,60 @@ I am open to professional opportunities related to **ServiceNow SecOps**, **Vuln
 
 <div class="sr-card-grid">
 
-<div class="sr-card">
+<div class="sr-card sr-project-card">
+
+<div>
 
 ### Email
 
-For professional opportunities, contact me at:
+For professional opportunities, portfolio review, or relevant technical conversations, contact me at:
 
-<a class="sr-button" href="mailto:contact@sudorunner.org">[contact@sudorunner.org](mailto:contact@sudorunner.org)</a>
-
-<span class="sr-status sr-status-complete">Professional Alias</span>
+<a href="mailto:contact@sudorunner.org">[contact@sudorunner.org](mailto:contact@sudorunner.org)</a>
 
 </div>
 
-<div class="sr-card">
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Professional Alias</span>
+  <span class="sr-static-label">Public Contact</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
 
 ### LinkedIn
 
-Connect with me on LinkedIn:
+Use LinkedIn for professional networking, recruiter outreach, and opportunity-related messages.
 
-<a class="sr-button" href="https://www.linkedin.com/in/vki/">linkedin.com/in/vki</a>
-
-<span class="sr-status sr-status-complete">Professional Profile</span>
+<a href="https://www.linkedin.com/in/vki/">View LinkedIn Profile</a>
 
 </div>
 
-<div class="sr-card">
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Professional Network</span>
+  <span class="sr-static-label">Recruiter Friendly</span>
+</div>
 
-### Book an Intro Call
+</div>
 
-A scheduling link will be added here for recruiters, consultants, and professional contacts.
+<div class="sr-card sr-project-card" id="book-an-intro-call">
 
-<a class="sr-button-secondary sr-button" href="mailto:contact@sudorunner.org">Request Intro Call</a>
+<div>
 
-<span class="sr-status sr-status-progress">Coming Soon</span>
+### Intro Call
+
+For role-relevant conversations, the best starting point is a short introduction call after reviewing the portfolio and resume.
+
+<a href="mailto:contact@sudorunner.org?subject=Intro%20Call%20Request%20-%20sudoRunner%20Portfolio">Request an Intro Call</a>
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Available by Request</span>
+  <span class="sr-static-label">Scheduling Link Pending</span>
+</div>
 
 </div>
 
@@ -63,47 +85,39 @@ A scheduling link will be added here for recruiters, consultants, and profession
 
 ---
 
-## Open To
+## Before Reaching Out
 
 <div class="sr-card-grid">
 
 <div class="sr-card">
 
-### ServiceNow SecOps
+### Recommended Review Path
 
-ServiceNow SecOps Consultant roles, Vulnerability Response roles, implementation support, workflow design, and security operations process improvement.
+Start with the guided portfolio path before reaching out:
 
-<span class="sr-status sr-status-lab">Primary Focus</span>
+[Start Here](/start-here/) → [Resume](/resume/) → [ServiceNow SecOps](/research-labs/servicenow-secops-lab-hub/) → [Projects](/projects/)
 
-</div>
-
-<div class="sr-card">
-
-### Cybersecurity Operations
-
-Cybersecurity Analyst roles, vulnerability management, incident response support, security operations, SIEM exposure, and risk-based remediation.
-
-<span class="sr-status sr-status-complete">Core Focus</span>
+<span class="sr-static-label sr-static-label-complete">Reviewer Friendly</span>
 
 </div>
 
 <div class="sr-card">
 
-### OT/ICS Security
+### Opportunity Fit
 
-Operational technology, ICS/SCADA security, cyber-physical risk, smart grid concepts, and industrial security learning opportunities.
+The portfolio is most aligned with ServiceNow SecOps, Vulnerability Response, cybersecurity analyst, vulnerability management, security operations, consulting, and OT/ICS security-focused opportunities.
 
-<span class="sr-status sr-status-progress">Specialty Interest</span>
+<span class="sr-static-label sr-static-label-complete">Role Alignment</span>
 
 </div>
 
 <div class="sr-card">
 
-### Consulting & Implementation
+### Security and Privacy
 
-Client-facing cybersecurity work involving requirements, documentation, UAT, training support, workflow improvement, and stakeholder communication.
+This site uses a public-facing contact alias and intentionally avoids publishing private contact details, raw academic submissions, credentials, sensitive screenshots, client data, or confidential implementation details.
 
-<span class="sr-status sr-status-concept">Consulting Fit</span>
+<span class="sr-static-label sr-static-label-complete">Security First</span>
 
 </div>
 
@@ -111,18 +125,10 @@ Client-facing cybersecurity work involving requirements, documentation, UAT, tra
 
 ---
 
-## Portfolio Links
+## Quick Links
 
 <div class="sr-cta-row">
-  <a class="sr-button" href="/opportunity-fit/">Opportunity Fit</a>
   <a class="sr-button" href="/resume/">Resume</a>
-  <a class="sr-button" href="/projects/">Projects</a>
-  <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps Lab Hub</a>
-  <a class="sr-button-secondary sr-button" href="/credentials/">Credentials</a>
+  <a class="sr-button-secondary sr-button" href="/opportunity-fit/">Opportunity Fit</a>
+  <a class="sr-button-secondary sr-button" href="/projects/">Projects</a>
 </div>
-
----
-
-## Note
-
-This site is intended for professional networking, cybersecurity portfolio review, and employer-facing project visibility.

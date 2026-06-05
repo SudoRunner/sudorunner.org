@@ -2598,3 +2598,5 @@ strong.cum-laude {
 .cum-laude::after {
   content: none !important;
 }
+
+<span class="sr-inline-honor">Cum Laude</span>
