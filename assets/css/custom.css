@@ -2044,3 +2044,207 @@ min-height: 50px !important;
 }
 }
 
+/* =========================================================
+HCI Clickability Distinction
+Purpose: make interactive buttons clearly different from
+non-clickable badges, labels, honors, and text containers.
+Place this at the VERY BOTTOM of custom.css.
+========================================================= */
+
+/* -----------------------------
+Clickable buttons / CTA links
+----------------------------- */
+
+a.sr-button,
+a.sr-button-secondary,
+.sr-cta-row a.sr-button,
+.sr-review-actions a.sr-button {
+cursor: pointer !important;
+position: relative !important;
+border-width: 2px !important;
+font-weight: 900 !important;
+text-decoration: none !important;
+box-shadow:
+0 0 0 1px rgba(96, 165, 250, 0.16),
+0 10px 28px rgba(15, 23, 42, 0.22) !important;
+transition:
+transform 160ms ease,
+border-color 160ms ease,
+background 160ms ease,
+box-shadow 160ms ease,
+color 160ms ease !important;
+}
+
+/* Add a subtle action cue to clickable CTAs */
+a.sr-button::after,
+a.sr-button-secondary::after,
+.sr-cta-row a.sr-button::after,
+.sr-review-actions a.sr-button::after {
+content: " →";
+font-weight: 950;
+opacity: 0.85;
+}
+
+/* Do not add arrow to previous-navigation buttons */
+.sr-review-actions a.sr-button-secondary::after {
+content: "";
+}
+
+/* Clear hover behavior only for clickable CTAs */
+a.sr-button:hover,
+a.sr-button-secondary:hover,
+.sr-cta-row a.sr-button:hover,
+.sr-review-actions a.sr-button:hover {
+transform: translateY(-2px) !important;
+border-color: rgba(96, 165, 250, 0.72) !important;
+box-shadow:
+0 0 0 1px rgba(96, 165, 250, 0.22),
+0 18px 42px rgba(37, 99, 235, 0.22) !important;
+}
+
+/* Keyboard accessibility */
+a.sr-button:focus-visible,
+a.sr-button-secondary:focus-visible,
+.sr-cta-row a.sr-button:focus-visible,
+.sr-review-actions a.sr-button:focus-visible {
+outline: 3px solid rgba(250, 204, 21, 0.9) !important;
+outline-offset: 4px !important;
+}
+
+/* -----------------------------
+Non-clickable badges / labels
+----------------------------- */
+
+.sr-status,
+span.sr-status,
+.sr-case-label,
+.sr-case-value,
+.sr-eyebrow {
+cursor: default !important;
+transform: none !important;
+box-shadow: none !important;
+text-decoration: none !important;
+}
+
+/* Make status chips feel like metadata, not buttons */
+.sr-status,
+span.sr-status {
+display: inline-flex !important;
+align-items: center !important;
+width: fit-content !important;
+max-width: 100% !important;
+padding: 0.28rem 0.62rem !important;
+border-width: 1px !important;
+border-radius: 0.55rem !important;
+font-size: 0.72rem !important;
+line-height: 1.15 !important;
+font-weight: 850 !important;
+letter-spacing: 0.01em !important;
+opacity: 0.94 !important;
+}
+
+/* Non-clickable labels should not animate like controls */
+.sr-status:hover,
+span.sr-status:hover,
+.sr-case-label:hover,
+.sr-case-value:hover,
+.sr-eyebrow:hover {
+transform: none !important;
+box-shadow: none !important;
+filter: none !important;
+}
+
+/* Honors stay highlighted but feel like an award label, not a button */
+.sr-status-honor,
+span.sr-status-honor,
+.sr-honor,
+.cum-laude,
+mark {
+cursor: default !important;
+border-radius: 0.35rem !important;
+padding: 0.05rem 0.25rem !important;
+box-shadow: 0 0 18px rgba(250, 204, 21, 0.16) !important;
+}
+
+/* -----------------------------
+Text containers / callouts
+----------------------------- */
+
+.sr-callout,
+.sr-case-hero,
+.sr-card:not(a),
+.sr-project-card:not(a),
+.sr-concept-node,
+.sr-case-item {
+cursor: default !important;
+}
+
+/* Text containers should look like content blocks, not CTA pills */
+.sr-callout,
+.sr-case-hero {
+border-radius: 0.9rem !important;
+}
+
+/* Cards can still lift only if they contain a visible link, but should not imply the whole card is clickable */
+.sr-card,
+.sr-project-card {
+transition:
+border-color 160ms ease,
+background 160ms ease,
+box-shadow 160ms ease !important;
+}
+
+.sr-card:hover,
+.sr-project-card:hover {
+transform: none !important;
+}
+
+/* Links inside content should look like links */
+.sr-page-content a:not(.sr-button):not(.sr-button-secondary),
+.sr-card a:not(.sr-button):not(.sr-button-secondary),
+.sr-project-card a:not(.sr-button):not(.sr-button-secondary) {
+text-decoration: underline;
+text-decoration-thickness: 1px;
+text-underline-offset: 0.18em;
+font-weight: 800;
+}
+
+/* But headings that are links should stay clean and intentional */
+.sr-card h3 a,
+.sr-project-card h3 a,
+.sr-flow-step h3 a {
+text-decoration: none !important;
+}
+
+.sr-card h3 a:hover,
+.sr-project-card h3 a:hover,
+.sr-flow-step h3 a:hover {
+text-decoration: underline !important;
+text-underline-offset: 0.18em;
+}
+
+/* -----------------------------
+Mobile clickability distinction
+----------------------------- */
+
+@media (max-width: 768px) {
+a.sr-button,
+a.sr-button-secondary,
+.sr-cta-row a.sr-button,
+.sr-review-actions a.sr-button {
+min-height: 52px !important;
+border-radius: 999px !important;
+}
+
+.sr-status,
+span.sr-status {
+border-radius: 0.5rem !important;
+padding: 0.26rem 0.56rem !important;
+font-size: 0.7rem !important;
+}
+
+.sr-eyebrow {
+border-radius: 0.55rem !important;
+}
+}
+
