@@ -1,11 +1,13 @@
 ---
+
 title: "Home"
 description: "Cybersecurity portfolio for Vlad K."
 showTitle: false
 showDate: false
 showAuthor: false
 showReadingTime: false
----
+showWordCount: false
+--------------------
 
 <div class="sr-home sr-animate">
 
@@ -43,7 +45,7 @@ Vulnerability Response, vulnerable item workflows, ownership, validation, and cl
 
 ### [Projects](/projects/)
 
-Redacted cybersecurity, academic, ServiceNow, and technical case studies.
+Redacted cybersecurity, academic, ServiceNow, software engineering, and technical case studies.
 
 <span class="sr-status sr-status-complete">Portfolio</span>
 
@@ -51,9 +53,19 @@ Redacted cybersecurity, academic, ServiceNow, and technical case studies.
 
 <div class="sr-card">
 
+### [Software Foundations](/projects/java-data-structures-software-engineering-foundations/)
+
+Java, OOP, UML modeling, data structures, Big-O analysis, unit testing, debugging, and Git workflow practice.
+
+<span class="sr-status sr-status-concept">Java + OOP</span>
+
+</div>
+
+<div class="sr-card">
+
 ### [Research & Labs](/research-labs/)
 
-Hands-on labs, workflow testing, and technical security notes.
+Hands-on labs, workflow testing, academic cybersecurity labs, and technical security notes.
 
 <span class="sr-status sr-status-lab">Labs</span>
 
@@ -63,7 +75,7 @@ Hands-on labs, workflow testing, and technical security notes.
 
 ### [AI & Security](/ai-security/)
 
-AI-assisted workflow ideas for SecOps, vulnerability management, and OT/ICS risk.
+AI-assisted workflow ideas for SecOps, vulnerability management, and OT/ICS risk translation.
 
 <span class="sr-status sr-status-concept">Concepts</span>
 
