@@ -222,3 +222,13 @@
   name = "Security & Privacy"
   pageRef = "security-privacy"
   weight = 60
+
+  [[footer]]
+  name = "Capabilities"
+  pageRef = "capabilities"
+  weight = 15
+
+  [[footer]]
+  name = "Changelog"
+  pageRef = "changelog"
+  weight = 70

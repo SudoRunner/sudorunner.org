@@ -214,6 +214,7 @@ Future improvements may include:
 * adding more OT/ICS security notes
 * adding a changelog-style page for site improvements
 * improving accessibility and metadata
+* maintaining a public [Changelog](/changelog/) to document portfolio improvements over time
 
 ## Portfolio Note
 
