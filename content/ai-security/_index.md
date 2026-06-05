@@ -22,6 +22,22 @@ The goal is not to present AI as a replacement for security professionals. Inste
 ---
 
 ## Featured Concept Notes
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [AI-Powered Vulnerability Ownership Recommender for ServiceNow SecOps](/ai-security/ai-powered-vulnerability-ownership-recommender/)
+
+A concept design for AI-assisted vulnerable item ownership, assignment group recommendation, remediation path suggestion, escalation priority, and analyst-reviewed next steps.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-status sr-status-concept">AI SecOps</span>
+  <span class="sr-status sr-status-progress">ServiceNow VR</span>
+</div>
+
+</div>
 
 <div class="sr-card-grid">
 

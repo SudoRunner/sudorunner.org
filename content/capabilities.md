@@ -115,7 +115,7 @@ Concepts for AI-assisted vulnerability ownership, risk translation, analyst revi
   <span class="sr-status sr-status-progress">Idea Lab</span>
 </div>
 
-[View evidence](/ai-security/)
+[View AI & Security](/ai-security/) · [View ownership recommender](/ai-security/ai-powered-vulnerability-ownership-recommender/)
 
 </div>
 
