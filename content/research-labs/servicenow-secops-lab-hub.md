@@ -162,6 +162,8 @@ Future lab writeups may include:
 * AI-generated analyst summary for vulnerable item review
 * Translating vulnerable item risk into stakeholder communication
 
+* [ServiceNow Vulnerability Response Triage Checklist](/research-labs/servicenow-vr-triage-checklist/)
+
 ## Professional Relevance
 
 This lab hub supports my focus on:
