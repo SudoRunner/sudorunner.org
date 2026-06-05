@@ -98,16 +98,77 @@ This project used:
 
 ## Architecture
 
-The site follows a simple static deployment model:
+`sudoRunner` follows a static-site deployment architecture.
+
+<div class="sr-flow">
+
+<div class="sr-flow-step">
+  <span class="sr-flow-number">1</span>
+
+### Local Hugo Project
+
+Content, layout overrides, Markdown pages, custom CSS, static assets, and portfolio structure are maintained locally.
+
+<span class="sr-status sr-status-concept">Local Build</span>
+
+</div>
+
+<div class="sr-flow-step">
+  <span class="sr-flow-number">2</span>
+
+### GitHub Repository
+
+Changes are committed through Git and pushed to GitHub for version control and deployment tracking.
+
+<span class="sr-status sr-status-complete">Version Control</span>
+
+</div>
+
+<div class="sr-flow-step">
+  <span class="sr-flow-number">3</span>
+
+### Cloudflare Pages
+
+Cloudflare Pages builds and deploys the Hugo site automatically from the GitHub repository.
+
+<span class="sr-status sr-status-lab">Static Deployment</span>
+
+</div>
+
+<div class="sr-flow-step">
+  <span class="sr-flow-number">4</span>
+
+### Custom Domain
+
+The site is served through `sudorunner.org` with Cloudflare DNS managing the domain configuration.
+
+<span class="sr-status sr-status-complete">Custom DNS</span>
+
+</div>
+
+<div class="sr-flow-step">
+  <span class="sr-flow-number">5</span>
+
+### Security & Contact Layer
+
+Cloudflare Email Routing, security headers, security.txt, robots.txt, humans.txt, and privacy-conscious public content support the professional deployment.
+
+<span class="sr-status sr-status-progress">Security-Aware</span>
+
+</div>
+
+</div>
+
+The deployment flow can be summarized as:
 
 ```text
-Local Hugo project
-→ GitHub repository
-→ Cloudflare Pages build
-→ sudorunner.org custom domain
+Local Hugo Project
+→ GitHub Repository
+→ Cloudflare Pages Build
+→ sudorunner.org Custom Domain
+→ Email Routing + Security Metadata
 ```
 
-Content is written locally in Markdown, committed to GitHub, and automatically deployed through Cloudflare Pages.
 
 ## Design Features
 
