@@ -20,6 +20,7 @@ Cybersecurity portfolio focused on **ServiceNow SecOps**, **vulnerability manage
 <div class="sr-cta-row">
   <a class="sr-button" href="/start-here/">Start Here</a>
   <a class="sr-button" href="/review-paths/">Review Paths</a>
+  <a class="sr-button-secondary sr-button" href="/opportunity-fit/">Opportunity Fit</a>
   <a class="sr-button" href="/resume/">Resume</a>
   <a class="sr-button" href="/credentials/">Credentials</a>
   <a class="sr-button-secondary sr-button" href="/contact/">Contact</a>

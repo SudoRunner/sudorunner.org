@@ -237,3 +237,13 @@
   name = "Badge Legend"
   pageRef = "badge-legend"
   weight = 75
+
+  [[footer]]
+  name = "Review Paths"
+  pageRef = "review-paths"
+  weight = 18
+
+  [[footer]]
+  name = "Opportunity Fit"
+  pageRef = "opportunity-fit"
+  weight = 19
