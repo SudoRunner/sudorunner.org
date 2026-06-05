@@ -12,7 +12,7 @@ showReadingTime: false
 I am a U.S. citizen and Penn State Cybersecurity Analytics & Operations graduate focused on **ServiceNow SecOps**, **Vulnerability Response**, **cybersecurity operations**, **vulnerability management**, and **OT/ICS security**.
 
 <div class="sr-cta-row">
-  <a class="sr-button" href="/files/Vlad_K_Public_Resume.pdf">Download Resume PDF</a>
+  <a class="sr-button" href="/files/Vlad_K_Resume_6_4_2026.pdf">Download Resume PDF</a>
   <a class="sr-button" href="/opportunity-fit/">Opportunity Fit</a>
   <a class="sr-button" href="/contact/">Contact Me</a>
   <a class="sr-button-secondary sr-button" href="/credentials/">Credentials</a>
