@@ -2599,4 +2599,47 @@ strong.cum-laude {
   content: none !important;
 }
 
-<span class="sr-inline-honor">Cum Laude</span>
+/* =========================================================
+   FINAL Universal Cum Laude Override
+   Must be last in custom.css.
+   ========================================================= */
+
+html body .sr-cum-laude,
+html body span.sr-cum-laude,
+html body strong .sr-cum-laude,
+html body .prose .sr-cum-laude,
+html body .dark .sr-cum-laude,
+html body .sr-page-content .sr-cum-laude,
+html body .sr-page-shell .sr-cum-laude,
+html body .sr-card .sr-cum-laude,
+html body .sr-info-panel .sr-cum-laude,
+html body .sr-static-panel .sr-cum-laude {
+  display: inline !important;
+  color: #facc15 !important;
+  -webkit-text-fill-color: #facc15 !important;
+
+  font-weight: 950 !important;
+  font-style: normal !important;
+
+  padding: 0 !important;
+  margin: 0 !important;
+  border: 0 !important;
+  outline: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+
+  text-decoration: none !important;
+  cursor: default !important;
+  pointer-events: none !important;
+
+  text-shadow:
+    0 0 7px rgba(250, 204, 21, 0.72),
+    0 0 16px rgba(250, 204, 21, 0.42),
+    0 0 28px rgba(250, 204, 21, 0.24) !important;
+}
+
+html body .sr-cum-laude::before,
+html body .sr-cum-laude::after {
+  content: none !important;
+}

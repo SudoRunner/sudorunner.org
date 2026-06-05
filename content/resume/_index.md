@@ -134,8 +134,6 @@ Academic exposure to ICS/SCADA concepts in simulated smart grid and lab environm
 
 </div>
 
----
-
 ## Education
 
 <div class="sr-info-panel sr-static-panel">
@@ -144,12 +142,13 @@ Academic exposure to ICS/SCADA concepts in simulated smart grid and lab environm
 
 **B.S. Cybersecurity Analytics & Operations**
 
-Graduated **Cum Laude**
-GPA: **3.88**
+Graduated <span class="sr-cum-laude">Cum Laude</span>  
+GPA: **3.88**  
+Focus Area: **Application Development**
 
 <div class="sr-static-label-row">
   <span class="sr-static-label sr-static-label-complete">Completed</span>
-  <span class="sr-static-label sr-static-label-honor">Graduated Cum Laude</span>
+  <span class="sr-static-label">Application Development Focus</span>
 </div>
 
 </div>

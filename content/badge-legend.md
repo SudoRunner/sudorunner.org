@@ -69,7 +69,7 @@ Used for lab-based work, practical exercises, technical investigations, and hand
 
 ### Academic Honor
 
-<span class="sr-inline-honor">Cum Laude</span>
+<span class="sr-cum-laude">Cum Laude</span>
 
 Used for academic distinction and education-related highlights.
 

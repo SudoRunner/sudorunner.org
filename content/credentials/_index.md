@@ -17,20 +17,28 @@ This page highlights my education, certifications, academic achievements, and cy
 
 <div class="sr-card">
 
+## Education
+
+<div class="sr-info-panel sr-static-panel">
+
 ### Penn State University
 
-**B.S. Cybersecurity Analytics & Operations**  
-Graduated <span class="sr-inline-honor">Cum Laude</span> 
-GPA: **3.88**
+**B.S. Cybersecurity Analytics & Operations**
 
-Relevant areas of study included cybersecurity operations, network security, application development, risk analysis, incident response, and exposure to ICS/SCADA concepts in simulated smart grid environments.
+Graduated <span class="sr-cum-laude">Cum Laude</span>  
+GPA: **3.88**  
+Focus Area: **Application Development**
 
-<div class="sr-project-meta">
-  <span class="sr-status sr-status-complete">Completed</span>
-  <span class="sr-status sr-status-honor">Cum Laude</span>
+Relevant areas of study included cybersecurity operations, network security, application development, risk analysis, incident response concepts, and security-focused technical foundations.
+
+<div class="sr-static-label-row">
+  <span class="sr-static-label sr-static-label-complete">Completed</span>
+  <span class="sr-static-label">Application Development Focus</span>
 </div>
 
 </div>
+
+---
 
 ## Certifications & Credential Progress
 
