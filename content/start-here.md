@@ -89,6 +89,16 @@ Professional contact options, LinkedIn, resume link, and opportunity fit.
 </div>
 
 ---
+---
+
+## Capability Matrix
+
+For a quick skill-to-evidence overview, visit the [Capabilities Matrix](/capabilities/).
+
+<div class="sr-cta-row">
+  <a class="sr-button" href="/capabilities/">View Capabilities Matrix</a>
+  <a class="sr-button-secondary sr-button" href="/projects/">View Projects</a>
+</div>
 
 ## What This Portfolio Is Designed to Show
 
