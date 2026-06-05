@@ -81,6 +81,21 @@ Before publishing project content, I review for:
 ---
 ## Security Contact Standard
 
+## Site Metadata Files
+
+This site includes standard public metadata files:
+
+* [robots.txt](/robots.txt)
+* [humans.txt](/humans.txt)
+* [security.txt](/.well-known/security.txt)
+
+These files support search engine discovery, basic site transparency, and standard security contact discovery.
+
+<div class="sr-project-meta">
+  <span class="sr-status sr-status-concept">Site Metadata</span>
+  <span class="sr-status sr-status-complete">Configured</span>
+</div>
+
 This site includes a public `security.txt` file at:
 
 [/.well-known/security.txt](/.well-known/security.txt)

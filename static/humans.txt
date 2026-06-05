@@ -1,0 +1,26 @@
+/* sudoRunner */
+
+Site: https://sudorunner.org
+Purpose: Cybersecurity portfolio, technical lab notes, ServiceNow SecOps work, OT/ICS security interests, AI security concepts, and redacted academic case studies.
+
+Public Contact: [contact@sudorunner.org](mailto:contact@sudorunner.org)
+LinkedIn: https://www.linkedin.com/in/vki/
+
+Built with:
+
+* Hugo
+* Blowfish
+* GitHub
+* Cloudflare Pages
+* Cloudflare DNS
+* Cloudflare Email Routing
+* Custom CSS
+
+Public display name:
+
+* Vlad K.
+
+Privacy note:
+
+* This site uses portfolio-safe redaction.
+* Raw academic submissions, private identifiers, client data, credentials, and sensitive implementation details are not published.
