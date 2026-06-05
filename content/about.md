@@ -79,6 +79,15 @@ My professional experience includes supporting ServiceNow SecOps and Vulnerabili
 My academic background includes cybersecurity operations, network security, risk analysis, incident response, application development, web design, machine learning for traffic classification, and exposure to ICS/SCADA concepts in simulated smart grid and lab environments.
 
 ---
+<div class="sr-card">
+
+### Software Engineering Foundations
+
+Java, object-oriented programming, data structures, Big-O analysis, UML/CRC modeling, testing, debugging, and Git workflow practice.
+
+<span class="sr-status sr-status-concept">Java + OOP</span>
+
+</div>
 
 ## What This Site Demonstrates
 
