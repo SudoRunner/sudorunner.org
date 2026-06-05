@@ -39,7 +39,7 @@ Vulnerability Response, vulnerable item workflows, assignment groups, remediatio
   <span class="sr-status sr-status-progress">SecOps</span>
 </div>
 
-[View evidence](/research-labs/servicenow-secops-lab-hub/)
+[View lab hub](/research-labs/servicenow-secops-lab-hub/) · [View triage checklist](/research-labs/servicenow-vr-triage-checklist/)
 
 </div>
 
@@ -184,7 +184,7 @@ Redacted case studies, portfolio-safe project summaries, stakeholder-friendly ex
 
 | Capability                          | Evidence                                                                                                                         |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| ServiceNow SecOps                   | [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)                                                           |
+| ServiceNow SecOps | [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/) · [VR Triage Checklist](/research-labs/servicenow-vr-triage-checklist/)     |                                                       
 | Vulnerability Response              | [ServiceNow Vulnerability Response Lab](/projects/servicenow-vulnerability-response-lab/)                                        |
 | Cybersecurity Labs                  | [IST 451 Security Labs Collection](/research-labs/ist-451-security-labs-collection/)                                             |
 | Malware Investigation               | [Malware-Based Attack Investigation Lab](/projects/malware-based-attack-investigation-lab/)                                      |

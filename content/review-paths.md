@@ -38,7 +38,7 @@ Best path for reviewers evaluating ServiceNow SecOps, Vulnerability Response, vu
   <span class="sr-status sr-status-progress">SecOps</span>
 </div>
 
-[Start this path](/research-labs/servicenow-secops-lab-hub/)
+[Start this path](/research-labs/servicenow-secops-lab-hub/) · [Review triage checklist](/research-labs/servicenow-vr-triage-checklist/)
 
 </div>
 

@@ -179,6 +179,8 @@ GPA: **3.88**
 
 Hands-on Vulnerability Response and SecOps workflow portfolio hub.
 
+[VR Triage Checklist](/research-labs/servicenow-vr-triage-checklist/)
+
 <span class="sr-status sr-status-lab">ServiceNow</span>
 
 </div>
