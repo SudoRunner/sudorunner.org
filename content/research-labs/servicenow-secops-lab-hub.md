@@ -60,6 +60,71 @@ This lab demonstrates:
 * exception and false positive handling
 * validation before closure
 * analyst documentation
+## Vulnerability Response Workflow Map
+
+<div class="sr-flow">
+
+<div class="sr-flow-step">
+  <span class="sr-flow-number">1</span>
+
+### Intake
+
+Vulnerable items are reviewed as findings enter the workflow from scanning, import, integration, or manual review.
+
+<span class="sr-status sr-status-lab">Finding Review</span>
+</div>
+
+<div class="sr-flow-step">
+  <span class="sr-flow-number">2</span>
+
+### Triage
+
+Risk, asset context, severity, exploitability, business impact, and remediation urgency are evaluated.
+
+<span class="sr-status sr-status-progress">Risk Review</span>
+</div>
+
+<div class="sr-flow-step">
+  <span class="sr-flow-number">3</span>
+
+### Ownership
+
+The vulnerable item is assigned to the correct remediation group or owner based on CI, service, application, or support responsibility.
+
+<span class="sr-status sr-status-complete">Assignment</span>
+</div>
+
+<div class="sr-flow-step">
+  <span class="sr-flow-number">4</span>
+
+### Remediation
+
+A remediation task or action path is tracked so the finding becomes accountable work instead of an unresolved security observation.
+
+<span class="sr-status sr-status-lab">Action Tracking</span>
+</div>
+
+<div class="sr-flow-step">
+  <span class="sr-flow-number">5</span>
+
+### Exception Handling
+
+Findings that cannot be immediately remediated may require risk acceptance, compensating controls, maintenance-window planning, or false-positive review.
+
+<span class="sr-status sr-status-concept">Exception Logic</span>
+</div>
+
+<div class="sr-flow-step">
+  <span class="sr-flow-number">6</span>
+
+### Validation & Closure
+
+Closure should be based on documented evidence that remediation occurred, risk was accepted, or the finding was otherwise resolved.
+
+<span class="sr-status sr-status-complete">Closure</span>
+</div>
+
+</div>
 
 ## ServiceNow SecOps Concepts Covered
 
