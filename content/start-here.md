@@ -50,14 +50,11 @@ Hands-on Vulnerability Response lab hub focused on vulnerable item workflows, re
 
 ### [Projects](/projects/)
 
-Redacted project gallery covering ServiceNow, network traffic analysis, malware investigation, OT/ICS, web design, and this portfolio site.
+Redacted project gallery covering ServiceNow, network traffic analysis, Java/software foundations, malware investigation, OT/ICS, web design, and this portfolio site.
+
+[View Software Foundations project](/projects/java-data-structures-software-engineering-foundations/)
 
 <span class="sr-status sr-status-complete">Proof of Work</span>
-
-</div>
-
-<div class="sr-flow-step">
-  <span class="sr-flow-number">4</span>
 
 ### [OT/ICS Security](/ot-ics-security/)
 
