@@ -1,4 +1,5 @@
 {{ define "main" }}
+
   <article class="sr-page-shell prose dark:prose-invert">
     {{ if ne .Params.showTitle false }}
       <header class="mb-10">
@@ -8,8 +9,13 @@
       </header>
     {{ end }}
 
-    <section class="sr-page-content">
-      {{ .Content }}
-    </section>
+```
+<section class="sr-page-content">
+  {{ .Content }}
+</section>
+
+{{ partial "components/review-path-nav.html" . }}
+```
+
   </article>
 {{ end }}
