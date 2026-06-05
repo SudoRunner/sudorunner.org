@@ -232,3 +232,8 @@
   name = "Changelog"
   pageRef = "changelog"
   weight = 70
+
+  [[footer]]
+  name = "Badge Legend"
+  pageRef = "badge-legend"
+  weight = 75
