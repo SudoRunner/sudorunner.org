@@ -11,44 +11,148 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "About"
-pageRef = "about"
-weight = 10
+  identifier = "about"
+  name = "About"
+  pageRef = "about"
+  weight = 10
 
 [[main]]
-name = "Projects"
-pageRef = "projects"
-weight = 20
+  identifier = "projects"
+  name = "Projects"
+  pageRef = "projects"
+  weight = 20
 
 [[main]]
- name = "Research & Labs"
- pageRef = "research-labs"
- weight = 30
+  name = "Project Gallery"
+  pageRef = "projects"
+  parent = "projects"
+  weight = 10
 
 [[main]]
- name = "AI & Security"
- pageRef = "ai-security"
- weight = 40
+  name = "ServiceNow VR Lab"
+  pageRef = "projects/servicenow-vulnerability-response-lab"
+  parent = "projects"
+  weight = 20
 
 [[main]]
+  name = "sudoRunner Website"
+  pageRef = "projects/sudorunner-portfolio-website"
+  parent = "projects"
+  weight = 30
+
+[[main]]
+  name = "Network Traffic + ML"
+  pageRef = "projects/network-traffic-analysis-ml-anomaly-detection"
+  parent = "projects"
+  weight = 40
+
+[[main]]
+  name = "Malware Investigation Lab"
+  pageRef = "projects/malware-based-attack-investigation-lab"
+  parent = "projects"
+  weight = 50
+
+[[main]]
+  name = "Web Design Project"
+  pageRef = "projects/uphill-struggle-bicycles-web-design-project"
+  parent = "projects"
+  weight = 60
+
+[[main]]
+  identifier = "research-labs"
+  name = "Research & Labs"
+  pageRef = "research-labs"
+  weight = 30
+
+[[main]]
+  name = "Research & Labs Home"
+  pageRef = "research-labs"
+  parent = "research-labs"
+  weight = 10
+
+[[main]]
+  name = "ServiceNow SecOps Lab Hub"
+  pageRef = "research-labs/servicenow-secops-lab-hub"
+  parent = "research-labs"
+  weight = 20
+
+[[main]]
+  name = "IST 451 Security Labs"
+  pageRef = "research-labs/ist-451-security-labs-collection"
+  parent = "research-labs"
+  weight = 30
+
+[[main]]
+  identifier = "ai-security"
+  name = "AI & Security"
+  pageRef = "ai-security"
+  weight = 40
+
+[[main]]
+  name = "AI & Security Home"
+  pageRef = "ai-security"
+  parent = "ai-security"
+  weight = 10
+
+[[main]]
+  name = "AI Risk Translation"
+  pageRef = "ai-security/using-ai-to-translate-vulnerability-risk"
+  parent = "ai-security"
+  weight = 20
+
+[[main]]
+  identifier = "ot-ics-security"
   name = "OT/ICS Security"
   pageRef = "ot-ics-security"
   weight = 50
 
 [[main]]
+  name = "OT/ICS Security Home"
+  pageRef = "ot-ics-security"
+  parent = "ot-ics-security"
+  weight = 10
+
+[[main]]
+  name = "ICS IT/OT DoS Lab"
+  pageRef = "ot-ics-security/ics-it-ot-application-level-dos-lab"
+  parent = "ot-ics-security"
+  weight = 20
+
+[[main]]
+  identifier = "credentials"
   name = "Credentials"
   pageRef = "credentials"
-  weight = 60 
+  weight = 60
+
+[[main]]
+  name = "Credentials Home"
+  pageRef = "credentials"
+  parent = "credentials"
+  weight = 10
 
 [[main]]
   name = "Resume"
   pageRef = "resume"
-  weight = 70  
+  parent = "credentials"
+  weight = 20
 
 [[main]]
+  name = "Security & Privacy"
+  pageRef = "security-privacy"
+  parent = "credentials"
+  weight = 30
+
+[[main]]
+  identifier = "resume"
+  name = "Resume"
+  pageRef = "resume"
+  weight = 70
+
+[[main]]
+  identifier = "contact"
   name = "Contact"
   pageRef = "contact"
-  weight = 80  
+  weight = 80
 
 #[[main]]
 #  name = "example sub-menu 1"

@@ -1,15 +1,17 @@
 ---
 
 title: "Projects"
-description: "Redacted cybersecurity, ServiceNow, academic, technical, and web design portfolio projects."
+description: "Redacted cybersecurity, ServiceNow, academic, technical, software engineering, and web design portfolio projects."
+layout: "landing"
 showDate: false
 showAuthor: false
 showReadingTime: false
+
 ----------------------
 
 <span class="sr-eyebrow">Portfolio Gallery</span>
 
-This section contains selected cybersecurity, ServiceNow, academic, technical, and web design projects that demonstrate practical security knowledge, structured problem solving, hands-on lab work, and front-end development experience.
+This section contains selected cybersecurity, ServiceNow, academic, technical, software engineering, and web design projects that demonstrate practical security knowledge, structured problem solving, hands-on lab work, software foundations, and front-end development experience.
 
 Projects are presented in a **redacted case-study format**. The goal is to show technical depth and decision-making without exposing private data, client information, full solutions, or sensitive implementation details.
 
@@ -48,7 +50,7 @@ End-to-end Vulnerability Response workflow covering vulnerable item review, owne
 
 ### [sudoRunner Portfolio Website](/projects/sudorunner-portfolio-website/)
 
-Professional cybersecurity portfolio built with Hugo, Blowfish, GitHub, Cloudflare Pages, custom DNS, email routing, Markdown content, custom CSS, cards, badges, and privacy-conscious publishing.
+Professional cybersecurity portfolio built with Hugo, Blowfish, GitHub, Cloudflare Pages, custom DNS, email routing, Markdown content, custom CSS, cards, badges, security headers, and privacy-conscious publishing.
 
 </div>
 
@@ -72,6 +74,23 @@ Redacted academic cybersecurity project involving packet investigation, suspicio
 <div class="sr-project-meta">
   <span class="sr-status sr-status-complete">Academic Project</span>
   <span class="sr-status sr-status-concept">ML</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [Java Data Structures, OOP & Software Engineering Foundations](/projects/java-data-structures-software-engineering-foundations/)
+
+Redacted academic project collection covering Java, object-oriented programming, UML modeling, CRC cards, data structures, Big-O analysis, unit testing, debugging, and Git workflow practice.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-status sr-status-concept">Java</span>
+  <span class="sr-status sr-status-complete">Software Foundations</span>
 </div>
 
 </div>
@@ -166,11 +185,21 @@ Hands-on labs and writeups related to vulnerable items, assignment groups, remed
 
 <div class="sr-card">
 
-### Redacted Academic Projects
+### Redacted Cybersecurity Projects
 
 Selected Penn State cybersecurity projects converted into sanitized case studies. These focus on the problem, methods, tools, security concepts, and lessons learned without publishing full solutions.
 
 <span class="sr-status sr-status-complete">Portfolio-Safe</span>
+
+</div>
+
+<div class="sr-card">
+
+### Software Engineering Foundations
+
+Academic programming and software design work covering Java, data structures, algorithms, OOP, UML, testing, debugging, and Git workflow practice.
+
+<span class="sr-status sr-status-concept">Technical Foundation</span>
 
 </div>
 
@@ -191,6 +220,16 @@ Academic and personal web projects focused on HTML, CSS, JavaScript, layout desi
 Projects focused on translating technical findings into operational risk, prioritization, ownership, remediation planning, containment, and stakeholder communication.
 
 <span class="sr-status sr-status-progress">SecOps</span>
+
+</div>
+
+<div class="sr-card">
+
+### OT/ICS Security
+
+Projects and concept notes related to industrial security, SCADA/PLC concepts, cyber-physical risk, operational disruption, recovery validation, and risk communication.
+
+<span class="sr-status sr-status-progress">OT/ICS</span>
 
 </div>
 
