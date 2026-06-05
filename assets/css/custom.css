@@ -1888,3 +1888,159 @@ margin-bottom: 0.75rem !important;
 bottom: -1.45rem !important;
 }
 }
+
+/* =========================================================
+Final Mobile Overlap Fix
+Fixes mobile CTA/button overlap, Safari bottom chrome spacing,
+flow-card arrow clearance, and content/card clipping.
+Place this at the VERY BOTTOM of custom.css.
+========================================================= */
+
+@media (max-width: 768px) {
+html,
+body {
+overflow-x: hidden !important;
+scroll-padding-bottom: calc(7rem + env(safe-area-inset-bottom)) !important;
+}
+
+main {
+padding-bottom: calc(7rem + env(safe-area-inset-bottom)) !important;
+}
+
+section,
+article,
+.sr-page-shell,
+.sr-page-content {
+overflow: visible !important;
+}
+
+.sr-page-shell {
+padding-left: 1rem !important;
+padding-right: 1rem !important;
+}
+
+.sr-page-content > hr,
+.sr-page-shell hr {
+margin-top: 2.25rem !important;
+margin-bottom: 2.25rem !important;
+}
+
+/* Prevent section/background transitions from visually cutting through buttons */
+.sr-cta-row {
+position: relative !important;
+z-index: 10 !important;
+display: flex !important;
+flex-direction: column !important;
+align-items: stretch !important;
+gap: 0.8rem !important;
+width: 100% !important;
+margin-top: 1.25rem !important;
+margin-bottom: 2.75rem !important;
+padding-bottom: 0.5rem !important;
+isolation: isolate !important;
+}
+
+.sr-cta-row + hr,
+.sr-cta-row + .sr-flow,
+.sr-cta-row + .sr-card-grid {
+margin-top: 2.5rem !important;
+}
+
+.sr-button,
+.sr-button-secondary,
+.sr-cta-row .sr-button,
+.sr-review-actions .sr-button {
+position: relative !important;
+z-index: 12 !important;
+display: inline-flex !important;
+width: 100% !important;
+min-height: 48px !important;
+align-items: center !important;
+justify-content: center !important;
+text-align: center !important;
+line-height: 1.2 !important;
+white-space: normal !important;
+overflow-wrap: anywhere !important;
+border-radius: 999px !important;
+box-sizing: border-box !important;
+}
+
+/* Let cards breathe and avoid clipping internal badges/arrows */
+.sr-card,
+.sr-project-card,
+.sr-callout,
+.sr-case-hero,
+.sr-flow-step,
+.sr-concept-node,
+.sr-review-nav {
+overflow: visible !important;
+}
+
+/* Extra space between vertical workflow cards so arrows never collide */
+.sr-flow {
+gap: 2.75rem !important;
+margin-top: 1.5rem !important;
+margin-bottom: 2.5rem !important;
+}
+
+.sr-flow-step {
+position: relative !important;
+padding: 1.15rem !important;
+margin-bottom: 0 !important;
+z-index: 2 !important;
+}
+
+.sr-flow-step .sr-flow-number,
+.sr-flow-number {
+position: static !important;
+transform: none !important;
+margin: 0 0 0.9rem 0 !important;
+z-index: 4 !important;
+}
+
+.sr-flow-step::after {
+bottom: -2.05rem !important;
+z-index: 6 !important;
+}
+
+.sr-flow-step:last-child::after {
+display: none !important;
+content: none !important;
+}
+
+/* Keep page-bottom guided nav away from iOS Safari toolbar */
+.sr-review-nav {
+margin-bottom: calc(3rem + env(safe-area-inset-bottom)) !important;
+}
+
+footer {
+margin-top: 3rem !important;
+padding-bottom: calc(7rem + env(safe-area-inset-bottom)) !important;
+}
+}
+
+@media (max-width: 420px) {
+.sr-page-shell {
+padding-left: 0.85rem !important;
+padding-right: 0.85rem !important;
+}
+
+.sr-cta-row {
+margin-bottom: 3rem !important;
+}
+
+.sr-flow {
+gap: 2.6rem !important;
+}
+
+.sr-flow-step::after {
+bottom: -1.95rem !important;
+}
+
+.sr-button,
+.sr-button-secondary,
+.sr-cta-row .sr-button {
+min-height: 50px !important;
+}
+}
+
