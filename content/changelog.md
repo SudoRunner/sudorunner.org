@@ -1,105 +1,248 @@
 ---
-title: "Changelog"
-description: "Portfolio update history for sudoRunner."
+
+title: "Portfolio Changelog"
+description: "A changelog documenting major sudoRunner portfolio improvements, design updates, security-conscious publishing decisions, HCI refinements, and content additions."
 showDate: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
----
+--------------------
 
-<span class="sr-eyebrow">Portfolio Change Log</span>
+<span class="sr-eyebrow">Portfolio Changelog</span>
 
-This page tracks major updates to `sudoRunner`, including content additions, design improvements, security/privacy enhancements, and portfolio structure changes.
+This changelog documents meaningful improvements to `sudoRunner`, including portfolio architecture, navigation, HCI refinements, security-conscious publishing, mobile usability, branding, and project content additions.
 
 <div class="sr-callout">
 
-<strong>Purpose:</strong> This changelog shows that the portfolio is actively maintained, version-controlled, and improved over time.
+<strong>Purpose:</strong> This page shows that the portfolio is treated as a real technical product, not just a static resume page. Updates are tracked as part of the site’s design, usability, security, and content maturity.
 
 </div>
 
 ---
 
-## 2026-06-04
+## May/June 2026
 
 <div class="sr-card-grid">
 
-<div class="sr-card">
+<div class="sr-card sr-project-card">
 
-### Portfolio Foundation
+<div>
 
-Built and structured the core portfolio around ServiceNow SecOps, cybersecurity projects, research labs, AI security ideas, OT/ICS security, credentials, resume, and contact.
+### Guided 60-Second Review Path
 
-<span class="sr-status sr-status-complete">Foundation</span>
+Added a guided review path that creates a clear start-to-finish reviewer journey:
 
-</div>
+Resume → ServiceNow SecOps → Projects → OT/ICS Security → AI & Security → Contact.
 
-<div class="sr-card">
-
-### Custom Design System
-
-Added custom CSS for cards, badges, callouts, buttons, hover effects, dark-mode contrast, academic honor styling, and case-study summary blocks.
-
-<span class="sr-status sr-status-concept">Design System</span>
+This improves usability by making the visitor’s next step obvious on each major review page.
 
 </div>
 
-<div class="sr-card">
-
-### Navigation Upgrade
-
-Added custom desktop dropdown navigation for Projects, Labs, AI, OT/ICS, Credentials, Resume, and Contact.
-
-<span class="sr-status sr-status-complete">Navigation</span>
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">HCI Improvement</span>
+  <span class="sr-static-label sr-static-label-complete">Navigation</span>
+</div>
 
 </div>
 
-<div class="sr-card">
+<div class="sr-card sr-project-card">
 
-### Start Here Workflow
+<div>
 
-Created a guided review workflow to help employers and technical reviewers move through the portfolio efficiently.
+### Mobile HCI Stabilization
 
-<span class="sr-status sr-status-lab">Review Path</span>
+Improved mobile layout behavior across homepage, Start Here, Resume, ServiceNow SecOps Lab Hub, Projects, Credentials, and Contact pages.
 
-</div>
-
-<div class="sr-card">
-
-### Capabilities Matrix
-
-Added a capability-to-evidence matrix connecting skills to specific projects, labs, and case studies.
-
-<span class="sr-status sr-status-progress">Skill Map</span>
+The update focused on spacing, button stacking, workflow cards, Safari safe-area behavior, text wrapping, card clipping, and mobile readability.
 
 </div>
 
-<div class="sr-card">
-
-### Security & Privacy Enhancements
-
-Added security headers, security.txt, robots.txt, humans.txt, privacy-conscious resume handling, and redacted publishing standards.
-
-<span class="sr-status sr-status-complete">Security</span>
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Mobile UX</span>
+  <span class="sr-static-label sr-static-label-complete">Responsive Design</span>
+</div>
 
 </div>
 
-<div class="sr-card">
+<div class="sr-card sr-project-card">
 
-### Project Case Studies
+<div>
 
-Added and polished case studies for ServiceNow Vulnerability Response, sudoRunner Portfolio Website, Network Traffic + ML, Java Data Structures/OOP, OT/ICS DoS, Malware Investigation, IST 451 Labs, and Web Design.
+### Clickability Distinction
 
-<span class="sr-status sr-status-lab">Case Studies</span>
+Improved the visual distinction between clickable CTA buttons and non-clickable labels, badges, honors, and metadata chips.
+
+Clickable items now feel more interactive, while static labels such as Completed, Scheduled, Cum Laude, Primary Focus, and other status markers read more clearly as metadata.
 
 </div>
 
-<div class="sr-card">
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Usability</span>
+  <span class="sr-static-label sr-static-label-complete">Visual Hierarchy</span>
+</div>
 
-### Branding & Metadata
+</div>
 
-Added SVG logo, favicon, social sharing image, professional contact alias, footer links, custom 404 page, and public metadata files.
+<div class="sr-card sr-project-card">
 
-<span class="sr-status sr-status-concept">Branding</span>
+<div>
+
+### Credential Layout Cleanup
+
+Reworked education and credential sections into clearer static information panels and credential records.
+
+Credential naming and status language were made more consistent across Resume and Credentials pages, including CSA, CC, AZ-900, SC-900, SRA, NSA, and SANS NetWars references.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Credentials</span>
+  <span class="sr-static-label sr-static-label-complete">Content Quality</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### sudoRunner Favicon and Brand Polish
+
+Replaced the default Blowfish browser favicon with the sudoRunner terminal-style logo.
+
+This improved brand consistency across browser tabs, mobile browser suggestions, and the deployed site.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Branding</span>
+  <span class="sr-static-label sr-static-label-complete">Favicon</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### Start Here Workflow Alignment
+
+Updated the Start Here page so its visible review workflow matches the guided review navigation component.
+
+This makes the portfolio’s intended review path more consistent and easier to follow.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Start Here</span>
+  <span class="sr-static-label sr-static-label-complete">Reviewer Flow</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### CYBER 262 Security Foundations Lab Collection
+
+Added a redacted academic lab collection covering Linux log analysis, Python strace parsing, host-based defense, endpoint protection, Wazuh HIDS, Snort NIDS, Splunk fundamentals, 2FA, and buffer overflow concepts.
+
+The collection was integrated into Research & Labs, Projects, Capabilities, Review Paths, and navigation.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Cybersecurity Labs</span>
+  <span class="sr-static-label sr-static-label-complete">Security Foundations</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### AI Vulnerability Ownership Recommender Concept
+
+Added a concept design for an AI-assisted ServiceNow SecOps workflow that recommends vulnerable item ownership, assignment group routing, remediation path, escalation priority, and analyst-reviewed next steps.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">AI Security</span>
+  <span class="sr-static-label sr-static-label-complete">ServiceNow SecOps</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### ServiceNow VR Triage Checklist
+
+Added a portfolio-safe Vulnerability Response triage checklist covering vulnerable item intake, risk review, ownership assignment, remediation path, exception handling, validation, and closure.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">ServiceNow VR</span>
+  <span class="sr-static-label sr-static-label-complete">Checklist</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### Opportunity Fit Page
+
+Added a recruiter-friendly Opportunity Fit page that summarizes best-fit roles across ServiceNow SecOps, Vulnerability Response, cybersecurity analyst work, vulnerability management, security operations, consulting, OT/ICS security, and AI-assisted SecOps ideas.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Hiring Fit</span>
+  <span class="sr-static-label sr-static-label-complete">Recruiter UX</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### Apple-Style Dropdown Navigation
+
+Added desktop dropdown navigation for About, Projects, Labs, AI, OT/ICS, Credentials, Resume, and Contact.
+
+This improved category discovery and made the site easier to browse by role, topic, and evidence type.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Navigation</span>
+  <span class="sr-static-label sr-static-label-complete">Information Architecture</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### Security and Privacy Metadata
+
+Added or improved security-conscious public-site metadata, including security headers, security.txt, robots.txt, humans.txt, privacy-conscious resume handling, and public contact alias routing.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Security First</span>
+  <span class="sr-static-label sr-static-label-complete">Privacy</span>
+</div>
 
 </div>
 
@@ -107,37 +250,37 @@ Added SVG logo, favicon, social sharing image, professional contact alias, foote
 
 ---
 
-## Current Focus
+## Current Portfolio Direction
 
 <div class="sr-card-grid">
 
 <div class="sr-card">
 
-### ServiceNow SecOps Depth
+### HCI and Navigation
 
-Continue expanding Vulnerability Response, vulnerable item workflow, remediation ownership, and ServiceNow SecOps lab content.
+Continue improving the portfolio so reviewers can quickly understand where they are, what evidence matters, and where to go next.
 
-<span class="sr-status sr-status-lab">Primary Focus</span>
-
-</div>
-
-<div class="sr-card">
-
-### Project Expansion
-
-Continue reviewing academic work and converting the strongest files into redacted, employer-facing case studies.
-
-<span class="sr-status sr-status-progress">In Progress</span>
+<span class="sr-static-label sr-static-label-complete">Usability</span>
 
 </div>
 
 <div class="sr-card">
 
-### OT/ICS + AI Security
+### Security-Conscious Publishing
 
-Continue developing OT/ICS notes and AI-assisted security workflow concepts.
+Continue redacting academic and professional work so the site demonstrates technical depth without exposing private data, full solutions, sensitive screenshots, credentials, or client information.
 
-<span class="sr-status sr-status-concept">Differentiator</span>
+<span class="sr-static-label sr-static-label-complete">Security First</span>
+
+</div>
+
+<div class="sr-card">
+
+### Evidence-Based Portfolio Growth
+
+Continue reviewing college projects one by one and converting the strongest work into polished, portfolio-safe case studies.
+
+<span class="sr-static-label sr-static-label-complete">Portfolio Growth</span>
 
 </div>
 

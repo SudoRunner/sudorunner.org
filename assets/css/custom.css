@@ -2413,3 +2413,188 @@ font-size: 0.72rem !important;
 }
 }
 
+/* =========================================================
+   Honor Highlight Refinement
+   Purpose: make Cum Laude read as an academic honor, not as
+   a CTA button or flat metadata chip.
+   ========================================================= */
+
+.sr-honor,
+.cum-laude,
+mark,
+strong.sr-honor,
+span.sr-honor {
+  display: inline;
+  padding: 0.05rem 0.32rem !important;
+  border-radius: 0.32rem !important;
+  color: #facc15 !important;
+  background: rgba(250, 204, 21, 0.10) !important;
+  box-shadow:
+    0 0 10px rgba(250, 204, 21, 0.34),
+    0 0 22px rgba(250, 204, 21, 0.18) !important;
+  font-weight: 950 !important;
+  cursor: default !important;
+  text-decoration: none !important;
+}
+
+.sr-honor:hover,
+.cum-laude:hover,
+mark:hover,
+strong.sr-honor:hover,
+span.sr-honor:hover {
+  transform: none !important;
+  filter: none !important;
+  box-shadow:
+    0 0 10px rgba(250, 204, 21, 0.34),
+    0 0 22px rgba(250, 204, 21, 0.18) !important;
+}
+
+/* Static honor labels inside panels */
+.sr-static-label-honor {
+  color: #facc15 !important;
+  border-color: rgba(250, 204, 21, 0.45) !important;
+  background: rgba(250, 204, 21, 0.13) !important;
+  box-shadow: 0 0 16px rgba(250, 204, 21, 0.16) !important;
+}
+
+/* =========================================================
+   Inline Academic Honor Fix
+   Purpose: Cum Laude should read as an inline academic honor,
+   not as a clickable button, badge, or status chip.
+   ========================================================= */
+
+.sr-inline-honor,
+.prose .sr-inline-honor,
+.sr-page-content .sr-inline-honor,
+span.sr-inline-honor,
+strong.sr-inline-honor,
+mark.sr-inline-honor {
+  display: inline !important;
+  width: auto !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  padding: 0.02rem 0.22rem !important;
+  margin: 0 !important;
+  border: none !important;
+  outline: none !important;
+  border-radius: 0.22rem !important;
+  background: rgba(250, 204, 21, 0.08) !important;
+  color: #facc15 !important;
+  font-weight: 950 !important;
+  line-height: inherit !important;
+  letter-spacing: inherit !important;
+  box-shadow:
+    0 0 10px rgba(250, 204, 21, 0.32),
+    0 0 22px rgba(250, 204, 21, 0.16) !important;
+  cursor: default !important;
+  pointer-events: none !important;
+  text-decoration: none !important;
+  vertical-align: baseline !important;
+}
+
+/* If Cum Laude accidentally still has badge classes, force it back to inline text */
+.sr-inline-honor.sr-status,
+.sr-inline-honor.sr-static-label,
+.sr-inline-honor.sr-static-label-honor,
+span.sr-inline-honor.sr-status,
+span.sr-inline-honor.sr-static-label,
+span.sr-inline-honor.sr-static-label-honor {
+  display: inline !important;
+  padding: 0.02rem 0.22rem !important;
+  border: none !important;
+  border-radius: 0.22rem !important;
+  background: rgba(250, 204, 21, 0.08) !important;
+  box-shadow:
+    0 0 10px rgba(250, 204, 21, 0.32),
+    0 0 22px rgba(250, 204, 21, 0.16) !important;
+}
+
+/* No CTA arrow or hover behavior on inline honors */
+.sr-inline-honor::after,
+.sr-inline-honor::before {
+  content: none !important;
+}
+
+.sr-inline-honor:hover {
+  transform: none !important;
+  filter: none !important;
+  border: none !important;
+  outline: none !important;
+}
+
+/* =========================================================
+   Final Cum Laude Inline Text Fix
+   Purpose: homepage/inline Cum Laude should be glowing text,
+   not a pill, badge, button, chip, or outlined container.
+   ========================================================= */
+
+.sr-inline-honor,
+.sr-honor,
+.cum-laude,
+.prose .sr-inline-honor,
+.prose .sr-honor,
+.prose .cum-laude,
+.sr-page-content .sr-inline-honor,
+.sr-page-content .sr-honor,
+.sr-page-content .cum-laude,
+span.sr-inline-honor,
+span.sr-honor,
+span.cum-laude,
+strong.sr-inline-honor,
+strong.sr-honor,
+strong.cum-laude {
+  display: inline !important;
+  width: auto !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: 0 !important;
+  outline: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  color: #facc15 !important;
+  font-weight: 950 !important;
+  line-height: inherit !important;
+  letter-spacing: inherit !important;
+  cursor: default !important;
+  pointer-events: none !important;
+  text-decoration: none !important;
+  text-shadow:
+    0 0 8px rgba(250, 204, 21, 0.58),
+    0 0 18px rgba(250, 204, 21, 0.32),
+    0 0 30px rgba(250, 204, 21, 0.18) !important;
+}
+
+/* If Cum Laude accidentally still carries badge/status classes, strip the chip styling */
+.sr-inline-honor.sr-status,
+.sr-inline-honor.sr-static-label,
+.sr-inline-honor.sr-static-label-honor,
+.sr-honor.sr-status,
+.sr-honor.sr-static-label,
+.sr-honor.sr-static-label-honor,
+.cum-laude.sr-status,
+.cum-laude.sr-static-label,
+.cum-laude.sr-static-label-honor {
+  display: inline !important;
+  padding: 0 !important;
+  border: 0 !important;
+  outline: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  text-shadow:
+    0 0 8px rgba(250, 204, 21, 0.58),
+    0 0 18px rgba(250, 204, 21, 0.32),
+    0 0 30px rgba(250, 204, 21, 0.18) !important;
+}
+
+.sr-inline-honor::before,
+.sr-inline-honor::after,
+.sr-honor::before,
+.sr-honor::after,
+.cum-laude::before,
+.cum-laude::after {
+  content: none !important;
+}
