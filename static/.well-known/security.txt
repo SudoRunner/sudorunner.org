@@ -1,0 +1,5 @@
+Contact: mailto:contact@sudorunner.org
+Preferred-Languages: en
+Canonical: https://sudorunner.org/.well-known/security.txt
+Policy: https://sudorunner.org/security-privacy/
+Expires: 2027-06-04T23:59:00.000Z

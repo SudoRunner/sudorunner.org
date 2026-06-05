@@ -79,6 +79,18 @@ Before publishing project content, I review for:
 </div>
 
 ---
+## Security Contact Standard
+
+This site includes a public `security.txt` file at:
+
+[/.well-known/security.txt](/.well-known/security.txt)
+
+This provides a standard location for security contact and policy information related to the site.
+
+<div class="sr-project-meta">
+  <span class="sr-status sr-status-lab">security.txt</span>
+  <span class="sr-status sr-status-complete">Configured</span>
+</div>
 
 ## Security Headers
 
