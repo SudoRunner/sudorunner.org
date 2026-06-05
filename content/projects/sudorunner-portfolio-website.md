@@ -130,6 +130,9 @@ Custom features include:
 * consistent visual styling across sections
 * privacy-conscious public resume workflow
 * professional email alias through Cloudflare Email Routing
+* apple-style desktop dropdown navigation
+* custom section and single-page layouts
+* software foundations project integration
 
 
 
@@ -152,16 +155,19 @@ Privacy decisions included:
 
 The website is organized around several major sections:
 
-* About
-* Projects
-* Research & Labs
-* AI & Security
-* OT/ICS Security
-* Credentials
-* Resume
-* Contact
+- About
+- Start Here workflow
+- Projects
+- Research & Labs
+- AI & Security
+- OT/ICS Security
+- Software Foundations
+- Credentials
+- Resume
+- Contact
+- Security & Privacy
 
-This structure was chosen to make the site easy for employers, recruiters, and technical reviewers to navigate.
+This structure was chosen to make the site easy for employers, recruiters, and technical reviewers to navigate. The site leads with ServiceNow SecOps and cybersecurity work while also showing supporting technical foundations such as Java, object-oriented programming, data structures, Git workflow, and web design.
 
 ## What This Project Demonstrates
 
