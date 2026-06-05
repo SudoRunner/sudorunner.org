@@ -114,6 +114,7 @@ Client-facing cybersecurity work involving requirements, documentation, UAT, tra
 ## Portfolio Links
 
 <div class="sr-cta-row">
+  <a class="sr-button" href="/opportunity-fit/">Opportunity Fit</a>
   <a class="sr-button" href="/resume/">Resume</a>
   <a class="sr-button" href="/projects/">Projects</a>
   <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps Lab Hub</a>
