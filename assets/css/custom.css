@@ -1763,3 +1763,128 @@ grid-template-columns: 1fr !important;
 font-size: 0.96rem !important;
 }
 }
+
+/* =========================================================
+Mobile Flow / Workflow Fix
+Fixes overlapping yellow step numbers and restores clear
+vertical workflow arrows on mobile.
+========================================================= */
+
+@media (max-width: 768px) {
+.sr-flow {
+display: grid !important;
+grid-template-columns: 1fr !important;
+gap: 2.25rem !important;
+width: 100%;
+margin-left: 0 !important;
+margin-right: 0 !important;
+}
+
+.sr-flow-step {
+position: relative !important;
+display: block !important;
+width: 100% !important;
+max-width: 100% !important;
+min-height: auto !important;
+padding: 1.15rem !important;
+padding-top: 1.25rem !important;
+margin: 0 !important;
+overflow: visible !important;
+box-sizing: border-box !important;
+}
+
+.sr-flow-step .sr-flow-number,
+.sr-flow-number {
+position: static !important;
+inset: auto !important;
+transform: none !important;
+display: inline-flex !important;
+align-items: center !important;
+justify-content: center !important;
+width: 2.1rem !important;
+height: 2.1rem !important;
+min-width: 2.1rem !important;
+min-height: 2.1rem !important;
+margin: 0 0 0.85rem 0 !important;
+padding: 0 !important;
+border-radius: 999px !important;
+background: #facc15 !important;
+color: #020617 !important;
+font-size: 0.9rem !important;
+font-weight: 950 !important;
+line-height: 1 !important;
+box-shadow: 0 0 22px rgba(250, 204, 21, 0.42) !important;
+z-index: 3 !important;
+}
+
+.sr-flow-step h3,
+.sr-flow-step h2,
+.sr-flow-step h4 {
+margin-top: 0 !important;
+margin-bottom: 0.65rem !important;
+clear: both !important;
+}
+
+.sr-flow-step p {
+margin-top: 0.35rem !important;
+}
+
+.sr-flow-step .sr-status,
+.sr-flow-step .sr-project-meta {
+margin-top: 0.85rem !important;
+}
+
+.sr-flow-step::before {
+display: none !important;
+content: none !important;
+}
+
+.sr-flow-step::after {
+content: "↓" !important;
+position: absolute !important;
+left: 50% !important;
+bottom: -1.55rem !important;
+transform: translateX(-50%) !important;
+display: inline-flex !important;
+align-items: center !important;
+justify-content: center !important;
+width: 2rem !important;
+height: 2rem !important;
+border-radius: 999px !important;
+background: linear-gradient(135deg, #60a5fa, #34d399) !important;
+color: #07111f !important;
+font-size: 1rem !important;
+font-weight: 950 !important;
+line-height: 1 !important;
+box-shadow: 0 0 22px rgba(96, 165, 250, 0.35) !important;
+z-index: 5 !important;
+}
+
+.sr-flow-step:last-child::after {
+display: none !important;
+content: none !important;
+}
+}
+
+@media (max-width: 420px) {
+.sr-flow {
+gap: 2rem !important;
+}
+
+.sr-flow-step {
+padding: 1rem !important;
+}
+
+.sr-flow-step .sr-flow-number,
+.sr-flow-number {
+width: 2rem !important;
+height: 2rem !important;
+min-width: 2rem !important;
+min-height: 2rem !important;
+margin-bottom: 0.75rem !important;
+}
+
+.sr-flow-step::after {
+bottom: -1.45rem !important;
+}
+}
