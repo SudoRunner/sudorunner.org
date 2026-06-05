@@ -1190,3 +1190,37 @@ footer p {
 .sr-case-hero p {
   margin-bottom: 0;
 }
+
+/* Consistent centered page shell for single and section pages */
+.sr-page-shell {
+  width: 100% !important;
+  max-width: 1120px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.sr-page-content {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+.sr-page-content > p,
+.sr-page-content > ul,
+.sr-page-content > ol,
+.sr-page-content > blockquote {
+  max-width: 980px !important;
+}
+
+.sr-page-content > .sr-callout,
+.sr-page-content > .sr-card-grid,
+.sr-page-content > .sr-case-summary,
+.sr-page-content > .sr-case-hero,
+.sr-page-content > .sr-flow {
+  max-width: 100% !important;
+}
+
+.sr-page-shell header {
+  max-width: 980px !important;
+}
