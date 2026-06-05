@@ -76,6 +76,71 @@ This project collection demonstrates foundational software engineering concepts 
 * platform configuration logic
 * technical problem decomposition
 * clearer communication with developers and engineering teams
+## Concept Map
+
+<div class="sr-concept-map">
+
+<div class="sr-concept-node sr-concept-core">
+
+### Java + OOP
+
+Class design, methods, object relationships, encapsulation, and implementation logic.
+
+<span class="sr-status sr-status-concept">Foundation</span>
+
+</div>
+
+<div class="sr-concept-node">
+
+### Data Structures
+
+Lists, queues, trees, heaps, graphs, nodes, edges, traversal, ordering, and relationships.
+
+<span class="sr-status sr-status-complete">Core Structures</span>
+
+</div>
+
+<div class="sr-concept-node">
+
+### Algorithms + Big-O
+
+Access, search, insert, delete, recursion, traversal, and performance tradeoffs.
+
+<span class="sr-status sr-status-progress">Complexity</span>
+
+</div>
+
+<div class="sr-concept-node">
+
+### UML + CRC Design
+
+Class diagrams, responsibilities, collaborators, attributes, methods, and system modeling.
+
+<span class="sr-status sr-status-lab">Design Thinking</span>
+
+</div>
+
+<div class="sr-concept-node">
+
+### Testing + Debugging
+
+JUnit exposure, breakpoints, runtime inspection, expected behavior, and implementation validation.
+
+<span class="sr-status sr-status-lab">Validation</span>
+
+</div>
+
+<div class="sr-concept-node">
+
+### Git Workflow
+
+Local repository setup, version-controlled development, and structured project workflow.
+
+<span class="sr-status sr-status-complete">Developer Workflow</span>
+
+</div>
+
+</div>
 
 ## Work Included
 
