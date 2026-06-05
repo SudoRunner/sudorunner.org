@@ -77,7 +77,26 @@ Packet analysis, firewall review, suspicious traffic investigation, malware lab 
   <span class="sr-status sr-status-complete">Hands-On Labs</span>
 </div>
 
-[View evidence](/research-labs/ist-451-security-labs-collection/)
+[View IST 451 labs](/research-labs/ist-451-security-labs-collection/) · [View CYBER 262 labs](/research-labs/cyber-262-security-foundations-lab-collection/)
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### Security Foundations
+
+Linux log analysis, Python parsing, endpoint protection, Wazuh HIDS, Snort NIDS, Splunk fundamentals, 2FA, and buffer overflow concepts.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-status sr-status-lab">Security Foundations</span>
+  <span class="sr-status sr-status-complete">Academic Labs</span>
+</div>
+
+[View evidence](/research-labs/cyber-262-security-foundations-lab-collection/)
 
 </div>
 
@@ -144,7 +163,7 @@ Java, object-oriented programming, UML/CRC modeling, data structures, Big-O anal
 
 ### Web Design & Static Site Deployment
 
-Hugo, Blowfish, GitHub, Cloudflare Pages, custom DNS, email routing, custom CSS, SVG logo, dropdown navigation, security headers, and privacy-conscious publishing.
+Hugo, Blowfish, GitHub, Cloudflare Pages, custom DNS, email routing, custom CSS, SVG logo, dropdown navigation, security metadata, and privacy-conscious publishing.
 
 </div>
 
@@ -182,17 +201,193 @@ Redacted case studies, portfolio-safe project summaries, stakeholder-friendly ex
 
 ## Capability-to-Evidence Map
 
-| Capability                          | Evidence                                                                                                                         |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| ServiceNow SecOps | [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/) · [VR Triage Checklist](/research-labs/servicenow-vr-triage-checklist/)     |                                                       
-| Vulnerability Response              | [ServiceNow Vulnerability Response Lab](/projects/servicenow-vulnerability-response-lab/)                                        |
-| Cybersecurity Labs                  | [IST 451 Security Labs Collection](/research-labs/ist-451-security-labs-collection/)                                             |
-| Malware Investigation               | [Malware-Based Attack Investigation Lab](/projects/malware-based-attack-investigation-lab/)                                      |
-| Network Traffic Analysis + ML       | [Network Traffic Analysis and ML-Based Anomaly Detection](/projects/network-traffic-analysis-ml-anomaly-detection/)              |
-| OT/ICS Security                     | [ICS IT/OT Application-Level DoS Attack Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/)                              |
-| Software Engineering Foundations    | [Java Data Structures, OOP & Software Engineering Foundations](/projects/java-data-structures-software-engineering-foundations/) |
-| Web Design / Static Site Deployment | [sudoRunner Portfolio Website](/projects/sudorunner-portfolio-website/)                                                          |
-| Privacy-Conscious Publishing        | [Security & Privacy](/security-privacy/)                                                                                         |
+<div class="sr-card-grid">
+
+<div class="sr-card">
+
+### ServiceNow SecOps
+
+Evidence:
+
+* [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
+* [ServiceNow VR Triage Checklist](/research-labs/servicenow-vr-triage-checklist/)
+* [ServiceNow Vulnerability Response Lab](/projects/servicenow-vulnerability-response-lab/)
+
+<span class="sr-status sr-status-lab">Primary Focus</span>
+
+</div>
+
+<div class="sr-card">
+
+### Vulnerability Response
+
+Evidence:
+
+* [ServiceNow Vulnerability Response Lab](/projects/servicenow-vulnerability-response-lab/)
+* [ServiceNow VR Triage Checklist](/research-labs/servicenow-vr-triage-checklist/)
+* [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
+
+<span class="sr-status sr-status-progress">Workflow Design</span>
+
+</div>
+
+<div class="sr-card">
+
+### Security Foundations
+
+Evidence:
+
+* [CYBER 262 Security Foundations Lab Collection](/research-labs/cyber-262-security-foundations-lab-collection/)
+* [IST 451 Security Labs Collection](/research-labs/ist-451-security-labs-collection/)
+
+<span class="sr-status sr-status-complete">Hands-On Labs</span>
+
+</div>
+
+<div class="sr-card">
+
+### Cybersecurity Operations
+
+Evidence:
+
+* [IST 451 Security Labs Collection](/research-labs/ist-451-security-labs-collection/)
+* [CYBER 262 Security Foundations Lab Collection](/research-labs/cyber-262-security-foundations-lab-collection/)
+* [Malware-Based Attack Investigation Lab](/projects/malware-based-attack-investigation-lab/)
+
+<span class="sr-status sr-status-lab">Security Ops</span>
+
+</div>
+
+<div class="sr-card">
+
+### Linux + Python Security Analysis
+
+Evidence:
+
+* [CYBER 262 Security Foundations Lab Collection](/research-labs/cyber-262-security-foundations-lab-collection/)
+
+<span class="sr-status sr-status-concept">Python + Linux</span>
+
+</div>
+
+<div class="sr-card">
+
+### HIDS / NIDS / Detection Concepts
+
+Evidence:
+
+* [CYBER 262 Security Foundations Lab Collection](/research-labs/cyber-262-security-foundations-lab-collection/)
+* [IST 451 Security Labs Collection](/research-labs/ist-451-security-labs-collection/)
+
+<span class="sr-status sr-status-lab">Detection</span>
+
+</div>
+
+<div class="sr-card">
+
+### Malware Investigation
+
+Evidence:
+
+* [Malware-Based Attack Investigation Lab](/projects/malware-based-attack-investigation-lab/)
+* [IST 451 Security Labs Collection](/research-labs/ist-451-security-labs-collection/)
+
+<span class="sr-status sr-status-progress">Malware</span>
+
+</div>
+
+<div class="sr-card">
+
+### Network Traffic Analysis + ML
+
+Evidence:
+
+* [Network Traffic Analysis and ML-Based Anomaly Detection](/projects/network-traffic-analysis-ml-anomaly-detection/)
+
+<span class="sr-status sr-status-concept">ML + Security</span>
+
+</div>
+
+<div class="sr-card">
+
+### OT/ICS Security
+
+Evidence:
+
+* [OT/ICS Security](/ot-ics-security/)
+* [ICS IT/OT Application-Level DoS Attack Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/)
+
+<span class="sr-status sr-status-progress">OT/ICS</span>
+
+</div>
+
+<div class="sr-card">
+
+### AI-Assisted SecOps Concepts
+
+Evidence:
+
+* [AI & Security](/ai-security/)
+* [AI-Powered Vulnerability Ownership Recommender](/ai-security/ai-powered-vulnerability-ownership-recommender/)
+* [AI Risk Translation Concept Note](/ai-security/using-ai-to-translate-vulnerability-risk/)
+
+<span class="sr-status sr-status-concept">AI Security</span>
+
+</div>
+
+<div class="sr-card">
+
+### Software Engineering Foundations
+
+Evidence:
+
+* [Java Data Structures, OOP & Software Engineering Foundations](/projects/java-data-structures-software-engineering-foundations/)
+
+<span class="sr-status sr-status-complete">Java + OOP</span>
+
+</div>
+
+<div class="sr-card">
+
+### Web Design / Static Site Deployment
+
+Evidence:
+
+* [sudoRunner Portfolio Website](/projects/sudorunner-portfolio-website/)
+* [Uphill Struggle Bicycles Web Design Final Project](/projects/uphill-struggle-bicycles-web-design-project/)
+
+<span class="sr-status sr-status-concept">Web Design</span>
+
+</div>
+
+<div class="sr-card">
+
+### Privacy-Conscious Publishing
+
+Evidence:
+
+* [Security & Privacy](/security-privacy/)
+* [sudoRunner Portfolio Website](/projects/sudorunner-portfolio-website/)
+
+<span class="sr-status sr-status-complete">Portfolio-Safe</span>
+
+</div>
+
+<div class="sr-card">
+
+### Professional Fit / Role Alignment
+
+Evidence:
+
+* [Opportunity Fit](/opportunity-fit/)
+* [Review Paths](/review-paths/)
+* [Resume](/resume/)
+
+<span class="sr-status sr-status-progress">Hiring Fit</span>
+
+</div>
+
+</div>
 
 ---
 
@@ -216,7 +411,7 @@ Security workflow design, remediation ownership, vulnerable item lifecycle, and 
 
 ### Cybersecurity Operations + Technical Analysis
 
-Traffic analysis, malware investigation, security labs, detection concepts, and risk-based recommendations.
+Traffic analysis, malware investigation, security labs, detection concepts, Linux/Python parsing, endpoint defense, and risk-based recommendations.
 
 <span class="sr-status sr-status-complete">Technical Depth</span>
 

@@ -1224,3 +1224,90 @@ footer p {
 .sr-page-shell header {
   max-width: 980px !important;
 }
+
+/* Software foundations concept map */
+.sr-concept-map {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.85rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.sr-concept-node {
+  position: relative;
+  padding: 1rem;
+  border-radius: 1rem;
+  border: 1px solid rgba(148, 163, 184, 0.24);
+  background: rgba(148, 163, 184, 0.07);
+  transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+}
+
+.sr-concept-node:hover {
+  transform: translateY(-3px);
+  border-color: rgba(96, 165, 250, 0.55);
+  background: rgba(59, 130, 246, 0.09);
+}
+
+.sr-concept-node h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
+}
+
+.sr-concept-node p {
+  margin-bottom: 0.75rem;
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.sr-concept-core {
+  border-color: rgba(250, 204, 21, 0.45);
+  background: rgba(250, 204, 21, 0.08);
+}
+
+/* Clean responsive capability evidence table */
+.sr-table-wrap {
+  width: 100%;
+  overflow-x: auto;
+  margin: 1.5rem 0 2rem 0;
+  border-radius: 1rem;
+  border: 1px solid rgba(148, 163, 184, 0.22);
+  background: rgba(148, 163, 184, 0.05);
+}
+
+.sr-evidence-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 720px;
+  margin: 0 !important;
+}
+
+.sr-evidence-table th,
+.sr-evidence-table td {
+  padding: 0.9rem 1rem;
+  vertical-align: top;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.16);
+}
+
+.sr-evidence-table th {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #60a5fa;
+  background: rgba(15, 23, 42, 0.38);
+}
+
+.sr-evidence-table td:first-child {
+  width: 34%;
+  font-weight: 800;
+  color: rgba(241, 245, 249, 0.94);
+}
+
+.sr-evidence-table tr:last-child td {
+  border-bottom: none;
+}
+
+.sr-table-separator {
+  margin: 0 0.35rem;
+  opacity: 0.65;
+}

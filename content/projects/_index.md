@@ -2,18 +2,17 @@
 
 title: "Projects"
 description: "Redacted cybersecurity, ServiceNow, academic, technical, software engineering, and web design portfolio projects."
-layout: "landing"
 showDate: false
 showAuthor: false
 showReadingTime: false
-
-----------------------
+showWordCount: false
+--------------------
 
 <span class="sr-eyebrow">Portfolio Gallery</span>
 
 This section contains selected cybersecurity, ServiceNow, academic, technical, software engineering, and web design projects that demonstrate practical security knowledge, structured problem solving, hands-on lab work, software foundations, and front-end development experience.
 
-Projects are presented in a **redacted case-study format**. The goal is to show technical depth and decision-making without exposing private data, client information, full solutions, or sensitive implementation details.
+Projects are presented in a **redacted case-study format**. The goal is to show technical depth and decision-making without exposing private data, client information, full solutions, credentials, private infrastructure details, or sensitive implementation details.
 
 <div class="sr-callout">
 
@@ -50,7 +49,7 @@ End-to-end Vulnerability Response workflow covering vulnerable item review, owne
 
 ### [sudoRunner Portfolio Website](/projects/sudorunner-portfolio-website/)
 
-Professional cybersecurity portfolio built with Hugo, Blowfish, GitHub, Cloudflare Pages, custom DNS, email routing, Markdown content, custom CSS, cards, badges, security headers, and privacy-conscious publishing.
+Professional cybersecurity portfolio built with Hugo, Blowfish, GitHub, Cloudflare Pages, custom DNS, email routing, Markdown content, custom CSS, cards, badges, dropdown navigation, security metadata, and privacy-conscious publishing.
 
 </div>
 
@@ -73,7 +72,7 @@ Redacted academic cybersecurity project involving packet investigation, suspicio
 
 <div class="sr-project-meta">
   <span class="sr-status sr-status-complete">Academic Project</span>
-  <span class="sr-status sr-status-concept">ML</span>
+  <span class="sr-status sr-status-concept">ML + Security</span>
 </div>
 
 </div>
@@ -91,6 +90,23 @@ Redacted academic project collection covering Java, object-oriented programming,
 <div class="sr-project-meta">
   <span class="sr-status sr-status-concept">Java</span>
   <span class="sr-status sr-status-complete">Software Foundations</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [CYBER 262 Security Foundations Lab Collection](/research-labs/cyber-262-security-foundations-lab-collection/)
+
+Cybersecurity foundations lab collection covering host-based defense, endpoint protection, Wazuh HIDS, Snort NIDS, Splunk fundamentals, Linux log analysis, Python `strace` parsing, 2FA, and buffer overflow concepts.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-status sr-status-lab">Cybersecurity Labs</span>
+  <span class="sr-status sr-status-complete">Security Foundations</span>
 </div>
 
 </div>
@@ -190,6 +206,16 @@ Hands-on labs and writeups related to vulnerable items, assignment groups, remed
 Selected Penn State cybersecurity projects converted into sanitized case studies. These focus on the problem, methods, tools, security concepts, and lessons learned without publishing full solutions.
 
 <span class="sr-status sr-status-complete">Portfolio-Safe</span>
+
+</div>
+
+<div class="sr-card">
+
+### Security Foundations
+
+Academic lab collections covering Linux, Python, endpoint security, HIDS/NIDS concepts, Splunk, authentication, log analysis, and memory-safety fundamentals.
+
+<span class="sr-status sr-status-lab">Hands-On Labs</span>
 
 </div>
 
