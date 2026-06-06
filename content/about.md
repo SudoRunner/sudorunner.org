@@ -29,7 +29,7 @@ This portfolio is meant to show that layer.
 
 <div class="sr-about-photo">
 
-<img src="/images/vlad-headshot.png" alt="Vlad K." />
+<img src="/images/vlad-headshot.webp" alt="Vlad K." />
 
 </div>
 
@@ -37,7 +37,7 @@ This portfolio is meant to show that layer.
 
 ### Vlad K.
 
-**U.S. Citizen â€¢ Penn State Cybersecurity Analytics & Operations â€¢ Cum Laude â€¢ 3.88 GPA**
+**U.S. Citizen | Penn State Cybersecurity Analytics & Operations | Cum Laude | 3.88 GPA**
 
 I am a cybersecurity professional focused on **ServiceNow SecOps**, **Vulnerability Response**, **security operations**, and **OT/ICS security**.
 
