@@ -1,26 +1,27 @@
 ﻿---
-
 title: "Review Paths"
-description: "Role-based review paths for ServiceNow SecOps, cybersecurity analyst, vulnerability management, malware analysis, reverse engineering, OT/ICS security, AI-assisted SecOps, software foundations, web design, and recruiter review."
+description: "Role-based review paths through Vlad K.'s cybersecurity portfolio, including ServiceNow SecOps, incident response, forensics, malware analysis, GRC, cloud security, OT/ICS, HCI, software foundations, and recruiter review."
 showDate: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
---------------------
+---
 
-<span class="sr-eyebrow">Role-Based Review Paths</span>
+<span class="sr-eyebrow">Review Paths</span>
 
-This page helps reviewers choose the fastest path through the portfolio based on what they are evaluating.
+Do not try to read everything in one pass.
+
+This page is meant to help different reviewers get to the right evidence quickly. A recruiter should not have to dig through every lab. A technical reviewer should not have to guess which projects are strongest. A ServiceNow reviewer should not have to search for Vulnerability Response work.
 
 <div class="sr-callout">
 
-<strong>Purpose:</strong> Instead of making every visitor browse the entire site, these paths guide reviewers toward the most relevant evidence for their role, team, or hiring need.
+<strong>Fastest path:</strong> Start with the resume, then review the ServiceNow SecOps Lab Hub, CYBER 440 capstone, CYBER 366 malware labs, and the project gallery.
 
 </div>
 
 ---
 
-## Recommended 60-Second Review Path
+## 60-Second Path
 
 <div class="sr-flow">
 
@@ -29,12 +30,11 @@ This page helps reviewers choose the fastest path through the portfolio based on
 
 ### Resume
 
-Start with my professional background, education, credentials, ServiceNow SecOps experience, cybersecurity foundations, and OT/ICS interest.
+Start with the public resume for the quick professional overview: education, credentials, experience, and role alignment.
 
 <a href="/resume/">Review Resume</a>
 
-<span class="sr-status sr-status-complete">Overview</span>
-
+<span class="sr-status sr-status-complete">Start</span>
 </div>
 
 <div class="sr-flow-step">
@@ -42,51 +42,47 @@ Start with my professional background, education, credentials, ServiceNow SecOps
 
 ### ServiceNow SecOps
 
-Review the ServiceNow SecOps Lab Hub for hands-on Vulnerability Response workflow thinking.
+Review my strongest career-aligned section: Vulnerability Response workflow, ownership, remediation, validation, exceptions, and closure.
 
 <a href="/research-labs/servicenow-secops-lab-hub/">Review ServiceNow SecOps</a>
 
 <span class="sr-status sr-status-lab">Primary Focus</span>
-
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">3</span>
 
-### Projects
+### Capstone Evidence
 
-Review selected project evidence, including malware analysis, reverse engineering, security labs, network traffic analysis, OT/ICS, AI security, Java foundations, and web design.
+Review the CYBER 440 capstone for the clearest incident response and forensic investigation story.
 
-<a href="/projects/">Review Projects</a>
+<a href="/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/">Review CYBER 440 Capstone</a>
 
-<span class="sr-status sr-status-complete">Proof of Work</span>
-
+<span class="sr-status sr-status-complete">Flagship Project</span>
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">4</span>
 
-### OT/ICS Security
+### Malware and Forensics
 
-Review my OT/ICS security interest, cyber-physical risk thinking, and IST 451 ICS/IT-OT lab evidence.
+Review CYBER 366 for malware analysis and IST 454 for dedicated forensics evidence.
 
-<a href="/ot-ics-security/">Review OT/ICS Security</a>
+<a href="/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/">Review CYBER 366</a>
 
-<span class="sr-status sr-status-progress">Specialty Interest</span>
-
+<span class="sr-status sr-status-progress">Technical Depth</span>
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">5</span>
 
-### AI & Security
+### Projects
 
-Review AI-assisted SecOps concepts, including the vulnerable item ownership recommender idea.
+Use the project gallery for the full course-coded evidence map.
 
-<a href="/ai-security/">Review AI & Security</a>
+<a href="/projects/">Review Projects</a>
 
-<span class="sr-status sr-status-concept">Idea Lab</span>
-
+<span class="sr-status sr-status-complete">Project Gallery</span>
 </div>
 
 <div class="sr-flow-step">
@@ -94,19 +90,18 @@ Review AI-assisted SecOps concepts, including the vulnerable item ownership reco
 
 ### Contact
 
-Use the contact page for role-relevant follow-up after reviewing the main evidence.
+Use the contact page after reviewing the core evidence.
 
 <a href="/contact/">Contact</a>
 
 <span class="sr-status sr-status-complete">Next Step</span>
-
 </div>
 
 </div>
 
 ---
 
-## Role-Based Paths
+## Paths by Reviewer Type
 
 <div class="sr-card-grid">
 
@@ -114,23 +109,25 @@ Use the contact page for role-relevant follow-up after reviewing the main eviden
 
 <div>
 
-### ServiceNow SecOps Reviewer
+### Recruiter / Hiring Manager
 
-Best path for reviewers evaluating ServiceNow SecOps, Vulnerability Response, vulnerable item handling, assignment ownership, remediation tracking, validation, exception handling, and consulting-style workflow communication.
+Use this path if you want the fastest hiring-oriented view.
 
-Recommended review:
+Recommended order:
 
 1. [Resume](/resume/)
-2. [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
-3. [ServiceNow VR Triage Checklist](/research-labs/servicenow-vr-triage-checklist/)
-4. [AI-Powered Vulnerability Ownership Recommender](/ai-security/ai-powered-vulnerability-ownership-recommender/)
+2. [Opportunity Fit](/opportunity-fit/)
+3. [Projects](/projects/)
+4. [Credentials](/credentials/)
 5. [Contact](/contact/)
+
+This path gives the fastest answer to: background, role fit, credentials, strongest evidence, and how to reach me.
 
 </div>
 
 <div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Primary Focus</span>
-  <span class="sr-static-label">SecOps</span>
+  <span class="sr-static-label sr-static-label-complete">Quick Review</span>
+  <span class="sr-static-label">Hiring Fit</span>
 </div>
 
 </div>
@@ -139,17 +136,46 @@ Recommended review:
 
 <div>
 
-### Cybersecurity Analyst Reviewer
+### ServiceNow SecOps / Vulnerability Response Reviewer
 
-Best path for reviewers evaluating security operations, malware analysis, reverse engineering, packet investigation, endpoint behavior, detection foundations, and analyst-style reporting.
+Use this path if you care about SecOps workflow, vulnerable item ownership, remediation, and analyst process.
 
-Recommended review:
+Recommended order:
 
-1. [Resume](/resume/)
-2. [CYBER 366: Malware Analytics & Reverse Engineering Lab Collection](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/)
-3. [CYBER 262: Security Foundations Lab Collection](/research-labs/cyber-262-security-foundations-lab-collection/)
-4. [CYBER 362: Network Traffic Analysis & ML-Based Anomaly Detection](/projects/network-traffic-analysis-ml-anomaly-detection/)
-5. [IST 451: Security Labs Collection](/research-labs/ist-451-security-labs-collection/)
+1. [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
+2. [ServiceNow VR Triage Checklist](/research-labs/servicenow-vr-triage-checklist/)
+3. [IST 456: Security & Risk Management](/projects/ist-456-security-risk-management-enigma-glass-labs/)
+4. [AI-Powered Vulnerability Ownership Recommender](/ai-security/ai-powered-vulnerability-ownership-recommender/)
+5. [Capabilities](/capabilities/)
+
+This is the path I would point to first for ServiceNow SecOps conversations.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Primary Path</span>
+  <span class="sr-static-label">ServiceNow</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### Cybersecurity Analyst / SOC Reviewer
+
+Use this path if you want investigation, logs, traffic, SIEM-style thinking, malware, and security operations evidence.
+
+Recommended order:
+
+1. [CYBER 440: Cybersecurity Capstone](/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/)
+2. [CYBER 366: Malware Analytics](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/)
+3. [IST 456: Enigma Glass Security & Risk Labs](/projects/ist-456-security-risk-management-enigma-glass-labs/)
+4. [CYBER 362: Network Traffic Analysis & ML](/projects/network-traffic-analysis-ml-anomaly-detection/)
+5. [CYBER 262: Security Foundations](/research-labs/cyber-262-security-foundations-lab-collection/)
+
+This path shows the practical analyst side of the portfolio.
 
 </div>
 
@@ -164,23 +190,79 @@ Recommended review:
 
 <div>
 
-### Malware Analysis / Reverse Engineering Reviewer
+### Incident Response / Forensics Reviewer
 
-Best path for reviewers evaluating malware triage, static analysis, dynamic analysis, unpacking, debugger-aware behavior, Windows API interpretation, and reverse-engineering tooling.
+Use this path if you want evidence handling, imaging, logs, memory artifacts, timelines, and response planning.
 
-Recommended review:
+Recommended order:
 
-1. [CYBER 366: Malware Analytics & Reverse Engineering Lab Collection](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/)
-2. [IST 451: Malware-Based Attack Investigation Lab](/projects/malware-based-attack-investigation-lab/)
-3. [CYBER 262: Security Foundations Lab Collection](/research-labs/cyber-262-security-foundations-lab-collection/)
-4. [Capabilities](/capabilities/)
-5. [Contact](/contact/)
+1. [CYBER 440: Capstone Incident Response & Forensics](/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/)
+2. [IST 454: Computer & Cyber Forensics](/projects/ist-454-computer-cyber-forensics-lab-evidence/)
+3. [CYBER 342W: Incident Response, DR & BC Planning](/projects/cyber-342w-incident-response-disaster-recovery-planning/)
+4. [IST 451: Malware-Based Attack Investigation](/projects/malware-based-attack-investigation-lab/)
+5. [SRA 221: Information Security Foundations](/projects/sra-221-information-security-foundations-lab-collection/)
+
+This path separates hands-on investigation from planning and response structure.
 
 </div>
 
 <div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Malware Analysis</span>
+  <span class="sr-static-label sr-static-label-complete">IR / Forensics</span>
+  <span class="sr-static-label">Evidence Handling</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### Malware Analysis / Reverse Engineering Reviewer
+
+Use this path if you want static analysis, dynamic analysis, reverse-engineering tools, suspicious processes, and malware behavior.
+
+Recommended order:
+
+1. [CYBER 366: Malware Analytics & Reverse Engineering](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/)
+2. [IST 451: Malware-Based Attack Investigation Lab](/projects/malware-based-attack-investigation-lab/)
+3. [CYBER 440: Capstone Incident Response & Forensics](/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/)
+4. [IST 454: Computer & Cyber Forensics](/projects/ist-454-computer-cyber-forensics-lab-evidence/)
+5. [CYBER 262: Security Foundations](/research-labs/cyber-262-security-foundations-lab-collection/)
+
+This path is the best fit for malware-analysis conversations.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Malware</span>
   <span class="sr-static-label">Reverse Engineering</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### GRC / Risk / Privacy Reviewer
+
+Use this path if you want the governance and risk side of the portfolio.
+
+Recommended order:
+
+1. [IST 456: Security & Risk Management](/projects/ist-456-security-risk-management-enigma-glass-labs/)
+2. [IST 432: Cyber Law, Privacy & GRC](/projects/ist-432-cyber-law-privacy-grc-case-analysis/)
+3. [SRA 311: Risk Analysis in a Security Context](/projects/sra-311-risk-analysis-security-context/)
+4. [SRA 231: Decision Theory & Analysis](/projects/sra-231-decision-theory-analysis-security-reasoning/)
+5. [CYBER 342W: Incident Response, DR & BC Planning](/projects/cyber-342w-incident-response-disaster-recovery-planning/)
+
+This path shows the risk, policy, decision-making, and communication layer behind the technical work.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">GRC</span>
+  <span class="sr-static-label">Risk Analysis</span>
 </div>
 
 </div>
@@ -191,15 +273,17 @@ Recommended review:
 
 ### OT/ICS Security Reviewer
 
-Best path for reviewers interested in operational technology, SCADA/PLC concepts, cyber-physical risk, operational disruption, availability, safety-aware security thinking, and recovery validation.
+Use this path if you want cyber-physical risk, operational impact, SCADA/PLC concepts, and availability-focused security thinking.
 
-Recommended review:
+Recommended order:
 
 1. [OT/ICS Security](/ot-ics-security/)
 2. [IST 451: ICS/IT-OT Application-Level DoS Attack Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/)
-3. [AI Risk Translation Concept Note](/ai-security/using-ai-to-translate-vulnerability-risk/)
-4. [Capabilities](/capabilities/)
-5. [Contact](/contact/)
+3. [CYBER 440: Capstone Incident Response & Forensics](/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/)
+4. [IST 495: Network Lab Development Internship](/projects/ist-495-network-lab-development-internship/)
+5. [IST 402: Cloud Virtualization, Containers & SECaaS](/projects/ist-402-cloud-virtualization-secaas-architecture/)
+
+This path is about availability, operations, and security where systems affect the real world.
 
 </div>
 
@@ -214,23 +298,25 @@ Recommended review:
 
 <div>
 
-### AI & Security Reviewer
+### Cloud Security / Infrastructure Reviewer
 
-Best path for reviewers interested in AI-assisted SecOps, analyst-reviewed automation, vulnerable item ownership recommendation, risk translation, and human-in-the-loop security workflow design.
+Use this path if you want infrastructure, containers, private cloud, zero trust concepts, and networking.
 
-Recommended review:
+Recommended order:
 
-1. [AI & Security](/ai-security/)
-2. [AI-Powered Vulnerability Ownership Recommender](/ai-security/ai-powered-vulnerability-ownership-recommender/)
-3. [AI Risk Translation Concept Note](/ai-security/using-ai-to-translate-vulnerability-risk/)
-4. [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
-5. [Contact](/contact/)
+1. [IST 402: Cloud Virtualization, Containers & SECaaS Architecture](/projects/ist-402-cloud-virtualization-secaas-architecture/)
+2. [IST 495: Network Lab Development Internship](/projects/ist-495-network-lab-development-internship/)
+3. [SRA 221: Information Security Foundations](/projects/sra-221-information-security-foundations-lab-collection/)
+4. [CYBER 362: Network Traffic Analysis & ML](/projects/network-traffic-analysis-ml-anomaly-detection/)
+5. [Capabilities](/capabilities/)
+
+This path shows the infrastructure foundation behind security operations.
 
 </div>
 
 <div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">AI Security</span>
-  <span class="sr-static-label">Idea Lab</span>
+  <span class="sr-static-label sr-static-label-complete">Cloud</span>
+  <span class="sr-static-label">Infrastructure</span>
 </div>
 
 </div>
@@ -239,179 +325,122 @@ Recommended review:
 
 <div>
 
-### Software Foundations Reviewer
+### HCI / Workflow / Software Reviewer
 
-Best path for reviewers evaluating programming foundations, Java, object-oriented design, data structures, software engineering fundamentals, and technical problem solving.
+Use this path if you care about usability, workflow design, software foundations, and how I think about interfaces.
 
-Recommended review:
+Recommended order:
 
-1. [IST 311: Java Data Structures, OOP & Software Engineering Foundations](/projects/java-data-structures-software-engineering-foundations/)
+1. [IST 331: User-Centered Design & Booking.com Redesign](/projects/ist-331-user-centered-design-booking-redesign/)
 2. [sudoRunner Portfolio Website](/projects/sudorunner-portfolio-website/)
-3. [IST 250: Uphill Struggle Bicycles Web Design Project](/projects/uphill-struggle-bicycles-web-design-project/)
-4. [Capabilities](/capabilities/)
-5. [Contact](/contact/)
+3. [IST 261: Productivity Assistant Application Design Studio](/projects/ist-261-productivity-assistant-application-design-studio/)
+4. [IST 311: Java Data Structures & Software Engineering Foundations](/projects/java-data-structures-software-engineering-foundations/)
+5. [IST 250: Uphill Struggle Bicycles Web Design Project](/projects/uphill-struggle-bicycles-web-design-project/)
+
+This path explains why the portfolio emphasizes navigation, review flow, and usability.
 
 </div>
 
 <div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Technical Foundation</span>
+  <span class="sr-static-label sr-static-label-complete">HCI</span>
   <span class="sr-static-label">Software</span>
 </div>
 
 </div>
 
-<div class="sr-card sr-project-card">
-
-<div>
-
-### Recruiter / Hiring Manager Reviewer
-
-Best path for a fast hiring-oriented review. This path focuses on role fit, resume, credentials, strongest portfolio evidence, and contact.
-
-Recommended review:
-
-1. [Start Here](/start-here/)
-2. [Resume](/resume/)
-3. [Opportunity Fit](/opportunity-fit/)
-4. [Projects](/projects/)
-5. [Contact](/contact/)
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Hiring Fit</span>
-  <span class="sr-static-label">Quick Review</span>
-</div>
-
-</div>
-
 </div>
 
 ---
 
-## Course-Coded Evidence Paths
+## Best Pages by Topic
 
 <div class="sr-record-list">
 
 <div class="sr-record-row sr-record-head">
-  <div>Course</div>
-  <div>Recommended Evidence</div>
-  <div>Best For</div>
+  <div>Topic</div>
+  <div>Start With</div>
+  <div>Why</div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">CYBER 366</div>
-  <div class="sr-record-detail"><a href="/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/">Malware Analytics & Reverse Engineering Lab Collection</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">Malware Analysis</span></div>
+  <div class="sr-record-title">ServiceNow SecOps</div>
+  <div class="sr-record-detail"><a href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps Lab Hub</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Primary</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">CYBER 362</div>
-  <div class="sr-record-detail"><a href="/projects/network-traffic-analysis-ml-anomaly-detection/">Network Traffic Analysis & ML-Based Anomaly Detection</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">ML + Traffic Analysis</span></div>
+  <div class="sr-record-title">Incident Response</div>
+  <div class="sr-record-detail"><a href="/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/">CYBER 440 Capstone</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Flagship</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">CYBER 262</div>
-  <div class="sr-record-detail"><a href="/research-labs/cyber-262-security-foundations-lab-collection/">Security Foundations Lab Collection</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">Security Foundations</span></div>
+  <div class="sr-record-title">Forensics</div>
+  <div class="sr-record-detail"><a href="/projects/ist-454-computer-cyber-forensics-lab-evidence/">IST 454 Computer & Cyber Forensics</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Forensics</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">IST 451</div>
-  <div class="sr-record-detail"><a href="/research-labs/ist-451-security-labs-collection/">Security Labs Collection</a>, <a href="/projects/malware-based-attack-investigation-lab/">Malware-Based Attack Investigation Lab</a>, and <a href="/ot-ics-security/ics-it-ot-application-level-dos-lab/">ICS/IT-OT Application-Level DoS Attack Lab</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">Security Labs</span></div>
+  <div class="sr-record-title">Malware Analysis</div>
+  <div class="sr-record-detail"><a href="/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/">CYBER 366 Malware Analytics</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Malware</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">IST 311</div>
-  <div class="sr-record-detail"><a href="/projects/java-data-structures-software-engineering-foundations/">Java Data Structures, OOP & Software Engineering Foundations</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">Software Foundations</span></div>
+  <div class="sr-record-title">GRC / Risk</div>
+  <div class="sr-record-detail"><a href="/projects/ist-456-security-risk-management-enigma-glass-labs/">IST 456 Security & Risk Management</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Risk</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">IST 250</div>
-  <div class="sr-record-detail"><a href="/projects/uphill-struggle-bicycles-web-design-project/">Uphill Struggle Bicycles Web Design Project</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">Web Design</span></div>
+  <div class="sr-record-title">Cyber Law / Privacy</div>
+  <div class="sr-record-detail"><a href="/projects/ist-432-cyber-law-privacy-grc-case-analysis/">IST 432 Cyber Law, Privacy & GRC</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Privacy</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Cloud Security</div>
+  <div class="sr-record-detail"><a href="/projects/ist-402-cloud-virtualization-secaas-architecture/">IST 402 Cloud Virtualization & SECaaS</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Cloud</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">OT/ICS</div>
+  <div class="sr-record-detail"><a href="/ot-ics-security/ics-it-ot-application-level-dos-lab/">IST 451 ICS/IT-OT DoS Lab</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">OT/ICS</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">HCI / Usability</div>
+  <div class="sr-record-detail"><a href="/projects/ist-331-user-centered-design-booking-redesign/">IST 331 User-Centered Design</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">HCI</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Professional Internship</div>
+  <div class="sr-record-detail"><a href="/projects/ist-495-network-lab-development-internship/">IST 495 Network Lab Development Internship</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Internship</span></div>
 </div>
 
 </div>
 
 ---
 
-## Fastest Evidence by Topic
+## What I Would Not Read First
 
-<div class="sr-card-grid">
+<div class="sr-callout">
 
-<div class="sr-card">
-
-### ServiceNow SecOps
-
-Start with the ServiceNow SecOps Lab Hub and VR Triage Checklist.
-
-<span class="sr-static-label sr-static-label-complete">Primary Focus</span>
-
-</div>
-
-<div class="sr-card">
-
-### Malware Analysis
-
-Start with CYBER 366, then review IST 451 malware investigation.
-
-<span class="sr-static-label sr-static-label-complete">Malware Analytics</span>
-
-</div>
-
-<div class="sr-card">
-
-### Security Operations
-
-Start with CYBER 262, CYBER 366, CYBER 362, and IST 451 security labs.
-
-<span class="sr-static-label sr-static-label-complete">SOC-Relevant</span>
-
-</div>
-
-<div class="sr-card">
-
-### OT/ICS Security
-
-Start with the OT/ICS Security page and IST 451 ICS/IT-OT lab.
-
-<span class="sr-static-label sr-static-label-complete">Specialty Interest</span>
-
-</div>
-
-<div class="sr-card">
-
-### AI Security
-
-Start with the AI-Powered Vulnerability Ownership Recommender and AI risk translation note.
-
-<span class="sr-static-label sr-static-label-complete">Concept Design</span>
-
-</div>
-
-<div class="sr-card">
-
-### Software / Web
-
-Start with IST 311, IST 250, and the sudoRunner Portfolio Website project.
-
-<span class="sr-static-label sr-static-label-complete">Technical Foundations</span>
-
-</div>
+Some pages are included because they show progression, not because they are headline evidence. IST 240, IST 242, IST 250, SRA 221, and SRA 231 are useful supporting pages, but I would not start there unless you are specifically reviewing software foundations, web design, or decision-analysis background.
 
 </div>
 
 ---
 
-## Quick Links
+## Quick Actions
 
 <div class="sr-cta-row">
   <a class="sr-button" href="/resume/">Resume</a>
-  <a class="sr-button-secondary sr-button" href="/capabilities/">Capabilities</a>
   <a class="sr-button-secondary sr-button" href="/projects/">Projects</a>
+  <a class="sr-button-secondary sr-button" href="/capabilities/">Capabilities</a>
   <a class="sr-button-secondary sr-button" href="/contact/">Contact</a>
 </div>

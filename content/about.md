@@ -1,30 +1,63 @@
 ---
 title: "About"
-description: "Professional profile for Vlad K. and the sudoRunner cybersecurity portfolio."
+description: "About Vlad K. and sudoRunner, a cybersecurity portfolio focused on ServiceNow SecOps, Vulnerability Response, cybersecurity operations, incident response, forensics, malware analysis, GRC-aware risk analysis, OT/ICS security, HCI, and application development."
 showDate: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
-showEdit: false
-showPagination: false
-showTableOfContents: false
 ---
 
-<span class="sr-eyebrow">Professional Profile</span>
+<span class="sr-eyebrow">About sudoRunner</span>
 
-I’m Vlad K., a U.S. citizen and Penn State graduate with a B.S. in Cybersecurity Analytics & Operations, graduating Cum Laude with a 3.88 GPA.
+`sudoRunner` is my professional cybersecurity portfolio.
 
-I created **sudoRunner** as a cybersecurity portfolio and technical notebook to showcase selected projects, hands-on labs, professional lessons, ServiceNow SecOps notes, AI security ideas, OT/ICS security concepts, and redacted academic work.
+I built this site because a resume by itself does not show enough. A resume can list tools, courses, and projects, but it does not show how someone thinks through a workflow, writes about technical work, handles sensitive material, or organizes evidence for a reviewer.
+
+This portfolio is meant to show that layer.
 
 <div class="sr-callout">
 
-<strong>Portfolio purpose:</strong> This site is designed to show proof of work beyond a resume while keeping sensitive, academic, client, and personal information protected.
+<strong>Purpose:</strong> Show real evidence of my cybersecurity, ServiceNow SecOps, incident response, forensics, malware analysis, GRC, HCI, and application development work without publishing raw submissions, private data, malware samples, forensic evidence, credentials, or sensitive implementation details.
 
 </div>
 
 ---
 
-## Professional Focus
+## Who I Am
+
+I am a U.S. citizen and Penn State Cybersecurity Analytics & Operations graduate focused on **ServiceNow SecOps**, **Vulnerability Response**, **cybersecurity operations**, **vulnerability management**, and **OT/ICS security**.
+
+Professionally, my strongest direction is ServiceNow SecOps and Vulnerability Response. I care about how security work actually moves: who owns the issue, what evidence supports the decision, how remediation is tracked, when exceptions make sense, how validation happens, and how the work gets closed cleanly.
+
+Academically, my work spans incident response, malware analysis, reverse engineering, digital forensics, GRC, cloud security, network traffic analysis, user-centered design, Java application development, and security foundations.
+
+---
+
+## Education
+
+<div class="sr-info-panel sr-static-panel">
+
+### The Pennsylvania State University
+
+**B.S. Cybersecurity Analytics & Operations**
+
+Graduated <span class="sr-cum-laude">Cum Laude</span>  
+GPA: **3.88**  
+Focus Area: **Application Development**  
+Academic Honors: **The Honor Society of Phi Kappa Phi** · **Alpha Sigma Lambda Honor Society**
+
+<div class="sr-static-label-row">
+  <span class="sr-static-label sr-static-label-complete">Completed</span>
+  <span class="sr-static-label">Application Development Focus</span>
+  <span class="sr-static-label">Phi Kappa Phi</span>
+  <span class="sr-static-label">Alpha Sigma Lambda</span>
+</div>
+
+</div>
+
+---
+
+## What I’m Building Toward
 
 <div class="sr-card-grid">
 
@@ -32,19 +65,29 @@ I created **sudoRunner** as a cybersecurity portfolio and technical notebook to 
 
 ### ServiceNow SecOps
 
-Hands-on focus on Vulnerability Response, vulnerable item workflows, remediation ownership, assignment groups, validation, closure, and security workflow design.
+This is the center of gravity for my career path. I want to keep building around Vulnerability Response, SecOps workflow, assignment ownership, remediation tracking, validation, and security process design.
 
-<span class="sr-status sr-status-lab">Primary Focus</span>
+<span class="sr-static-label sr-static-label-complete">Primary Focus</span>
 
 </div>
 
 <div class="sr-card">
 
-### Cybersecurity Operations
+### Security Operations
 
-Security operations, vulnerability management, packet analysis, malware investigation, IDS/firewall labs, SIEM concepts, and risk-based remediation.
+I have hands-on academic evidence in malware analysis, forensics, network traffic analysis, SIEM-style investigation, incident response, and endpoint/security lab work.
 
-<span class="sr-status sr-status-complete">Core Skill Area</span>
+<span class="sr-static-label sr-static-label-complete">Analyst Foundation</span>
+
+</div>
+
+<div class="sr-card">
+
+### GRC and Risk
+
+I am interested in the bridge between technical evidence and risk decisions: policy, privacy, cyber law, decision theory, analytic confidence, and security management.
+
+<span class="sr-static-label sr-static-label-complete">Risk-Aware</span>
 
 </div>
 
@@ -52,19 +95,9 @@ Security operations, vulnerability management, packet analysis, malware investig
 
 ### OT/ICS Security
 
-Interest and academic exposure to SCADA, PLC/Modbus concepts, cyber-physical risk, operational disruption, smart grid concepts, NIST CSF, and IEC 62443.
+OT/ICS security is a developing specialty interest. I am especially interested in cyber-physical risk, operational disruption, availability, safety, and recovery validation.
 
-<span class="sr-status sr-status-progress">Specialty Interest</span>
-
-</div>
-
-<div class="sr-card">
-
-### AI & Security
-
-Concept notes focused on AI-assisted vulnerability ownership, risk translation, analyst review, and ServiceNow SecOps workflow improvement.
-
-<span class="sr-status sr-status-concept">Idea Lab</span>
+<span class="sr-static-label sr-static-label-complete">Specialty Interest</span>
 
 </div>
 
@@ -72,68 +105,230 @@ Concept notes focused on AI-assisted vulnerability ownership, risk translation, 
 
 ---
 
-## Background
+## How to Read This Portfolio
 
-My professional experience includes supporting ServiceNow SecOps and Vulnerability Response work in client-facing environments, including requirements workshops, user stories, process flows, RAID tracking, UAT support, training documentation, and go-live activities.
+This site is organized around evidence, not just categories.
 
-My academic background includes cybersecurity operations, network security, risk analysis, incident response, application development, web design, machine learning for traffic classification, and exposure to ICS/SCADA concepts in simulated smart grid and lab environments.
+<div class="sr-record-list">
 
----
-<div class="sr-card">
+<div class="sr-record-row sr-record-head">
+  <div>Question</div>
+  <div>Best Place to Start</div>
+  <div>Why</div>
+</div>
 
-### Software Engineering Foundations
+<div class="sr-record-row">
+  <div class="sr-record-title">What is my main professional direction?</div>
+  <div class="sr-record-detail"><a href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps Lab Hub</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Primary Focus</span></div>
+</div>
 
-Java, object-oriented programming, data structures, Big-O analysis, UML/CRC modeling, testing, debugging, and Git workflow practice.
+<div class="sr-record-row">
+  <div class="sr-record-title">What is my strongest academic investigation project?</div>
+  <div class="sr-record-detail"><a href="/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/">CYBER 440 Capstone</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Flagship Evidence</span></div>
+</div>
 
-<span class="sr-status sr-status-concept">Java + OOP</span>
+<div class="sr-record-row">
+  <div class="sr-record-title">Where is malware analysis shown?</div>
+  <div class="sr-record-detail"><a href="/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/">CYBER 366 Malware Analytics</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Malware</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Where is digital forensics shown?</div>
+  <div class="sr-record-detail"><a href="/projects/ist-454-computer-cyber-forensics-lab-evidence/">IST 454 Computer & Cyber Forensics</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Forensics</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Where is GRC/risk shown?</div>
+  <div class="sr-record-detail"><a href="/projects/ist-456-security-risk-management-enigma-glass-labs/">IST 456 Security & Risk Management</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Risk / GRC</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Where is professional experience shown?</div>
+  <div class="sr-record-detail"><a href="/projects/ist-495-network-lab-development-internship/">IST 495 Network Lab Development Internship</a></div>
+  <div class="sr-record-status"><span class="sr-static-label">Internship</span></div>
+</div>
 
 </div>
 
-## What This Site Demonstrates
+---
+
+## Work I Would Point to First
+
+<div class="sr-card-grid">
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
+
+The most career-aligned part of the site. It shows how I think about Vulnerability Response workflow, ownership, remediation, validation, exceptions, and closure.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">ServiceNow SecOps</span>
+  <span class="sr-static-label">Primary Focus</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [CYBER 440: Cybersecurity Capstone Incident Response & Forensics](/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/)
+
+A capstone investigation where the value was connecting different evidence sources into one incident story: phishing, malware activity, forensic images, memory artifacts, logs, impact, and remediation.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Capstone</span>
+  <span class="sr-static-label">Incident Response</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [CYBER 366: Malware Analytics & Reverse Engineering](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/)
+
+The strongest malware-analysis lab collection in the portfolio. It includes static analysis, dynamic analysis, unpacking, FLOSS, ProcMon, RegShot, IDA Pro, Ghidra, Binary Ninja, and anti-debugging awareness.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Malware Analysis</span>
+  <span class="sr-static-label">Reverse Engineering</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [IST 454: Computer & Cyber Forensics](/projects/ist-454-computer-cyber-forensics-lab-evidence/)
+
+Selected forensic evidence covering image creation, image mounting, hash verification, registry analysis, data carving, deleted file recovery, and AI/IoT forensics research.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Digital Forensics</span>
+  <span class="sr-static-label">Evidence Handling</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [IST 456: Security & Risk Management](/projects/ist-456-security-risk-management-enigma-glass-labs/)
+
+A useful bridge between SOC-style investigation and GRC: ransomware, compromised credentials, data exfiltration, ISO 27000 concepts, policy, compliance, and contingency planning.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Risk Management</span>
+  <span class="sr-static-label">GRC + SOC</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [IST 331: User-Centered Design](/projects/ist-331-user-centered-design-booking-redesign/)
+
+The HCI evidence behind why I care about usability. It covers user research, low/high-fidelity prototypes, Figma collaboration, usability testing, and iterative redesign.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">HCI</span>
+  <span class="sr-static-label">Usability</span>
+</div>
+
+</div>
+
+</div>
+
+---
+
+## What I Care About in Security Work
 
 <div class="sr-card-grid">
 
 <div class="sr-card">
 
-### Hands-On Labs
+### Clear Ownership
 
-Sanitized academic and personal lab work showing investigation, analysis, configuration, remediation, and recovery validation.
+Security work breaks down when nobody owns the next step. I care about assignment, responsibility, escalation, and closure.
 
-<span class="sr-status sr-status-lab">Labs</span>
-
-</div>
-
-<div class="sr-card">
-
-### Redacted Case Studies
-
-Project summaries rewritten to show technical depth without exposing full submissions, private details, screenshots, credentials, or sensitive implementation information.
-
-<span class="sr-status sr-status-complete">Portfolio-Safe</span>
+<span class="sr-static-label sr-static-label-complete">Ownership</span>
 
 </div>
 
 <div class="sr-card">
 
-### Security Workflow Thinking
+### Evidence Before Claims
 
-Notes and projects focused on turning technical findings into accountable remediation, stakeholder communication, and operational action.
+I prefer showing evidence over listing buzzwords. A claim is stronger when it connects to a lab, project, workflow, or report.
 
-<span class="sr-status sr-status-progress">SecOps</span>
+<span class="sr-static-label sr-static-label-complete">Evidence</span>
 
 </div>
 
 <div class="sr-card">
 
-### Web Design & Presentation
+### Usable Workflows
 
-Front-end design experience, Hugo site building, structured content, navigation, cards, badges, and employer-facing technical communication.
+A workflow can be technically correct and still fail if people cannot follow it. HCI matters in security tools, dashboards, forms, and process design.
 
-<span class="sr-status sr-status-concept">Design</span>
+<span class="sr-static-label sr-static-label-complete">HCI</span>
+
+</div>
+
+<div class="sr-card">
+
+### Careful Publishing
+
+A lot of cybersecurity work should not be dumped publicly. I try to show what I learned without exposing raw evidence, full solutions, credentials, or sensitive details.
+
+<span class="sr-static-label sr-static-label-complete">Security First</span>
 
 </div>
 
 </div>
+
+---
+
+## Professional Direction
+
+The roles I am most interested in are the ones that combine security workflows, technical analysis, risk thinking, and communication.
+
+Best-fit areas include:
+
+- ServiceNow SecOps consulting
+- Vulnerability Response implementation support
+- vulnerability management
+- cybersecurity analyst work
+- security operations
+- incident response support
+- GRC-aware security work
+- OT/ICS security-focused roles
 
 ---
 
@@ -141,7 +336,8 @@ Front-end design experience, Hugo site building, structured content, navigation,
 
 <div class="sr-cta-row">
   <a class="sr-button" href="/resume/">Resume</a>
-  <a class="sr-button" href="/projects/">Projects</a>
-  <a class="sr-button" href="/research-labs/">Research & Labs</a>
+  <a class="sr-button-secondary sr-button" href="/projects/">Projects</a>
+  <a class="sr-button-secondary sr-button" href="/capabilities/">Capabilities</a>
+  <a class="sr-button-secondary sr-button" href="/review-paths/">Review Paths</a>
   <a class="sr-button-secondary sr-button" href="/contact/">Contact</a>
 </div>

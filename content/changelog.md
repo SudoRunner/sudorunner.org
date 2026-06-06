@@ -1,26 +1,89 @@
 ---
-
 title: "Portfolio Changelog"
-description: "A changelog documenting major sudoRunner portfolio improvements, design updates, security-conscious publishing decisions, HCI refinements, and content additions."
+description: "A changelog for sudoRunner, documenting major portfolio updates, project additions, HCI improvements, security-conscious publishing decisions, and site structure changes."
 showDate: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
---------------------
+---
 
 <span class="sr-eyebrow">Portfolio Changelog</span>
 
-This changelog documents meaningful improvements to `sudoRunner`, including portfolio architecture, navigation, HCI refinements, security-conscious publishing, mobile usability, branding, and project content additions.
+This page tracks meaningful changes to `sudoRunner`.
+
+I am treating the site like a real portfolio product: content is added, reviewed, renamed, reorganized, and cleaned up over time. The goal is not just to keep adding pages. The goal is to make the site easier to review, more honest, more usable, and more useful for ServiceNow SecOps, cybersecurity, GRC, and technical reviewers.
 
 <div class="sr-callout">
 
-<strong>Purpose:</strong> This page shows that the portfolio is treated as a real technical product, not just a static resume page. Updates are tracked as part of the site’s design, usability, security, and content maturity.
+<strong>Why this page exists:</strong> The changelog shows how the portfolio has evolved: new evidence added, pages reorganized, HCI issues fixed, course-coded naming normalized, and sensitive work kept portfolio-safe.
 
 </div>
 
 ---
 
-## May/June 2026
+## June 2026
+
+<div class="sr-record-list">
+
+<div class="sr-record-row sr-record-head">
+  <div>Update</div>
+  <div>What Changed</div>
+  <div>Area</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Homepage Redesign</div>
+  <div class="sr-record-detail">Reworked the homepage so the review path is clearer. “Start Here” is now the obvious primary action, with secondary actions and featured areas centered underneath.</div>
+  <div class="sr-record-status"><span class="sr-static-label">HCI</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Course-Coded Project Naming</div>
+  <div class="sr-record-detail">Normalized academic project names across the site so projects consistently use course codes such as CYBER 440, CYBER 366, IST 456, IST 454, SRA 311, IST 331, and IST 495.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Content Cleanup</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Project Gallery Rebuild</div>
+  <div class="sr-record-detail">Reorganized the Projects page so the strongest evidence appears first, followed by supporting incident response, forensics, malware, GRC, cloud, HCI, software, and foundational work.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Projects</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Capabilities Page Rebuild</div>
+  <div class="sr-record-detail">Rebuilt the capability map so it connects specific skills to specific evidence instead of reading like a generic skills list.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Evidence Map</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Review Paths Rewrite</div>
+  <div class="sr-record-detail">Rewrote role-based review paths for recruiters, ServiceNow reviewers, cybersecurity analysts, incident response reviewers, GRC reviewers, OT/ICS reviewers, cloud reviewers, and HCI/software reviewers.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Navigation</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Start Here Rewrite</div>
+  <div class="sr-record-detail">Turned Start Here into a true front desk for the portfolio, with a clear fast review path and guidance on what to read first.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Reviewer Flow</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Research & Labs Cleanup</div>
+  <div class="sr-record-detail">Separated Research & Labs from the main Projects page so it focuses on ServiceNow SecOps, Vulnerability Response, CYBER 366, CYBER 262, and IST 451 lab work.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Research Labs</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Resume, About, Credentials, and Opportunity Fit Rewrites</div>
+  <div class="sr-record-detail">Updated the high-traffic personal pages so they sound more direct, less generic, and more honest about primary strengths, supporting areas, and developing interests.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Core Pages</span></div>
+</div>
+
+</div>
+
+---
+
+## New Portfolio Evidence Added
 
 <div class="sr-card-grid">
 
@@ -28,20 +91,13 @@ This changelog documents meaningful improvements to `sudoRunner`, including port
 
 <div>
 
-### Guided 60-Second Review Path
+### [CYBER 440: Cybersecurity Capstone Incident Response & Forensics](/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/)
 
-Added a guided review path that creates a clear start-to-finish reviewer journey:
-
-Resume → ServiceNow SecOps → Projects → OT/ICS Security → AI & Security → Contact.
-
-This improves usability by making the visitor’s next step obvious on each major review page.
+Added a capstone investigation page covering phishing, malware activity, forensic images, memory artifacts, logs, incident timeline development, impact assessment, and remediation planning.
 
 </div>
 
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">HCI Improvement</span>
-  <span class="sr-static-label sr-static-label-complete">Navigation</span>
-</div>
+<span class="sr-static-label sr-static-label-complete">Flagship Evidence</span>
 
 </div>
 
@@ -49,18 +105,13 @@ This improves usability by making the visitor’s next step obvious on each majo
 
 <div>
 
-### Mobile HCI Stabilization
+### [CYBER 342W: Incident Response, Disaster Recovery & Business Continuity Planning](/projects/cyber-342w-incident-response-disaster-recovery-planning/)
 
-Improved mobile layout behavior across homepage, Start Here, Resume, ServiceNow SecOps Lab Hub, Projects, Credentials, and Contact pages.
-
-The update focused on spacing, button stacking, workflow cards, Safari safe-area behavior, text wrapping, card clipping, and mobile readability.
+Added an incident response planning page focused on NIST 800-61, CSIRT structure, communication, containment, recovery, disaster recovery, business continuity, and cybersecurity writing.
 
 </div>
 
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Mobile UX</span>
-  <span class="sr-static-label sr-static-label-complete">Responsive Design</span>
-</div>
+<span class="sr-static-label sr-static-label-complete">IR Planning</span>
 
 </div>
 
@@ -68,18 +119,13 @@ The update focused on spacing, button stacking, workflow cards, Safari safe-area
 
 <div>
 
-### Clickability Distinction
+### [CYBER 366: Malware Analytics & Reverse Engineering Lab Collection](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/)
 
-Improved the visual distinction between clickable CTA buttons and non-clickable labels, badges, honors, and metadata chips.
-
-Clickable items now feel more interactive, while static labels such as Completed, Scheduled, Cum Laude, Primary Focus, and other status markers read more clearly as metadata.
+Added malware analysis evidence covering static analysis, dynamic analysis, unpacking, FLOSS, PE review, ProcMon, RegShot, IDA Pro, Ghidra, Binary Ninja, and anti-debugging awareness.
 
 </div>
 
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Usability</span>
-  <span class="sr-static-label sr-static-label-complete">Visual Hierarchy</span>
-</div>
+<span class="sr-static-label sr-static-label-complete">Malware Analysis</span>
 
 </div>
 
@@ -87,18 +133,13 @@ Clickable items now feel more interactive, while static labels such as Completed
 
 <div>
 
-### Credential Layout Cleanup
+### [IST 454: Computer & Cyber Forensics Lab Evidence](/projects/ist-454-computer-cyber-forensics-lab-evidence/)
 
-Reworked education and credential sections into clearer static information panels and credential records.
-
-Credential naming and status language were made more consistent across Resume and Credentials pages, including CSA, CC, AZ-900, SC-900, SRA, NSA, and SANS NetWars references.
+Added selected forensics evidence covering image creation, image mounting, hash verification, registry analysis, data carving, deleted file recovery, and AI/IoT forensics research.
 
 </div>
 
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Credentials</span>
-  <span class="sr-static-label sr-static-label-complete">Content Quality</span>
-</div>
+<span class="sr-static-label sr-static-label-complete">Forensics</span>
 
 </div>
 
@@ -106,18 +147,13 @@ Credential naming and status language were made more consistent across Resume an
 
 <div>
 
-### sudoRunner Favicon and Brand Polish
+### [IST 456: Security & Risk Management with Enigma Glass Labs](/projects/ist-456-security-risk-management-enigma-glass-labs/)
 
-Replaced the default Blowfish browser favicon with the sudoRunner terminal-style logo.
-
-This improved brand consistency across browser tabs, mobile browser suggestions, and the deployed site.
+Added security risk management evidence covering Enigma Glass SIEM-style investigation, ransomware, compromised credentials, data exfiltration, ISO 27000 concepts, compliance, and contingency planning.
 
 </div>
 
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Branding</span>
-  <span class="sr-static-label sr-static-label-complete">Favicon</span>
-</div>
+<span class="sr-static-label sr-static-label-complete">Risk / GRC</span>
 
 </div>
 
@@ -125,124 +161,13 @@ This improved brand consistency across browser tabs, mobile browser suggestions,
 
 <div>
 
-### Start Here Workflow Alignment
+### [IST 495: Penn State College of IST Network Lab Development Internship](/projects/ist-495-network-lab-development-internship/)
 
-Updated the Start Here page so its visible review workflow matches the guided review navigation component.
-
-This makes the portfolio’s intended review path more consistent and easier to follow.
+Added professional internship evidence covering networking lab modernization, technical research, lab validation, documentation, rubrics, teamwork, and supervisor-facing communication.
 
 </div>
 
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Start Here</span>
-  <span class="sr-static-label sr-static-label-complete">Reviewer Flow</span>
-</div>
-
-</div>
-
-<div class="sr-card sr-project-card">
-
-<div>
-
-### CYBER 262 Security Foundations Lab Collection
-
-Added a redacted academic lab collection covering Linux log analysis, Python strace parsing, host-based defense, endpoint protection, Wazuh HIDS, Snort NIDS, Splunk fundamentals, 2FA, and buffer overflow concepts.
-
-The collection was integrated into Research & Labs, Projects, Capabilities, Review Paths, and navigation.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Cybersecurity Labs</span>
-  <span class="sr-static-label sr-static-label-complete">Security Foundations</span>
-</div>
-
-</div>
-
-<div class="sr-card sr-project-card">
-
-<div>
-
-### AI Vulnerability Ownership Recommender Concept
-
-Added a concept design for an AI-assisted ServiceNow SecOps workflow that recommends vulnerable item ownership, assignment group routing, remediation path, escalation priority, and analyst-reviewed next steps.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">AI Security</span>
-  <span class="sr-static-label sr-static-label-complete">ServiceNow SecOps</span>
-</div>
-
-</div>
-
-<div class="sr-card sr-project-card">
-
-<div>
-
-### ServiceNow VR Triage Checklist
-
-Added a portfolio-safe Vulnerability Response triage checklist covering vulnerable item intake, risk review, ownership assignment, remediation path, exception handling, validation, and closure.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">ServiceNow VR</span>
-  <span class="sr-static-label sr-static-label-complete">Checklist</span>
-</div>
-
-</div>
-
-<div class="sr-card sr-project-card">
-
-<div>
-
-### Opportunity Fit Page
-
-Added a recruiter-friendly Opportunity Fit page that summarizes best-fit roles across ServiceNow SecOps, Vulnerability Response, cybersecurity analyst work, vulnerability management, security operations, consulting, OT/ICS security, and AI-assisted SecOps ideas.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Hiring Fit</span>
-  <span class="sr-static-label sr-static-label-complete">Recruiter UX</span>
-</div>
-
-</div>
-
-<div class="sr-card sr-project-card">
-
-<div>
-
-### Apple-Style Dropdown Navigation
-
-Added desktop dropdown navigation for About, Projects, Labs, AI, OT/ICS, Credentials, Resume, and Contact.
-
-This improved category discovery and made the site easier to browse by role, topic, and evidence type.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Navigation</span>
-  <span class="sr-static-label sr-static-label-complete">Information Architecture</span>
-</div>
-
-</div>
-
-<div class="sr-card sr-project-card">
-
-<div>
-
-### Security and Privacy Metadata
-
-Added or improved security-conscious public-site metadata, including security headers, security.txt, robots.txt, humans.txt, privacy-conscious resume handling, and public contact alias routing.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Security First</span>
-  <span class="sr-static-label sr-static-label-complete">Privacy</span>
-</div>
+<span class="sr-static-label sr-static-label-complete">Internship</span>
 
 </div>
 
@@ -250,37 +175,169 @@ Added or improved security-conscious public-site metadata, including security he
 
 ---
 
-## Current Portfolio Direction
+## Additional Academic Evidence Added
+
+<div class="sr-record-list">
+
+<div class="sr-record-row sr-record-head">
+  <div>Page</div>
+  <div>Why It Was Added</div>
+  <div>Area</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/ist-432-cyber-law-privacy-grc-case-analysis/">IST 432: Cyber Law, Privacy & GRC Case Analysis</a></div>
+  <div class="sr-record-detail">Adds cyber law, privacy, surveillance, CFAA, cybersquatting, digital governance, and cybercrime analysis.</div>
+  <div class="sr-record-status"><span class="sr-static-label">GRC</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/sra-311-risk-analysis-security-context/">SRA 311: Risk Analysis in a Security Context</a></div>
+  <div class="sr-record-detail">Adds risk analysis, source credibility, analytic confidence, weighted ranking, threat modeling, and risk treatment.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Risk Analysis</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/sra-231-decision-theory-analysis-security-reasoning/">SRA 231: Decision Theory & Analysis for Security Reasoning</a></div>
+  <div class="sr-record-detail">Adds decision theory, decision matrices, decision trees, risk/ignorance, expected value, group decisions, and behavioral decision-making.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Decision Theory</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/ist-402-cloud-virtualization-secaas-architecture/">IST 402: Cloud Virtualization, Containers & SECaaS Architecture</a></div>
+  <div class="sr-record-detail">Adds cloud, virtualization, containers, OpenStack, Docker, mTLS, zero trust concepts, workflow modeling, and SECaaS strategy.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Cloud Security</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/ist-331-user-centered-design-booking-redesign/">IST 331: User-Centered Design & Booking.com Redesign</a></div>
+  <div class="sr-record-detail">Adds the HCI evidence behind the portfolio’s usability focus: user research, Figma prototypes, usability testing, and iterative redesign.</div>
+  <div class="sr-record-status"><span class="sr-static-label">HCI</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/sra-221-information-security-foundations-lab-collection/">SRA 221: Information Security Foundations Lab Collection</a></div>
+  <div class="sr-record-detail">Adds early information security tool exposure: OWASP ZAP, Wireshark, SPARTA, OpenVPN, pfSense, Active Directory, file system forensics, and Splunk.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Foundations</span></div>
+</div>
+
+</div>
+
+---
+
+## Software and Application Development Evidence Added
+
+<div class="sr-record-list">
+
+<div class="sr-record-row sr-record-head">
+  <div>Page</div>
+  <div>Why It Was Added</div>
+  <div>Area</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/ist-261-productivity-assistant-application-design-studio/">IST 261: Productivity Assistant Application Design Studio</a></div>
+  <div class="sr-record-detail">Adds application design studio evidence: proposal, noun/verb analysis, OOP model, MVC, persistence, task queues, GUI workflow, and testing.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Application Design</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/ist-242-intermediate-java-object-oriented-application-development/">IST 242: Intermediate Java & Object-Oriented Application Development</a></div>
+  <div class="sr-record-detail">Adds intermediate Java evidence: inheritance, abstract classes, interfaces, polymorphism, Swing GUI, validation, and application structure.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Intermediate Java</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/ist-240-introductory-java-programming-oop-labs/">IST 240: Introductory Java Programming & OOP Lab Progression</a></div>
+  <div class="sr-record-detail">Adds introductory Java progression: class design, constructors, methods, encapsulation, arrays, ArrayLists, inheritance, and model/data separation.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Java Basics</span></div>
+</div>
+
+</div>
+
+---
+
+## HCI and Branding Fixes
+
+<div class="sr-record-list">
+
+<div class="sr-record-row sr-record-head">
+  <div>Fix</div>
+  <div>What Changed</div>
+  <div>Area</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Clickable vs Static Elements</div>
+  <div class="sr-record-detail">Improved the distinction between real buttons, links, status labels, badges, honors, and static information panels.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Usability</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Credential Layout</div>
+  <div class="sr-record-detail">Reworked education, credentials, honor societies, and certifications into cleaner static panels and record rows.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Credentials</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Cum Laude Styling</div>
+  <div class="sr-record-detail">Fixed inconsistent Cum Laude styling so it appears as academic honor text instead of a fake button or badge.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Visual Polish</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Contact Page</div>
+  <div class="sr-record-detail">Cleaned up the contact page so contact methods read as structured contact records instead of broken or fake button elements.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Contact UX</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Favicon / Brand Fix</div>
+  <div class="sr-record-detail">Replaced the default Blowfish browser favicon with the sudoRunner terminal-style icon.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Branding</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Mobile Layout Cleanup</div>
+  <div class="sr-record-detail">Improved mobile layout behavior, spacing, card stacking, button visibility, and safe-area handling across key pages.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Mobile HCI</span></div>
+</div>
+
+</div>
+
+---
+
+## Current Direction
 
 <div class="sr-card-grid">
 
 <div class="sr-card">
 
-### HCI and Navigation
+### Keep the hierarchy honest.
 
-Continue improving the portfolio so reviewers can quickly understand where they are, what evidence matters, and where to go next.
+Not every page is a flagship project. Some pages show strong evidence; others show foundations and progression. The site should make that clear.
 
-<span class="sr-static-label sr-static-label-complete">Usability</span>
+<span class="sr-static-label sr-static-label-complete">Evidence Hierarchy</span>
 
 </div>
 
 <div class="sr-card">
 
-### Security-Conscious Publishing
+### Keep the voice human.
 
-Continue redacting academic and professional work so the site demonstrates technical depth without exposing private data, full solutions, sensitive screenshots, credentials, or client information.
+The portfolio should sound like my work, not generic brochure copy. Strong pages should explain what I actually did and why it matters.
+
+<span class="sr-static-label sr-static-label-complete">Human Voice</span>
+
+</div>
+
+<div class="sr-card">
+
+### Keep publishing carefully.
+
+The site should show meaningful cybersecurity work without exposing raw malware, forensic evidence, private lab files, full academic answers, credentials, or client-sensitive information.
 
 <span class="sr-static-label sr-static-label-complete">Security First</span>
-
-</div>
-
-<div class="sr-card">
-
-### Evidence-Based Portfolio Growth
-
-Continue reviewing college projects one by one and converting the strongest work into polished, portfolio-safe case studies.
-
-<span class="sr-static-label sr-static-label-complete">Portfolio Growth</span>
 
 </div>
 

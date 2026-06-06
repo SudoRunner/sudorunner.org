@@ -1,100 +1,105 @@
-<div class="sr-desktop-menu">
+<style>
+.sr-desktop-menu {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: flex-end !important;
+  width: 100% !important;
+  position: relative !important;
+  z-index: 9999 !important;
+}
 
-  <div class="sr-nav-item">
-    <a href="/about/">About</a>
-    <div class="sr-dropdown">
-      <a href="/about/">About</a>
-      <a href="/opportunity-fit/">Opportunity Fit</a>
-      <a href="/review-paths/">Review Paths</a>
-      <a href="/capabilities/">Capabilities Matrix</a>
-      <a href="/start-here/">Start Here Workflow</a>
-      <a href="/resume/">Resume Overview</a>
-      <a href="/contact/">Contact Options</a>
-    </div>
-  </div>
+.sr-nav-list {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: flex-end !important;
+  gap: 1.15rem !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  list-style: none !important;
+}
 
-  <div class="sr-nav-item">
-    <a href="/projects/">Projects</a>
-    <div class="sr-dropdown">
-      <a href="/projects/">Project Gallery</a>
-      <a href="/projects/servicenow-vulnerability-response-lab/">ServiceNow VR Lab</a>
-      <a href="/projects/sudorunner-portfolio-website/">sudoRunner Website</a>
-      <a href="/projects/network-traffic-analysis-ml-anomaly-detection/">Network Traffic + ML</a>
-      <a href="/projects/java-data-structures-software-engineering-foundations/">Java Data Structures</a>
-      <a href="/research-labs/cyber-262-security-foundations-lab-collection/">CYBER 262 Security Foundations</a>
-      <a href="/projects/malware-based-attack-investigation-lab/">Malware Investigation Lab</a>
-      <a href="/projects/uphill-struggle-bicycles-web-design-project/">Web Design Project</a>
-    </div>
-  </div>
+.sr-nav-item {
+  position: relative !important;
+  display: inline-flex !important;
+}
 
-  <div class="sr-nav-item">
-    <a href="/research-labs/">Labs</a>
-    <div class="sr-dropdown">
-      <a href="/research-labs/">Research & Labs Home</a>
-      <a href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps Lab Hub</a>
-      <a href="/research-labs/servicenow-vr-triage-checklist/">VR Triage Checklist</a>
-      <a href="/research-labs/cyber-262-security-foundations-lab-collection/">CYBER 262 Security Foundations</a>
-      <a href="/research-labs/ist-451-security-labs-collection/">IST 451 Security Labs</a>
-      <a href="/projects/network-traffic-analysis-ml-anomaly-detection/">Network Traffic + ML</a>
-      <a href="/projects/malware-based-attack-investigation-lab/">Malware Investigation Lab</a>
-      <a href="/ot-ics-security/ics-it-ot-application-level-dos-lab/">ICS IT/OT DoS Lab</a>
-    </div>
-  </div>
+.sr-nav-link,
+.sr-dropdown-link {
+  color: rgba(241, 245, 249, 0.94) !important;
+  font-weight: 800 !important;
+  text-decoration: none !important;
+  white-space: nowrap !important;
+}
 
-  <div class="sr-nav-item">
-    <a href="/ai-security/">AI</a>
-    <div class="sr-dropdown">
-      <a href="/ai-security/">AI & Security Home</a>
-      <a href="/ai-security/ai-powered-vulnerability-ownership-recommender/">AI Ownership Recommender</a>
-      <a href="/ai-security/using-ai-to-translate-vulnerability-risk/">AI Risk Translation</a>
-      <a href="/ai-security/">Vulnerability Ownership Recommender</a>
-      <a href="/ai-security/">Human-in-the-Loop SecOps</a>
-      <a href="/ai-security/">Future AI SecOps Labs</a>
-    </div>
-  </div>
+.sr-nav-link:hover,
+.sr-dropdown-link:hover {
+  color: #60a5fa !important;
+}
 
-  <div class="sr-nav-item">
-    <a href="/ot-ics-security/">OT/ICS</a>
-    <div class="sr-dropdown">
-      <a href="/ot-ics-security/">OT/ICS Security Home</a>
-      <a href="/ot-ics-security/ics-it-ot-application-level-dos-lab/">ICS IT/OT DoS Lab</a>
-      <a href="/ai-security/using-ai-to-translate-vulnerability-risk/">AI Risk Translation</a>
-      <a href="/ot-ics-security/">Smart Grid & SCADA Concepts</a>
-      <a href="/ot-ics-security/">NIST CSF / IEC 62443 Notes</a>
-    </div>
-  </div>
+.sr-nav-caret {
+  color: rgba(148, 163, 184, 0.9) !important;
+  font-size: 0.78rem !important;
+}
 
-  <div class="sr-nav-item">
-    <a href="/credentials/">Credentials</a>
-    <div class="sr-dropdown">
-      <a href="/credentials/">Credentials Home</a>
-      <a href="/resume/">Resume</a>
-      <a href="/security-privacy/">Security & Privacy</a>
-      <a href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps Lab Hub</a>
-      <a href="/capabilities/">Capabilities Matrix</a>
-    </div>
-  </div>
+.sr-dropdown {
+  position: absolute !important;
+  top: calc(100% + 0.7rem) !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  min-width: 22rem !important;
+  margin: 0 !important;
+  padding: 1rem 0 !important;
+  list-style: none !important;
+  border: 1px solid rgba(148, 163, 184, 0.22) !important;
+  border-radius: 1.15rem !important;
+  background: #0b1220 !important;
+  box-shadow: 0 24px 60px rgba(2, 6, 23, 0.58) !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  z-index: 99999 !important;
+}
 
-  <div class="sr-nav-item">
-    <a href="/resume/">Resume</a>
-    <div class="sr-dropdown">
-      <a href="/resume/">Resume Page</a>
-      <a href="/files/Vlad_K_Resume_6_4_2026.pdf">Download Resume PDF</a>
-      <a href="/opportunity-fit/">Opportunity Fit</a>
-      <a href="/credentials/">Credentials</a>
-      <a href="/projects/">Portfolio Projects</a>
-    </div>
-  </div>
+.sr-has-dropdown:hover .sr-dropdown,
+.sr-has-dropdown:focus-within .sr-dropdown {
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+}
 
-  <div class="sr-nav-item">
-    <a href="/contact/">Contact</a>
-    <div class="sr-dropdown sr-dropdown-right">
-      <a href="/contact/">Contact Page</a>
-      <a href="mailto:contact@sudorunner.org">Email</a>
-      <a href="https://www.linkedin.com/in/vki/">LinkedIn</a>
-      <a href="/contact/#book-an-intro-call">Book Intro Call</a>
-      <a href="/opportunity-fit/">Opportunity Fit</a>
-    </div>
-  </div>
+.sr-dropdown-link {
+  display: block !important;
+  padding: 0.72rem 1.35rem !important;
+  line-height: 1.25 !important;
+}
 
-</div>
+.sr-dropdown-link:hover {
+  background: rgba(59, 130, 246, 0.1) !important;
+}
+
+@media (max-width: 1024px) {
+  .sr-desktop-menu {
+    display: none !important;
+  }
+}
+</style>
+
+<nav class="sr-desktop-menu" aria-label="Main navigation">
+  <ul class="sr-nav-list">
+    {{ range .Site.Menus.main }}
+      {{ if not .Parent }}
+        <li class="sr-nav-item {{ if .HasChildren }}sr-has-dropdown{{ end }}">
+          <a class="sr-nav-link" href="{{ .URL }}">{{ .Name }}{{ if .HasChildren }}{{ end }}</a>
+          {{ if .HasChildren }}
+            <ul class="sr-dropdown">
+              {{ range .Children }}
+                <li><a class="sr-dropdown-link" href="{{ .URL }}">{{ .Name }}</a></li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</nav>
