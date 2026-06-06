@@ -1,4 +1,4 @@
----
+﻿---
 title: "Security & Privacy"
 description: "Security and privacy practices used for the sudoRunner portfolio."
 showDate: false
@@ -174,3 +174,4 @@ The goal is to demonstrate cybersecurity knowledge, project experience, and tech
   <a class="sr-button" href="/contact/">Contact</a>
   <a class="sr-button-secondary sr-button" href="/projects/sudorunner-portfolio-website/">sudoRunner Project</a>
 </div>
+

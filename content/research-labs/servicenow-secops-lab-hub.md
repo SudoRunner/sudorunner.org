@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "ServiceNow SecOps Lab Hub"
 description: "A hands-on lab hub for ServiceNow Security Operations, Vulnerability Response, vulnerable item workflows, remediation ownership, and security operations process design."
@@ -183,3 +183,4 @@ This lab hub supports my focus on:
 This section is intentionally written as a portfolio-safe lab hub.
 
 It is not a client implementation walkthrough, and it does not publish proprietary configuration, internal documents, or confidential screenshots. The purpose is to demonstrate practical understanding of ServiceNow SecOps and vulnerability management workflows in a clean, employer-facing format.
+

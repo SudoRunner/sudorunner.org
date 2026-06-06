@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "SRA 311: Risk Analysis in a Security Context"
 description: "A portfolio-safe academic case study focused on risk analysis, analytic confidence, intelligence source credibility, risk matrices, weighted ranking, organizational risk maturity, threat-risk modeling, cyber hygiene, and security risk treatment."
@@ -33,12 +33,12 @@ This portfolio-safe case study summarizes selected SRA 311 Risk Analysis in a Se
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Risk Analysis · Decision Analysis · GRC · Threat Modeling</span>
+  <span class="sr-case-value">Risk Analysis Â· Decision Analysis Â· GRC Â· Threat Modeling</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Methods</span>
-  <span class="sr-case-value">Analytic Confidence · Risk Matrix · Weighted Ranking · Source Credibility</span>
+  <span class="sr-case-value">Analytic Confidence Â· Risk Matrix Â· Weighted Ranking Â· Source Credibility</span>
 </div>
 
 <div class="sr-case-item">
@@ -57,7 +57,7 @@ This portfolio-safe case study summarizes selected SRA 311 Risk Analysis in a Se
 
 SRA 311 focused on risk analysis in a security context. The course emphasized how analysts evaluate uncertainty, weigh evidence, assess credibility, compare risk methods, and translate threat scenarios into practical risk treatment plans.
 
-This course is important to my portfolio because it strengthens the **GRC and risk-analysis side** of cybersecurity. It is not a technical tool lab. Instead, it demonstrates structured reasoning, uncertainty management, source credibility review, decision support, and risk communication.
+This course is important to my portfolio because it strengthens the **Governance, Risk & Privacy-analysis side** of cybersecurity. It is not a technical tool lab. Instead, it demonstrates structured reasoning, uncertainty management, source credibility review, decision support, and risk communication.
 
 The available coursework supports several major themes:
 
@@ -225,7 +225,7 @@ The group project analyzed a fictional cyber risk scenario involving:
 * identity theft concerns
 * credential compromise risk
 
-The project treated Neo’s credentials as the primary asset because compromised usernames, passwords, and security questions could unlock other services, expose financial information, enable identity theft, or support broader digital compromise.
+The project treated Neoâ€™s credentials as the primary asset because compromised usernames, passwords, and security questions could unlock other services, expose financial information, enable identity theft, or support broader digital compromise.
 
 The adversary was modeled as a skilled cybercriminal using phishing, malware, and social engineering. The risk assessment then considered how poor cyber hygiene increased likelihood and impact.
 
@@ -309,7 +309,7 @@ Recognized that risk remains after controls are implemented and that continuous 
 
 Analytic confidence was a major theme in the course.
 
-The coursework framed analytic confidence as the analyst’s degree of confidence in:
+The coursework framed analytic confidence as the analystâ€™s degree of confidence in:
 
 * the information available
 * the quality of the evidence
@@ -317,7 +317,7 @@ The coursework framed analytic confidence as the analyst’s degree of confidenc
 * the reasoning process
 * the reliability of sources
 * the level of collaboration
-* the analyst’s expertise
+* the analystâ€™s expertise
 * the complexity of the task
 * time pressure
 * the final assessment
@@ -654,7 +654,7 @@ The goal is to show risk analysis, decision analysis, source evaluation, and GRC
 
 <div class="sr-card">
 
-### GRC and Risk Analysis
+### Governance, Risk & Privacy Analysis
 
 This course supports governance, risk, and compliance work through risk assessment, risk treatment, source credibility, analytic confidence, and monitoring concepts.
 
@@ -710,3 +710,4 @@ This project can later be connected to:
 * an evidence credibility checklist
 
 For now, this page serves as the main portfolio-safe summary of my SRA 311 Risk Analysis in a Security Context work.
+

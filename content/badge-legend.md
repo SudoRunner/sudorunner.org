@@ -1,4 +1,4 @@
----
+﻿---
 title: "Badge Legend"
 description: "Explanation of the portfolio badge system used across sudoRunner."
 showDate: false
@@ -134,3 +134,4 @@ Badges help connect professional capabilities to evidence across projects, labs,
   <a class="sr-button" href="/capabilities/">Capabilities</a>
   <a class="sr-button-secondary sr-button" href="/changelog/">Changelog</a>
 </div>
+

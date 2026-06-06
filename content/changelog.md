@@ -1,4 +1,4 @@
----
+﻿---
 title: "Portfolio Changelog"
 description: "A changelog for sudoRunner, documenting major portfolio updates, project additions, HCI improvements, security-conscious publishing decisions, and site structure changes."
 showDate: false
@@ -33,7 +33,7 @@ I am treating the site like a real portfolio product: content is added, reviewed
 
 <div class="sr-record-row">
   <div class="sr-record-title">Homepage Redesign</div>
-  <div class="sr-record-detail">Reworked the homepage so the review path is clearer. “Start Here” is now the obvious primary action, with secondary actions and featured areas centered underneath.</div>
+  <div class="sr-record-detail">Reworked the homepage so the review path is clearer. â€œStart Hereâ€ is now the obvious primary action, with secondary actions and featured areas centered underneath.</div>
   <div class="sr-record-status"><span class="sr-static-label">HCI</span></div>
 </div>
 
@@ -211,7 +211,7 @@ Added professional internship evidence covering networking lab modernization, te
 
 <div class="sr-record-row">
   <div class="sr-record-title"><a href="/projects/ist-331-user-centered-design-booking-redesign/">IST 331: User-Centered Design & Booking.com Redesign</a></div>
-  <div class="sr-record-detail">Adds the HCI evidence behind the portfolio’s usability focus: user research, Figma prototypes, usability testing, and iterative redesign.</div>
+  <div class="sr-record-detail">Adds the HCI evidence behind the portfolioâ€™s usability focus: user research, Figma prototypes, usability testing, and iterative redesign.</div>
   <div class="sr-record-status"><span class="sr-static-label">HCI</span></div>
 </div>
 

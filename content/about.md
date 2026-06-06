@@ -1,4 +1,4 @@
----
+﻿---
 title: "About"
 description: "About Vlad K. and sudoRunner, a cybersecurity portfolio focused on ServiceNow SecOps, Vulnerability Response, cybersecurity operations, incident response, forensics, malware analysis, GRC-aware risk analysis, OT/ICS security, HCI, and application development."
 showDate: false
@@ -25,13 +25,35 @@ This portfolio is meant to show that layer.
 
 ## Who I Am
 
-I am a U.S. citizen and Penn State Cybersecurity Analytics & Operations graduate focused on **ServiceNow SecOps**, **Vulnerability Response**, **cybersecurity operations**, **vulnerability management**, and **OT/ICS security**.
+<div class="sr-about-profile">
 
-Professionally, my strongest direction is ServiceNow SecOps and Vulnerability Response. I care about how security work actually moves: who owns the issue, what evidence supports the decision, how remediation is tracked, when exceptions make sense, how validation happens, and how the work gets closed cleanly.
+<div class="sr-about-photo">
 
-Academically, my work spans incident response, malware analysis, reverse engineering, digital forensics, GRC, cloud security, network traffic analysis, user-centered design, Java application development, and security foundations.
+<img src="/images/vlad-headshot.png" alt="Vlad K." />
 
----
+</div>
+
+<div class="sr-about-bio">
+
+### Vlad K.
+
+**U.S. Citizen â€¢ Penn State Cybersecurity Analytics & Operations â€¢ Cum Laude â€¢ 3.88 GPA**
+
+I am a cybersecurity professional focused on **ServiceNow SecOps**, **Vulnerability Response**, **security operations**, and **OT/ICS security**.
+
+I built this site because I wanted something more useful than a resume. A resume can list projects, certifications, and experience, but it doesn't show how someone approaches a problem, documents their work, or thinks through a workflow from beginning to end.
+
+My strongest professional experience comes from supporting **ServiceNow SecOps and Vulnerability Response implementations** in client-facing consulting environments. That work included requirements gathering, stakeholder workshops, user stories, process design, UAT support, training support, status reporting, and production go-live activities.
+
+At Penn State, I focused on building a broad technical foundation across cybersecurity operations, incident response, malware analysis, digital forensics, cloud security, risk management, user-centered design, and software development. My coursework included hands-on exposure to ICS and SCADA concepts in simulated smart-grid environments, where I applied frameworks such as NIST CSF and IEC 62443 to assess risk and improve security posture.
+
+I am particularly interested in roles where technical analysis, security workflows, and communication intersect. Whether it is a vulnerable item in ServiceNow, a malware investigation, a forensic artifact, or a risk decision, I enjoy understanding how the pieces connect and translating technical findings into clear actions.
+
+Outside of work, I enjoy mountain biking, snowboarding, PC gaming, following cybersecurity news, and continuously learning about OT/ICS security and emerging technologies.
+
+</div>
+
+</div>
 
 ## Education
 
@@ -44,7 +66,7 @@ Academically, my work spans incident response, malware analysis, reverse enginee
 Graduated <span class="sr-cum-laude">Cum Laude</span>  
 GPA: **3.88**  
 Focus Area: **Application Development**  
-Academic Honors: **The Honor Society of Phi Kappa Phi** · **Alpha Sigma Lambda Honor Society**
+Academic Honors: **The Honor Society of Phi Kappa Phi** Â· **Alpha Sigma Lambda Honor Society**
 
 <div class="sr-static-label-row">
   <span class="sr-static-label sr-static-label-complete">Completed</span>
@@ -57,7 +79,7 @@ Academic Honors: **The Honor Society of Phi Kappa Phi** · **Alpha Sigma Lambda 
 
 ---
 
-## What I’m Building Toward
+## What Iâ€™m Building Toward
 
 <div class="sr-card-grid">
 
@@ -83,7 +105,7 @@ I have hands-on academic evidence in malware analysis, forensics, network traffi
 
 <div class="sr-card">
 
-### GRC and Risk
+### Governance, Risk & Privacy
 
 I am interested in the bridge between technical evidence and risk decisions: policy, privacy, cyber law, decision theory, analytic confidence, and security management.
 

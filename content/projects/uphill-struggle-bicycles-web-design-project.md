@@ -193,3 +193,4 @@ This project is included as a front-end development and web design case study.
 
 It is not intended to represent a production business website. Instead, it demonstrates hands-on academic experience with HTML, CSS, JavaScript, layout design, navigation, image presentation, and interactive web page behavior.
 
+

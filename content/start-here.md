@@ -153,7 +153,7 @@ That path shows investigation, malware, forensics, SIEM-style review, and risk-b
 
 <div>
 
-### For GRC and Risk
+### For Governance, Risk & Privacy
 
 Start with [IST 456](/projects/ist-456-security-risk-management-enigma-glass-labs/), [IST 432](/projects/ist-432-cyber-law-privacy-grc-case-analysis/), [SRA 311](/projects/sra-311-risk-analysis-security-context/), and [CYBER 342W](/projects/cyber-342w-incident-response-disaster-recovery-planning/).
 

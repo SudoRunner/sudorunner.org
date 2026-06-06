@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "IST 331: User-Centered Design & Booking.com Redesign Case Study"
 description: "A portfolio-safe academic case study focused on user-centered design, interface evaluation, user research, low-fidelity prototyping, high-fidelity prototyping, usability testing, Figma collaboration, and iterative redesign of a travel-booking interface."
@@ -38,12 +38,12 @@ This portfolio-safe case study summarizes selected IST 331 Foundations of User-C
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">User Research · Prototyping · Usability Testing · Iterative Redesign</span>
+  <span class="sr-case-value">User Research Â· Prototyping Â· Usability Testing Â· Iterative Redesign</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Tools / Methods</span>
-  <span class="sr-case-value">Figma · Interviews · User Profiles · Low-Fi Prototype · High-Fi Prototype</span>
+  <span class="sr-case-value">Figma Â· Interviews Â· User Profiles Â· Low-Fi Prototype Â· High-Fi Prototype</span>
 </div>
 
 <div class="sr-case-item">
@@ -751,3 +751,4 @@ This project can later be connected to:
 * a mobile usability audit section
 
 For now, this page serves as the main portfolio-safe summary of my IST 331 Foundations of User-Centered Design work.
+

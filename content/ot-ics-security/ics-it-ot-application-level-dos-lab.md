@@ -170,3 +170,4 @@ This page is intentionally written as a sanitized case study. The original lab r
 
 The goal is to demonstrate understanding of OT/ICS security investigation, operational impact, and recovery validation without exposing unnecessary technical or academic details.
 
+

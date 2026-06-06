@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "CYBER 440: Cybersecurity Capstone Incident Response & Forensics"
 description: "A portfolio-safe cybersecurity capstone case study focused on incident response, phishing compromise analysis, network forensics, forensic image analysis, memory analysis, log analysis, impact assessment, and remediation planning."
@@ -33,7 +33,7 @@ This portfolio-safe case study summarizes selected CYBER 440 capstone work invol
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">IR · Digital Forensics · Network Analysis · Memory Analysis · Logs</span>
+  <span class="sr-case-value">IR Â· Digital Forensics Â· Network Analysis Â· Memory Analysis Â· Logs</span>
 </div>
 
 <div class="sr-case-item">
@@ -589,3 +589,4 @@ This capstone could later be expanded with:
 * a mock executive incident report template
 
 For now, this page serves as the main portfolio-safe summary of my CYBER 440 cybersecurity capstone work.
+

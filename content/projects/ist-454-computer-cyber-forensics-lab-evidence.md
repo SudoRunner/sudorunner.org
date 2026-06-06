@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "IST 454: Computer & Cyber Forensics Lab Evidence"
 description: "A portfolio-safe academic case study focused on computer and cyber forensics, forensic image creation, forensic image mounting, hash verification, registry analysis, data carving, deleted file recovery, IoT forensics, and AI-assisted forensic research."
@@ -33,17 +33,17 @@ This portfolio-safe case study summarizes selected IST 454 Computer and Cyber Fo
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Forensic Imaging · Registry Analysis · Data Carving · Reporting</span>
+  <span class="sr-case-value">Forensic Imaging Â· Registry Analysis Â· Data Carving Â· Reporting</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Tools / Platforms</span>
-  <span class="sr-case-value">FTK Imager · WinHex · RegRipper · Registry Viewer · Kali Linux · dcfldd</span>
+  <span class="sr-case-value">FTK Imager Â· WinHex Â· RegRipper Â· Registry Viewer Â· Kali Linux Â· dcfldd</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Research Angle</span>
-  <span class="sr-case-value">AI Security Datasets · IoT Forensics · Multi-Source Evidence</span>
+  <span class="sr-case-value">AI Security Datasets Â· IoT Forensics Â· Multi-Source Evidence</span>
 </div>
 
 <div class="sr-case-item">
@@ -337,7 +337,7 @@ This supports a practical understanding of deleted file recovery and forensic ar
 
 ## Data recovery from a mounted forensic image
 
-The data recovery lab focused on a “Company Secrets” case involving recovered documents and file artifacts which needed to be investigated, and certain information had to be extracted.
+The data recovery lab focused on a â€œCompany Secretsâ€ case involving recovered documents and file artifacts which needed to be investigated, and certain information had to be extracted.
 
 The available evidence supports:
 
@@ -653,3 +653,4 @@ This project can later be connected to:
 * an AI/IoT forensics research section
 
 For now, this page serves as the main portfolio-safe summary of my IST 454 computer and cyber forensics evidence.
+

@@ -339,3 +339,4 @@ This page is a sanitized case study.
 
 Raw source files, full academic submissions, private filenames, screenshots with personal identifiers, and full solution archives are not published. The purpose is to demonstrate foundational software engineering knowledge without turning the portfolio into a homework repository.
 
+

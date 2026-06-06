@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "IST 242: Intermediate Java & Object-Oriented Application Development"
 description: "A portfolio-safe academic case study focused on intermediate Java programming, object-oriented application development, inheritance, abstract classes, interfaces, polymorphism, Swing GUI development, validation, application structure, and model/data separation."
@@ -33,12 +33,12 @@ This portfolio-safe case study summarizes selected IST 242 Intermediate & Object
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Java · OOP · Interfaces · GUI · Validation · Polymorphism</span>
+  <span class="sr-case-value">Java Â· OOP Â· Interfaces Â· GUI Â· Validation Â· Polymorphism</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Concepts</span>
-  <span class="sr-case-value">Inheritance · Abstract Classes · Swing · Strategy-Style Formatting · Data Access</span>
+  <span class="sr-case-value">Inheritance Â· Abstract Classes Â· Swing Â· Strategy-Style Formatting Â· Data Access</span>
 </div>
 
 <div class="sr-case-item">
@@ -692,3 +692,4 @@ This project can later be connected to:
 * an application validation and secure input concept note
 
 For now, this page serves as the main portfolio-safe summary of my IST 242 intermediate Java and object-oriented application development lab progression.
+

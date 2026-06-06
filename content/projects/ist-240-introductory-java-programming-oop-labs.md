@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "IST 240: Introductory Java Programming & OOP Lab Progression"
 description: "A portfolio-safe academic case study focused on introductory Java programming, object-oriented programming, class design, constructors, methods, encapsulation, inheritance, abstract classes, arrays, ArrayLists, and model/data separation."
@@ -33,12 +33,12 @@ This portfolio-safe case study summarizes selected IST 240 Introduction to Compu
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Java · OOP · Classes · Inheritance · Collections</span>
+  <span class="sr-case-value">Java Â· OOP Â· Classes Â· Inheritance Â· Collections</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Concepts</span>
-  <span class="sr-case-value">Constructors · Getters/Setters · toString · Arrays · ArrayLists</span>
+  <span class="sr-case-value">Constructors Â· Getters/Setters Â· toString Â· Arrays Â· ArrayLists</span>
 </div>
 
 <div class="sr-case-item">
@@ -602,3 +602,4 @@ This project can later be connected to:
 * a cybersecurity automation foundations section
 
 For now, this page serves as the main portfolio-safe summary of my IST 240 introductory Java programming and object-oriented programming lab progression.
+

@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "IST 456: Security & Risk Management with Enigma Glass Labs"
 description: "A portfolio-safe academic case study focused on security and risk management, SIEM investigation, ransomware response, compromised credentials, data exfiltration, policy analysis, ISO 27000, contingency planning, compliance, and executive security communication."
@@ -38,12 +38,12 @@ This portfolio-safe case study summarizes selected IST 456 Security and Risk Man
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">SIEM Investigation · Risk Management · GRC · Incident Response</span>
+  <span class="sr-case-value">SIEM Investigation Â· Risk Management Â· GRC Â· Incident Response</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Themes</span>
-  <span class="sr-case-value">Ransomware · Credential Compromise · Data Exfiltration · Policy · Compliance</span>
+  <span class="sr-case-value">Ransomware Â· Credential Compromise Â· Data Exfiltration Â· Policy Â· Compliance</span>
 </div>
 
 <div class="sr-case-item">
@@ -635,7 +635,7 @@ This project supports roles involving:
 * ServiceNow SecOps consulting
 * vulnerability management
 * incident response
-* GRC and risk management
+* Governance, Risk & Privacy management
 * compliance support
 * SIEM investigation
 * executive reporting
@@ -766,3 +766,4 @@ This project can later be connected to:
 * a contingency planning / business continuity section
 
 For now, this page serves as the main portfolio-safe summary of my IST 456 Security and Risk Management work.
+

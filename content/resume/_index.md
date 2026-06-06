@@ -439,3 +439,4 @@ For professional opportunities, portfolio review, or relevant technical conversa
   <a class="sr-button-secondary sr-button" href="/projects/">Projects</a>
   <a class="sr-button-secondary sr-button" href="/review-paths/">Review Paths</a>
 </div>
+

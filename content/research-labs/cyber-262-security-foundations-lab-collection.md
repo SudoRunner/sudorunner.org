@@ -400,3 +400,4 @@ This page is a sanitized academic case study.
 
 Raw screenshots, full lab submissions, secret keys, exploit payloads, exact lab answers, personal identifiers, and complete solution files are not published. The purpose is to demonstrate cybersecurity foundations, analyst thinking, and practical lab exposure without turning the portfolio into a homework archive.
 
+
