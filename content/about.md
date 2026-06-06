@@ -164,9 +164,9 @@ This site is organized around evidence, not just categories.
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Where is GRC/risk shown?</div>
+  <div class="sr-record-title">Where is GRC & Privacy shown?</div>
   <div class="sr-record-detail"><a href="/projects/ist-456-security-risk-management-enigma-glass-labs/">IST 456 Security & Risk Management</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">Risk / GRC</span></div>
+  <div class="sr-record-status"><span class="sr-static-label">GRC/Privacy</span></div>
 </div>
 
 <div class="sr-record-row">

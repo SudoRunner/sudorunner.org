@@ -319,7 +319,7 @@ These are the projects I would point to first in an interview. The full gallery 
 <div class="sr-record-row">
   <div class="sr-record-title"><a href="/projects/ist-456-security-risk-management-enigma-glass-labs/">IST 456: Security & Risk Management</a></div>
   <div class="sr-record-detail">SIEM-style investigation, ransomware, compromised credentials, data exfiltration, policy analysis, ISO 27000 concepts, compliance, and contingency planning.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Risk / GRC</span></div>
+  <div class="sr-record-status"><span class="sr-static-label">GRC & Privacy</span></div>
 </div>
 
 <div class="sr-record-row">
@@ -361,7 +361,7 @@ These are the projects I would point to first in an interview. The full gallery 
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Risk / GRC</div>
+  <div class="sr-record-title">GRC & Privacy</div>
   <div class="sr-record-detail">Security risk management, cyber law, privacy, decision theory, analytic confidence, source credibility, incident planning, and compliance-aware reporting.</div>
   <div class="sr-record-status"><span class="sr-static-label">IST 456 / SRA 311</span></div>
 </div>

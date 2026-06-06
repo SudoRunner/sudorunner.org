@@ -214,7 +214,7 @@ a.sr-home-primary:hover {
 <h1>Vlad K.</h1>
 
 <p class="sr-home-headline">
-<strong>U.S. Citizen | Penn State Cybersecurity Analytics & Operations, <span class="sr-cum-laude">Cum Laude</span> | ServiceNow SecOps | Vulnerability Response | OT/ICS Security</strong>
+<strong>U.S. Citizen | Penn State Cybersecurity Analytics & Operations Graduate | ServiceNow SecOps | Vulnerability Response | OT/ICS Security</strong>
 </p>
 
 <p class="sr-home-summary">
@@ -244,7 +244,11 @@ Cybersecurity portfolio focused on <strong>ServiceNow SecOps</strong>, <strong>v
 
 <section class="sr-home-feature-section">
 
-<h2>Featured Areas</h2>
+<h2>Core Evidence Areas</h2>
+
+<p class="sr-home-feature-note">
+These are the fastest ways to understand my strongest evidence areas.
+</p>
 
 <div class="sr-home-feature-grid">
 
@@ -280,7 +284,7 @@ Static and dynamic analysis, unpacking, FLOSS, PE review, ProcMon, RegShot, IDA 
 
 <div class="sr-card sr-home-feature-card">
 
-### [GRC, Risk & Privacy](/projects/ist-456-security-risk-management-enigma-glass-labs/)
+### [Governance, Risk & Privacy](/projects/ist-456-security-risk-management-enigma-glass-labs/)
 
 Security risk management, cyber law, privacy, decision analysis, incident planning, and compliance-aware thinking.
 

@@ -2980,3 +2980,42 @@ a.sr-home-start-button:hover,
     width: 100%;
   }
 }
+
+/* Academic honor highlight: visible but not loud */
+.sr-cum-laude {
+  color: #facc15 !important;
+  font-weight: 850 !important;
+  background: rgba(250, 204, 21, 0.08) !important;
+  border: 1px solid rgba(250, 204, 21, 0.16) !important;
+  border-radius: 0.35rem !important;
+  padding: 0.02rem 0.28rem !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  white-space: nowrap !important;
+}
+
+/* Academic honor highlight: professional, not flashy */
+.sr-cum-laude {
+  color: #facc15 !important;
+  font-weight: 850 !important;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  padding: 0 !important;
+  white-space: nowrap !important;
+}
+
+.sr-home-feature-note {
+  margin: -0.75rem auto 1.35rem auto;
+  color: rgba(203, 213, 225, 0.78);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+a.sr-home-primary {
+  box-shadow:
+    0 0 0 1px rgba(250, 204, 21, 0.22),
+    0 0 22px rgba(250, 204, 21, 0.24),
+    0 14px 36px rgba(245, 158, 11, 0.2) !important;
+}
