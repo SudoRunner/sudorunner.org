@@ -181,7 +181,7 @@ Professional internship experience with Penn State College of IST. I worked on n
 
 ---
 
-## GRC, Risk, Privacy, and Decision Analysis
+## GRC, Privacy, and Decision Analysis
 
 <div class="sr-record-list">
 
@@ -343,7 +343,7 @@ Start with CYBER 440, CYBER 366, IST 454, CYBER 362, CYBER 262, and IST 456.
 
 <div class="sr-card">
 
-### Best for GRC / Risk Conversations
+### Best for GRC / Privacy Conversations
 
 Start with IST 456, IST 432, SRA 311, SRA 231, and CYBER 342W.
 
