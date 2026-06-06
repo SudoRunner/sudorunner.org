@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "IST 495: Penn State College of IST Network Lab Development Internship"
 description: "A portfolio-safe professional experience case study focused on a Penn State College of IST internship involving networking lab modernization, technical research, lab validation, instructional design, rubric development, team collaboration, and weekly supervisor communication."
@@ -15,7 +15,7 @@ showWordCount: false
 
 <div class="sr-case-hero">
 
-This portfolio-safe case study summarizes my IST 495 internship experience as a Research Intern with Penn State Universityâ€™s College of Information Sciences and Technology, where I contributed to networking lab modernization, technical research, instructional improvement, lab validation, rubric development, team collaboration, and supervisor-facing project updates.
+This portfolio-safe case study summarizes my IST 495 internship experience as a Research Intern with Penn State University's College of Information Sciences and Technology, where I contributed to networking lab modernization, technical research, instructional improvement, lab validation, rubric development, team collaboration, and supervisor-facing project updates.
 
 </div>
 
@@ -28,7 +28,7 @@ This portfolio-safe case study summarizes my IST 495 internship experience as a 
 
 <div class="sr-case-item">
   <span class="sr-case-label">Organization</span>
-  <span class="sr-case-value">Penn State University Â· College of IST</span>
+  <span class="sr-case-value">Penn State University · College of IST</span>
 </div>
 
 <div class="sr-case-item">
@@ -38,7 +38,7 @@ This portfolio-safe case study summarizes my IST 495 internship experience as a 
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Networking Lab Modernization Â· Technical Documentation Â· QA Testing</span>
+  <span class="sr-case-value">Networking Lab Modernization · Technical Documentation · QA Testing</span>
 </div>
 
 <div class="sr-case-item">
@@ -55,7 +55,7 @@ This portfolio-safe case study summarizes my IST 495 internship experience as a 
 
 ## Overview
 
-IST 495 was my academic internship experience with Penn State Universityâ€™s College of Information Sciences and Technology.
+IST 495 was my academic internship experience with Penn State University's College of Information Sciences and Technology.
 
 The internship focused on helping improve and modernize networking course labs for future IST students. The work involved researching networking technologies, reviewing existing lab materials, improving lab consistency, making instructions clearer, creating new questions and challenges, developing rubrics, testing labs in a controlled environment, collaborating with teammates, and communicating progress to a supervisor.
 
@@ -65,7 +65,7 @@ This page is intentionally written as a portfolio-safe professional experience s
 
 ## Why This Experience Matters
 
-This internship is important because it shows professional experience inside Penn Stateâ€™s College of IST, not only coursework.
+This internship is important because it shows professional experience inside Penn State's College of IST, not only coursework.
 
 The role required more than completing assignments. It involved contributing to instructional material that other students would later use, working as part of a team, researching emerging networking technologies, testing labs, documenting improvements, and communicating progress clearly.
 

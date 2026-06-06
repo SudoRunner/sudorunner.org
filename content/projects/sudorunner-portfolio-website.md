@@ -1,4 +1,4 @@
-﻿---
+---
 title: "sudoRunner Portfolio Website"
 description: "A professional cybersecurity portfolio built with Hugo, Blowfish, GitHub, Cloudflare Pages, custom DNS, email routing, custom styling, mobile HCI improvements, guided review paths, and security-conscious publishing."
 date: 2026-06-04
@@ -29,12 +29,12 @@ I built it to turn my resume, academic work, cybersecurity labs, ServiceNow SecO
 
 <div class="sr-case-item">
   <span class="sr-case-label">Stack</span>
-  <span class="sr-case-value">Hugo Â· Blowfish Â· GitHub Â· Cloudflare Pages</span>
+  <span class="sr-case-value">Hugo · Blowfish · GitHub · Cloudflare Pages</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">HCI Â· Security-Conscious Publishing Â· Technical Writing</span>
+  <span class="sr-case-value">HCI · Security-Conscious Publishing · Technical Writing</span>
 </div>
 
 <div class="sr-case-item">
@@ -457,7 +457,7 @@ Things I may add later:
 - short Security Notes / Field Notes section
 - better social preview metadata
 - protected contact form with spam protection
-- project-page â€œHow to read this pageâ€ blocks for flagship projects
+- project-page "How to read this page" blocks for flagship projects
 - cleaner diagrams for selected workflows
 - accessibility audit
 - more ServiceNow SecOps lab detail

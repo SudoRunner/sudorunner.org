@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Opportunity Fit"
 description: "Best-fit roles and opportunity alignment for Vlad K., focused on ServiceNow SecOps, Vulnerability Response, cybersecurity analysis, vulnerability management, security operations, GRC-aware risk analysis, and OT/ICS security."
 showDate: false

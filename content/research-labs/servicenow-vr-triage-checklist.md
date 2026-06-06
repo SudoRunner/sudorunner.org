@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "ServiceNow Vulnerability Response Triage Checklist"
 description: "A portfolio-safe triage checklist for reviewing vulnerable items, ownership, remediation priority, exception handling, validation, and closure in ServiceNow Vulnerability Response."

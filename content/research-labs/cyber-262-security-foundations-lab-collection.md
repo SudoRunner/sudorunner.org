@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CYBER 262: Security Foundations Lab Collection"
 description: "A portfolio-safe academic lab collection covering Linux log analysis, Python parsing, host-based defense, endpoint protection, Wazuh HIDS, Snort NIDS, Splunk fundamentals, two-factor authentication, and buffer overflow concepts."
 showDate: false

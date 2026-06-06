@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "IST 451: ICS/IT-OT Application-Level DoS Attack Lab"
 description: "Notes and projects focused on operational technology, industrial control systems, cyber-physical risk, and industrial cybersecurity."
@@ -15,7 +15,7 @@ My interest in OT/ICS security comes from academic exposure to ICS and SCADA con
 
 <div class="sr-callout">
 
-<strong>OT/ICS focus:</strong> These pages emphasize operational impact, asset context, safety awareness, recovery validation, and risk communication â€” not just traditional IT vulnerability severity.
+<strong>OT/ICS focus:</strong> These pages emphasize operational impact, asset context, safety awareness, recovery validation, and risk communication - not just traditional IT vulnerability severity.
 
 </div>
 

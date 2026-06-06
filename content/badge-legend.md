@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Badge Legend"
 description: "Explanation of the portfolio badge system used across sudoRunner."
 showDate: false

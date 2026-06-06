@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "Contact"
 description: "Professional contact options for ServiceNow SecOps, cybersecurity analyst, vulnerability management, OT/ICS security, and AI-assisted SecOps opportunities."
@@ -95,7 +95,7 @@ For role-relevant conversations, the best starting point is a short introduction
 
 Start with the guided portfolio path before reaching out:
 
-[Start Here](/start-here/) â†’ [Resume](/resume/) â†’ [ServiceNow SecOps](/research-labs/servicenow-secops-lab-hub/) â†’ [Projects](/projects/)
+[Start Here](/start-here/) -> [Resume](/resume/) -> [ServiceNow SecOps](/research-labs/servicenow-secops-lab-hub/) -> [Projects](/projects/)
 
 <span class="sr-static-label sr-static-label-complete">Reviewer Friendly</span>
 

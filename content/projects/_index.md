@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Projects"
 description: "Selected cybersecurity, ServiceNow, incident response, forensics, GRC, cloud security, HCI, software, internship, and academic projects from Vlad K."
 showDate: false

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Resume"
 description: "Public resume overview for Vlad K., focused on ServiceNow SecOps, Vulnerability Response, cybersecurity operations, incident response, malware analysis, forensics, GRC-aware risk analysis, OT/ICS security, and application development."
 showDate: false

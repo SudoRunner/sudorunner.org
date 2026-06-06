@@ -1,4 +1,4 @@
-﻿---
+---
 title: "IST 451: Security Labs Collection"
 description: "A portfolio-safe academic security lab collection covering defensive analysis, secure configuration, vulnerability assessment, incident investigation, network security, OT/ICS security, and controlled lab-based security testing."
 showDate: false

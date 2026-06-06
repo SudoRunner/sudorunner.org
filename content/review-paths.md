@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Review Paths"
 description: "Role-based review paths through Vlad K.'s cybersecurity portfolio, including ServiceNow SecOps, incident response, forensics, malware analysis, GRC, cloud security, OT/ICS, HCI, software foundations, and recruiter review."
 showDate: false

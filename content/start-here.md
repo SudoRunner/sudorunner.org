@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Start Here"
 description: "Recommended starting point for reviewing Vlad K.'s cybersecurity portfolio, including resume, ServiceNow SecOps, incident response, malware analysis, forensics, GRC, OT/ICS security, and contact."
 showDate: false

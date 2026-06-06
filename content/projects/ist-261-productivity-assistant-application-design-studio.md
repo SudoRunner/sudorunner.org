@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "IST 261: Productivity Assistant Application Design Studio"
 description: "A portfolio-safe academic case study focused on application development design, Java, object-oriented modeling, MVC, persistent data strategy, task queues, employee/task management, GUI workflows, testing, and software design documentation."
@@ -38,12 +38,12 @@ This portfolio-safe case study summarizes selected IST 261 Application Developme
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Java Â· OOP Â· MVC Â· Persistence Â· Collections Â· GUI</span>
+  <span class="sr-case-value">Java · OOP · MVC · Persistence · Collections · GUI</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Concepts</span>
-  <span class="sr-case-value">Task Queue Â· Employee Model Â· Reports Â· List/Detail Views Â· Testing</span>
+  <span class="sr-case-value">Task Queue · Employee Model · Reports · List/Detail Views · Testing</span>
 </div>
 
 <div class="sr-case-item">

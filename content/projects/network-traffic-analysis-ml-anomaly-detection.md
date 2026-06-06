@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CYBER 362: Network Traffic Analysis & ML-Based Anomaly Detection"
 description: "A portfolio-safe academic cybersecurity project involving packet investigation, suspicious file analysis, supervised machine learning, clustering, Splunk-based analysis, and security recommendations."
 showDate: false
@@ -28,12 +28,12 @@ This case study summarizes a Penn State cybersecurity project involving packet-l
 
 <div class="sr-case-item">
   <span class="sr-case-label">Methods</span>
-  <span class="sr-case-value">Packet Review Â· ML Classification Â· Clustering</span>
+  <span class="sr-case-value">Packet Review · ML Classification · Clustering</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Tools</span>
-  <span class="sr-case-value">Wireshark Â· Security Onion Â· Splunk Â· Python</span>
+  <span class="sr-case-value">Wireshark · Security Onion · Splunk · Python</span>
 </div>
 
 <div class="sr-case-item">
@@ -85,7 +85,7 @@ Tools and concepts used included:
 
 For this project, I contributed to the analysis, machine learning experimentation, interpretation of results, and security recommendations.
 
-The project required both technical analysis and written communication. The final output needed to explain what was observed, what methods were used, which results were meaningful, and what actions could improve the organizationâ€™s security posture.
+The project required both technical analysis and written communication. The final output needed to explain what was observed, what methods were used, which results were meaningful, and what actions could improve the organization's security posture.
 
 ## Analysis Performed
 
@@ -211,6 +211,6 @@ If I expanded this project today, I would improve it by:
 
 This page is a sanitized case study. The original academic files are not published because they contain course metadata, group details, screenshots, and raw project formatting that are not necessary for employer review.
 
-The purpose of this writeup is to show the projectâ€™s technical scope, methods used, and cybersecurity lessons learned without exposing full submissions or unnecessary identifying information.
+The purpose of this writeup is to show the project's technical scope, methods used, and cybersecurity lessons learned without exposing full submissions or unnecessary identifying information.
 
 

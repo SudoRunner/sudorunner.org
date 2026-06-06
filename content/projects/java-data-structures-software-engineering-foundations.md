@@ -1,4 +1,4 @@
-﻿---
+---
 title: "IST 311: Java Data Structures, OOP & Software Engineering Foundations"
 description: "A portfolio-safe academic project collection covering Java, object-oriented programming, data structures, Big-O analysis, UML modeling, testing, debugging, and Git workflow practice."
 showDate: false
@@ -28,12 +28,12 @@ This case study summarizes selected Penn State IST 311 academic work focused on 
 
 <div class="sr-case-item">
   <span class="sr-case-label">Concepts</span>
-  <span class="sr-case-value">Lists Â· Queues Â· Trees Â· Graphs Â· Big-O</span>
+  <span class="sr-case-value">Lists · Queues · Trees · Graphs · Big-O</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Tools</span>
-  <span class="sr-case-value">Java Â· IntelliJ IDEA Â· JUnit Â· Git</span>
+  <span class="sr-case-value">Java · IntelliJ IDEA · JUnit · Git</span>
 </div>
 
 <div class="sr-case-item">

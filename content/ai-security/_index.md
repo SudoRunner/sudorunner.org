@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "AI & Security"
 description: "Concept notes and research ideas at the intersection of artificial intelligence, cybersecurity operations, vulnerability management, and OT/ICS risk."

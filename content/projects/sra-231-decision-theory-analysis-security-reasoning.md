@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "SRA 231: Decision Theory & Analysis for Security Reasoning"
 description: "A portfolio-safe academic case study focused on decision theory, decision matrices, decision trees, decisions under ignorance, decisions under risk, expected value, group decision-making, perception bias, and security-relevant structured reasoning."
@@ -33,12 +33,12 @@ This portfolio-safe case study summarizes selected SRA 231 Decision Theory and A
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Decision Matrix Â· Decision Tree Â· Risk Â· Ignorance Â· Expected Value</span>
+  <span class="sr-case-value">Decision Matrix · Decision Tree · Risk · Ignorance · Expected Value</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Methods</span>
-  <span class="sr-case-value">Dominance Â· Maximin Â· Maximax Â· Expected Value Â· Group Decisions</span>
+  <span class="sr-case-value">Dominance · Maximin · Maximax · Expected Value · Group Decisions</span>
 </div>
 
 <div class="sr-case-item">
@@ -196,7 +196,7 @@ Explored how group decision-making can differ from individual decision-making an
 
 ### Behavioral Decision-Making
 
-Reflected on perception, bias, intuition, random decision methods, and prisonerâ€™s dilemma behavior.
+Reflected on perception, bias, intuition, random decision methods, and prisoner's dilemma behavior.
 
 <span class="sr-static-label sr-static-label-complete">Behavioral Analysis</span>
 
@@ -259,7 +259,7 @@ Reflected on perception, bias, intuition, random decision methods, and prisoner�
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Prisonerâ€™s Dilemma</div>
+  <div class="sr-record-title">Prisoner's Dilemma</div>
   <div class="sr-record-detail">Explored how individual incentives and group outcomes can diverge, and how cooperation or betrayal changes outcomes.</div>
   <div class="sr-record-status"><span class="sr-static-label">Game Theory</span></div>
 </div>
@@ -376,7 +376,7 @@ The decisions-under-ignorance assignment focused on decisions where probabilitie
 This is relevant because cybersecurity teams often face uncertainty:
 
 * the true likelihood of exploitation may be unknown
-* the attackerâ€™s intent may be unclear
+* the attacker's intent may be unclear
 * the full business impact may not be known yet
 * the reliability of evidence may vary
 * the environment may not have complete telemetry
@@ -419,9 +419,9 @@ The course helped build the habit of connecting uncertainty to structured decisi
 
 ---
 
-## Group Decisions and Prisonerâ€™s Dilemma
+## Group Decisions and Prisoner's Dilemma
 
-The course also explored group decision-making and prisonerâ€™s dilemma behavior.
+The course also explored group decision-making and prisoner's dilemma behavior.
 
 The key theme was that individual rational decisions do not always produce the best group outcome.
 
@@ -436,7 +436,7 @@ Examples include:
 * users choosing convenience over password hygiene
 * teams failing to cooperate during an incident
 
-The prisonerâ€™s dilemma lens helps explain why incentives, communication, coordination, and trust matter in security programs.
+The prisoner's dilemma lens helps explain why incentives, communication, coordination, and trust matter in security programs.
 
 ---
 
@@ -512,7 +512,7 @@ This maps well to professional security work because decisions need to be explai
 
 <div class="sr-record-row">
   <div class="sr-record-title">Behavioral Decision Analysis</div>
-  <div class="sr-record-detail">Reflected on perception, bias, intuition, random decision methods, and prisonerâ€™s dilemma behavior.</div>
+  <div class="sr-record-detail">Reflected on perception, bias, intuition, random decision methods, and prisoner's dilemma behavior.</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
 </div>
 

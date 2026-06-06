@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "SRA 221: Information Security Foundations Lab Collection"
 description: "A portfolio-safe academic case study focused on foundational information security labs, OWASP ZAP, website reconnaissance, Wireshark, service discovery, SPARTA, OpenVPN, pfSense firewall configuration, Active Directory, file system forensics, and Splunk log analytics."
@@ -33,12 +33,12 @@ This portfolio-safe case study summarizes selected SRA 221 Overview of Informati
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Security Tools Â· Networking Â· Access Â· Logs Â· Forensics</span>
+  <span class="sr-case-value">Security Tools · Networking · Access · Logs · Forensics</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Tools / Platforms</span>
-  <span class="sr-case-value">OWASP ZAP Â· Wireshark Â· SPARTA Â· OpenVPN Â· pfSense Â· Active Directory Â· Splunk</span>
+  <span class="sr-case-value">OWASP ZAP · Wireshark · SPARTA · OpenVPN · pfSense · Active Directory · Splunk</span>
 </div>
 
 <div class="sr-case-item">
@@ -159,7 +159,7 @@ Instead, it presents:
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Lab 04: Protocol Analysis I â€” Wireshark Basics</div>
+  <div class="sr-record-title">Lab 04: Protocol Analysis I - Wireshark Basics</div>
   <div class="sr-record-detail">Used Wireshark concepts to review network protocol behavior and understand packet-level communication.</div>
   <div class="sr-record-status"><span class="sr-static-label">Protocol Analysis</span></div>
 </div>
@@ -500,7 +500,7 @@ The useful portfolio angle is not the specific breach itself, but the reasoning 
 * smaller breaches still matter when prior incidents were not fully resolved
 * security writing must explain impact clearly
 
-The â€œDo Something Goodâ€ assignment is not a cybersecurity lab, so it is not central to this page. It can be treated as a minor civic/community note, but not a main portfolio artifact.
+The "Do Something Good" assignment is not a cybersecurity lab, so it is not central to this page. It can be treated as a minor civic/community note, but not a main portfolio artifact.
 
 ---
 

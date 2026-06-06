@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "SRA 311: Risk Analysis in a Security Context"
 description: "A portfolio-safe academic case study focused on risk analysis, analytic confidence, intelligence source credibility, risk matrices, weighted ranking, organizational risk maturity, threat-risk modeling, cyber hygiene, and security risk treatment."
@@ -33,12 +33,12 @@ This portfolio-safe case study summarizes selected SRA 311 Risk Analysis in a Se
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Risk Analysis Â· Decision Analysis Â· GRC Â· Threat Modeling</span>
+  <span class="sr-case-value">Risk Analysis · Decision Analysis · GRC · Threat Modeling</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Methods</span>
-  <span class="sr-case-value">Analytic Confidence Â· Risk Matrix Â· Weighted Ranking Â· Source Credibility</span>
+  <span class="sr-case-value">Analytic Confidence · Risk Matrix · Weighted Ranking · Source Credibility</span>
 </div>
 
 <div class="sr-case-item">
@@ -225,7 +225,7 @@ The group project analyzed a fictional cyber risk scenario involving:
 * identity theft concerns
 * credential compromise risk
 
-The project treated Neoâ€™s credentials as the primary asset because compromised usernames, passwords, and security questions could unlock other services, expose financial information, enable identity theft, or support broader digital compromise.
+The project treated Neo's credentials as the primary asset because compromised usernames, passwords, and security questions could unlock other services, expose financial information, enable identity theft, or support broader digital compromise.
 
 The adversary was modeled as a skilled cybercriminal using phishing, malware, and social engineering. The risk assessment then considered how poor cyber hygiene increased likelihood and impact.
 
@@ -309,7 +309,7 @@ Recognized that risk remains after controls are implemented and that continuous 
 
 Analytic confidence was a major theme in the course.
 
-The coursework framed analytic confidence as the analystâ€™s degree of confidence in:
+The coursework framed analytic confidence as the analyst's degree of confidence in:
 
 * the information available
 * the quality of the evidence
@@ -317,7 +317,7 @@ The coursework framed analytic confidence as the analystâ€™s degree of conf
 * the reasoning process
 * the reliability of sources
 * the level of collaboration
-* the analystâ€™s expertise
+* the analyst's expertise
 * the complexity of the task
 * time pressure
 * the final assessment

@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "ServiceNow SecOps Lab Hub"
 description: "A hands-on lab hub for ServiceNow Security Operations, Vulnerability Response, vulnerable item workflows, remediation ownership, and security operations process design."

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "IST 451: ICS/IT-OT Application-Level DoS Attack Lab"
 description: "A portfolio-safe OT/ICS security case study focused on SCADA visibility disruption, application-level denial-of-service behavior, operational impact, and recovery validation."
 showDate: false
@@ -28,7 +28,7 @@ This case study summarizes a redacted Penn State OT/ICS lab focused on investiga
 
 <div class="sr-case-item">
   <span class="sr-case-label">Concepts</span>
-  <span class="sr-case-value">PLC Â· Modbus Â· HMI Â· DoS</span>
+  <span class="sr-case-value">PLC · Modbus · HMI · DoS</span>
 </div>
 
 <div class="sr-case-item">
@@ -128,7 +128,7 @@ This reinforced an important incident response principle: identifying the host i
 
 After stopping the responsible activity in the lab environment, the SCADA interface was checked again to confirm that measured values returned to normal.
 
-This validation step matters because remediation should not stop at â€œthe suspicious process was killed.â€ In an OT/ICS context, the analyst must confirm that operational visibility and expected behavior have been restored.
+This validation step matters because remediation should not stop at "the suspicious process was killed." In an OT/ICS context, the analyst must confirm that operational visibility and expected behavior have been restored.
 
 ## What This Lab Demonstrates
 

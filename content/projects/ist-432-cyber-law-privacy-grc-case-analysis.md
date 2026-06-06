@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "IST 432: Cyber Law, Privacy & GRC Case Analysis"
 description: "A portfolio-safe academic case study focused on cyber law, privacy, digital governance, regulatory risk, FISA, the Patriot Act, CFAA authorization boundaries, cybersquatting, digital property, and GRC-style analysis."
@@ -28,7 +28,7 @@ This portfolio-safe case study summarizes selected IST 432 Legal and Regulatory 
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Cyber Law Â· Privacy Â· GRC Â· Digital Governance</span>
+  <span class="sr-case-value">Cyber Law · Privacy · GRC · Digital Governance</span>
 </div>
 
 <div class="sr-case-item">
@@ -38,7 +38,7 @@ This portfolio-safe case study summarizes selected IST 432 Legal and Regulatory 
 
 <div class="sr-case-item">
   <span class="sr-case-label">Themes</span>
-  <span class="sr-case-value">FISA Â· Patriot Act Â· CFAA Â· ACPA Â· Fourth Amendment Â· Privacy</span>
+  <span class="sr-case-value">FISA · Patriot Act · CFAA · ACPA · Fourth Amendment · Privacy</span>
 </div>
 
 <div class="sr-case-item">

@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "IST 402: Cloud Virtualization, Containers & SECaaS Architecture"
 description: "A portfolio-safe academic case study focused on emerging technologies, cloud computing, virtualization, Hyper-V, OpenStack private cloud, Docker containers, zero trust, mutual TLS, secure cloud architecture, workflow modeling, and Security-as-a-Service strategy."
@@ -33,17 +33,17 @@ This portfolio-safe case study summarizes selected IST 402 Emerging Issues and T
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Virtualization Â· Containers Â· Zero Trust Â· Cloud Security Â· SECaaS</span>
+  <span class="sr-case-value">Virtualization · Containers · Zero Trust · Cloud Security · SECaaS</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Tools / Platforms</span>
-  <span class="sr-case-value">Hyper-V Â· OpenStack Â· Docker Â· Docker Compose Â· Wazuh Â· OpenSCAP</span>
+  <span class="sr-case-value">Hyper-V · OpenStack · Docker · Docker Compose · Wazuh · OpenSCAP</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Security Concepts</span>
-  <span class="sr-case-value">mTLS Â· Certificates Â· Docker Registry Security Â· Shared Responsibility</span>
+  <span class="sr-case-value">mTLS · Certificates · Docker Registry Security · Shared Responsibility</span>
 </div>
 
 <div class="sr-case-item">

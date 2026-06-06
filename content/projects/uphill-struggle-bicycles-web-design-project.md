@@ -1,4 +1,4 @@
-﻿---
+---
 title: "IST 250: Uphill Struggle Bicycles Web Design Project"
 description: "A portfolio-safe academic web design project focused on building a multi-page static website using HTML, CSS, JavaScript, navigation, image presentation, hover effects, and product-style layouts."
 showDate: false
@@ -28,12 +28,12 @@ This case study summarizes a Penn State web design final project focused on buil
 
 <div class="sr-case-item">
   <span class="sr-case-label">Technologies</span>
-  <span class="sr-case-value">HTML Â· CSS Â· JavaScript</span>
+  <span class="sr-case-value">HTML · CSS · JavaScript</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Design Features</span>
-  <span class="sr-case-value">Navigation Â· Images Â· Hover Effects Â· Product Tables</span>
+  <span class="sr-case-value">Navigation · Images · Hover Effects · Product Tables</span>
 </div>
 
 <div class="sr-case-item">

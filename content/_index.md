@@ -1,4 +1,4 @@
-﻿---
+---
 title: ""
 description: "sudoRunner cybersecurity portfolio for Vlad K., focused on ServiceNow SecOps, Vulnerability Response, cybersecurity operations, risk analysis, incident response, malware analysis, forensics, OT/ICS security, and application development."
 showTitle: false

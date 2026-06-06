@@ -1,4 +1,4 @@
-﻿---
+---
 title: "About"
 description: "About Vlad K. and sudoRunner, a cybersecurity portfolio focused on ServiceNow SecOps, Vulnerability Response, cybersecurity operations, incident response, forensics, malware analysis, GRC-aware risk analysis, OT/ICS security, HCI, and application development."
 showDate: false
@@ -79,7 +79,7 @@ Academic Honors: **The Honor Society of Phi Kappa Phi** Â· **Alpha Sigma Lambd
 
 ---
 
-## What Iâ€™m Building Toward
+## What I'm Building Toward
 
 <div class="sr-card-grid">
 

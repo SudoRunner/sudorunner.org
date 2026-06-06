@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Capabilities"
 description: "Capability-to-evidence map for Vlad K.'s cybersecurity portfolio, connecting ServiceNow SecOps, incident response, forensics, malware analysis, GRC, cloud security, OT/ICS, HCI, software foundations, and technical communication to supporting work."
 showDate: false

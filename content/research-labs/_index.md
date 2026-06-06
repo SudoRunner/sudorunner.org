@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Research & Labs"
 description: "Hands-on cybersecurity labs, ServiceNow SecOps workflow notes, malware analysis labs, security foundations, vulnerability response checklists, and portfolio-safe technical research."
 showDate: false

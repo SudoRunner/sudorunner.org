@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Credentials"
 description: "Education, certifications, academic honors, professional development, and supporting evidence for Vlad K."
 showDate: false

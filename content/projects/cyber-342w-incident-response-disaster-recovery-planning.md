@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: "CYBER 342W: Incident Response, Disaster Recovery & Business Continuity Planning"
 description: "A portfolio-safe academic case study focused on incident response planning, NIST 800-61, CSIRT structure, incident communication, containment, eradication, recovery, disaster recovery, business continuity, and cybersecurity writing."
@@ -38,12 +38,12 @@ This portfolio-safe case study summarizes selected CYBER 342W Cyber Incident Han
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Preparation Â· Detection Â· Containment Â· Recovery Â· Lessons Learned</span>
+  <span class="sr-case-value">Preparation · Detection · Containment · Recovery · Lessons Learned</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Supporting Themes</span>
-  <span class="sr-case-value">DR/BC Â· Communication Â· CSIRT Â· IR Policy Â· Data Breach Response</span>
+  <span class="sr-case-value">DR/BC · Communication · CSIRT · IR Policy · Data Breach Response</span>
 </div>
 
 <div class="sr-case-item">

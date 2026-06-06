@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Security & Privacy"
 description: "Security and privacy practices used for the sudoRunner portfolio."
 showDate: false
