@@ -32,7 +32,7 @@ I keep the sensitive parts private. Credential IDs, transcripts, raw academic su
 Graduated <span class="sr-cum-laude">Cum Laude</span>  
 GPA: **3.88**  
 Focus Area: **Application Development**  
-Academic Honors: **The Honor Society of Phi Kappa Phi** · **Alpha Sigma Lambda Honor Society**
+Academic Honors: **The Honor Society of Phi Kappa Phi** | **Alpha Sigma Lambda Honor Society**
 
 Relevant areas of study included cybersecurity operations, network security, risk analysis, application development, incident response concepts, malware analysis foundations, digital forensics, user-centered design, and security-focused technical foundations.
 
@@ -59,7 +59,7 @@ Relevant areas of study included cybersecurity operations, network security, ris
 
 <div class="sr-record-row">
   <div class="sr-record-title">ServiceNow Certified System Administrator</div>
-  <div class="sr-record-detail">CSA · scheduled June 2026</div>
+  <div class="sr-record-detail">CSA | scheduled June 2026</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-scheduled">Scheduled</span></div>
 </div>
 
@@ -109,7 +109,7 @@ Relevant areas of study included cybersecurity operations, network security, ris
 
 <div class="sr-record-row">
   <div class="sr-record-title">Graduated Cum Laude</div>
-  <div class="sr-record-detail">Penn State University · B.S. Cybersecurity Analytics & Operations · GPA 3.88</div>
+  <div class="sr-record-detail">Penn State University | B.S. Cybersecurity Analytics & Operations | GPA 3.88</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-achievement">Completed</span></div>
 </div>
 

@@ -2932,3 +2932,51 @@ a.sr-home-start-button:hover,
   visibility: visible !important;
   pointer-events: auto !important;
 }
+
+/* =========================================================
+   About page profile section
+   ========================================================= */
+
+.sr-about-profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 2.5rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.sr-about-photo {
+  flex: 0 0 300px;
+}
+
+.sr-about-photo img {
+  width: 300px;
+  height: auto;
+  border-radius: 18px;
+  border: 1px solid rgba(148,163,184,0.25);
+  box-shadow:
+    0 24px 60px rgba(2,6,23,0.35),
+    0 0 0 1px rgba(255,255,255,0.04);
+}
+
+.sr-about-bio {
+  flex: 1;
+}
+
+.sr-about-bio h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 900px) {
+  .sr-about-profile {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sr-about-photo {
+    flex: none;
+  }
+
+  .sr-about-bio {
+    width: 100%;
+  }
+}

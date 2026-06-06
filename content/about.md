@@ -66,7 +66,7 @@ Outside of work, I enjoy mountain biking, snowboarding, PC gaming, following cyb
 Graduated <span class="sr-cum-laude">Cum Laude</span>  
 GPA: **3.88**  
 Focus Area: **Application Development**  
-Academic Honors: **The Honor Society of Phi Kappa Phi** Â· **Alpha Sigma Lambda Honor Society**
+Academic Honors: **The Honor Society of Phi Kappa Phi** | **Alpha Sigma Lambda Honor Society**
 
 <div class="sr-static-label-row">
   <span class="sr-static-label sr-static-label-complete">Completed</span>
