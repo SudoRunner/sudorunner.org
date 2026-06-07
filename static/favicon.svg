@@ -1,11 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
-  <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description><dc:creator>RealFaviconGenerator</dc:creator><dc:source>https://realfavicongenerator.net</dc:source></rdf:Description></rdf:RDF></metadata><defs>
     <linearGradient id="srGradient" x1="16" y1="16" x2="80" y2="80" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#60A5FA"></stop>
       <stop offset="1" stop-color="#22C55E"></stop>
     </linearGradient>
-  </defs>
-  <rect x="8" y="8" width="80" height="80" rx="22" fill="url(#srGradient)"></rect>
-  <path d="M26 35L42 48L26 61" fill="none" stroke="#0F172A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
-  <path d="M48 62H70" fill="none" stroke="#0F172A" stroke-width="7" stroke-linecap="round"></path>
-</svg>
+  </defs><rect x="8" y="8" width="80" height="80" rx="22" fill="url(#srGradient)"></rect><path d="M26 35L42 48L26 61" fill="none" stroke="#0F172A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path><path d="M48 62H70" fill="none" stroke="#0F172A" stroke-width="7" stroke-linecap="round"></path></svg>
