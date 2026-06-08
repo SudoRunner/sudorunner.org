@@ -218,7 +218,8 @@ a.sr-home-primary:hover {
 </p>
 
 <p class="sr-home-summary">
-Cybersecurity portfolio focused on <strong>ServiceNow SecOps</strong>, <strong>vulnerability management</strong>, <strong>security operations</strong>, risk analysis, incident response, malware analysis, forensics, and OT/ICS security.
+Cybersecurity professional focused on <strong>ServiceNow SecOps</strong>, <strong>Vulnerability Response</strong>, and <strong>security operations</strong>,
+with supporting experience in incident response, malware analysis, digital forensics, Governance, Risk & Privacy, and OT/ICS security.
 </p>
 
 <div class="sr-home-actions">
@@ -244,29 +245,69 @@ Cybersecurity portfolio focused on <strong>ServiceNow SecOps</strong>, <strong>v
 
 <section class="sr-home-feature-section">
 
-<h2>Core Evidence Areas</h2>
+<section class="sr-home-feature-section">
 
-<p class="sr-home-feature-note">
-These are the fastest ways to understand my strongest evidence areas.
+<h2>Choose Your Review Path</h2>
+
+<div class="sr-home-primary-grid">
+
+<div class="sr-card sr-home-primary-card">
+
+<h3>ServiceNow SecOps & Vulnerability Response</h3>
+
+<p>
+My primary professional focus.
+Review ServiceNow SecOps workflow design, vulnerable item ownership, remediation tracking, validation, exception handling, and closure.
 </p>
+
+<div class="sr-home-primary-links">
+<a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
+<a class="sr-button-secondary sr-button" href="/research-labs/servicenow-vr-triage-checklist/">VR Checklist</a>
+</div>
+
+</div>
+
+<div class="sr-card sr-home-primary-card">
+
+<h3>OT/ICS Security</h3>
+
+<p>
+Academic and research work involving SCADA concepts, cyber-physical risk, operational disruption, availability, recovery validation, and industrial security.
+</p>
+
+<div class="sr-home-primary-links">
+<a class="sr-button" href="/ot-ics-security/">OT/ICS Security</a>
+<a class="sr-button-secondary sr-button" href="/ot-ics-security/ics-it-ot-application-level-dos-lab/">ICS DoS Lab</a>
+</div>
+
+</div>
+
+<div class="sr-card sr-home-primary-card">
+
+<h3>Resume & Contact</h3>
+
+<p>
+The fastest path for recruiters, hiring managers, and consulting firms looking for experience, credentials, project evidence, and contact information.
+</p>
+
+<div class="sr-home-primary-links">
+<a class="sr-button" href="/resume/">Resume</a>
+<a class="sr-button-secondary sr-button" href="/contact/">Contact</a>
+</div>
+
+</div>
+
+</div>
+
+<h2 class="sr-home-secondary-heading">Supporting Evidence Areas</h2>
 
 <div class="sr-home-feature-grid">
 
 <div class="sr-card sr-home-feature-card">
 
-### [ServiceNow SecOps](/research-labs/servicenow-secops-lab-hub/)
-
-Vulnerability Response workflow, ownership, remediation tracking, validation, and closure.
-
-<span class="sr-static-label sr-static-label-complete">Primary Focus</span>
-
-</div>
-
-<div class="sr-card sr-home-feature-card">
-
 ### [Incident Response & Forensics](/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/)
 
-Capstone investigation work with forensic images, memory artifacts, logs, timeline building, and remediation.
+Incident response investigations, forensic image analysis, memory artifacts, timelines, evidence handling, and remediation planning.
 
 <span class="sr-static-label sr-static-label-complete">Flagship Evidence</span>
 
@@ -276,9 +317,9 @@ Capstone investigation work with forensic images, memory artifacts, logs, timeli
 
 ### [Malware Analysis](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/)
 
-Static and dynamic analysis, unpacking, FLOSS, PE review, ProcMon, RegShot, IDA Pro, and Ghidra.
+Static analysis, dynamic analysis, unpacking, reverse engineering tools, malware behavior, and analyst workflow.
 
-<span class="sr-static-label sr-static-label-complete">Reverse Engineering</span>
+<span class="sr-static-label sr-static-label-complete">CYBER 366</span>
 
 </div>
 
@@ -286,19 +327,9 @@ Static and dynamic analysis, unpacking, FLOSS, PE review, ProcMon, RegShot, IDA 
 
 ### [Governance, Risk & Privacy](/projects/ist-456-security-risk-management-enigma-glass-labs/)
 
-Security risk management, cyber law, privacy, decision analysis, incident planning, and compliance-aware thinking.
+Security management, privacy, cyber law, risk analysis, incident planning, and compliance-aware thinking.
 
-<span class="sr-static-label sr-static-label-complete">Risk-Aware</span>
-
-</div>
-
-<div class="sr-card sr-home-feature-card">
-
-### [OT/ICS Security](/ot-ics-security/)
-
-Industrial security interest focused on SCADA/PLC concepts, cyber-physical risk, availability, and recovery validation.
-
-<span class="sr-static-label sr-static-label-complete">Specialty Interest</span>
+<span class="sr-static-label sr-static-label-complete">Governance</span>
 
 </div>
 
@@ -306,9 +337,9 @@ Industrial security interest focused on SCADA/PLC concepts, cyber-physical risk,
 
 ### [HCI, Cloud & Software](/projects/)
 
-User-centered design, cloud infrastructure, containers, Java/OOP, MVC, web design, and portfolio engineering.
+User-centered design, cloud security concepts, Java/OOP, application development, and web design foundations.
 
-<span class="sr-static-label sr-static-label-complete">Technical Foundation</span>
+<span class="sr-static-label sr-static-label-complete">Foundation</span>
 
 </div>
 
