@@ -1,227 +1,66 @@
 ---
+
 title: "Start Here"
-description: "Recommended starting point for reviewing Vlad K.'s cybersecurity portfolio, including resume, ServiceNow SecOps, incident response, malware analysis, forensics, GRC, OT/ICS security, and contact."
+description: "The fastest way to review Vlad K.'s cybersecurity portfolio."
 showDate: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
----
+--------------------
 
 <span class="sr-eyebrow">Start Here</span>
 
-I built this site so a reviewer does not have to guess where to click.
+# If You Only Read Three Things
 
-A resume gives the overview, but the portfolio shows the work behind it: ServiceNow SecOps, Vulnerability Response, incident response, malware analysis, forensics, GRC, OT/ICS security, cloud security, HCI, and software foundations.
-
-<div class="sr-callout">
-
-<strong>Best first path:</strong> Resume → ServiceNow SecOps → CYBER 440 Capstone → Projects → Contact.
-
-</div>
-
-<div class="sr-cta-row">
-  <a class="sr-button" href="/resume/">Begin with Resume</a>
-  <a class="sr-button-secondary sr-button" href="/review-paths/">Choose a Review Path</a>
-  <a class="sr-button-secondary sr-button" href="/projects/">View Projects</a>
-</div>
-
----
-
-## Fast Review Path
-
-<div class="sr-flow">
-
-<div class="sr-flow-step">
-  <span class="sr-flow-number">1</span>
-
-### Resume
-
-Start here for the quick professional picture: education, credentials, experience, and best-fit roles.
-
-<a href="/resume/">Review Resume</a>
-
-<span class="sr-status sr-status-complete">Start</span>
-</div>
-
-<div class="sr-flow-step">
-  <span class="sr-flow-number">2</span>
-
-### ServiceNow SecOps
-
-This is the most career-aligned part of the portfolio. It shows how I think through Vulnerability Response workflow, ownership, remediation, validation, and closure.
-
-<a href="/research-labs/servicenow-secops-lab-hub/">Review ServiceNow SecOps</a>
-
-<span class="sr-status sr-status-lab">Primary Focus</span>
-</div>
-
-<div class="sr-flow-step">
-  <span class="sr-flow-number">3</span>
-
-### CYBER 440 Capstone
-
-This is one of the strongest academic projects. It connects phishing, malware activity, forensic images, memory artifacts, logs, impact, and remediation into one incident response story.
-
-<a href="/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/">Review Capstone</a>
-
-<span class="sr-status sr-status-complete">Flagship Evidence</span>
-</div>
-
-<div class="sr-flow-step">
-  <span class="sr-flow-number">4</span>
-
-### Projects
-
-Use the project gallery to see the full course-coded evidence map across malware analysis, forensics, GRC, risk, cloud, HCI, software, OT/ICS, and internship work.
-
-<a href="/projects/">Review Projects</a>
-
-<span class="sr-status sr-status-progress">Evidence Map</span>
-</div>
-
-<div class="sr-flow-step">
-  <span class="sr-flow-number">5</span>
-
-### Capabilities
-
-Use this page to connect skills to evidence. It is the quickest way to see what I can credibly discuss in an interview.
-
-<a href="/capabilities/">Review Capabilities</a>
-
-<span class="sr-status sr-status-concept">Skill Evidence</span>
-</div>
-
-<div class="sr-flow-step">
-  <span class="sr-flow-number">6</span>
-
-### Contact
-
-Reach out after reviewing the relevant evidence.
-
-<a href="/contact/">Contact</a>
-
-<span class="sr-status sr-status-complete">Next Step</span>
-</div>
-
-</div>
-
----
-
-## What to Read First
+If you only spend a few minutes reviewing this portfolio, I recommend reading these pages in order:
 
 <div class="sr-card-grid">
 
-<div class="sr-card sr-project-card">
+<div class="sr-card">
 
-<div>
+### 1. Professional Experience
 
-### For ServiceNow SecOps
+My strongest evidence.
 
-Start with the [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/) and [ServiceNow VR Triage Checklist](/research-labs/servicenow-vr-triage-checklist/).
+A real client-facing ServiceNow Vulnerability Response engagement delivered as part of a Wipro consulting team.
 
-These pages are closest to the work I want to keep building on professionally.
+This project involved stakeholder coordination, user stories, RAID tracking, UAT support, go-live readiness, project ownership responsibilities, and successful client delivery.
+
+<div class="sr-cta-row">
+  <a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">View Wipro Engagement</a>
+</div>
+
+<span class="sr-static-label sr-static-label-complete">Highest Signal</span>
 
 </div>
 
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Primary Focus</span>
-  <span class="sr-static-label">Vulnerability Response</span>
+<div class="sr-card">
+
+### 2. ServiceNow SecOps
+
+My primary professional specialization.
+
+This section focuses on Vulnerability Response workflow design, ownership, remediation tracking, validation, exception handling, and closure.
+
+<div class="sr-cta-row">
+  <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">View ServiceNow SecOps</a>
 </div>
 
-</div>
-
-<div class="sr-card sr-project-card">
-
-<div>
-
-### For Cybersecurity Analyst Roles
-
-Start with [CYBER 440](/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/), [CYBER 366](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/), [IST 454](/projects/ist-454-computer-cyber-forensics-lab-evidence/), and [IST 456](/projects/ist-456-security-risk-management-enigma-glass-labs/).
-
-That path shows investigation, malware, forensics, SIEM-style review, and risk-based reporting.
+<span class="sr-static-label sr-static-label-complete">Primary Career Focus</span>
 
 </div>
 
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Analyst Path</span>
-  <span class="sr-static-label">IR / Forensics</span>
+<div class="sr-card">
+
+### 3. Resume
+
+The quickest overview of my experience, education, certifications, interests, and supporting evidence.
+
+<div class="sr-cta-row">
+  <a class="sr-button" href="/resume/">View Resume</a>
 </div>
 
-</div>
-
-<div class="sr-card sr-project-card">
-
-<div>
-
-### For Governance, Risk & Privacy
-
-Start with [IST 456](/projects/ist-456-security-risk-management-enigma-glass-labs/), [IST 432](/projects/ist-432-cyber-law-privacy-grc-case-analysis/), [SRA 311](/projects/sra-311-risk-analysis-security-context/), and [CYBER 342W](/projects/cyber-342w-incident-response-disaster-recovery-planning/).
-
-That path shows risk thinking, cyber law, privacy, incident planning, and security management.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Risk Path</span>
-  <span class="sr-static-label">GRC</span>
-</div>
-
-</div>
-
-<div class="sr-card sr-project-card">
-
-<div>
-
-### For OT/ICS Security
-
-Start with the [OT/ICS Security](/ot-ics-security/) section and the [IST 451 ICS/IT-OT DoS Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/).
-
-This is a developing specialty interest, focused on cyber-physical risk, operational disruption, availability, and recovery validation.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Specialty Interest</span>
-  <span class="sr-static-label">OT/ICS</span>
-</div>
-
-</div>
-
-<div class="sr-card sr-project-card">
-
-<div>
-
-### For HCI and Workflow Design
-
-Start with [IST 331 User-Centered Design](/projects/ist-331-user-centered-design-booking-redesign/) and the [sudoRunner Portfolio Website](/projects/sudorunner-portfolio-website/).
-
-These explain why I care so much about usability, clear navigation, and workflow design.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">HCI</span>
-  <span class="sr-static-label">Workflow Design</span>
-</div>
-
-</div>
-
-<div class="sr-card sr-project-card">
-
-<div>
-
-### For Software and Application Foundations
-
-Start with [IST 261](/projects/ist-261-productivity-assistant-application-design-studio/), [IST 311](/projects/java-data-structures-software-engineering-foundations/), [IST 242](/projects/ist-242-intermediate-java-object-oriented-application-development/), and [IST 240](/projects/ist-240-introductory-java-programming-oop-labs/).
-
-These are supporting pages. They show the programming foundation behind the security work.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Software Foundation</span>
-  <span class="sr-static-label">Java / OOP</span>
-</div>
+<span class="sr-static-label sr-static-label-complete">Quick Summary</span>
 
 </div>
 
@@ -229,71 +68,212 @@ These are supporting pages. They show the programming foundation behind the secu
 
 ---
 
-## The Short Version
+# What This Portfolio Is About
+
+This portfolio is organized around three evidence layers.
 
 <div class="sr-record-list">
 
 <div class="sr-record-row sr-record-head">
-  <div>Question</div>
-  <div>Best Page</div>
-  <div>Why</div>
+  <div>Layer</div>
+  <div>Purpose</div>
+  <div>Examples</div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">What is the main career focus?</div>
-  <div class="sr-record-detail"><a href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps Lab Hub</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">Primary</span></div>
+  <div class="sr-record-title">Professional Experience</div>
+  <div class="sr-record-detail">
+  Real client-facing work, stakeholder coordination, implementation support, delivery ownership, UAT support, and go-live activities.
+  </div>
+  <div class="sr-record-status">
+    <span class="sr-static-label sr-static-label-complete">Wipro</span>
+  </div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">What is the strongest academic project?</div>
-  <div class="sr-record-detail"><a href="/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/">CYBER 440 Capstone</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">Flagship</span></div>
+  <div class="sr-record-title">ServiceNow & Security Operations</div>
+  <div class="sr-record-detail">
+  ServiceNow SecOps, Vulnerability Response workflow design, remediation ownership, analyst workflow, and security operations thinking.
+  </div>
+  <div class="sr-record-status">
+    <span class="sr-static-label">Primary Focus</span>
+  </div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Where is malware analysis shown?</div>
-  <div class="sr-record-detail"><a href="/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/">CYBER 366 Malware Analytics</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">Malware</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Where is forensics shown?</div>
-  <div class="sr-record-detail"><a href="/projects/ist-454-computer-cyber-forensics-lab-evidence/">IST 454 Computer & Cyber Forensics</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">Forensics</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Where is GRC/risk shown?</div>
-  <div class="sr-record-detail"><a href="/projects/ist-456-security-risk-management-enigma-glass-labs/">IST 456 Security & Risk Management</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">Risk</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Where is professional experience shown?</div>
-  <div class="sr-record-detail"><a href="/projects/ist-495-network-lab-development-internship/">IST 495 Network Lab Development Internship</a></div>
-  <div class="sr-record-status"><span class="sr-static-label">Internship</span></div>
+  <div class="sr-record-title">Academic Evidence</div>
+  <div class="sr-record-detail">
+  Supporting technical foundation across incident response, malware analysis, forensics, governance, OT/ICS, HCI, cloud, and software development.
+  </div>
+  <div class="sr-record-status">
+    <span class="sr-static-label">Supporting Evidence</span>
+  </div>
 </div>
 
 </div>
 
 ---
 
-## What Not to Read First
+# What I Want To Do Professionally
 
-<div class="sr-callout">
+My strongest professional interests today are:
 
-Some pages show progression rather than headline evidence. IST 240, IST 242, IST 250, SRA 221, and SRA 231 are useful supporting pages, but they are not where I would send a reviewer first unless they specifically ask about software foundations, early web design, information security basics, or decision theory.
+<div class="sr-card-grid">
+
+<div class="sr-card">
+
+### ServiceNow SecOps
+
+Vulnerability Response, workflow ownership, remediation tracking, validation, exception handling, and security operations process improvement.
+
+<span class="sr-static-label sr-static-label-complete">Primary Direction</span>
+
+</div>
+
+<div class="sr-card">
+
+### Cybersecurity Operations
+
+Incident response, investigation workflow, analyst decision-making, evidence handling, and operational security.
+
+<span class="sr-static-label sr-static-label-complete">Operations</span>
+
+</div>
+
+<div class="sr-card">
+
+### OT/ICS Security
+
+Industrial cybersecurity, cyber-physical risk, SCADA concepts, availability, resilience, and operational technology security.
+
+<span class="sr-static-label sr-static-label-complete">Developing Specialty</span>
+
+</div>
 
 </div>
 
 ---
 
-## Next Step
+# Recommended Review Paths
+
+## ServiceNow Reviewer
+
+```text
+Wipro Engagement
+↓
+ServiceNow SecOps Lab Hub
+↓
+VR Checklist
+↓
+Resume
+```
 
 <div class="sr-cta-row">
-  <a class="sr-button" href="/resume/">Start with Resume</a>
-  <a class="sr-button-secondary sr-button" href="/projects/">View Projects</a>
-  <a class="sr-button-secondary sr-button" href="/capabilities/">View Capabilities</a>
+  <a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">Start ServiceNow Path</a>
+</div>
+
+---
+
+## Cybersecurity Operations Reviewer
+
+```text
+Wipro Engagement
+↓
+CYBER 440 Capstone
+↓
+IST 454 Forensics
+↓
+CYBER 366 Malware Analytics
+```
+
+<div class="sr-cta-row">
+  <a class="sr-button" href="/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/">Start Operations Path</a>
+</div>
+
+---
+
+## OT/ICS Reviewer
+
+```text
+OT/ICS Security
+↓
+ICS/IT-OT DoS Lab
+↓
+Resume
+```
+
+<div class="sr-cta-row">
+  <a class="sr-button" href="/ot-ics-security/">Start OT/ICS Path</a>
+</div>
+
+---
+
+# Strongest Supporting Evidence
+
+These are the strongest academic and lab-based pages in the portfolio.
+
+<div class="sr-card-grid">
+
+<div class="sr-card">
+
+### CYBER 440
+
+Incident response, investigation workflow, forensic evidence, timelines, impact assessment, and remediation planning.
+
+<a class="sr-button" href="/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/">View CYBER 440</a>
+
+</div>
+
+<div class="sr-card">
+
+### IST 454
+
+Forensic imaging, hash verification, registry analysis, deleted file recovery, and evidence handling.
+
+<a class="sr-button" href="/projects/ist-454-computer-cyber-forensics-lab-evidence/">View IST 454</a>
+
+</div>
+
+<div class="sr-card">
+
+### CYBER 366
+
+Malware analysis, dynamic analysis, reverse engineering exposure, and analyst workflow.
+
+<a class="sr-button" href="/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/">View CYBER 366</a>
+
+</div>
+
+<div class="sr-card">
+
+### IST 456
+
+Governance, Risk & Privacy, ransomware response, governance, compliance awareness, and security management.
+
+<a class="sr-button" href="/projects/ist-456-security-risk-management-enigma-glass-labs/">View IST 456</a>
+
+</div>
+
+</div>
+
+---
+
+# Next Steps
+
+If you're a recruiter, hiring manager, or consulting leader:
+
+<div class="sr-cta-row">
+  <a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">Professional Experience</a>
+  <a class="sr-button-secondary sr-button" href="/resume/">Resume</a>
   <a class="sr-button-secondary sr-button" href="/contact/">Contact</a>
 </div>
+
+If you're evaluating technical depth:
+
+<div class="sr-cta-row">
+  <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
+  <a class="sr-button-secondary sr-button" href="/projects/">Projects</a>
+  <a class="sr-button-secondary sr-button" href="/capabilities/">Capabilities</a>
+</div>
+
+Thank you for taking the time to review my work.
