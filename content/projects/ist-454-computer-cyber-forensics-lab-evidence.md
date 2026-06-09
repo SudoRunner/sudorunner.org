@@ -1,7 +1,7 @@
 ---
 
 title: "IST 454: Computer & Cyber Forensics Lab Evidence"
-description: "A portfolio-safe academic case study focused on computer and cyber forensics, forensic image creation, forensic image mounting, hash verification, registry analysis, data carving, deleted file recovery, IoT forensics, and AI-assisted forensic research."
+description: "A portfolio-safe academic case study focused on forensic imaging, hash verification, image mounting, registry analysis, data carving, deleted file recovery, IoT forensics, and AI-assisted forensic research."
 date: 2026-06-05
 tags: ["Digital Forensics", "Computer Forensics", "Cyber Forensics", "FTK Imager", "WinHex", "RegRipper", "Registry Analysis", "Data Carving", "Forensic Imaging", "IoT Forensics", "AI Forensics"]
 categories: ["Projects"]
@@ -15,7 +15,7 @@ showWordCount: false
 
 <div class="sr-case-hero">
 
-This portfolio-safe case study summarizes selected IST 454 Computer and Cyber Forensics work focused on forensic image creation, forensic image mounting, hash verification, Windows registry analysis, data carving, deleted file recovery, IoT forensics, and AI-assisted security/forensics research.
+IST 454 was focused on computer and cyber forensics: preserving evidence, creating forensic images, validating integrity with hashes, mounting images, reviewing registry artifacts, recovering deleted files, carving data, and thinking about newer forensic challenges involving AI and IoT systems.
 
 </div>
 
@@ -33,7 +33,7 @@ This portfolio-safe case study summarizes selected IST 454 Computer and Cyber Fo
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Forensic Imaging · Registry Analysis · Data Carving · Reporting</span>
+  <span class="sr-case-value">Forensic Imaging · Registry Analysis · Data Carving · Deleted File Recovery</span>
 </div>
 
 <div class="sr-case-item">
@@ -48,18 +48,56 @@ This portfolio-safe case study summarizes selected IST 454 Computer and Cyber Fo
 
 <div class="sr-case-item">
   <span class="sr-case-label">Publishing Level</span>
-  <span class="sr-case-value">Portfolio-Safe / Partial Evidence / No Raw Images Published</span>
+  <span class="sr-case-value">Portfolio-Safe / Selected Evidence / No Raw Images Published</span>
 </div>
 
 </div>
+
+## Project Summary
+
+<div class="sr-record-list">
+
+<div class="sr-record-row sr-record-head">
+  <div>Category</div>
+  <div>Summary</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Problem</div>
+  <div class="sr-record-detail">Work through selected computer and cyber forensics labs involving evidence preservation, forensic image creation, image mounting, hash verification, registry analysis, deleted file recovery, data carving, and research into AI/IoT forensic challenges.</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">My Role</div>
+  <div class="sr-record-detail">Created and validated forensic images, mounted evidence in read-only workflows, reviewed registry artifacts, used forensic tools to recover deleted files, performed data carving, documented findings, and connected forensic evidence to investigation questions.</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Tools & Frameworks</div>
+  <div class="sr-record-detail">FTK Imager, WinHex, RegRipper, Registry Viewer, Kali Linux, dcfldd, MD5/SHA256 hashing, forensic image handling, registry hive review, deleted file recovery, data carving, and evidence integrity concepts.</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Public Version</div>
+  <div class="sr-record-detail">This public version is intentionally redacted. Raw forensic images, registry hives, recovered files, screenshots, full academic submissions, passwords, private artifacts, and detailed evidence files are not published.</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Why It Matters</div>
+  <div class="sr-record-detail">Demonstrates forensic evidence handling, integrity validation, artifact recovery, registry analysis, technical documentation, and investigation discipline relevant to cybersecurity operations, incident response, and digital forensics support work.</div>
+</div>
+
+</div>
+
+---
 
 ## Overview
 
 IST 454 focused on computer and cyber forensics. The available evidence from this course supports a portfolio-safe summary around digital evidence handling, forensic image creation, forensic image mounting, hash verification, registry analysis, deleted file recovery, data carving, and research into AI/IoT forensics.
 
-I do not currently have every original lab submission from this course. Because of that, this page is intentionally framed as **selected lab evidence**, not a complete course archive.
+I do not currently have every original lab submission from this course. Because of that, this page is framed as **selected lab evidence**, not a complete course archive.
 
-The strongest evidence available includes:
+The strongest available evidence includes:
 
 * Windows forensic image creation and mounting
 * Kali Linux disk image creation and hashing
@@ -76,7 +114,7 @@ The strongest evidence available includes:
 * research on AI-based cybersecurity and forensics datasets
 * discussion of IoT forensics, proprietary data formats, privacy, and investigation challenges
 
-This page is intentionally written as a sanitized case study. It does not publish raw forensic images, full screenshots, complete lab answers, raw recovered documents, private academic submissions, passwords, case artifacts, or full evidence files.
+This page summarizes the method, evidence categories, and professional relevance without publishing the raw forensic materials.
 
 ---
 
@@ -121,68 +159,65 @@ This page excludes:
 * registry hive files
 * exact lab passwords
 * private screenshots
-* full group submissions
-* raw academic answers
-* private course materials
-* complete step-by-step instructions
+* full academic submissions
+* private student or team identifiers
+* complete forensic reports
+* sensitive evidence artifacts
 
 Instead, it presents:
 
-* forensic workflows
-* tools used
-* evidence categories
-* portfolio-safe technical summaries
-* professional lessons learned
-* relevance to incident response and security operations
+* what the lab work involved
+* what forensic concepts were demonstrated
+* what tools were used
+* what skills the work supports
+* why the evidence matters professionally
 
 ---
 
 ## Evidence-Based Scope
 
-Because not every lab file is available, this page uses a conservative evidence scope.
-
 <div class="sr-record-list">
 
 <div class="sr-record-row sr-record-head">
-  <div>Available Evidence</div>
-  <div>What It Supports</div>
-  <div>Confidence</div>
+  <div>Evidence Area</div>
+  <div>What It Demonstrates</div>
+  <div>Status</div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Windows Image Creation and Mounting Lab</div>
-  <div class="sr-record-detail">Supports forensic image creation, E01 image output, verification, mounting, and read-only forensic access using FTK Imager.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Strong</span></div>
+  <div class="sr-record-title">Forensic Image Creation</div>
+  <div class="sr-record-detail">Creating forensic images from Windows and Linux environments while preserving evidence integrity.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Available Evidence</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Kali Linux Image Creation and Hashing Lab</div>
-  <div class="sr-record-detail">Supports Linux partition identification, dcfldd-based disk imaging, MD5/SHA256 hash generation, read-only image handling, and hash comparison for integrity verification.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Strong</span></div>
+  <div class="sr-record-title">Hash Verification</div>
+  <div class="sr-record-detail">Using MD5 and SHA256 hash comparison to verify image integrity and confirm evidence consistency.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Available Evidence</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Windows Registry Analysis Lab</div>
-  <div class="sr-record-detail">Supports registry hive recovery and analysis, including SAM, SYSTEM, USBSTOR, NTUSER.DAT, Registry Viewer, and RegRipper-based user activity review.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Strong</span></div>
+  <div class="sr-record-title">Image Mounting</div>
+  <div class="sr-record-detail">Mounting forensic images in read-only mode to support safe evidence review without altering source material.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Available Evidence</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Windows Data Carving Lab</div>
-  <div class="sr-record-detail">Supports forensic image mounting, WinHex-based recovery by type, deleted image recovery, deleted document recovery, and output organization.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Strong</span></div>
+  <div class="sr-record-title">Registry Analysis</div>
+  <div class="sr-record-detail">Reviewing registry hives and using registry tools to identify user, system, and configuration artifacts.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Available Evidence</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Group Lab 5 Evidence</div>
-  <div class="sr-record-detail">Supports applied document recovery, repeated content identification, missing file reasoning, encrypted file observation, and analysis using FTK/WinHex outputs.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Moderate</span></div>
+  <div class="sr-record-title">Data Carving</div>
+  <div class="sr-record-detail">Recovering deleted images and documents from disk images using forensic recovery and carving techniques.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Available Evidence</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">AI / IoT Forensics Research Essay</div>
-  <div class="sr-record-detail">Supports research into AI-based security datasets, heterogeneous telemetry sources, IoT forensics, privacy issues, intrusion detection, digital forensics, and AI-assisted security analysis.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Strong</span></div>
+  <div class="sr-record-title">AI / IoT Forensics Research</div>
+  <div class="sr-record-detail">Researching how AI datasets and IoT environments create forensic challenges around data sources, privacy, and proprietary formats.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Available Evidence</span></div>
 </div>
 
 </div>
@@ -196,9 +231,9 @@ Because not every lab file is available, this page uses a conservative evidence 
 <div class="sr-flow-step">
   <span class="sr-flow-number">1</span>
 
-### Identify and Preserve Evidence
+### Preserve the Evidence
 
-Forensic work began with identifying disks, partitions, evidence sources, and target images while avoiding unnecessary alteration of original evidence.
+Started with evidence preservation principles: avoid altering original media, work from forensic images, and document the acquisition process.
 
 <span class="sr-status sr-status-complete">Preservation</span>
 
@@ -207,9 +242,9 @@ Forensic work began with identifying disks, partitions, evidence sources, and ta
 <div class="sr-flow-step">
   <span class="sr-flow-number">2</span>
 
-### Create Forensic Images
+### Create and Verify Images
 
-Created forensic images using FTK Imager and dcfldd-style workflows, including compressed forensic image formats and disk image output.
+Created forensic images and validated integrity using hash values so the evidence could be trusted during analysis.
 
 <span class="sr-status sr-status-lab">Acquisition</span>
 
@@ -218,42 +253,42 @@ Created forensic images using FTK Imager and dcfldd-style workflows, including c
 <div class="sr-flow-step">
   <span class="sr-flow-number">3</span>
 
-### Verify Integrity
+### Mount and Review Safely
 
-Used hash generation and hash comparison, including MD5 and SHA256-style validation, to confirm image integrity and support evidence reliability.
+Mounted forensic images in read-only workflows to inspect files, folders, system artifacts, and deleted/recoverable content.
 
-<span class="sr-status sr-status-progress">Hash Verification</span>
+<span class="sr-status sr-status-lab">Read-Only Review</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">4</span>
 
-### Mount Images Read-Only
+### Analyze Registry Artifacts
 
-Mounted forensic images read-only so analysis could be performed without modifying the evidence source.
+Reviewed registry hives and used forensic registry tools to identify user, system, and configuration evidence.
 
-<span class="sr-status sr-status-lab">Read-Only Analysis</span>
+<span class="sr-status sr-status-progress">Registry Analysis</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">5</span>
 
-### Recover and Analyze Artifacts
+### Recover and Carve Data
 
-Recovered registry hives, reviewed user/system registry data, carved deleted images and documents, and examined recovered artifacts.
+Recovered deleted files and carved data from disk images to identify relevant images, documents, and file artifacts.
 
-<span class="sr-status sr-status-lab">Artifact Recovery</span>
+<span class="sr-status sr-status-lab">Data Recovery</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">6</span>
 
-### Report Findings
+### Document Findings
 
-Converted forensic observations into portfolio-safe findings, including recovered file categories, registry analysis relevance, and research implications.
+Summarized findings, tool usage, recovered evidence categories, limitations, and lessons learned in a forensic reporting format.
 
 <span class="sr-status sr-status-complete">Reporting</span>
 
@@ -265,137 +300,83 @@ Converted forensic observations into portfolio-safe findings, including recovere
 
 ## Forensic Imaging Evidence
 
-The course evidence includes both Windows and Linux imaging workflows.
+The forensic imaging work demonstrated how evidence should be acquired and validated before analysis.
 
-The Windows imaging lab involved:
+Key concepts included:
 
-* launching FTK Imager
-* creating a forensic image
-* selecting evidence source type
-* choosing an E01-style image output
-* entering case/evidence/examiner metadata
-* saving the image to a case folder
-* verifying the image
-* mounting the forensic image
-* selecting a drive letter
-* confirming read-only mounting
-* preparing the mounted image for later analysis
+* creating forensic images
+* preserving original evidence
+* validating evidence integrity with hash values
+* comparing MD5 and SHA256 values
+* understanding why read-only workflows matter
+* mounting images safely
+* documenting acquisition and verification steps
 
-The Kali Linux imaging lab involved:
-
-* identifying partitions
-* selecting a target partition
-* creating a disk image using `dcfldd`
-* generating MD5 and SHA256 hash logs during imaging
-* setting the resulting image to read-only
-* hashing the original source for comparison
-* discussing hash comparison and evidence integrity
-
-The key lesson is that forensic analysis should be performed on an acquired image rather than directly on original evidence, and that hashing supports evidence integrity.
+This is important because forensic work depends on trust. If evidence integrity cannot be explained, the findings are weaker.
 
 ---
 
 ## Registry Analysis Evidence
 
-The registry analysis lab supported Windows forensic analysis concepts.
+The registry analysis work focused on Windows artifacts that can help reconstruct system and user activity.
 
-The available evidence includes work around:
+Evidence areas included:
 
-* recovering registry hives
-* exporting SAM and SYSTEM files
-* analyzing SAM with Registry Viewer
-* reviewing user account information
-* analyzing SYSTEM registry data
-* identifying connected USB device artifacts through USBSTOR
-* recovering NTUSER.DAT
-* using RegRipper to analyze NTUSER data
-* searching for recently opened files
-* using registry artifacts to infer user or system activity
+* SAM hive concepts
+* SYSTEM hive concepts
+* NTUSER.DAT review
+* user profile artifacts
+* system configuration artifacts
+* registry-based activity indicators
+* RegRipper output interpretation
+* Registry Viewer usage
 
-This is relevant because the Windows registry can contain important evidence about user behavior, connected devices, account information, system configuration, and recent activity.
+Registry analysis matters because Windows systems store important context in the registry. That context can help answer questions about users, devices, system configuration, mounted devices, application activity, and possible compromise indicators.
 
 ---
 
-## Data Carving Evidence
+## Data Carving and Deleted File Recovery Evidence
 
-The data carving lab focused on recovering deleted files from a mounted forensic image.
+The data carving and deleted file recovery work focused on identifying files that were no longer visible through normal file browsing.
 
-The available evidence includes:
+The work involved:
 
-* mounting an image with FTK Imager
-* opening the physical storage device in WinHex
-* recovering deleted images by file type
-* creating output folders for carved pictures
-* recovering deleted documents by file type
-* using free cluster and sector boundary search settings
-* reviewing recovered output
-* organizing recovery results
+* using WinHex-style forensic workflows
+* locating recoverable file structures
+* recovering deleted image files
+* recovering deleted document files
+* identifying file types from evidence
+* reviewing recovered documents
+* considering encrypted or protected file indicators
+* documenting recovered evidence categories
 
-This supports a practical understanding of deleted file recovery and forensic artifact extraction.
-
----
-
-## Data recovery from a mounted forensic image
-
-The data recovery lab focused on a "Company Secrets" case involving recovered documents and file artifacts which needed to be investigated, and certain information had to be extracted.
-
-The available evidence supports:
-
-* recovered document review
-* identifying repeated content
-* recognizing missing file numbers
-* identifying a file with mRNA-related content
-* observing encrypted file indicators
-* noting an OLE2 encrypted file type
-* connecting recovered artifacts to FTK and WinHex outputs
+This matters because attackers and users may delete files. Deleted files can still be recoverable depending on disk state, overwrite activity, and file-system behavior.
 
 ---
 
 ## AI and IoT Forensics Research
 
-The research essay focused on AI as it relates to cybersecurity and forensics.
+IST 454 also included research-oriented forensic topics involving AI and IoT.
 
-The essay discussed:
+The AI-focused work explored cybersecurity and forensics dataset concerns, including:
 
-* AI-based security applications
-* TON_IoT Windows datasets
-* heterogeneous telemetry
-* Windows and Linux operating system data
-* network traffic data
-* IoT service data
-* intrusion detection
-* threat intelligence
-* privacy preservation
-* digital forensics
-* limitations of homogeneous datasets
-* multi-faceted attacks
-* overfitting and incomplete feature sets
-* labeled datasets with ground truth
-* correlation analysis
-* energy and scalability considerations for AI systems
+* how datasets support research and detection work
+* the importance of labeling and context
+* the risks of biased or incomplete datasets
+* the challenge of applying AI to forensic analysis
+* why analyst validation still matters
 
-This research angle matters because modern forensics increasingly depends on large-scale, multi-source evidence. IoT, cloud, endpoint, and network telemetry create both opportunities and challenges for investigators.
+The IoT-focused work explored forensic challenges involving:
 
----
+* proprietary device formats
+* fragmented evidence sources
+* cloud-connected devices
+* privacy concerns
+* limited logging
+* device-specific storage behavior
+* multi-source evidence collection
 
-## IoT Forensics Discussion Evidence
-
-The available discussion work addressed IoT forensics and the difficulty of investigating connected devices.
-
-Themes included:
-
-* IoT devices generating large volumes of data
-* cloud-based device data
-* proprietary vendor formats
-* multi-tenant cloud infrastructure
-* multi-jurisdictional evidence concerns
-* end-to-end encryption
-* privacy of smart car occupants
-* insecure or poorly secured connected devices
-* use of tools such as Splunk to aggregate different evidence sources
-* need for broader visibility across logs, APIs, files, directories, and network events
-
-This supports the broader forensic theme that modern investigations often require multi-source evidence handling and privacy-aware analysis.
+This research angle matters because modern investigations increasingly involve nontraditional evidence sources.
 
 ---
 
@@ -405,50 +386,44 @@ This supports the broader forensic theme that modern investigations often requir
 
 <div class="sr-record-row sr-record-head">
   <div>Tool / Technique</div>
-  <div>Forensic Purpose</div>
-  <div>Evidence Type</div>
+  <div>Use in IST 454</div>
+  <div>Evidence Area</div>
 </div>
 
 <div class="sr-record-row">
   <div class="sr-record-title">FTK Imager</div>
-  <div class="sr-record-detail">Forensic image creation, evidence source selection, E01-style output, verification, image mounting, and read-only access.</div>
+  <div class="sr-record-detail">Forensic image creation, image mounting, evidence review, and image integrity workflows.</div>
   <div class="sr-record-status"><span class="sr-static-label">Imaging</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">dcfldd</div>
-  <div class="sr-record-detail">Linux disk image creation with hash generation and error-handling options during acquisition.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Acquisition</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">MD5 / SHA256 Hashing</div>
-  <div class="sr-record-detail">Evidence integrity validation through hash generation and comparison.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Integrity</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Registry Viewer</div>
-  <div class="sr-record-detail">SAM and SYSTEM registry hive analysis for account and system artifact review.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Registry</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">RegRipper</div>
-  <div class="sr-record-detail">NTUSER.DAT analysis and user activity artifact extraction.</div>
-  <div class="sr-record-status"><span class="sr-static-label">User Activity</span></div>
-</div>
-
-<div class="sr-record-row">
   <div class="sr-record-title">WinHex</div>
-  <div class="sr-record-detail">Opening mounted forensic images, recovering deleted images and documents, and carving files by type.</div>
+  <div class="sr-record-detail">Data carving, deleted file recovery, file review, and forensic-level inspection of disk content.</div>
   <div class="sr-record-status"><span class="sr-static-label">Data Carving</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Splunk / Multi-Source Telemetry Concepts</div>
-  <div class="sr-record-detail">Discussion of aggregating logs, files, directories, network events, and APIs for broader forensic and security visibility.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Telemetry</span></div>
+  <div class="sr-record-title">RegRipper</div>
+  <div class="sr-record-detail">Registry artifact extraction and review from recovered Windows registry hives.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Registry</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Registry Viewer</div>
+  <div class="sr-record-detail">Manual registry hive browsing and artifact review for system/user evidence.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Registry</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Kali Linux / dcfldd</div>
+  <div class="sr-record-detail">Disk image creation, Linux-based acquisition workflow, and hash verification concepts.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Acquisition</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">MD5 / SHA256</div>
+  <div class="sr-record-detail">Hash-based evidence integrity verification and consistency checking.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Integrity</span></div>
 </div>
 
 </div>
@@ -466,108 +441,109 @@ This supports the broader forensic theme that modern investigations often requir
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Forensic Acquisition</div>
-  <div class="sr-record-detail">Created Windows and Linux forensic images, used FTK Imager and dcfldd-style workflows, and reviewed image output and read-only handling.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Evidence Available</span></div>
+  <div class="sr-record-title">Evidence Preservation</div>
+  <div class="sr-record-detail">Worked with forensic imaging and read-only analysis concepts to preserve evidence integrity.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Evidence Integrity</div>
-  <div class="sr-record-detail">Generated and compared MD5 and SHA256 hashes to validate forensic image integrity.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Evidence Available</span></div>
+  <div class="sr-record-title">Forensic Acquisition</div>
+  <div class="sr-record-detail">Created forensic images and used hash comparison to confirm consistency and trustworthiness.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
   <div class="sr-record-title">Registry Analysis</div>
-  <div class="sr-record-detail">Recovered and analyzed SAM, SYSTEM, and NTUSER registry hives using Registry Viewer and RegRipper-style workflows.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Evidence Available</span></div>
+  <div class="sr-record-detail">Reviewed SAM, SYSTEM, and NTUSER-style registry artifacts using forensic registry tools and manual review concepts.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Deleted File Recovery</div>
+  <div class="sr-record-detail">Recovered deleted images and documents from forensic images using forensic recovery and carving workflows.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
   <div class="sr-record-title">Data Carving</div>
-  <div class="sr-record-detail">Recovered deleted images and documents from a mounted forensic image using WinHex and file recovery by type.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Evidence Available</span></div>
+  <div class="sr-record-detail">Used file signatures and forensic review techniques to identify and recover file artifacts from disk images.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Artifact Review</div>
-  <div class="sr-record-detail">Reviewed recovered document content, repeated files, missing file references, encrypted file indicators, and file-type observations.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Supporting Evidence</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">AI / IoT Forensics Research</div>
-  <div class="sr-record-detail">Researched AI-based security datasets, IoT telemetry, heterogeneous data sources, privacy preservation, IDS, threat intelligence, and forensic investigation challenges.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Research Evidence</span></div>
+  <div class="sr-record-title">Forensic Reporting</div>
+  <div class="sr-record-detail">Documented tools, evidence categories, findings, limitations, and forensic reasoning in a portfolio-safe format.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 </div>
 
 ---
 
-## Professional Lessons Learned
+## What I Learned
 
-This course reinforced several lessons that matter for cybersecurity and incident response:
+Before taking IST 454, I thought digital forensics was mostly about using specialized tools to recover evidence.
 
-* evidence should be acquired and analyzed carefully, not altered directly
-* forensic images should be mounted read-only when possible
-* hashing supports evidence integrity and repeatability
-* deleted files may still be recoverable through data carving
-* registry artifacts can reveal user activity, connected devices, and system state
-* forensic investigation often requires multiple tools
-* modern investigations increasingly involve IoT, cloud, and large-scale telemetry
-* proprietary data formats and encryption can complicate analysis
-* AI datasets may help security teams, but data quality and feature completeness matter
-* forensic reporting should clearly separate evidence, inference, and uncertainty
+What changed my perspective was realizing how much of forensic work revolves around discipline rather than technology.
+
+Creating a forensic image, validating hashes, mounting evidence in a read-only workflow, and documenting every step can feel procedural at first. As the labs became more complex, I began to understand why those procedures matter. If the integrity of the evidence is questioned, the quality of the analysis becomes far less important.
+
+One of the most interesting parts of the course was working with registry artifacts and deleted-file recovery. I was surprised by how much information could still be reconstructed from systems even after files were removed or normal user activity appeared to be gone. It reinforced the idea that systems often retain far more historical context than users realize.
+
+The AI and IoT portions of the course also stood out to me. Traditional forensic workflows assume investigators can access and interpret evidence using known formats and tools. Modern environments are increasingly distributed across cloud platforms, connected devices, proprietary ecosystems, and AI-driven systems. That creates new challenges around evidence collection, ownership, privacy, and interpretation.
+
+The biggest lesson I took away from IST 454 is that digital forensics is not simply about finding artifacts. It is about building confidence in conclusions. Evidence only becomes useful when it can be collected correctly, validated, interpreted carefully, and explained clearly enough for others to trust the results.
+
+That mindset continues to influence how I approach investigations, incident response, vulnerability management, and security operations work today.
 
 ---
 
 ## Professional Relevance
 
-This project supports roles involving:
+This page is relevant to cybersecurity analyst, incident response, forensic support, security operations, and vulnerability management conversations.
 
-* cybersecurity analysis
-* digital forensics
-* incident response
-* security operations
-* malware investigation
-* endpoint investigation
-* GRC-aware evidence handling
-* forensic reporting
-* IoT security awareness
-* AI-assisted security research
+It also supports my ServiceNow SecOps direction because incident and vulnerability workflows rely on evidence quality. Whether the work is a vulnerable item, a security incident, or a forensic artifact, the underlying questions are similar:
 
-It also complements my CYBER 440 capstone work. CYBER 440 demonstrates a broader simulated incident investigation; IST 454 adds dedicated computer and cyber forensics evidence around image acquisition, registry analysis, deleted file recovery, and forensic research.
+* What happened?
+* What evidence supports it?
+* Who owns the next step?
+* What should be remediated?
+* How do we validate the outcome?
+* What should be documented?
+
+The professional value of this project is the discipline: preserve evidence, validate integrity, recover artifacts, analyze context, and communicate findings clearly.
 
 ---
 
 ## Difference from CYBER 440
 
-IST 454 and CYBER 440 overlap, but they show different strengths.
+CYBER 440 focused on a broader incident response story across network, forensic, memory, log, impact, and remediation evidence.
+
+IST 454 is narrower and more forensic-tool focused. It is about evidence acquisition, evidence integrity, image handling, registry artifacts, deleted file recovery, data carving, and forensic research challenges.
+
+Together, the two pages show complementary skills:
 
 <div class="sr-record-list">
 
 <div class="sr-record-row sr-record-head">
   <div>Course</div>
-  <div>Main Portfolio Angle</div>
-  <div>Best Evidence Type</div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">IST 454</div>
-  <div class="sr-record-detail">Forensic imaging, hash verification, registry analysis, deleted file recovery, data carving, IoT forensics, and AI-assisted forensic research.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Digital Forensics</span></div>
+  <div>Primary Strength</div>
+  <div>Portfolio Role</div>
 </div>
 
 <div class="sr-record-row">
   <div class="sr-record-title">CYBER 440</div>
-  <div class="sr-record-detail">Simulated incident response capstone involving network evidence, forensic images, memory artifacts, logs, timeline development, and remediation planning.</div>
-  <div class="sr-record-status"><span class="sr-static-label">IR Capstone</span></div>
+  <div class="sr-record-detail">Full incident response and forensic investigation narrative.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Incident Story</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">IST 454</div>
+  <div class="sr-record-detail">Focused forensic acquisition, evidence handling, registry analysis, and recovery workflow.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Forensic Depth</span></div>
 </div>
 
 </div>
-
-Together, they show both focused forensic technique exposure and broader incident investigation workflow.
 
 ---
 
@@ -576,18 +552,17 @@ Together, they show both focused forensic technique exposure and broader inciden
 This case study intentionally excludes:
 
 * raw forensic images
-* mounted image contents
-* recovered documents and images
+* mounted disk image contents
+* recovered files
+* recovered screenshots
 * registry hive files
-* exact passwords
-* full screenshots
-* full lab submissions
-* complete group reports
-* private academic records
-* step-by-step lab procedures
-* complete source evidence
+* exact lab passwords
+* private student or team details
+* complete academic reports
+* full evidence artifacts
+* step-by-step recovery instructions
 
-The purpose is to show digital forensics knowledge and investigation workflow without exposing raw evidence or academic materials.
+The goal is to show forensic workflow, evidence handling, and investigation discipline without exposing raw evidence files or private academic materials.
 
 ---
 
@@ -597,41 +572,41 @@ The purpose is to show digital forensics knowledge and investigation workflow wi
 
 <div class="sr-card">
 
-### Digital Forensics
+### [CYBER 440 Capstone](/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/)
 
-This work supports forensic acquisition, evidence integrity, image mounting, registry analysis, deleted file recovery, and artifact review.
+The strongest incident response and forensic investigation narrative in the portfolio.
 
-<span class="sr-static-label sr-static-label-complete">Forensics</span>
-
-</div>
-
-<div class="sr-card">
-
-### Incident Response
-
-Forensic evidence handling supports incident triage, root-cause analysis, timeline reconstruction, and evidence-based reporting.
-
-<span class="sr-static-label sr-static-label-complete">IR-Relevant</span>
+<span class="sr-static-label sr-static-label-complete">Incident Response</span>
 
 </div>
 
 <div class="sr-card">
 
-### Security Operations
+### [CYBER 366 Malware Analytics](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/)
 
-Security analysts benefit from understanding file recovery, registry artifacts, logs, telemetry, and endpoint evidence.
+Malware triage, static analysis, dynamic analysis, and reverse-engineering workflow.
 
-<span class="sr-static-label sr-static-label-complete">SOC-Relevant</span>
+<span class="sr-static-label sr-static-label-complete">Malware Analysis</span>
 
 </div>
 
 <div class="sr-card">
 
-### AI and IoT Forensics
+### [IST 456 Security & Risk Management](/projects/ist-456-security-risk-management-enigma-glass-labs/)
 
-The research work connects forensic thinking to AI datasets, IoT telemetry, privacy, data volume, and multi-source investigation challenges.
+Security management and SIEM-style investigation work involving ransomware, compromised credentials, and data exfiltration.
 
-<span class="sr-static-label sr-static-label-complete">Emerging Forensics</span>
+<span class="sr-static-label sr-static-label-complete">Risk + SOC</span>
+
+</div>
+
+<div class="sr-card">
+
+### [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
+
+Vulnerability Response workflow, ownership, remediation, validation, exceptions, and closure.
+
+<span class="sr-static-label sr-static-label-complete">SecOps</span>
 
 </div>
 
@@ -641,16 +616,12 @@ The research work connects forensic thinking to AI datasets, IoT telemetry, priv
 
 ## Next Steps
 
-This project can later be connected to:
+This page could later be expanded with:
 
-* the cybersecurity analyst review path
-* the digital forensics capability section
-* the CYBER 440 capstone page
-* an incident-response evidence lifecycle diagram
-* a forensic imaging checklist
-* a registry analysis concept note
-* a data carving concept note
-* an AI/IoT forensics research section
+* a sanitized forensic workflow diagram
+* a hash-verification explanation block
+* a registry artifact map
+* a deleted-file recovery lifecycle diagram
+* a side-by-side comparison of forensic acquisition and incident response workflows
 
-For now, this page serves as the main portfolio-safe summary of my IST 454 computer and cyber forensics evidence.
-
+For now, this page serves as the main portfolio-safe summary of selected IST 454 computer and cyber forensics lab evidence.

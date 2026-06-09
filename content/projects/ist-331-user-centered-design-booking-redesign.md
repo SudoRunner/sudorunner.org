@@ -1,9 +1,9 @@
 ---
 
 title: "IST 331: User-Centered Design & Booking.com Redesign Case Study"
-description: "A portfolio-safe academic case study focused on user-centered design, interface evaluation, user research, low-fidelity prototyping, high-fidelity prototyping, usability testing, Figma collaboration, and iterative redesign of a travel-booking interface."
+description: "A portfolio-safe case study focused on user-centered design, usability testing, workflow analysis, user research, Figma prototyping, interface evaluation, and iterative redesign."
 date: 2026-06-05
-tags: ["User-Centered Design", "HCI", "Usability Testing", "UX Research", "Figma", "Low-Fidelity Prototype", "High-Fidelity Prototype", "Interface Design", "Workflow Design", "Accessibility"]
+tags: ["HCI", "User-Centered Design", "UX", "Usability Testing", "Figma", "Workflow Design", "Accessibility", "Interface Design"]
 categories: ["Projects"]
 showDate: true
 showAuthor: false
@@ -11,11 +11,13 @@ showReadingTime: true
 showWordCount: false
 --------------------
 
-<span class="sr-eyebrow">HCI / User-Centered Design Case Study</span>
+<span class="sr-eyebrow">Human-Computer Interaction Case Study</span>
 
 <div class="sr-case-hero">
 
-This portfolio-safe case study summarizes selected IST 331 Foundations of User-Centered Design work focused on interface evaluation, user profiles, user research, workflow analysis, low-fidelity prototyping, high-fidelity prototyping, usability testing, Figma collaboration, and iterative redesign of a travel-booking interface.
+IST 331 focused on designing systems around user needs instead of designer assumptions.
+
+The course emphasized user research, usability evaluation, workflow analysis, prototyping, testing, and iterative redesign. The primary project involved analyzing and redesigning portions of the Booking.com user experience through structured user-centered design methods.
 
 </div>
 
@@ -28,62 +30,133 @@ This portfolio-safe case study summarizes selected IST 331 Foundations of User-C
 
 <div class="sr-case-item">
   <span class="sr-case-label">Project Type</span>
-  <span class="sr-case-value">User-Centered Design / HCI Case Study</span>
+  <span class="sr-case-value">User-Centered Design Case Study</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Primary Project</span>
-  <span class="sr-case-value">Booking.com Interface Redesign</span>
+  <span class="sr-case-value">Booking.com Redesign</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">User Research · Prototyping · Usability Testing · Iterative Redesign</span>
+  <span class="sr-case-value">User Research · Prototyping · Usability Testing · Workflow Design</span>
 </div>
 
 <div class="sr-case-item">
-  <span class="sr-case-label">Tools / Methods</span>
-  <span class="sr-case-value">Figma · Interviews · User Profiles · Low-Fi Prototype · High-Fi Prototype</span>
+  <span class="sr-case-label">Tools</span>
+  <span class="sr-case-value">Figma · User Interviews · Personas · Low-Fi & High-Fi Prototypes</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Publishing Level</span>
-  <span class="sr-case-value">Portfolio-Safe / No Raw Participant Data Published</span>
+  <span class="sr-case-value">Portfolio-Safe / No Raw Participant Data</span>
 </div>
 
 </div>
+
+## Project Summary
+
+<div class="sr-record-list">
+
+<div class="sr-record-row sr-record-head">
+  <div>Category</div>
+  <div>Summary</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Problem</div>
+  <div class="sr-record-detail">
+  Evaluate a complex travel-booking interface and identify usability issues that create confusion, slow task completion, reduce user confidence, or make workflows harder than necessary.
+  </div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">My Role</div>
+  <div class="sr-record-detail">
+  Participated in user research, workflow analysis, usability evaluation, low-fidelity prototyping, high-fidelity prototyping, testing, redesign discussions, and documentation of user-centered improvements.
+  </div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Tools & Frameworks</div>
+  <div class="sr-record-detail">
+  Figma, usability testing, user personas, workflow analysis, low-fidelity prototypes, high-fidelity prototypes, user interviews, accessibility thinking, and iterative design methodology.
+  </div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Public Version</div>
+  <div class="sr-record-detail">
+  This public version excludes raw participant data, interview responses, grading artifacts, private group collaboration materials, complete Figma files, and full academic submissions.
+  </div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Why It Matters</div>
+  <div class="sr-record-detail">
+  Demonstrates workflow design, usability thinking, stakeholder awareness, communication, and interface evaluation skills that directly support cybersecurity operations, ServiceNow implementations, governance workflows, and portfolio design.
+  </div>
+</div>
+
+</div>
+
+---
 
 ## Overview
 
-IST 331 focused on foundations of user-centered design. The course emphasized how interfaces should be evaluated, researched, prototyped, tested, and improved based on user needs rather than designer assumptions.
+IST 331 focused on understanding how people interact with systems and how those systems can be improved through structured design methods.
 
-The primary group project was a redesign of Booking.com. The project focused on reducing clutter, improving navigation, making travel-planning paths easier to understand, improving filtering, making important actions easier to find, adding feedback for completed actions, and improving user confidence during booking-related tasks.
+The course emphasized:
 
-The course also included individual work on user-friendly interfaces, user profiles, digital native versus digital immigrant differences, collaboration tools, and a usability testing lab.
+* user-centered design
+* usability evaluation
+* workflow analysis
+* accessibility awareness
+* user research
+* prototyping
+* testing
+* iterative improvement
 
-This page is intentionally written as a portfolio-safe summary. It does not publish raw participant names, private interview responses, complete academic submissions, full Figma files, or complete group project artifacts.
+The largest project involved analyzing and redesigning parts of Booking.com to improve the overall user experience.
+
+The objective was not simply to make the interface look better.
+
+The objective was to make it easier for users to accomplish tasks successfully.
 
 ---
 
 ## Why This Project Matters
 
-This project matters because my portfolio itself is built around HCI and security-first thinking.
+This page is more important to my portfolio than many people expect.
 
-Good security workflows are not only technically correct. They must also be usable.
+The same principles that improve a booking website also improve:
 
-Poor usability can lead to:
+* ServiceNow workflows
+* vulnerability management workflows
+* governance processes
+* incident response processes
+* dashboards
+* analyst interfaces
+* documentation
+* portfolio design
 
-* users clicking the wrong control
-* users missing important warnings
-* users abandoning workflows
-* users making security mistakes
-* reviewers failing to find important evidence
-* analysts missing next steps
-* teams building processes that are hard to follow
+Good systems are not only technically correct.
 
-IST 331 helped strengthen my understanding of how user needs, interface structure, workflow clarity, feedback, error prevention, and iterative testing affect whether a system actually works for people.
+They must also be understandable and usable.
 
-That is directly relevant to cybersecurity, ServiceNow SecOps, vulnerability response, GRC workflows, incident response workflows, and this portfolio website.
+Many security problems are actually usability problems:
+
+* confusing workflows
+* unclear ownership
+* poor navigation
+* excessive complexity
+* hidden information
+* weak feedback mechanisms
+
+IST 331 helped reinforce the importance of designing systems around users instead of assumptions.
+
+That mindset directly influenced how this portfolio was built.
 
 ---
 
@@ -91,234 +164,96 @@ That is directly relevant to cybersecurity, ServiceNow SecOps, vulnerability res
 
 <div class="sr-callout">
 
-<strong>Privacy note:</strong> This page summarizes user research and usability testing work without publishing raw participant names, private responses, complete interview notes, full academic submissions, or private prototype links.
+<strong>Privacy note:</strong> This page summarizes methods, findings, and design lessons without publishing raw participant responses, interview data, grading materials, private collaboration records, or full project artifacts.
 
 </div>
 
 This page excludes:
 
-* raw participant names
-* private interview responses
-* full survey/interview data
-* private Figma project links
-* complete group submissions
-* private student identifiers
-* complete academic answers
-* raw usability test notes
-* full presentation files
+* participant names
+* raw interviews
+* private survey data
+* grading records
+* complete Figma projects
+* private collaboration discussions
+* full academic submissions
+* internal course materials
 
-Instead, it presents:
+Instead it focuses on:
 
-* design goals
-* research approach
-* usability themes
-* testing summary
-* design changes
-* HCI lessons learned
-* portfolio-safe outcomes
+* methodology
+* workflow analysis
+* usability findings
+* redesign decisions
+* professional lessons learned
 
 ---
 
-## Major Workstreams
-
-<div class="sr-card-grid">
-
-<div class="sr-card">
-
-### Interface Evaluation
-
-Evaluated user-friendly and difficult interfaces, including how clutter, unclear navigation, hidden features, and lack of feedback affect usability.
-
-<span class="sr-static-label sr-static-label-complete">Interface Review</span>
-
-</div>
-
-<div class="sr-card">
-
-### User Profiles
-
-Compared different user backgrounds and technology experience levels to understand how prior experience affects expectations, comfort, and risk awareness.
-
-<span class="sr-static-label sr-static-label-complete">User Profiles</span>
-
-</div>
-
-<div class="sr-card">
-
-### Project Proposal
-
-Defined the Booking.com redesign problem, expected users, interface issues, business impact, and improvement goals.
-
-<span class="sr-static-label sr-static-label-complete">Proposal</span>
-
-</div>
-
-<div class="sr-card">
-
-### User Research
-
-Focused on business professionals and college students as target user groups, then collected feedback about travel-booking expectations and interface pain points.
-
-<span class="sr-static-label sr-static-label-complete">UX Research</span>
-
-</div>
-
-<div class="sr-card">
-
-### Low-Fidelity Prototype
-
-Created early prototype concepts to explore layout, navigation, booking flow, information organization, and screen structure before final visual polish.
-
-<span class="sr-static-label sr-static-label-complete">Low-Fi Prototype</span>
-
-</div>
-
-<div class="sr-card">
-
-### High-Fidelity Prototype
-
-Developed a higher-fidelity Figma prototype for the redesigned booking experience, including improved navigation and more complete user flows.
-
-<span class="sr-static-label sr-static-label-complete">High-Fi Prototype</span>
-
-</div>
-
-<div class="sr-card">
-
-### Usability Testing
-
-Tested prototype tasks with users, collected timing/click data, captured success outcomes, and used the results to guide revisions.
-
-<span class="sr-static-label sr-static-label-complete">Usability Testing</span>
-
-</div>
-
-<div class="sr-card">
-
-### Iterative Redesign
-
-Modified the high-fidelity prototype based on design principles, usability findings, and feedback.
-
-<span class="sr-static-label sr-static-label-complete">Iteration</span>
-
-</div>
-
-</div>
-
----
-
-## Booking.com Redesign Problem
-
-The group selected Booking.com because the interface presented several usability concerns.
-
-Identified issues included:
-
-* too much visual clutter
-* overloaded information on the homepage
-* weak focus around destination selection
-* recommended destinations that did not feel clearly ordered
-* filter controls that needed redesign
-* hidden or difficult-to-find features
-* profile-menu ambiguity
-* unclear path back from sign-in/sign-up flows
-* uncertainty after completing certain account actions
-* flight search information overload
-* travel-planning flows that could feel less streamlined than expected
-
-The main design goal was to help users find relevant travel options more easily while reducing unnecessary clutter and improving clarity.
-
----
-
-## User Research
-
-The group focused on two user groups:
-
-* business professionals
-* college students
-
-These groups were selected because they were accessible to the team and represented users who might use travel-booking websites for different reasons.
-
-The user research considered:
-
-* comfort with laptops, desktops, and mobile devices
-* travel-booking expectations
-* business versus personal travel needs
-* information overload
-* filtering needs
-* ease of navigation
-* booking confidence
-* interface clarity
-* user frustration points
-
-The goal was to understand what users needed before deciding what to redesign.
-
----
-
-## Design and Testing Workflow
+## User-Centered Design Workflow
 
 <div class="sr-flow">
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">1</span>
 
-### Identify Interface Issues
+### Understand Users
 
-Reviewed Booking.com and identified clutter, hidden features, confusing navigation, weak feedback, and filter/search issues.
+Identify user goals, frustrations, motivations, and common workflow paths.
 
-<span class="sr-status sr-status-complete">Interface Review</span>
+<span class="sr-status sr-status-complete">Research</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">2</span>
 
-### Define Users and Goals
+### Analyze Existing Experience
 
-Defined target user groups, expected user needs, and redesign goals around clarity, navigation, filtering, and reduced cognitive load.
+Review current workflows and identify usability issues.
 
-<span class="sr-status sr-status-lab">User Research</span>
+<span class="sr-status sr-status-lab">Evaluation</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">3</span>
 
-### Create Low-Fidelity Prototype
+### Create Initial Concepts
 
-Produced early design concepts to test structure, layout, and flow before focusing on polished visuals.
+Develop low-fidelity concepts and workflow improvements.
 
-<span class="sr-status sr-status-progress">Low-Fi Prototype</span>
+<span class="sr-status sr-status-progress">Low-Fi</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">4</span>
 
-### Build High-Fidelity Prototype
+### Build Prototypes
 
-Created a more complete Figma prototype with redesigned screens and improved user flows.
+Convert concepts into higher-fidelity interface designs.
 
-<span class="sr-status sr-status-lab">High-Fi Prototype</span>
+<span class="sr-status sr-status-lab">High-Fi</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">5</span>
 
-### Run Usability Testing
+### Test with Users
 
-Asked users to complete tasks, collected task success, elapsed time, click counts, and subjective design ratings.
+Observe behavior, collect feedback, and identify friction points.
 
-<span class="sr-status sr-status-complete">Usability Testing</span>
+<span class="sr-status sr-status-progress">Testing</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">6</span>
 
-### Apply Design Revisions
+### Improve the Design
 
-Modified the prototype using usability results and design principles such as feedback, consistency, error prevention, help, and universal usability.
+Use evidence from testing to refine workflows and interface elements.
 
 <span class="sr-status sr-status-complete">Iteration</span>
 
@@ -328,189 +263,107 @@ Modified the prototype using usability results and design principles such as fee
 
 ---
 
+## Booking.com Redesign Themes
+
+The Booking.com redesign focused on improving user experience rather than changing visual style alone.
+
+Major themes included:
+
+* reducing interface clutter
+* improving navigation clarity
+* simplifying task completion
+* improving filter usability
+* improving visibility of important actions
+* reducing cognitive load
+* increasing user confidence
+* providing clearer feedback
+* improving workflow consistency
+
+The redesign process emphasized evidence-based improvements rather than personal preference.
+
+---
+
+## User Research Evidence
+
+The research work involved understanding how different users approach systems.
+
+Topics included:
+
+* user goals
+* workflow expectations
+* pain points
+* navigation habits
+* trust and confidence factors
+* differences between user groups
+* task completion behavior
+
+The purpose was to understand the user before attempting redesign.
+
+---
+
+## Personas and User Profiles
+
+The course included creation and analysis of user personas and profiles.
+
+These activities helped answer:
+
+* who the users are
+* what they are trying to accomplish
+* what barriers exist
+* what assumptions designers should avoid
+
+This reinforced the idea that systems should be built around actual user needs.
+
+---
+
+## Prototyping Evidence
+
+The project included:
+
+* low-fidelity prototypes
+* high-fidelity prototypes
+* workflow mockups
+* interaction design concepts
+* iterative improvements
+
+Figma was used as the primary design platform.
+
+The prototypes helped visualize improvements before implementation.
+
+---
+
 ## Usability Testing Evidence
 
-The individual usability testing lab collected task data from five participants using different devices.
+Usability testing focused on understanding how real users interact with the design.
 
-Portfolio-safe summary of the test data:
+Areas evaluated included:
 
-<div class="sr-record-list">
+* navigation
+* discoverability
+* task completion
+* workflow efficiency
+* user confidence
+* interface clarity
+* feedback mechanisms
 
-<div class="sr-record-row sr-record-head">
-  <div>Metric</div>
-  <div>Result</div>
-  <div>Interpretation</div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Participants</div>
-  <div class="sr-record-detail">Five participants completed the task scenario.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Sample</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Successful Outcome</div>
-  <div class="sr-record-detail">All participants completed the task successfully.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">100% Success</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Average Elapsed Time</div>
-  <div class="sr-record-detail">Average task completion time was approximately 53.3 seconds.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Time-on-Task</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Average Clicks</div>
-  <div class="sr-record-detail">Average click count was approximately 8.6 clicks.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Efficiency</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Design Rating</div>
-  <div class="sr-record-detail">Average perceived design rating was approximately 4.2 out of 5.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Satisfaction</span></div>
-</div>
-
-</div>
-
-This test helped connect usability to measurable outcomes rather than relying only on opinion.
+Testing often revealed issues that were not obvious during design.
 
 ---
 
-## Prototype Modification Evidence
+## Accessibility and Usability Themes
 
-The high-fidelity prototype modifications were tied to established usability principles.
+The course reinforced several important usability concepts:
 
-<div class="sr-record-list">
+* consistency
+* visibility
+* feedback
+* error prevention
+* discoverability
+* readability
+* workflow clarity
+* accessibility awareness
 
-<div class="sr-record-row sr-record-head">
-  <div>Design Principle</div>
-  <div>Modification</div>
-  <div>Usability Goal</div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Dialogs Yield Closure</div>
-  <div class="sr-record-detail">Added confirmation behavior for successful login and account creation so users receive clear feedback that an action was completed.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Feedback</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Universal Usability</div>
-  <div class="sr-record-detail">Created a bookings page where users can view reservations in one centralized location.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Accessibility</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Efficiency of Use</div>
-  <div class="sr-record-detail">Added easier access to reservations so users do not need to search through emails or hidden menus to track bookings.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Efficiency</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Error Prevention</div>
-  <div class="sr-record-detail">Added calendar overlay behavior for flight and stay date selection to reduce invalid input and prevent format errors.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Error Prevention</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Help and Documentation</div>
-  <div class="sr-record-detail">Adjusted the help link so users could reach relevant help resources more directly.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Help</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Consistency</div>
-  <div class="sr-record-detail">Improved navigation and interface behavior so actions and pages felt more predictable across the prototype.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Consistency</span></div>
-</div>
-
-</div>
-
----
-
-## Collaboration and Tooling
-
-The group used multiple collaboration tools during the course.
-
-The available evidence supports:
-
-* Canvas messaging for initial communication
-* Microsoft Teams for group communication and coordination
-* document sharing and meeting planning
-* Figma for prototype collaboration
-* shared deliverables across proposal, research, prototype, usability testing, and final presentation
-
-This matters professionally because user-centered design is collaborative. The quality of a design project depends not only on individual ideas, but also on coordination, communication, versioning, and shared understanding.
-
----
-
-## HCI Concepts Demonstrated
-
-<div class="sr-card-grid">
-
-<div class="sr-card">
-
-### Cognitive Load Reduction
-
-The redesign focused on reducing clutter, simplifying decision paths, and making travel-planning actions easier to identify.
-
-<span class="sr-static-label sr-static-label-complete">Cognitive Load</span>
-
-</div>
-
-<div class="sr-card">
-
-### Feedback and Closure
-
-Confirmation behavior helped users understand when login or account creation actions were completed.
-
-<span class="sr-static-label sr-static-label-complete">Feedback</span>
-
-</div>
-
-<div class="sr-card">
-
-### Error Prevention
-
-Calendar overlays reduced the chance of invalid date input and made date selection more familiar to users.
-
-<span class="sr-static-label sr-static-label-complete">Error Prevention</span>
-
-</div>
-
-<div class="sr-card">
-
-### Workflow Clarity
-
-The redesign attempted to make reservations, bookings, search, filters, and navigation easier to find and follow.
-
-<span class="sr-static-label sr-static-label-complete">Workflow</span>
-
-</div>
-
-<div class="sr-card">
-
-### User Research
-
-The project used target user groups and interviews to support design decisions rather than relying only on assumptions.
-
-<span class="sr-static-label sr-static-label-complete">Research</span>
-
-</div>
-
-<div class="sr-card">
-
-### Usability Testing
-
-The work included task testing, time-on-task, click counts, success outcomes, and design rating analysis.
-
-<span class="sr-static-label sr-static-label-complete">Testing</span>
-
-</div>
-
-</div>
+These principles remain relevant across many technical environments.
 
 ---
 
@@ -525,168 +378,90 @@ The work included task testing, time-on-task, click counts, success outcomes, an
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">User-Centered Design</div>
-  <div class="sr-record-detail">Developed a redesign based on user groups, interface issues, user expectations, and iterative feedback.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Interface Evaluation</div>
-  <div class="sr-record-detail">Evaluated interfaces for clutter, hidden features, weak feedback, navigation issues, and information overload.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
-</div>
-
-<div class="sr-record-row">
   <div class="sr-record-title">User Research</div>
-  <div class="sr-record-detail">Focused on business professionals and college students to understand different travel-booking needs, expectations, and pain points.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+  <div class="sr-record-detail">Gathered and interpreted user needs, goals, frustrations, and workflow expectations.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Workflow Design</div>
+  <div class="sr-record-detail">Evaluated workflows and redesigned interaction paths to improve usability.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
   <div class="sr-record-title">Prototyping</div>
-  <div class="sr-record-detail">Produced low-fidelity and high-fidelity prototype artifacts for a redesigned travel-booking interface.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+  <div class="sr-record-detail">Created and refined low-fidelity and high-fidelity design concepts.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
   <div class="sr-record-title">Usability Testing</div>
-  <div class="sr-record-detail">Collected task success, elapsed time, click count, and subjective design rating data from usability testing.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+  <div class="sr-record-detail">Collected feedback and used evidence-based iteration to improve designs.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Iterative Redesign</div>
-  <div class="sr-record-detail">Modified the prototype using principles such as feedback, universal usability, error prevention, help, and consistency.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+  <div class="sr-record-title">Technical Communication</div>
+  <div class="sr-record-detail">Documented findings, redesign rationale, and user-centered improvements.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 </div>
 
 ---
 
-## Cybersecurity and ServiceNow Relevance
+## Professional Lessons Learned
 
-This course supports cybersecurity and ServiceNow work because security tools and workflows need to be usable.
+The strongest lessons from IST 331 were:
 
-In cybersecurity environments, usability affects:
-
-* whether analysts notice the right evidence
-* whether users follow security procedures
-* whether workflows are adopted consistently
-* whether alerts, dashboards, and forms guide people correctly
-* whether risky actions are prevented before they occur
-* whether users understand confirmation, errors, and next steps
-* whether a system supports both novice and experienced users
-
-For ServiceNow SecOps specifically, HCI concepts matter because Vulnerability Response and Security Incident Response workflows depend on forms, records, queues, assignments, dashboards, status transitions, and user actions.
-
-A technically correct workflow can still fail if users do not understand what to do next.
-
----
-
-## Connection to This Portfolio Website
-
-IST 331 directly supports the design philosophy behind this portfolio.
-
-Many improvements to this site are based on HCI principles:
-
-* clearer Start Here path
-* role-based review paths
-* stronger distinction between clickable buttons and static labels
-* mobile usability improvements
-* card-based navigation
-* guided review workflow
-* consistent course-coded project naming
-* privacy-aware publishing approach
-* reduced ambiguity around next steps
-
-This course gives academic support to the same usability thinking applied throughout `sudoRunner`.
-
----
-
-## What I Learned
-
-This course reinforced several lessons:
-
-* users should not have to guess where to go next
-* clutter increases cognitive load
-* hidden features reduce efficiency
-* confirmation messages help users feel confident
-* error prevention is better than error correction
-* usability testing should measure behavior, not just opinions
-* low-fidelity prototypes are useful before investing in visual polish
-* high-fidelity prototypes should still be tested and revised
-* different user groups may have different expectations
-* collaboration tools matter in design projects
-* HCI principles apply to cybersecurity workflows, not only consumer apps
+* users should be understood before solutions are designed
+* assumptions often fail under testing
+* usability affects adoption
+* workflow clarity matters
+* feedback improves confidence
+* simplicity improves outcomes
+* accessibility benefits everyone
+* iteration is part of design
+* evidence should drive decisions
+* technical systems must also be usable
 
 ---
 
 ## Professional Relevance
 
-This project supports roles and tasks involving:
+This project supports:
 
-* ServiceNow SecOps consulting
-* cybersecurity workflow design
-* user-centered security process design
-* analyst dashboard usability
-* vulnerability management workflow design
-* security operations process improvement
-* requirements gathering
-* stakeholder communication
-* prototyping
-* usability testing
-* HCI-aware portfolio design
+* ServiceNow implementations
+* vulnerability management workflows
+* governance workflows
+* analyst interfaces
+* dashboard design
+* documentation design
+* process design
+* cybersecurity operations
 
-It is especially relevant to ServiceNow work because ServiceNow implementations must be usable by analysts, managers, assignment groups, and business stakeholders.
+It also directly influenced the design of this portfolio.
 
----
-
-## Difference from IST 402 Workflow Modeling
-
-IST 331 and IST 402 both relate to workflow design, but they show different strengths.
-
-<div class="sr-record-list">
-
-<div class="sr-record-row sr-record-head">
-  <div>Course</div>
-  <div>Main Portfolio Angle</div>
-  <div>Best Evidence Type</div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">IST 331</div>
-  <div class="sr-record-detail">User-centered design, user research, interface evaluation, prototyping, usability testing, and iterative redesign.</div>
-  <div class="sr-record-status"><span class="sr-static-label">HCI / UX</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">IST 402</div>
-  <div class="sr-record-detail">Cloud, emerging technology, workflow modeling, infrastructure, containers, zero trust, and cloud security strategy.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Cloud / Workflow</span></div>
-</div>
-
-</div>
-
-Together, they support both user-centered design and technical workflow modeling.
+Many of the navigation, hierarchy, review-path, and usability decisions on sudoRunner were influenced by lessons from IST 331.
 
 ---
 
-## Portfolio-Safe Redaction Notes
+## Difference from Other Portfolio Pages
 
-This case study intentionally excludes:
+Most pages in this portfolio focus on:
 
-* raw participant names
-* private interview responses
-* complete test notes
-* complete survey data
-* full group submissions
-* private Figma links
-* complete prototype files
-* private academic records
-* complete presentation files
+* security operations
+* incident response
+* malware analysis
+* forensics
+* governance
 
-The goal is to show HCI process, usability evidence, and design reasoning without exposing raw academic or participant data.
+IST 331 focuses on people.
+
+It demonstrates how users interact with systems and why usability matters.
+
+That perspective strengthens every other area of the portfolio.
 
 ---
 
@@ -696,41 +471,41 @@ The goal is to show HCI process, usability evidence, and design reasoning withou
 
 <div class="sr-card">
 
-### HCI and Usability
+### [sudoRunner Portfolio Website](/projects/sudorunner-portfolio-website/)
 
-This work supports user-centered design, usability testing, workflow clarity, user feedback, error prevention, and iterative redesign.
+A live example of applying workflow design, navigation, information hierarchy, and usability thinking.
 
-<span class="sr-static-label sr-static-label-complete">HCI</span>
-
-</div>
-
-<div class="sr-card">
-
-### ServiceNow SecOps
-
-SecOps workflows need clear forms, queues, dashboards, status transitions, assignment paths, validation steps, and next-action guidance.
-
-<span class="sr-static-label sr-static-label-complete">SecOps-Relevant</span>
+<span class="sr-static-label sr-static-label-complete">Applied HCI</span>
 
 </div>
 
 <div class="sr-card">
 
-### Portfolio Design
+### [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
 
-The course supports the design decisions used throughout sudoRunner, including guided review paths, mobile polish, and clearer clickable versus static elements.
+Workflow ownership, remediation processes, analyst usability, and operational design concepts.
 
-<span class="sr-static-label sr-static-label-complete">Portfolio-Relevant</span>
+<span class="sr-static-label sr-static-label-complete">Workflow Design</span>
 
 </div>
 
 <div class="sr-card">
 
-### Security Process Design
+### [IST 456 Security & Risk Management](/projects/ist-456-security-risk-management-enigma-glass-labs/)
 
-Security programs fail when workflows are confusing. HCI helps make security processes more usable, repeatable, and adoption-friendly.
+Governance and decision-making supported by effective communication and process design.
 
-<span class="sr-static-label sr-static-label-complete">Security Workflow</span>
+<span class="sr-static-label sr-static-label-complete">Governance</span>
+
+</div>
+
+<div class="sr-card">
+
+### [Capabilities](/capabilities/)
+
+Capability-to-evidence map showing how HCI supports cybersecurity work.
+
+<span class="sr-static-label sr-static-label-complete">Evidence Map</span>
 
 </div>
 
@@ -740,15 +515,13 @@ Security programs fail when workflows are confusing. HCI helps make security pro
 
 ## Next Steps
 
-This project can later be connected to:
+Future additions could include:
 
-* the HCI capability section
-* the sudoRunner Portfolio Website project
-* ServiceNow workflow usability notes
-* a security dashboard usability concept
-* a vulnerability response workflow HCI checklist
-* a role-based reviewer journey note
-* a mobile usability audit section
+* usability-testing summaries
+* workflow diagrams
+* design iteration comparisons
+* accessibility review examples
+* security workflow usability examples
+* ServiceNow workflow design notes
 
-For now, this page serves as the main portfolio-safe summary of my IST 331 Foundations of User-Centered Design work.
-
+For now, this page serves as the primary portfolio-safe summary of my IST 331 user-centered design work and the HCI foundation behind many portfolio decisions.

@@ -1,9 +1,9 @@
 ---
 
-title: "IST 432: Cyber Law, Privacy & GRC Case Analysis"
-description: "A portfolio-safe academic case study focused on cyber law, privacy, digital governance, regulatory risk, FISA, the Patriot Act, CFAA authorization boundaries, cybersquatting, digital property, and GRC-style analysis."
+title: "IST 432: Cyber Law, Privacy & Governance Case Analysis"
+description: "A portfolio-safe case study focused on cyber law, privacy, governance, digital rights, surveillance, cybercrime, intellectual property, policy analysis, and governance-aware cybersecurity decision-making."
 date: 2026-06-05
-tags: ["GRC", "Cyber Law", "Privacy", "Compliance", "Risk Analysis", "FISA", "Patriot Act", "CFAA", "ACPA", "Digital Governance"]
+tags: ["Cyber Law", "Privacy", "Governance", "GRC", "Policy", "Cybercrime", "Digital Rights", "Compliance"]
 categories: ["Projects"]
 showDate: true
 showAuthor: false
@@ -11,11 +11,13 @@ showReadingTime: true
 showWordCount: false
 --------------------
 
-<span class="sr-eyebrow">GRC / Cyber Law Case Study</span>
+<span class="sr-eyebrow">Cyber Law, Privacy & Governance</span>
 
 <div class="sr-case-hero">
 
-This portfolio-safe case study summarizes selected IST 432 Legal and Regulatory Environment of Information Science and Technology work focused on cyber law, privacy, governance, regulatory risk, digital rights, Fourth Amendment concerns, authorization boundaries, and compliance-aware security decision-making.
+IST 432 explored the legal, ethical, privacy, and governance dimensions of cybersecurity.
+
+The course focused on how laws, regulations, privacy expectations, governance frameworks, intellectual property, surveillance concerns, and policy decisions influence cybersecurity practice in the real world.
 
 </div>
 
@@ -27,69 +29,118 @@ This portfolio-safe case study summarizes selected IST 432 Legal and Regulatory 
 </div>
 
 <div class="sr-case-item">
-  <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Cyber Law · Privacy · GRC · Digital Governance</span>
+  <span class="sr-case-label">Project Type</span>
+  <span class="sr-case-value">Cyber Law & Governance Analysis</span>
 </div>
 
 <div class="sr-case-item">
-  <span class="sr-case-label">Content Type</span>
-  <span class="sr-case-value">Redacted Academic Case Analysis</span>
+  <span class="sr-case-label">Focus</span>
+  <span class="sr-case-value">Privacy · Governance · Cyber Law · Policy</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Themes</span>
-  <span class="sr-case-value">FISA · Patriot Act · CFAA · ACPA · Fourth Amendment · Privacy</span>
-</div>
-
-<div class="sr-case-item">
-  <span class="sr-case-label">Publishing Level</span>
-  <span class="sr-case-value">Portfolio-Safe / No Raw Submissions</span>
+  <span class="sr-case-value">Privacy, Surveillance, Cybercrime, Intellectual Property</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Professional Angle</span>
-  <span class="sr-case-value">Governance, Risk, Compliance, and Security Policy Awareness</span>
+  <span class="sr-case-value">Governance-Aware Cybersecurity Decision Making</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Publishing Level</span>
+  <span class="sr-case-value">Portfolio-Safe / Research Summaries</span>
 </div>
 
 </div>
 
-## Overview
+## Project Summary
 
-IST 432 focused on the legal and regulatory environment surrounding information science and technology. The course connected cybersecurity, information systems, surveillance law, digital privacy, cybercrime, online platforms, intellectual property, and regulatory interpretation.
+<div class="sr-record-list">
 
-For my portfolio, this course is best framed as **GRC-adjacent evidence**. It shows that cybersecurity work does not exist only at the technical layer. Security decisions also involve law, policy, privacy, authorization, risk tolerance, organizational governance, and compliance boundaries.
+<div class="sr-record-row sr-record-head">
+  <div>Category</div>
+  <div>Summary</div>
+</div>
 
-This case study is not legal advice and does not present raw academic submissions. It summarizes portfolio-safe lessons from academic case briefings, group research, and cyber law analysis.
+<div class="sr-record-row">
+  <div class="sr-record-title">Problem</div>
+  <div class="sr-record-detail">
+  Cybersecurity decisions often involve more than technical risk. Organizations must also navigate privacy concerns, legal obligations, governance requirements, intellectual property issues, surveillance debates, and cybercrime-related challenges.
+  </div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">My Role</div>
+  <div class="sr-record-detail">
+  Analyzed legal, ethical, governance, and privacy issues through structured case studies, policy reviews, research projects, and governance-oriented cybersecurity discussions.
+  </div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Tools & Frameworks</div>
+  <div class="sr-record-detail">
+  Cyber law analysis, privacy principles, governance concepts, policy evaluation, intellectual property concepts, surveillance discussions, cybercrime case analysis, and governance-aware decision-making frameworks.
+  </div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Public Version</div>
+  <div class="sr-record-detail">
+  This public version excludes full academic submissions, grading artifacts, discussion-board content, and course-specific materials. It focuses on themes, lessons learned, and professional relevance.
+  </div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Why It Matters</div>
+  <div class="sr-record-detail">
+  Demonstrates understanding of how legal, privacy, governance, and policy considerations affect cybersecurity programs, vulnerability management, incident response, and security decision-making.
+  </div>
+</div>
+
+</div>
 
 ---
 
-## Why This Belongs in a Cybersecurity Portfolio
+## Overview
 
-Security teams often need to understand more than tools and alerts.
+IST 432 focused on the legal and governance environment surrounding cybersecurity.
 
-A cybersecurity professional may need to think about:
+Technical findings alone rarely determine organizational decisions.
 
-* whether access was authorized
-* whether monitoring creates privacy concerns
-* whether data collection is proportional to a legitimate objective
-* whether an organization has clearly defined access controls
-* whether policies are specific enough to support enforcement
-* whether digital platforms have enforceable terms
-* whether cyber incidents create regulatory, legal, or reputational risk
-* whether technical evidence can be translated into governance decisions
+Organizations must also consider:
 
-IST 432 helped build that layer of thinking.
+* privacy obligations
+* legal exposure
+* governance responsibilities
+* regulatory requirements
+* intellectual property concerns
+* cybercrime implications
+* surveillance issues
+* stakeholder expectations
 
-From a GRC perspective, this work supports:
+The course explored how those factors influence cybersecurity strategy and operational decisions.
 
-* privacy risk awareness
-* regulatory interpretation
-* legal-risk communication
-* policy and authorization boundaries
-* cybercrime classification
-* governance-aware security analysis
-* digital rights and platform governance
-* compliance-sensitive reporting
+---
+
+## Why This Project Matters
+
+Many cybersecurity professionals focus exclusively on technical controls.
+
+However, organizations often face questions such as:
+
+* What information can be collected?
+* What information should be retained?
+* What privacy obligations exist?
+* What legal exposure exists?
+* What reporting requirements apply?
+* What governance responsibilities exist?
+* What is the ethical course of action?
+
+These questions frequently shape organizational decisions just as much as technical findings.
+
+This course helped strengthen the ability to evaluate cybersecurity issues from governance and privacy perspectives rather than purely technical perspectives.
 
 ---
 
@@ -97,192 +148,96 @@ From a GRC perspective, this work supports:
 
 <div class="sr-callout">
 
-<strong>Security and privacy note:</strong> This page summarizes academic cyber law and GRC-related work without publishing raw group submissions, private student details, full legal briefs, complete academic answers, or private course materials.
+<strong>Publishing note:</strong> This page summarizes legal, governance, and privacy themes without publishing academic submissions, discussion content, grading artifacts, or copyrighted course materials.
 
 </div>
 
-This page intentionally avoids publishing:
+This page excludes:
 
-* raw assignment files
-* full case briefs
-* private student identifiers
-* complete group submissions
-* professor-provided materials
-* private academic records
-* full legal analysis drafts
-* non-public discussion details
+* academic papers
+* discussion-board content
+* full case analyses
+* graded submissions
+* copyrighted instructional material
+* instructor feedback
 
-Instead, it presents:
+Instead it focuses on:
 
-* high-level case themes
+* major themes
 * governance lessons
-* risk interpretation
-* privacy and compliance implications
-* portfolio-safe summaries
-* professional lessons learned
+* privacy concepts
+* policy implications
+* professional relevance
 
 ---
 
-## Core GRC Themes
-
-<div class="sr-card-grid">
-
-<div class="sr-card">
-
-### Governance
-
-The coursework emphasized how laws, policies, courts, and organizational rules define what actions are authorized, prohibited, or subject to oversight.
-
-<span class="sr-static-label sr-static-label-complete">Governance</span>
-
-</div>
-
-<div class="sr-card">
-
-### Risk
-
-The case work required identifying legal, privacy, reputational, operational, and cybersecurity risks created by technology use, digital platforms, surveillance, and online behavior.
-
-<span class="sr-static-label sr-static-label-complete">Risk Analysis</span>
-
-</div>
-
-<div class="sr-card">
-
-### Compliance
-
-The course connected information technology decisions to statutes, case law, constitutional concerns, access boundaries, intellectual property rules, and regulatory obligations.
-
-<span class="sr-static-label sr-static-label-complete">Compliance Awareness</span>
-
-</div>
-
-<div class="sr-card">
-
-### Privacy
-
-A recurring theme was the tension between security needs, investigative authority, metadata collection, digital privacy, and individual constitutional protections.
-
-<span class="sr-static-label sr-static-label-complete">Privacy</span>
-
-</div>
-
-</div>
-
----
-
-## Selected Case and Research Areas
-
-<div class="sr-record-list">
-
-<div class="sr-record-row sr-record-head">
-  <div>Topic</div>
-  <div>Portfolio-Safe Summary</div>
-  <div>GRC Angle</div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">FISA and the Patriot Act</div>
-  <div class="sr-record-detail">Group research examined surveillance authority, metadata collection, national security objectives, civil liberties, Fourth Amendment concerns, and emerging technologies such as AI predictive analytics.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Privacy Governance</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Bulk Metadata Collection</div>
-  <div class="sr-record-detail">Research considered how metadata can reveal personal information and why collection scope, legal authority, oversight, and proportionality matter in security programs.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Data Governance</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Fourth Amendment Analysis</div>
-  <div class="sr-record-detail">Case briefing work addressed searches, expectations of privacy, controlled delivery facts, warrant questions, and balancing law enforcement interests against individual privacy rights.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Legal Risk</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">CFAA Authorization Boundaries</div>
-  <div class="sr-record-detail">Case analysis addressed whether employee system access exceeded authorization and highlighted the importance of clearly defined access rules, revocation procedures, and policy boundaries.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Access Governance</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Cybersquatting and Online Criticism</div>
-  <div class="sr-record-detail">ACPA-related case work examined domain name use, trademark interests, bad-faith intent to profit, consumer criticism, fair use, and online reputational risk.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Digital Risk</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Digital Property and Platform Governance</div>
-  <div class="sr-record-detail">Case analysis involving virtual property and platform enforcement raised questions about digital assets, account control, platform terms, and dispute resolution.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Platform Governance</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Cybercrime Scenario Analysis</div>
-  <div class="sr-record-detail">Scenario work covered identity theft, online auction fraud, and cyberstalking, connecting cybercrime concepts to real-world victim impact and legal classification.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Cybercrime Risk</span></div>
-</div>
-
-</div>
-
----
-
-## Analysis Workflow
+## Cyber Law & Governance Workflow
 
 <div class="sr-flow">
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">1</span>
 
-### Identify the Legal / Governance Question
+### Identify the Issue
 
-Each case began by identifying the core issue: privacy, authorization, search authority, digital rights, cybersquatting, platform control, or cybercrime classification.
+Define the cybersecurity, privacy, legal, or governance problem.
 
-<span class="sr-status sr-status-complete">Issue Spotting</span>
+<span class="sr-status sr-status-complete">Issue Identification</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">2</span>
 
-### Summarize Facts and Stakeholders
+### Analyze Stakeholders
 
-The analysis considered who was involved, what actions occurred, what systems or data were implicated, and what harms or interests were at stake.
+Determine who is affected and what interests are involved.
 
-<span class="sr-status sr-status-lab">Fact Pattern</span>
+<span class="sr-status sr-status-lab">Stakeholder Analysis</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">3</span>
 
-### Identify Applicable Law or Policy
+### Evaluate Legal Considerations
 
-The work connected facts to statutes, legal standards, constitutional concerns, platform rules, or access-control concepts.
+Review applicable laws, regulations, rights, and responsibilities.
 
-<span class="sr-status sr-status-progress">Legal Mapping</span>
+<span class="sr-status sr-status-progress">Legal Review</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">4</span>
 
-### Analyze Risk and Competing Interests
+### Evaluate Privacy Implications
 
-The case work required balancing security needs, privacy rights, business interests, platform control, reputational risk, and individual rights.
+Consider privacy, surveillance, data handling, and information-use concerns.
 
-<span class="sr-status sr-status-concept">Risk Analysis</span>
+<span class="sr-status sr-status-lab">Privacy Analysis</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">5</span>
 
-### Explain the Decision or Outcome
+### Consider Governance Impacts
 
-The final step was translating the legal or regulatory reasoning into a clear explanation that could be understood by non-specialists.
+Assess organizational responsibility, accountability, policy implications, and risk exposure.
 
-<span class="sr-status sr-status-complete">Communication</span>
+<span class="sr-status sr-status-progress">Governance Review</span>
+
+</div>
+
+<div class="sr-flow-step">
+  <span class="sr-flow-number">6</span>
+
+### Recommend Action
+
+Develop governance-aware recommendations and decision options.
+
+<span class="sr-status sr-status-complete">Decision Support</span>
 
 </div>
 
@@ -290,7 +245,89 @@ The final step was translating the legal or regulatory reasoning into a clear ex
 
 ---
 
-## GRC Capability-to-Evidence Map
+## Privacy Themes
+
+A major focus of the course involved privacy.
+
+Topics included:
+
+* personal information
+* data collection
+* data retention
+* surveillance
+* monitoring
+* user expectations
+* organizational responsibility
+* privacy rights
+
+The course emphasized that privacy considerations frequently influence cybersecurity strategy.
+
+---
+
+## Governance Themes
+
+Governance topics included:
+
+* accountability
+* policy development
+* organizational responsibility
+* oversight
+* decision-making
+* executive accountability
+* risk ownership
+* stakeholder communication
+
+Governance determines how security programs operate and how security decisions are made.
+
+---
+
+## Cybercrime Themes
+
+The course also examined cybercrime-related issues involving:
+
+* unauthorized access
+* fraud
+* digital crime
+* criminal investigations
+* attribution challenges
+* enforcement difficulties
+* jurisdiction concerns
+
+These discussions highlighted how cybercrime affects both organizations and individuals.
+
+---
+
+## Intellectual Property Themes
+
+Topics included:
+
+* copyright
+* intellectual property
+* digital ownership
+* licensing
+* content distribution
+* technology-related legal concerns
+
+These issues are increasingly important in technology and cybersecurity environments.
+
+---
+
+## Surveillance and Monitoring Themes
+
+The course explored surveillance-related questions involving:
+
+* employee monitoring
+* organizational oversight
+* privacy expectations
+* public surveillance
+* lawful monitoring
+* ethical considerations
+
+These discussions reinforced the importance of balancing security objectives with privacy concerns.
+
+---
+
+## Capability-to-Evidence Map
 
 <div class="sr-record-list">
 
@@ -301,33 +338,33 @@ The final step was translating the legal or regulatory reasoning into a clear ex
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Privacy Risk Analysis</div>
-  <div class="sr-record-detail">Analyzed surveillance, metadata collection, FISA, the Patriot Act, Fourth Amendment concerns, and privacy implications of emerging technologies.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+  <div class="sr-record-title">Privacy Awareness</div>
+  <div class="sr-record-detail">Evaluated privacy implications of cybersecurity decisions and organizational practices.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Access Governance</div>
-  <div class="sr-record-detail">Reviewed authorization boundaries under CFAA-related case analysis and connected the outcome to the importance of clear access rules and revocation procedures.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+  <div class="sr-record-title">Governance Thinking</div>
+  <div class="sr-record-detail">Connected security issues to accountability, policy, and organizational decision-making.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Legal-Risk Communication</div>
-  <div class="sr-record-detail">Converted legal fact patterns into structured procedural history, facts, legal questions, decisions, rationale, and analysis.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+  <div class="sr-record-title">Policy Analysis</div>
+  <div class="sr-record-detail">Reviewed cybersecurity issues through policy, governance, and stakeholder lenses.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Digital Governance</div>
-  <div class="sr-record-detail">Analyzed platform control, digital property, online speech, domain names, fair use, reputation risk, and intellectual property boundaries.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+  <div class="sr-record-title">Cyber Law Awareness</div>
+  <div class="sr-record-detail">Analyzed legal considerations associated with technology, privacy, and cybersecurity.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Cybercrime Awareness</div>
-  <div class="sr-record-detail">Mapped identity theft, online fraud, and cyberstalking scenarios to practical legal and security concerns.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Completed</span></div>
+  <div class="sr-record-title">Decision Support</div>
+  <div class="sr-record-detail">Evaluated competing priorities and governance implications before recommending actions.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 </div>
@@ -336,69 +373,49 @@ The final step was translating the legal or regulatory reasoning into a clear ex
 
 ## Professional Lessons Learned
 
-This course reinforced several lessons that matter in cybersecurity and GRC work:
+The strongest lessons from IST 432 were:
 
-* technical access should be supported by clear authorization rules
-* security monitoring must be balanced against privacy expectations
-* data collection scope matters
-* metadata can create privacy and governance risk
-* legal authority should be paired with oversight and proportionality
-* platform policies can affect digital property and account control
-* cybercrime analysis requires both technical and legal context
-* governance decisions should be explainable to non-technical stakeholders
-* compliance work depends on clear documentation and risk communication
-
----
-
-## Connection to ServiceNow SecOps and Cybersecurity Work
-
-IST 432 supports my broader cybersecurity portfolio because ServiceNow SecOps, Vulnerability Response, and cybersecurity operations are not only technical workflows.
-
-In practical security environments, analysts and consultants often need to understand:
-
-* who owns the risk
-* who is authorized to access a system
-* what evidence supports a decision
-* whether the organization has documented policy
-* whether data handling creates privacy risk
-* how to explain technical risk to business stakeholders
-* how security operations connect to governance and compliance
-
-That makes this course useful supporting evidence for GRC-aware cybersecurity work.
+* cybersecurity decisions affect people as well as systems
+* privacy concerns influence security strategy
+* governance shapes security effectiveness
+* legal obligations affect incident response
+* policy quality affects operational outcomes
+* stakeholder expectations matter
+* accountability improves decision-making
+* cybersecurity often involves competing priorities
+* technical and governance perspectives should work together
 
 ---
 
-## What This Demonstrates
+## Professional Relevance
 
-This project demonstrates:
+This page is particularly relevant for:
 
-* cyber law awareness
-* privacy risk analysis
-* governance and compliance thinking
-* access-control policy awareness
-* Fourth Amendment and surveillance-risk awareness
-* cybercrime scenario analysis
-* digital platform governance awareness
-* intellectual property and cybersquatting risk awareness
-* structured case briefing
-* professional writing and legal-risk communication
-* ability to connect technology decisions to non-technical consequences
+* ServiceNow SecOps
+* Governance, Risk & Privacy
+* vulnerability management
+* cybersecurity consulting
+* governance-aware security work
+* security operations leadership
+* compliance-adjacent roles
+
+It demonstrates the ability to connect technical security concerns with legal, privacy, and governance considerations.
 
 ---
 
-## Portfolio-Safe Redaction Notes
+## Difference from Other Portfolio Pages
 
-This case study intentionally excludes:
+Most pages in this portfolio focus on:
 
-* raw case briefs
-* full group submissions
-* private student identifiers
-* professor-provided course material
-* full legal analysis drafts
-* private academic records
-* non-public discussion content
+* security operations
+* incident response
+* malware analysis
+* forensics
+* vulnerability management
 
-The purpose is to show GRC-relevant reasoning and cyber law awareness without publishing raw academic work.
+IST 432 focuses on governance and policy.
+
+The value comes from understanding how organizations make decisions when legal, privacy, governance, and security considerations intersect.
 
 ---
 
@@ -408,41 +425,41 @@ The purpose is to show GRC-relevant reasoning and cyber law awareness without pu
 
 <div class="sr-card">
 
-### Governance, Risk, and Compliance
+### [IST 456 Security & Risk Management](/projects/ist-456-security-risk-management-enigma-glass-labs/)
 
-This course supports the governance side of cybersecurity by connecting technical behavior to law, policy, oversight, privacy, and organizational accountability.
+Risk analysis, governance, privacy, contingency planning, and organizational security management.
 
-<span class="sr-static-label sr-static-label-complete">GRC</span>
-
-</div>
-
-<div class="sr-card">
-
-### Security Operations
-
-Security operations benefit from legal and governance awareness because analysts often handle evidence, access questions, privacy-sensitive data, and escalation decisions.
-
-<span class="sr-static-label sr-static-label-complete">SOC-Relevant</span>
+<span class="sr-static-label sr-static-label-complete">Governance</span>
 
 </div>
 
 <div class="sr-card">
 
-### ServiceNow SecOps
+### [SRA 311 Risk Analysis](/projects/sra-311-risk-analysis-security-context/)
 
-ServiceNow security workflows often involve assignment ownership, policy-defined responsibilities, risk acceptance, evidence, remediation status, and auditable decisions.
+Risk evaluation, source credibility, threat modeling, and decision support.
 
-<span class="sr-static-label sr-static-label-complete">SecOps-Relevant</span>
+<span class="sr-static-label sr-static-label-complete">Risk Analysis</span>
 
 </div>
 
 <div class="sr-card">
 
-### Privacy and Data Governance
+### [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
 
-FISA, the Patriot Act, metadata, surveillance, and emerging technology analysis support a privacy-aware cybersecurity perspective.
+Workflow ownership, remediation, accountability, and governance-aware security operations.
 
-<span class="sr-static-label sr-static-label-complete">Privacy</span>
+<span class="sr-static-label sr-static-label-complete">Security Operations</span>
+
+</div>
+
+<div class="sr-card">
+
+### [Capabilities](/capabilities/)
+
+Capability-to-evidence map connecting governance, privacy, and cybersecurity operations.
+
+<span class="sr-static-label sr-static-label-complete">Evidence Map</span>
 
 </div>
 
@@ -452,14 +469,13 @@ FISA, the Patriot Act, metadata, surveillance, and emerging technology analysis 
 
 ## Next Steps
 
-This project can later be connected to:
+Future improvements could include:
 
-* a GRC capability section
-* a privacy and data governance page
-* a ServiceNow GRC / IRM learning path
-* a risk-register concept note
-* a policy-to-control mapping example
-* a vulnerability exception and risk acceptance workflow concept
+* governance workflow diagrams
+* privacy impact assessment examples
+* policy-analysis templates
+* governance decision trees
+* cyber law case comparisons
+* governance-to-remediation workflow examples
 
-For now, this page serves as the main portfolio-safe summary of my IST 432 cyber law, privacy, and GRC-related academic work.
-
+For now, this page serves as the primary portfolio-safe summary of my IST 432 cyber law, privacy, and governance work.

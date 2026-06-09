@@ -1,9 +1,9 @@
 ---
 
 title: "IST 495: Penn State College of IST Network Lab Development Internship"
-description: "A portfolio-safe professional experience case study focused on a Penn State College of IST internship involving networking lab modernization, technical research, lab validation, instructional design, rubric development, team collaboration, and weekly supervisor communication."
+description: "A portfolio-safe internship case study focused on networking lab modernization, technical research, validation testing, documentation, instructional support, and academic technology improvement."
 date: 2026-06-05
-tags: ["Internship", "Penn State", "College of IST", "Networking", "Technical Documentation", "Lab Development", "Instructional Design", "Quality Assurance", "Team Collaboration", "Professional Experience"]
+tags: ["Internship", "Networking", "Technical Documentation", "Lab Development", "Quality Assurance", "Education Technology", "Penn State"]
 categories: ["Projects"]
 showDate: true
 showAuthor: false
@@ -11,79 +11,140 @@ showReadingTime: true
 showWordCount: false
 --------------------
 
-<span class="sr-eyebrow">Academic Internship / Professional Experience</span>
+<span class="sr-eyebrow">Professional Internship Experience</span>
 
 <div class="sr-case-hero">
 
-This portfolio-safe case study summarizes my IST 495 internship experience as a Research Intern with Penn State University's College of Information Sciences and Technology, where I contributed to networking lab modernization, technical research, instructional improvement, lab validation, rubric development, team collaboration, and supervisor-facing project updates.
+IST 495 was a network lab development internship with the Penn State College of Information Sciences and Technology.
+
+The internship focused on improving networking laboratory environments used by students, validating technical exercises, supporting instructional materials, testing lab workflows, documenting findings, and helping maintain the quality of educational networking resources.
 
 </div>
 
 <div class="sr-case-summary">
 
 <div class="sr-case-item">
-  <span class="sr-case-label">Course</span>
-  <span class="sr-case-value">IST 495</span>
-</div>
-
-<div class="sr-case-item">
   <span class="sr-case-label">Organization</span>
-  <span class="sr-case-value">Penn State University · College of IST</span>
+  <span class="sr-case-value">Penn State College of IST</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Role</span>
-  <span class="sr-case-value">Research Intern</span>
+  <span class="sr-case-value">Network Lab Development Intern</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Focus</span>
-  <span class="sr-case-value">Networking Lab Modernization · Technical Documentation · QA Testing</span>
+  <span class="sr-case-value">Networking Labs · Validation · Documentation · QA</span>
 </div>
 
 <div class="sr-case-item">
-  <span class="sr-case-label">Delivery Model</span>
-  <span class="sr-case-value">Remote / Team-Based Academic Technology Support</span>
+  <span class="sr-case-label">Environment</span>
+  <span class="sr-case-value">Academic Networking Infrastructure</span>
+</div>
+
+<div class="sr-case-item">
+  <span class="sr-case-label">Primary Skills</span>
+  <span class="sr-case-value">Testing · Documentation · Technical Communication</span>
 </div>
 
 <div class="sr-case-item">
   <span class="sr-case-label">Publishing Level</span>
-  <span class="sr-case-value">Portfolio-Safe / No Internal Lab Materials Published</span>
+  <span class="sr-case-value">Portfolio-Safe / No Internal Materials Published</span>
 </div>
 
 </div>
+
+## Project Summary
+
+<div class="sr-record-list">
+
+<div class="sr-record-row sr-record-head">
+  <div>Category</div>
+  <div>Summary</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Problem</div>
+  <div class="sr-record-detail">
+  Educational networking labs require reliable infrastructure, clear instructions, validated exercises, accurate documentation, and repeatable student experiences. Small issues in lab design can create significant learning obstacles.
+  </div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">My Role</div>
+  <div class="sr-record-detail">
+  Supported networking lab modernization efforts through technical testing, workflow validation, research, documentation, instructional support, quality assurance activities, and communication with academic stakeholders.
+  </div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Tools & Frameworks</div>
+  <div class="sr-record-detail">
+  Networking concepts, lab validation processes, technical documentation, instructional support workflows, testing methodology, research, troubleshooting, and academic technology support.
+  </div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Public Version</div>
+  <div class="sr-record-detail">
+  This public version excludes internal lab configurations, private educational materials, infrastructure details, grading content, instructor communications, and university-specific implementation details.
+  </div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Why It Matters</div>
+  <div class="sr-record-detail">
+  Demonstrates professional communication, technical validation, quality assurance, documentation, stakeholder collaboration, research, and project support experience in a real-world environment.
+  </div>
+</div>
+
+</div>
+
+---
 
 ## Overview
 
-IST 495 was my academic internship experience with Penn State University's College of Information Sciences and Technology.
+The internship focused on supporting networking laboratory environments used within Penn State's cybersecurity and networking curriculum.
 
-The internship focused on helping improve and modernize networking course labs for future IST students. The work involved researching networking technologies, reviewing existing lab materials, improving lab consistency, making instructions clearer, creating new questions and challenges, developing rubrics, testing labs in a controlled environment, collaborating with teammates, and communicating progress to a supervisor.
+The objective was not simply to maintain equipment.
 
-This page is intentionally written as a portfolio-safe professional experience summary. It does not publish internal lab materials, full lab instructions, private course content, supervisor details, team communications, or unpublished academic resources.
+The objective was to improve the overall student experience by ensuring that networking exercises, instructions, documentation, and supporting materials functioned correctly and consistently.
+
+The work involved a combination of:
+
+* technical validation
+* documentation review
+* troubleshooting
+* workflow testing
+* instructional support
+* communication
+* research
+* quality assurance
+
+The internship provided practical experience working on projects that directly affected how students interacted with networking environments.
 
 ---
 
 ## Why This Experience Matters
 
-This internship is important because it shows professional experience inside Penn State's College of IST, not only coursework.
+This internship is important because it represents professional experience rather than coursework alone.
 
-The role required more than completing assignments. It involved contributing to instructional material that other students would later use, working as part of a team, researching emerging networking technologies, testing labs, documenting improvements, and communicating progress clearly.
+Many academic projects demonstrate technical knowledge.
 
-From a cybersecurity portfolio perspective, this experience supports:
+This internship demonstrates:
 
-* networking fundamentals
-* technical documentation
-* lab validation
-* controlled testing
-* instructional design
-* teamwork
-* supervisor communication
-* professional accountability
-* problem solving under uncertainty
-* continuous learning
-* preparation for cybersecurity and OT/ICS interests
+* accountability
+* communication
+* collaboration
+* quality assurance
+* documentation
+* stakeholder interaction
+* professional expectations
 
-It also helped shape my longer-term interest in operational technology and cybersecurity, especially because networking knowledge is foundational to security operations, incident response, forensics, vulnerability management, and industrial security.
+The experience reinforced that technical work is often successful or unsuccessful based on process quality, documentation quality, and communication effectiveness.
+
+Those same skills remain important in cybersecurity consulting, ServiceNow implementations, vulnerability management, governance programs, and security operations.
 
 ---
 
@@ -91,305 +152,210 @@ It also helped shape my longer-term interest in operational technology and cyber
 
 <div class="sr-callout">
 
-<strong>Privacy and academic integrity note:</strong> This page summarizes the internship experience without publishing internal lab instructions, supervisor communications, unpublished course materials, private team details, or controlled lab content.
+<strong>Privacy note:</strong> This page intentionally excludes internal networking configurations, educational infrastructure details, instructor materials, grading systems, private communications, and university-specific implementation information.
 
 </div>
 
 This page excludes:
 
-* internal Penn State lab instructions
-* unpublished course materials
-* private supervisor communications
-* private team discussions
-* exact lab solution details
-* internal rubrics
-* controlled lab artifacts
-* private student or staff identifiers
-* proprietary instructional content
+* internal network diagrams
+* private lab configurations
+* educational content not intended for public release
+* instructor communications
+* grading materials
+* student information
+* internal project artifacts
+* university-specific infrastructure details
 
-Instead, it presents:
+Instead, it focuses on:
 
-* role summary
 * responsibilities
-* workflow
-* skills demonstrated
-* professional lessons learned
-* cybersecurity relevance
-* portfolio-safe outcomes
+* workflows
+* documentation practices
+* testing activities
+* lessons learned
+* professional relevance
 
 ---
 
-## Internship Scope
-
-The internship centered on modernizing and improving networking labs.
-
-Key responsibilities included:
-
-* reviewing existing networking lab materials
-* researching newer or more relevant networking technologies
-* identifying areas where lab instructions could be improved
-* making lab instructions more uniform
-* helping create clearer and more concise documentation
-* developing new questions and challenges
-* contributing to custom rubric development
-* testing labs in a controlled environment
-* identifying potential issues during validation
-* collaborating with teammates
-* participating in team discussions
-* providing updates to the supervisor
-* balancing weekly deliverables and deadlines
-
-The work supported future students by improving the quality, consistency, and clarity of networking lab experiences.
-
----
-
-## Major Workstreams
-
-<div class="sr-card-grid">
-
-<div class="sr-card">
-
-### Networking Lab Modernization
-
-Reviewed and improved existing networking lab materials to better align with updated technologies, clearer instructions, and more realistic networking concepts.
-
-<span class="sr-static-label sr-static-label-complete">Networking</span>
-
-</div>
-
-<div class="sr-card">
-
-### Technical Research
-
-Performed research into emerging networking technologies and lab requirements so the team could improve course material with stronger technical context.
-
-<span class="sr-static-label sr-static-label-complete">Research</span>
-
-</div>
-
-<div class="sr-card">
-
-### Technical Documentation
-
-Improved lab instructions for clarity, consistency, structure, and student usability.
-
-<span class="sr-static-label sr-static-label-complete">Documentation</span>
-
-</div>
-
-<div class="sr-card">
-
-### Lab Validation
-
-Tested labs in a controlled environment to identify potential issues before future students used the material.
-
-<span class="sr-static-label sr-static-label-complete">QA Testing</span>
-
-</div>
-
-<div class="sr-card">
-
-### Rubric and Challenge Development
-
-Helped create new questions, challenges, and rubric elements to support student learning and assessment.
-
-<span class="sr-static-label sr-static-label-complete">Instructional Design</span>
-
-</div>
-
-<div class="sr-card">
-
-### Team Collaboration
-
-Worked with teammates and supervisor guidance to coordinate responsibilities, brainstorm improvements, and deliver weekly progress.
-
-<span class="sr-static-label sr-static-label-complete">Teamwork</span>
-
-</div>
-
-</div>
-
----
-
-## Professional Workflow
+## Internship Workflow
 
 <div class="sr-flow">
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">1</span>
 
-### Review Existing Lab Material
+### Review Lab Requirements
 
-Started by reviewing current networking labs and identifying where instructions, structure, or technical content could be improved.
+Understand the objective of the networking exercise, expected outcomes, and student experience requirements.
 
-<span class="sr-status sr-status-complete">Review</span>
+<span class="sr-status sr-status-complete">Requirements</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">2</span>
 
-### Research Networking Technologies
+### Validate Technical Functionality
 
-Performed technical research into networking tools, requirements, and updated concepts needed to improve the labs.
+Test lab components and workflows to ensure expected behavior and repeatable results.
 
-<span class="sr-status sr-status-lab">Research</span>
+<span class="sr-status sr-status-lab">Validation</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">3</span>
 
-### Improve Instructions and Structure
+### Identify Issues
 
-Modified lab materials to make instructions more uniform, concise, and easier for students to follow.
+Document technical issues, usability problems, inconsistencies, and areas for improvement.
 
-<span class="sr-status sr-status-progress">Documentation</span>
+<span class="sr-status sr-status-progress">Analysis</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">4</span>
 
-### Add Questions, Challenges, and Rubrics
+### Support Documentation
 
-Helped create new student-facing questions, challenges, and custom rubric elements to support assessment and learning outcomes.
+Review and improve supporting materials used by students and instructors.
 
-<span class="sr-status sr-status-lab">Instructional Design</span>
+<span class="sr-status sr-status-lab">Documentation</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">5</span>
 
-### Test Labs in a Controlled Environment
+### Communicate Findings
 
-Validated lab behavior by testing materials in a controlled environment and identifying potential issues before future use.
+Provide feedback, recommendations, and validation results to stakeholders.
 
-<span class="sr-status sr-status-complete">Validation</span>
+<span class="sr-status sr-status-complete">Communication</span>
 
 </div>
 
 <div class="sr-flow-step">
   <span class="sr-flow-number">6</span>
 
-### Communicate Progress
+### Improve Student Experience
 
-Provided updates through team discussions and supervisor-facing communication, helping keep the project organized and aligned.
+Use testing results and documentation improvements to support more reliable educational outcomes.
 
-<span class="sr-status sr-status-complete">Communication</span>
+<span class="sr-status sr-status-complete">Improvement</span>
 
-</div>
-
-</div>
-
----
-
-## Key Contributions
-
-<div class="sr-record-list">
-
-<div class="sr-record-row sr-record-head">
-  <div>Contribution</div>
-  <div>Portfolio-Safe Summary</div>
-  <div>Skill Area</div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Lab Review and Improvement</div>
-  <div class="sr-record-detail">Analyzed existing networking labs and helped improve their structure, clarity, consistency, and instructional flow.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Documentation</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Emerging Technology Research</div>
-  <div class="sr-record-detail">Researched networking technologies and requirements to support modernization of course lab material.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Research</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Question and Challenge Design</div>
-  <div class="sr-record-detail">Contributed to new questions and challenge elements designed to make labs more engaging and useful for future students.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Instructional Design</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Rubric Development</div>
-  <div class="sr-record-detail">Helped develop custom rubric components to support evaluation of student lab work.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Assessment</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Controlled Lab Testing</div>
-  <div class="sr-record-detail">Tested labs in a controlled environment to identify issues and validate that future students would have a smoother learning experience.</div>
-  <div class="sr-record-status"><span class="sr-static-label">QA Testing</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Team Facilitation</div>
-  <div class="sr-record-detail">Participated in and helped facilitate team discussions to keep responsibilities clear and support shared understanding.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Collaboration</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Supervisor Communication</div>
-  <div class="sr-record-detail">Provided progress updates and participated in supervisor-facing project discussions.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Professional Communication</span></div>
 </div>
 
 </div>
 
 ---
 
-## Skills Demonstrated
+## Technical Validation Themes
+
+A major part of the internship involved validating technical lab environments.
+
+This included:
+
+* verifying expected behavior
+* identifying inconsistencies
+* reproducing workflows
+* troubleshooting issues
+* confirming instructions matched reality
+* improving reliability
+
+Validation work matters because educational environments need to be predictable and repeatable for students.
+
+---
+
+## Documentation Themes
+
+Documentation support included reviewing and improving materials associated with networking labs.
+
+Important themes included:
+
+* clarity
+* consistency
+* usability
+* accuracy
+* instructional effectiveness
+* troubleshooting guidance
+
+The experience reinforced how important documentation is for successful technical work.
+
+---
+
+## Quality Assurance Themes
+
+Many internship activities resembled quality assurance work.
+
+Examples included:
+
+* verifying expected outcomes
+* testing repeatability
+* identifying workflow problems
+* documenting defects
+* confirming fixes
+* improving user experience
+
+These activities map well to modern cybersecurity workflows where validation and documentation are essential.
+
+---
+
+## Research and Analysis Themes
+
+The internship also involved technical research and evaluation activities.
+
+These tasks emphasized:
+
+* understanding technical requirements
+* reviewing educational technology
+* identifying improvement opportunities
+* supporting modernization efforts
+* documenting findings
+
+This helped strengthen analytical and communication skills.
+
+---
+
+## Capability-to-Evidence Map
 
 <div class="sr-record-list">
 
 <div class="sr-record-row sr-record-head">
-  <div>Skill</div>
+  <div>Capability</div>
   <div>Evidence from IST 495</div>
   <div>Status</div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Networking Foundations</div>
-  <div class="sr-record-detail">Worked with networking course lab material and researched technical requirements for updated networking exercises.</div>
+  <div class="sr-record-title">Technical Validation</div>
+  <div class="sr-record-detail">Tested and validated networking lab workflows and technical environments.</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Technical Documentation</div>
-  <div class="sr-record-detail">Improved lab instructions for consistency, clarity, concision, and student usability.</div>
+  <div class="sr-record-title">Documentation</div>
+  <div class="sr-record-detail">Reviewed and supported instructional materials and technical documentation.</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Quality Assurance / Lab Validation</div>
-  <div class="sr-record-detail">Tested labs in a controlled environment and identified potential underlying issues.</div>
+  <div class="sr-record-title">Quality Assurance</div>
+  <div class="sr-record-detail">Identified issues, verified expected outcomes, and supported workflow improvements.</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Problem Solving</div>
-  <div class="sr-record-detail">Worked through increasingly difficult lab modernization tasks and researched unfamiliar tools and requirements.</div>
+  <div class="sr-record-title">Technical Communication</div>
+  <div class="sr-record-detail">Communicated findings, recommendations, validation results, and documentation improvements.</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Team Collaboration</div>
-  <div class="sr-record-detail">Worked with teammates to divide responsibilities, brainstorm improvements, and deliver weekly progress.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Professional Communication</div>
-  <div class="sr-record-detail">Presented updates during weekly meetings and communicated project details with teammates and supervisor.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Time Management</div>
-  <div class="sr-record-detail">Balanced weekly deliverables, morning meetings, ongoing research, and lab testing responsibilities.</div>
+  <div class="sr-record-title">Stakeholder Collaboration</div>
+  <div class="sr-record-detail">Worked within an academic environment supporting instructors, students, and technical stakeholders.</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Demonstrated</span></div>
 </div>
 
@@ -397,161 +363,48 @@ Provided updates through team discussions and supervisor-facing communication, h
 
 ---
 
-## Challenges and Growth
+## Professional Lessons Learned
 
-The most challenging part of the internship came later in the project, when the team worked on a more difficult lab that required deeper research and problem solving.
+The strongest lessons from this internship were:
 
-That experience required:
-
-* learning unfamiliar tools and requirements
-* researching more advanced networking concepts
-* adapting when the solution was not immediately clear
-* working through repetitive technical tasks
-* balancing progress against time constraints
-* collaborating with teammates under deadline pressure
-* communicating progress and roadblocks clearly
-
-The experience helped build resilience, patience, and confidence when facing technical ambiguity.
-
----
-
-## Professional Development
-
-This internship helped me grow professionally in several ways.
-
-It reinforced the importance of:
-
-* punctuality
-* daily meetings
-* communication discipline
-* clear project updates
-* teamwork
-* supervisor alignment
-* time management
-* confidence under uncertainty
-* continuous learning
-* professional accountability
-
-It also helped me understand how technical work can support education. Improving a lab is not just about making a file work. It is about helping future students learn more effectively.
-
----
-
-## Connection to Cybersecurity and OT/ICS
-
-Although the internship was focused on networking lab development, it strongly supports my cybersecurity direction.
-
-Networking is foundational to:
-
-* security operations
-* vulnerability management
-* incident response
-* traffic analysis
-* digital forensics
-* cloud security
-* OT/ICS security
-* ServiceNow SecOps workflows
-
-The internship also influenced my interest in operational technology cybersecurity. The experience helped me see how networking knowledge connects to industrial and operational environments, especially where systems, infrastructure, uptime, and cybersecurity intersect.
-
----
-
-## Relationship to Other Portfolio Work
-
-<div class="sr-record-list">
-
-<div class="sr-record-row sr-record-head">
-  <div>Related Area</div>
-  <div>How IST 495 Supports It</div>
-  <div>Connection</div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">CYBER 362</div>
-  <div class="sr-record-detail">Networking lab development supports later packet analysis, traffic review, and anomaly detection work.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Network Analysis</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">SRA 221</div>
-  <div class="sr-record-detail">Networking foundations support early information security labs involving Wireshark, OpenVPN, pfSense, and service discovery.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Security Foundations</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">CYBER 440</div>
-  <div class="sr-record-detail">Incident response and forensic investigation depend on understanding network behavior and system communication.</div>
-  <div class="sr-record-status"><span class="sr-static-label">IR / Forensics</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">OT/ICS Security</div>
-  <div class="sr-record-detail">Networking concepts are central to operational technology environments, segmentation, availability, and cyber-physical risk.</div>
-  <div class="sr-record-status"><span class="sr-static-label">OT/ICS</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">ServiceNow SecOps</div>
-  <div class="sr-record-detail">Technical documentation, process clarity, testing, and stakeholder communication map directly to SecOps implementation work.</div>
-  <div class="sr-record-status"><span class="sr-static-label">SecOps Workflow</span></div>
-</div>
-
-</div>
-
----
-
-## What I Learned
-
-This internship reinforced several important lessons:
-
-* technical documentation must be clear enough for future users
-* lab instructions should be tested, not assumed to work
-* networking knowledge supports cybersecurity and infrastructure work
-* research is necessary when requirements are unclear
-* teamwork improves technical delivery
-* supervisor communication keeps projects aligned
-* controlled testing reveals hidden issues
-* rubrics and questions affect how students learn
-* professional growth comes from working through ambiguity
-* consistent communication and time management matter in technical projects
+* technical systems require validation
+* documentation quality affects outcomes
+* communication improves technical projects
+* repeatability matters
+* usability influences success
+* quality assurance creates reliability
+* stakeholder needs should guide improvements
+* small issues can have large downstream effects
+* professional environments require accountability
+* testing and documentation are critical professional skills
 
 ---
 
 ## Professional Relevance
 
-This internship supports roles and tasks involving:
+This internship remains relevant because it demonstrates real-world experience rather than coursework alone.
 
-* cybersecurity analysis
-* networking fundamentals
-* ServiceNow SecOps consulting
+The work supports discussions around:
+
+* cybersecurity consulting
+* ServiceNow implementation support
+* quality assurance
+* workflow validation
 * technical documentation
-* lab validation
-* QA testing
-* training material development
 * stakeholder communication
-* team collaboration
-* instructional technology
-* OT/ICS security interest
-* security operations readiness
+* security operations process improvement
 
-It is especially relevant to consulting because consulting work often requires translating technical ideas into clear documentation, validating workflows, communicating with stakeholders, and improving processes for other users.
+The experience also reinforced many of the workflow and usability concepts that appear throughout the rest of the portfolio.
 
 ---
 
-## Portfolio-Safe Redaction Notes
+## Difference from Other Portfolio Pages
 
-This case study intentionally excludes:
+Most portfolio pages focus on cybersecurity, forensics, malware analysis, governance, or ServiceNow.
 
-* internal lab instructions
-* unpublished course materials
-* private supervisor communications
-* private team discussions
-* complete rubrics
-* lab solution details
-* controlled lab artifacts
-* private student or staff identifiers
-* proprietary instructional content
+IST 495 demonstrates professional experience.
 
-The goal is to show internship responsibilities, professional growth, technical documentation, and networking-lab modernization experience without publishing internal academic materials.
+The value comes from working within a real organizational environment where technical work, communication, validation, and documentation all matter.
 
 ---
 
@@ -561,41 +414,41 @@ The goal is to show internship responsibilities, professional growth, technical 
 
 <div class="sr-card">
 
-### Professional Experience
+### [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
 
-This internship provides real organizational experience with Penn State College of IST, team collaboration, deliverables, supervisor updates, and technical work.
+Workflow validation, ownership, remediation tracking, documentation, and process improvement.
 
-<span class="sr-static-label sr-static-label-complete">Internship</span>
-
-</div>
-
-<div class="sr-card">
-
-### Networking Foundations
-
-The work strengthened networking knowledge, which supports cybersecurity analysis, traffic analysis, forensics, and OT/ICS security.
-
-<span class="sr-static-label sr-static-label-complete">Networking</span>
+<span class="sr-static-label sr-static-label-complete">Workflow</span>
 
 </div>
 
 <div class="sr-card">
 
-### Technical Documentation
+### [IST 331 User-Centered Design](/projects/ist-331-user-centered-design-booking-redesign/)
 
-The internship involved improving lab instructions, clarity, consistency, questions, challenges, and rubrics.
+Usability, workflow design, testing, and improvement of user experiences.
 
-<span class="sr-static-label sr-static-label-complete">Documentation</span>
+<span class="sr-static-label sr-static-label-complete">Usability</span>
 
 </div>
 
 <div class="sr-card">
 
-### ServiceNow SecOps
+### [Capabilities](/capabilities/)
 
-Process clarity, workflow validation, stakeholder communication, and documentation are directly relevant to ServiceNow implementation work.
+Capability-to-evidence mapping across cybersecurity, workflow design, communication, and technical support.
 
-<span class="sr-static-label sr-static-label-complete">SecOps-Relevant</span>
+<span class="sr-static-label sr-static-label-complete">Evidence Map</span>
+
+</div>
+
+<div class="sr-card">
+
+### [Resume](/resume/)
+
+Professional summary connecting internship experience with consulting and cybersecurity goals.
+
+<span class="sr-static-label sr-static-label-complete">Professional Context</span>
 
 </div>
 
@@ -605,15 +458,13 @@ Process clarity, workflow validation, stakeholder communication, and documentati
 
 ## Next Steps
 
-This project can later be connected to:
+Future improvements could include:
 
-* the Resume page
-* the About page
-* the Professional Experience section
-* the networking/security foundations capability section
-* the OT/ICS security interest narrative
-* the ServiceNow SecOps consulting communication narrative
-* the project gallery as a supporting professional experience item
+* internship timeline visualizations
+* networking workflow diagrams
+* lab modernization examples
+* validation methodology examples
+* technical documentation samples
+* educational technology improvement case studies
 
-For now, this page serves as the main portfolio-safe summary of my IST 495 Penn State College of IST Network Lab Development Internship.
-
+For now, this page serves as the primary portfolio-safe summary of my Penn State College of IST Network Lab Development Internship experience.

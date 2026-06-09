@@ -15,7 +15,7 @@ showWordCount: false
 
 <div class="sr-case-hero">
 
-This portfolio-safe case study summarizes selected CYBER 440 capstone work involving a simulated organizational compromise, phishing-led malware infection, forensic image analysis, network traffic review, memory analysis, log analysis, incident timeline development, impact assessment, and remediation planning.
+CYBER 440 was a cybersecurity capstone focused on investigating a simulated organizational compromise. The project required connecting phishing activity, malware behavior, forensic images, memory artifacts, network traffic, Windows logs, operational impact, and remediation planning into one incident response narrative.
 
 </div>
 
@@ -53,11 +53,51 @@ This portfolio-safe case study summarizes selected CYBER 440 capstone work invol
 
 </div>
 
+## Project Summary
+
+<div class="sr-record-list">
+
+<div class="sr-record-row sr-record-head">
+  <div>Category</div>
+  <div>Summary</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Problem</div>
+  <div class="sr-record-detail">Investigate a simulated multi-stage cybersecurity incident involving phishing activity, malware execution, suspicious processes, forensic evidence, memory artifacts, network activity, log data, operational disruption, and business impact.</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">My Role</div>
+  <div class="sr-record-detail">Performed incident investigation, evidence review, forensic analysis, timeline development, impact assessment, findings documentation, and remediation planning as part of the cybersecurity capstone project.</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Tools & Frameworks</div>
+  <div class="sr-record-detail">Network traffic analysis, forensic image analysis, memory analysis, Windows event logs, timeline reconstruction, evidence correlation, incident response methodology, and analyst-style reporting.</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Public Version</div>
+  <div class="sr-record-detail">This public version is intentionally redacted. Raw forensic images, packet captures, memory dumps, screenshots, usernames, credentials, hashes, academic submissions, and sensitive artifacts are not published.</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Why It Matters</div>
+  <div class="sr-record-detail">Demonstrates cybersecurity analyst workflow, incident response methodology, forensic investigation, evidence handling, documentation, communication, and decision-making relevant to cybersecurity operations, vulnerability management, and ServiceNow SecOps environments.</div>
+</div>
+
+</div>
+
+---
+
 ## Overview
 
 CYBER 440 was a cybersecurity capstone course focused on investigating a simulated organizational compromise using multiple evidence sources and analyst workflows.
 
-The project required connecting evidence from:
+Unlike a single isolated lab, this project required building a full incident story. The value was not only finding individual artifacts. The value was connecting those artifacts into a clear explanation of what happened, how it happened, which systems were affected, what impact occurred, and what actions should be taken next.
+
+The investigation required correlating evidence from:
 
 * network captures
 * forensic system images
@@ -72,15 +112,15 @@ The project required connecting evidence from:
 * business impact analysis
 * remediation recommendations
 
-This page presents the work as a portfolio-safe case study. It does not publish raw evidence files, forensic images, full screenshots, private academic submissions, user account details, exact hashes, or sensitive artifacts.
+This page focuses on methodology, analysis process, investigation workflow, and lessons learned. Raw forensic evidence, memory dumps, screenshots, account information, academic submissions, and sensitive artifacts are intentionally excluded.
 
 ---
 
 ## Why This Project Matters
 
-This capstone is valuable because it shows a more complete cybersecurity investigation workflow than a single isolated lab.
+This is one of the strongest academic projects in my portfolio because it required a complete investigation workflow.
 
-A real investigation requires analysts to combine multiple views of the same incident:
+A realistic incident is rarely solved by one artifact. Analysts have to combine multiple views of the same event:
 
 * what happened on the network
 * what happened on endpoints
@@ -90,9 +130,11 @@ A real investigation requires analysts to combine multiple views of the same inc
 * which systems and users were affected
 * which attack vector was most likely
 * what operational impact occurred
-* what should be done next
+* what should happen next
 
-The project also required communication. Findings had to be converted into a clear status report and final report that could explain the incident, its impact, and recommended remediation steps.
+The project also required communication. Findings had to be converted into status reporting and final reporting that explained the incident, impact, and remediation path in a way a reviewer could understand.
+
+That makes this page especially relevant for cybersecurity analyst, incident response, forensic analysis, vulnerability management, and ServiceNow SecOps conversations.
 
 ---
 
@@ -100,7 +142,7 @@ The project also required communication. Findings had to be converted into a cle
 
 The capstone scenario involved a simulated compromise affecting multiple organizational systems.
 
-The investigation identified a phishing-led attack path involving a malicious file disguised as a PDF attachment. The suspected infection chain led to malware execution, suspicious processes, remote-access risk, file deletion, ransom-note artifacts, exposed credentials, failed authentication events, and operational disruption.
+The investigation pointed to a phishing-led attack path involving a malicious file disguised as a PDF attachment. The suspected infection chain led to malware execution, suspicious processes, remote-access risk, file deletion, ransom-note artifacts, exposed credentials, failed authentication events, and operational disruption.
 
 The strongest working theory was that a phishing email introduced malware into the environment, after which the compromise affected multiple systems and required coordinated incident response.
 
@@ -148,9 +190,9 @@ Instead, it summarizes:
 <div class="sr-flow-step">
   <span class="sr-flow-number">1</span>
 
-### Initial Scope and Evidence Review
+### Scope the Evidence
 
-Reviewed available evidence sources and identified major analysis tracks: network traffic, forensic images, memory artifacts, and Windows/event log data.
+Reviewed available evidence sources and identified the major analysis tracks: network traffic, forensic images, memory artifacts, and Windows/event log data.
 
 <span class="sr-status sr-status-complete">Scope</span>
 
@@ -159,9 +201,9 @@ Reviewed available evidence sources and identified major analysis tracks: networ
 <div class="sr-flow-step">
   <span class="sr-flow-number">2</span>
 
-### Network Analysis
+### Analyze Network Activity
 
-Reviewed network captures to identify communication timelines, suspicious email activity, credential exposure concerns, affected systems, and event sequencing.
+Reviewed network captures to understand communication timelines, suspicious email activity, credential exposure concerns, affected systems, and event sequencing.
 
 <span class="sr-status sr-status-lab">Network Forensics</span>
 
@@ -170,9 +212,9 @@ Reviewed network captures to identify communication timelines, suspicious email 
 <div class="sr-flow-step">
   <span class="sr-flow-number">3</span>
 
-### Forensic Image Analysis
+### Review Forensic Images
 
-Analyzed Windows system images, reviewed user directories, downloads, desktop artifacts, application history, suspicious files, and system folders relevant to compromise investigation.
+Analyzed Windows system images, user directories, downloads, desktop artifacts, application history, suspicious files, and system folders relevant to the compromise.
 
 <span class="sr-status sr-status-lab">Disk Forensics</span>
 
@@ -181,7 +223,7 @@ Analyzed Windows system images, reviewed user directories, downloads, desktop ar
 <div class="sr-flow-step">
   <span class="sr-flow-number">4</span>
 
-### Memory Analysis
+### Review Memory Artifacts
 
 Reviewed memory-related findings to identify suspicious processes, unknown parent-child process relationships, possible hands-on-keyboard activity, and incomplete or obfuscated process metadata.
 
@@ -192,7 +234,7 @@ Reviewed memory-related findings to identify suspicious processes, unknown paren
 <div class="sr-flow-step">
   <span class="sr-flow-number">5</span>
 
-### Log Analysis
+### Correlate Logs
 
 Analyzed Windows and server log evidence for failed authentication, anonymous access attempts, service state changes, PTR registration issues, audit failures, and access-related anomalies.
 
@@ -203,7 +245,7 @@ Analyzed Windows and server log evidence for failed authentication, anonymous ac
 <div class="sr-flow-step">
   <span class="sr-flow-number">6</span>
 
-### Impact and Remediation
+### Assess Impact and Recommend Remediation
 
 Translated technical findings into operational impact, risk exposure, containment priorities, restoration recommendations, and future prevention steps.
 
@@ -233,7 +275,7 @@ The investigation identified a phishing-style email with a malicious attachment 
 
 ### Malware Execution
 
-The analysis connected the suspicious file activity to malware execution and remote-access risk, including backdoor-style behavior and potential credential exposure.
+The analysis connected suspicious file activity to malware execution and remote-access risk, including backdoor-style behavior and potential credential exposure.
 
 <span class="sr-static-label sr-static-label-complete">Malware Investigation</span>
 
@@ -285,7 +327,7 @@ Findings were summarized into status reports and a final incident report with ex
 
 ## Network Analysis Themes
 
-Network analysis focused on understanding communication patterns and timeline evidence.
+Network analysis focused on communication patterns and timeline evidence.
 
 Key activities included:
 
@@ -317,7 +359,7 @@ Areas reviewed included:
 * Windows event log artifacts
 * hash verification to confirm image integrity
 
-This portion of the work helped connect user activity, suspicious files, ransomware-style artifacts, and endpoint-level evidence to the broader incident timeline.
+This part of the work helped connect user activity, suspicious files, ransomware-style artifacts, and endpoint-level evidence to the broader incident timeline.
 
 ---
 
@@ -362,7 +404,7 @@ Log evidence helped translate individual artifacts into a broader operational pi
 
 ## Impact Assessment
 
-The incident created risk across several dimensions:
+The incident created risk across several dimensions.
 
 <div class="sr-record-list">
 
@@ -421,7 +463,7 @@ Recommended actions included:
 * document lessons learned
 * communicate clearly with stakeholders during recovery
 
-These recommendations are useful because they connect technical findings to operational decision-making.
+These recommendations matter because they connect technical findings to operational decision-making.
 
 ---
 
@@ -477,36 +519,27 @@ These recommendations are useful because they connect technical findings to oper
 
 ## What I Learned
 
-This capstone reinforced several important cybersecurity lessons:
+What surprised me most during this project was how difficult it was to build a reliable incident timeline from incomplete evidence.
 
-* incident response requires multiple evidence sources
-* phishing remains one of the most effective initial access vectors
-* endpoint evidence and network evidence must be correlated
-* forensic image analysis helps preserve and reconstruct user/system behavior
-* memory analysis can expose runtime artifacts that disk analysis may miss
-* logs are essential for timeline reconstruction and access review
-* suspicious processes need context from disk, memory, logs, and network data
-* impact analysis should include confidentiality, integrity, availability, operations, reputation, and governance
-* remediation must include both immediate containment and long-term prevention
-* final reporting matters because technical findings must be understandable to decision-makers
+At the beginning of the investigation, I found myself looking for a single decisive artifact that would explain the compromise. As the project progressed, I realized that incident response rarely works that way. The strongest conclusions came from combining multiple independent sources of evidence rather than relying on any one indicator.
+
+The phishing email initially appeared to be the most important artifact. Later, the value came from understanding how network activity, forensic images, Windows logs, memory artifacts, suspicious processes, and user behavior fit together into a larger story. The challenge was not simply identifying individual indicators. The challenge was determining how confident I could be in the conclusions supported by those indicators.
+
+Another lesson was how important communication becomes during an investigation. Technical findings only become useful when they can be explained clearly to decision-makers. A timeline, impact assessment, or remediation recommendation has very little value if stakeholders cannot understand what happened or why a particular action is necessary.
+
+The biggest takeaway I carried forward from CYBER 440 is that strong cybersecurity analysis is not about finding a single “smoking gun.” It is about building confidence through evidence correlation, documenting assumptions, understanding uncertainty, and making defensible decisions with the information available.
+
+That mindset continues to influence how I think about cybersecurity operations, vulnerability management, and ServiceNow SecOps workflows today.
 
 ---
 
 ## Professional Relevance
 
-This project supports roles involving:
-
-* cybersecurity analysis
-* security operations
-* incident response
-* digital forensics
-* vulnerability management
-* malware investigation
-* threat analysis
-* security consulting
-* governance-aware security reporting
+This is one of the projects I would point to first for cybersecurity analyst, incident response, forensic analysis, and security operations conversations.
 
 It also supports my ServiceNow SecOps direction because incident response and Vulnerability Response both require structured triage, ownership, remediation tracking, validation, documentation, and stakeholder communication.
+
+The professional value is not just the tool exposure. The value is the workflow: take messy evidence, understand what happened, explain impact, recommend action, and document the outcome.
 
 ---
 
@@ -557,7 +590,7 @@ The project included forensic image review, endpoint artifact analysis, applicat
 
 ### Incident Response
 
-The project required identifying compromise mechanism, affected systems, impact, and immediate/long-term remediation steps.
+The project required identifying the compromise mechanism, affected systems, operational impact, and immediate/long-term remediation steps.
 
 <span class="sr-static-label sr-static-label-complete">Incident Response</span>
 
@@ -589,4 +622,3 @@ This capstone could later be expanded with:
 * a mock executive incident report template
 
 For now, this page serves as the main portfolio-safe summary of my CYBER 440 cybersecurity capstone work.
-
