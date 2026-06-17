@@ -1,322 +1,245 @@
 # Main navigation for sudoRunner
-# Curated dropdowns: strongest pages are visible here.
-# Complete coverage lives in Projects, Capabilities, Review Paths, and Start Here.
+# Current strategy:
+# 1. Lead with the ServiceNow / Vulnerability Response lane.
+# 2. Separate professional experience from academic evidence.
+# 3. Keep supporting work available without making the menu feel like a transcript.
 
 [[main]]
-  name = "About"
-  identifier = "about"
-  url = "/about/"
+  name = "What I Do"
+  identifier = "what-i-do"
+  url = "/what-i-do/"
   weight = 10
 
 [[main]]
-  name = "About"
-  parent = "about"
-  url = "/about/"
+  name = "What I Do"
+  parent = "what-i-do"
+  url = "/what-i-do/"
   weight = 11
 
 [[main]]
   name = "Start Here"
-  parent = "about"
+  parent = "what-i-do"
   url = "/start-here/"
   weight = 12
 
 [[main]]
   name = "Review Paths"
-  parent = "about"
+  parent = "what-i-do"
   url = "/review-paths/"
   weight = 13
 
 [[main]]
   name = "Capabilities"
-  parent = "about"
+  parent = "what-i-do"
   url = "/capabilities/"
   weight = 14
 
-[[main]]
-  name = "Opportunity Fit"
-  parent = "about"
-  url = "/opportunity-fit/"
-  weight = 15
 
 [[main]]
-  name = "Changelog"
-  parent = "about"
-  url = "/changelog/"
-  weight = 16
-
-
-[[main]]
-  name = "Projects"
-  identifier = "projects"
-  url = "/projects/"
+  name = "ServiceNow SecOps"
+  identifier = "servicenow-secops"
+  url = "/research-labs/servicenow-secops-lab-hub/"
   weight = 20
 
 [[main]]
-  name = "Projects Home"
-  parent = "projects"
-  url = "/projects/"
+  name = "SecOps Lab Hub"
+  parent = "servicenow-secops"
+  url = "/research-labs/servicenow-secops-lab-hub/"
   weight = 21
 
 [[main]]
-  name = "ServiceNow SecOps Lab Hub"
-  parent = "projects"
-  url = "/research-labs/servicenow-secops-lab-hub/"
+  name = "Wipro VR Engagement"
+  parent = "servicenow-secops"
+  url = "/professional-experience/wipro-servicenow-vulnerability-response-engagement/"
   weight = 22
 
 [[main]]
-  name = "CYBER 440 Capstone"
-  parent = "projects"
-  url = "/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/"
+  name = "VR Lab"
+  parent = "servicenow-secops"
+  url = "/projects/servicenow-vulnerability-response-lab/"
   weight = 23
 
 [[main]]
-  name = "CYBER 366 Malware Analytics"
-  parent = "projects"
-  url = "/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/"
+  name = "VR Triage Checklist"
+  parent = "servicenow-secops"
+  url = "/research-labs/servicenow-vr-triage-checklist/"
   weight = 24
 
-[[main]]
-  name = "IST 454 Forensics"
-  parent = "projects"
-  url = "/projects/ist-454-computer-cyber-forensics-lab-evidence/"
-  weight = 25
 
 [[main]]
-  name = "IST 456 Security & Risk"
-  parent = "projects"
-  url = "/projects/ist-456-security-risk-management-enigma-glass-labs/"
-  weight = 26
-
-[[main]]
-  name = "IST 331 HCI / Usability"
-  parent = "projects"
-  url = "/projects/ist-331-user-centered-design-booking-redesign/"
-  weight = 27
-
-[[main]]
-  name = "IST 495 Internship"
-  parent = "projects"
-  url = "/projects/ist-495-network-lab-development-internship/"
-  weight = 28
-
-[[main]]
-  name = "sudoRunner Website"
-  parent = "projects"
-  url = "/projects/sudorunner-portfolio-website/"
-  weight = 29
-
-
-[[main]]
-  name = "Labs"
-  identifier = "labs"
-  url = "/research-labs/"
+  name = "Experience"
+  identifier = "experience"
+  url = "/professional-experience/"
   weight = 30
 
 [[main]]
-  name = "Research & Labs Home"
-  parent = "labs"
-  url = "/research-labs/"
+  name = "Professional Experience"
+  parent = "experience"
+  url = "/professional-experience/"
   weight = 31
 
 [[main]]
-  name = "ServiceNow SecOps Lab Hub"
-  parent = "labs"
-  url = "/research-labs/servicenow-secops-lab-hub/"
+  name = "Wipro ServiceNow VR"
+  parent = "experience"
+  url = "/professional-experience/wipro-servicenow-vulnerability-response-engagement/"
   weight = 32
 
 [[main]]
-  name = "VR Triage Checklist"
-  parent = "labs"
-  url = "/research-labs/servicenow-vr-triage-checklist/"
+  name = "Critical Infrastructure Operations"
+  parent = "experience"
+  url = "/ot-ics-security/critical-infrastructure-operations-foundation/"
   weight = 33
 
 [[main]]
-  name = "CYBER 366 Malware Labs"
-  parent = "labs"
-  url = "/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/"
+  name = "IST 495 Internship"
+  parent = "experience"
+  url = "/projects/ist-495-network-lab-development-internship/"
   weight = 34
-
-[[main]]
-  name = "CYBER 262 Security Foundations"
-  parent = "labs"
-  url = "/research-labs/cyber-262-security-foundations-lab-collection/"
-  weight = 35
-
-[[main]]
-  name = "IST 451 Security Labs"
-  parent = "labs"
-  url = "/research-labs/ist-451-security-labs-collection/"
-  weight = 36
-
-[[main]]
-  name = "CYBER 440 Capstone"
-  parent = "labs"
-  url = "/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/"
-  weight = 37
-
-[[main]]
-  name = "IST 454 Forensics"
-  parent = "labs"
-  url = "/projects/ist-454-computer-cyber-forensics-lab-evidence/"
-  weight = 38
-
-
-[[main]]
-  name = "AI"
-  identifier = "ai"
-  url = "/ai-security/"
-  weight = 40
-
-[[main]]
-  name = "AI & Security Home"
-  parent = "ai"
-  url = "/ai-security/"
-  weight = 41
-
-[[main]]
-  name = "Vulnerability Ownership Recommender"
-  parent = "ai"
-  url = "/ai-security/ai-powered-vulnerability-ownership-recommender/"
-  weight = 42
-
-[[main]]
-  name = "AI Risk Translation"
-  parent = "ai"
-  url = "/ai-security/using-ai-to-translate-vulnerability-risk/"
-  weight = 43
 
 
 [[main]]
   name = "OT/ICS"
   identifier = "ot-ics"
   url = "/ot-ics-security/"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "OT/ICS Security Home"
   parent = "ot-ics"
   url = "/ot-ics-security/"
-  weight = 51
+  weight = 41
+
+[[main]]
+  name = "Critical Infrastructure Operations"
+  parent = "ot-ics"
+  url = "/ot-ics-security/critical-infrastructure-operations-foundation/"
+  weight = 42
 
 [[main]]
   name = "ICS/IT-OT DoS Lab"
   parent = "ot-ics"
   url = "/ot-ics-security/ics-it-ot-application-level-dos-lab/"
+  weight = 43
+
+
+[[main]]
+  name = "Evidence"
+  identifier = "evidence"
+  url = "/projects/"
+  weight = 50
+
+[[main]]
+  name = "Projects Gallery"
+  parent = "evidence"
+  url = "/projects/"
+  weight = 51
+
+[[main]]
+  name = "Research & Labs"
+  parent = "evidence"
+  url = "/research-labs/"
   weight = 52
 
 [[main]]
-  name = "AI Risk Translation"
-  parent = "ot-ics"
-  url = "/ai-security/using-ai-to-translate-vulnerability-risk/"
+  name = "CYBER 440 Capstone"
+  parent = "evidence"
+  url = "/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/"
   weight = 53
 
+[[main]]
+  name = "IST 454 Forensics"
+  parent = "evidence"
+  url = "/projects/ist-454-computer-cyber-forensics-lab-evidence/"
+  weight = 54
 
 [[main]]
-  name = "Credentials"
-  identifier = "credentials"
-  url = "/credentials/"
-  weight = 60
+  name = "CYBER 366 Malware Analytics"
+  parent = "evidence"
+  url = "/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/"
+  weight = 55
 
 [[main]]
-  name = "Credentials Home"
-  parent = "credentials"
-  url = "/credentials/"
-  weight = 61
+  name = "IST 456 Security & Risk"
+  parent = "evidence"
+  url = "/projects/ist-456-security-risk-management-enigma-glass-labs/"
+  weight = 56
 
 [[main]]
-  name = "Resume"
-  parent = "credentials"
-  url = "/resume/"
-  weight = 62
+  name = "Governance, Risk & Privacy"
+  parent = "evidence"
+  url = "/projects/ist-432-cyber-law-privacy-grc-case-analysis/"
+  weight = 57
 
 [[main]]
-  name = "Download Resume PDF"
-  parent = "credentials"
-  url = "/resume.pdf"
-  weight = 63
+  name = "AI & Security"
+  parent = "evidence"
+  url = "/ai-security/"
+  weight = 58
 
 [[main]]
-  name = "Opportunity Fit"
-  parent = "credentials"
-  url = "/opportunity-fit/"
-  weight = 64
-
-[[main]]
-  name = "Capabilities"
-  parent = "credentials"
-  url = "/capabilities/"
-  weight = 65
+  name = "sudoRunner Website"
+  parent = "evidence"
+  url = "/projects/sudorunner-portfolio-website/"
+  weight = 59
 
 
 [[main]]
   name = "Resume"
   identifier = "resume"
   url = "/resume/"
-  weight = 70
+  weight = 60
 
 [[main]]
   name = "Resume Page"
   parent = "resume"
   url = "/resume/"
-  weight = 71
+  weight = 61
 
 [[main]]
   name = "Download Resume PDF"
   parent = "resume"
   url = "/resume.pdf"
-  weight = 72
-
-[[main]]
-  name = "Projects"
-  parent = "resume"
-  url = "/projects/"
-  weight = 73
+  weight = 62
 
 [[main]]
   name = "Credentials"
   parent = "resume"
   url = "/credentials/"
-  weight = 74
+  weight = 63
 
 [[main]]
-  name = "Contact"
+  name = "Opportunity Fit"
   parent = "resume"
-  url = "/contact/"
-  weight = 75
+  url = "/opportunity-fit/"
+  weight = 64
 
 
 [[main]]
   name = "Contact"
   identifier = "contact"
   url = "/contact/"
-  weight = 80
+  weight = 70
 
 [[main]]
   name = "Contact Page"
   parent = "contact"
   url = "/contact/"
-  weight = 81
+  weight = 71
 
 [[main]]
   name = "Email"
   parent = "contact"
   url = "/contact/#email"
-  weight = 82
+  weight = 72
 
 [[main]]
   name = "LinkedIn"
   parent = "contact"
   url = "/contact/#linkedin"
-  weight = 83
+  weight = 73
 
 [[main]]
   name = "Book Intro Call"
   parent = "contact"
   url = "/contact/#book-intro-call"
-  weight = 84
-
-[[main]]
-  name = "Opportunity Fit"
-  parent = "contact"
-  url = "/opportunity-fit/"
-  weight = 85
+  weight = 74

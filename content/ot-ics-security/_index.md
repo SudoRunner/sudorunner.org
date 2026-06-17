@@ -1,62 +1,46 @@
 ---
-
-title: "IST 451: ICS/IT-OT Application-Level DoS Attack Lab"
-description: "Notes and projects focused on operational technology, industrial control systems, cyber-physical risk, and industrial cybersecurity."
+title: "OT/ICS Security"
+description: "OT/ICS security interest built on real building operations experience, critical infrastructure exposure, academic ICS/SCADA lab work, and cybersecurity training."
 showDate: false
 showAuthor: false
 showReadingTime: false
-----------------------
+showWordCount: false
+---
 
-<span class="sr-eyebrow">Portfolio Gallery</span>
+<span class="sr-eyebrow">OT/ICS Security</span>
 
-This section focuses on operational technology, industrial control systems, cyber-physical risk, and the security challenges that exist where cybersecurity meets real-world operations.
+My OT/ICS interest is grounded in two things:
 
-My interest in OT/ICS security comes from academic exposure to ICS and SCADA concepts in simulated smart grid and lab environments, where cybersecurity risk must be understood alongside availability, safety, uptime, and operational continuity.
+1. Real building operations experience supporting critical infrastructure systems.
+2. Academic cybersecurity work involving ICS/SCADA concepts, availability, disruption, and recovery validation.
 
-<div class="sr-callout">
-
-<strong>OT/ICS focus:</strong> These pages emphasize operational impact, asset context, safety awareness, recovery validation, and risk communication - not just traditional IT vulnerability severity.
-
-</div>
+I do not present myself as a senior OT/ICS specialist. I present OT/ICS as a developing specialty built on practical facilities experience and cybersecurity training.
 
 ---
 
-## Featured Case Studies
+## Start Here
 
 <div class="sr-card-grid">
 
-<div class="sr-card sr-project-card">
+<div class="sr-card">
 
-<div>
+### [Critical Infrastructure Operations Foundation](/ot-ics-security/critical-infrastructure-operations-foundation/)
 
-### [ICS IT/OT Application-Level DoS Attack Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/)
+My strongest OT/ICS-relevant professional experience.
 
-A redacted academic lab case study focused on investigating and recovering from an application-level denial-of-service condition affecting a SCADA/OT environment.
+Nearly five years as a building engineer supporting HVAC, pumps, electrical rooms, fire/life-safety systems, access-controlled spaces, contractors, preventive maintenance, and operational continuity in a Class A commercial building.
 
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-status sr-status-progress">OT/ICS</span>
-  <span class="sr-status sr-status-lab">SCADA Lab</span>
-  <span class="sr-status sr-status-concept">Recovery Validation</span>
-</div>
+<span class="sr-static-label sr-static-label-complete">Professional Foundation</span>
 
 </div>
 
-<div class="sr-card sr-project-card">
+<div class="sr-card">
 
-<div>
+### [ICS/IT-OT Application-Level DoS Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/)
 
-### [Using AI to Translate Vulnerability Risk Between Cybersecurity and OT Operations Teams](/ai-security/using-ai-to-translate-vulnerability-risk/)
+Academic OT/ICS lab work focused on application-level disruption, visibility loss, operational impact, availability, and recovery validation.
 
-A concept note exploring how AI could help translate vulnerability findings into operationally meaningful language for OT, ICS, cybersecurity, and business stakeholders.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-status sr-status-concept">AI Concept</span>
-  <span class="sr-status sr-status-progress">Risk Translation</span>
-</div>
+<span class="sr-static-label sr-static-label-complete">Academic Lab Evidence</span>
 
 </div>
 
@@ -64,88 +48,71 @@ A concept note exploring how AI could help translate vulnerability findings into
 
 ---
 
-## Focus Areas
+## Why OT/ICS Matters To Me
 
-<div class="sr-card-grid">
+Building operations taught me that infrastructure is not abstract.
 
-<div class="sr-card">
+When HVAC, electrical, life-safety, access, or building-control systems fail, the impact is immediate and physical. People feel the consequences.
 
-### Cyber-Physical Risk
+That experience shaped how I think about OT/ICS security.
 
-OT/ICS security is not only about vulnerabilities and technical findings. It is also about understanding how cyber risk can affect physical processes, operations, safety, uptime, and business continuity.
+Cybersecurity recommendations in operational environments cannot ignore:
 
-<span class="sr-status sr-status-progress">Operational Impact</span>
+- uptime
+- safety
+- access
+- maintenance windows
+- vendor activity
+- change coordination
+- monitoring
+- recovery
+- operational constraints
 
+This is why I am interested in OT/ICS security as a developing specialty.
+
+---
+
+## Capability-to-Evidence Map
+
+<div class="sr-record-list">
+
+<div class="sr-record-row sr-record-head">
+  <div>Capability</div>
+  <div>Evidence</div>
+  <div>Signal</div>
 </div>
 
-<div class="sr-card">
-
-### Risk Frameworks
-
-Notes and projects related to frameworks such as NIST CSF and IEC 62443, especially where they apply to industrial environments and operational security programs.
-
-<span class="sr-status sr-status-concept">NIST CSF / IEC 62443</span>
-
+<div class="sr-record-row">
+  <div class="sr-record-title">Critical Infrastructure Operations</div>
+  <div class="sr-record-detail"><a href="/ot-ics-security/critical-infrastructure-operations-foundation/">Accesso building engineering experience</a> supporting a large Class A commercial building.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Professional Experience</span></div>
 </div>
 
-<div class="sr-card">
-
-### Smart Grid and Critical Infrastructure Concepts
-
-Writeups related to smart grid security, industrial network segmentation, control system risk, asset context, and the unique challenges of securing operational environments.
-
-<span class="sr-status sr-status-lab">Smart Grid</span>
-
+<div class="sr-record-row">
+  <div class="sr-record-title">Cyber-Physical Risk Awareness</div>
+  <div class="sr-record-detail">Experience around HVAC, electrical rooms, pumps, life-safety systems, physical access, contractor coordination, and building controls.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Operational Awareness</span></div>
 </div>
 
-<div class="sr-card">
+<div class="sr-record-row">
+  <div class="sr-record-title">ICS/SCADA Concepts</div>
+  <div class="sr-record-detail"><a href="/ot-ics-security/ics-it-ot-application-level-dos-lab/">Academic ICS/IT-OT DoS lab</a> involving disruption, visibility loss, and recovery validation.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Academic Evidence</span></div>
+</div>
 
-### Translating Cybersecurity for Operations Teams
-
-A major challenge in OT/ICS security is communicating technical findings in a way that engineers, operators, and business stakeholders can act on.
-
-<span class="sr-status sr-status-progress">Risk Communication</span>
-
+<div class="sr-record-row">
+  <div class="sr-record-title">ServiceNow SecOps Connection</div>
+  <div class="sr-record-detail">Operational work taught me the importance of ownership, work tracking, escalation, documentation, and closure — the same concepts I now apply to ServiceNow SecOps workflows.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Workflow Connection</span></div>
 </div>
 
 </div>
 
 ---
 
-## Planned Articles
+## How This Fits My Main Career Direction
 
-<div class="sr-card-grid">
+My primary lane remains:
 
-<div class="sr-card">
-
-### What Makes OT/ICS Security Different from Traditional IT Security
-
-A planned writeup explaining how availability, safety, physical processes, maintenance windows, and vendor constraints change the security conversation.
-
-<span class="sr-status sr-status-concept">Planned</span>
-
-</div>
-
-<div class="sr-card">
-
-### Why Asset Context Matters in Industrial Vulnerability Management
-
-A planned article focused on why CVSS alone is not enough when an affected asset supports operational processes.
-
-<span class="sr-status sr-status-concept">Planned</span>
-
-</div>
-
-<div class="sr-card">
-
-### IEC 62443 Notes for Early-Career Cybersecurity Professionals
-
-A planned notes page for organizing early-career learning around industrial cybersecurity principles and controls.
-
-<span class="sr-status sr-status-concept">Planned</span>
-
-</div>
-
-</div>
-
-
+```text
+ServiceNow SecOps / Vulnerability Response
