@@ -1,6 +1,6 @@
 ---
-title: "sudoRunner"
-description: "Cybersecurity portfolio for Vlad K., focused on ServiceNow SecOps, Vulnerability Response, vulnerability management workflows, and professional consulting experience."
+title: "Vlad K."
+description: "Cybersecurity consultant helping organizations translate technical security work into operational outcomes."
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -9,38 +9,27 @@ showWordCount: false
 
 <section class="sr-home-hero">
 
-<span class="sr-eyebrow">sudoRunner</span>
-
-<h1>Vlad K.</h1>
-
 <p class="sr-home-subtitle">
-I help organizations reduce vulnerability-management chaos through better ownership, remediation workflows, validation, and operational visibility.
+I help organizations turn technical security findings into business action: clear ownership, remediation workflows, stakeholder alignment, and operational visibility.
 </p>
 
 <p class="sr-home-story">
-My focus is ServiceNow SecOps and Vulnerability Response, supported by real Wipro client delivery experience and hands-on security operations labs.
+My background combines client-facing ServiceNow delivery, cybersecurity education, and nearly five years of building operations experience. I am strongest where technical teams, business stakeholders, and real-world operations have to work together.
 </p>
 
 <p class="sr-home-identity">
-<strong>U.S. Citizen | Penn State Cybersecurity Analytics & Operations Graduate | ServiceNow SecOps | Vulnerability Response</strong>
+<strong>Cybersecurity Consultant | ServiceNow SecOps | Vulnerability Response | Client-Facing Delivery</strong>
 </p>
 
 <div class="sr-home-cta-row">
-  <a class="sr-button sr-home-primary" href="/research-labs/servicenow-secops-lab-hub/">View My ServiceNow SecOps Work</a>
-</div>
-
-<div class="sr-cta-row">
-  <a class="sr-button-secondary sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">Professional Experience</a>
-  <a class="sr-button-secondary sr-button" href="/what-i-do/">What I Do</a>
-  <a class="sr-button-secondary sr-button" href="/resume/">Resume</a>
-  <a class="sr-button-secondary sr-button" href="/contact/">Contact</a>
+  <a class="sr-button sr-home-primary" href="/professional-experience/">View My Professional Experience</a>
 </div>
 
 </section>
 
 <section class="sr-home-feature-section">
 
-<h2>Featured Work</h2>
+<h2>Featured Professional Evidence</h2>
 
 <div class="sr-home-primary-grid">
 
@@ -49,11 +38,25 @@ My focus is ServiceNow SecOps and Vulnerability Response, supported by real Wipr
 <h3>Wipro ServiceNow Vulnerability Response Engagement</h3>
 
 <p>
-Real client delivery experience supporting a ServiceNow Vulnerability Response implementation with stakeholder coordination, RAID tracking, user stories, UAT support, and go-live readiness.
+Real client delivery experience supporting a ServiceNow Vulnerability Response implementation, including stakeholder coordination, RAID tracking, user stories, UAT support, training support, and go-live readiness.
 </p>
 
 <div class="sr-home-primary-links">
-<a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">View Engagement</a>
+<a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">View Wipro Engagement</a>
+</div>
+
+</div>
+
+<div class="sr-card sr-home-primary-card">
+
+<h3>Critical Infrastructure Operations</h3>
+
+<p>
+Nearly five years as a building engineer supporting a major Class A commercial building: HVAC, pumps, electrical rooms, life-safety systems, access-controlled spaces, contractors, work orders, and operational continuity.
+</p>
+
+<div class="sr-home-primary-links">
+<a class="sr-button" href="/ot-ics-security/critical-infrastructure-operations-foundation/">View Building Operations</a>
 </div>
 
 </div>
@@ -63,25 +66,11 @@ Real client delivery experience supporting a ServiceNow Vulnerability Response i
 <h3>ServiceNow SecOps Lab Hub</h3>
 
 <p>
-Hands-on Vulnerability Response workflow work focused on vulnerable items, ownership, remediation tracking, validation, exception handling, and closure.
+Hands-on Vulnerability Response workflow work focused on vulnerable items, ownership, remediation tracking, validation, exception handling, closure, and security operations process design.
 </p>
 
 <div class="sr-home-primary-links">
 <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">View SecOps Work</a>
-</div>
-
-</div>
-
-<div class="sr-card sr-home-primary-card">
-
-<h3>Resume</h3>
-
-<p>
-Fast overview of professional experience, education, certifications, technical skills, and portfolio evidence.
-</p>
-
-<div class="sr-home-primary-links">
-<a class="sr-button" href="/resume/">View Resume</a>
 </div>
 
 </div>
@@ -94,7 +83,7 @@ Fast overview of professional experience, education, certifications, technical s
 
 <div class="sr-callout">
 
-<strong>Supporting evidence:</strong> Academic and lab work is available across incident response, forensics, malware analysis, OT/ICS security, Governance, Risk & Privacy, HCI, cloud, and software foundations.
+<strong>Technical foundation:</strong> My cybersecurity degree and academic projects support this professional story with evidence across incident response, digital forensics, malware analysis, Governance, Risk & Privacy, OT/ICS security, HCI, cloud, and software foundations.
 
 </div>
 
@@ -102,8 +91,7 @@ Fast overview of professional experience, education, certifications, technical s
   <a class="sr-button-secondary sr-button" href="/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/">Incident Response</a>
   <a class="sr-button-secondary sr-button" href="/projects/ist-454-computer-cyber-forensics-lab-evidence/">Forensics</a>
   <a class="sr-button-secondary sr-button" href="/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/">Malware Analysis</a>
-  <a class="sr-button-secondary sr-button" href="/ot-ics-security/">OT/ICS</a>
-  <a class="sr-button-secondary sr-button" href="/capabilities/">All Capabilities</a>
+  <a class="sr-button-secondary sr-button" href="/projects/">All Projects</a>
 </div>
 
 </section>

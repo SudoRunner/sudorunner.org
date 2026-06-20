@@ -3091,3 +3091,16 @@ a.sr-home-primary {
   line-height: 1.8;
   opacity: 0.92;
 }
+
+.sr-about-photo-wrap {
+  display: flex;
+  justify-content: center;
+  margin: 1.25rem 0 2rem 0;
+}
+
+.sr-about-photo {
+  width: min(220px, 70vw);
+  height: auto;
+  border-radius: 999px;
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.18);
+}
