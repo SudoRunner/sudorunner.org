@@ -14,7 +14,7 @@ Cybersecurity consultant helping organizations manage vulnerabilities, improve s
 </p>
 
 <p class="sr-home-story">
-sudoRunner is my professional portfolio. It connects my client-facing ServiceNow delivery experience, cybersecurity education, and nearly five years of building operations work into one story: I help technical teams and business stakeholders turn security problems into clear action.
+sudoRunner is my professional portfolio. It connects my client-facing ServiceNow delivery experience, cybersecurity education, and building operations background into one story: I help technical teams and business stakeholders turn vulnerability findings into assigned, trackable remediation work.
 </p>
 
 <p class="sr-home-identity">
