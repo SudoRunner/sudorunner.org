@@ -7,8 +7,8 @@
 
 images = ["/img/sudorunner-og-image.png"]
 colorScheme = "blowfish"
-defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+defaultAppearance = "dark" # valid options: light or dark
+autoSwitchAppearance = false
 
 enableA11y = false
 enableSearch = true
