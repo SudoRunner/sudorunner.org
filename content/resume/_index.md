@@ -154,7 +154,7 @@ Academic Honors: **The Honor Society of Phi Kappa Phi** | **Alpha Sigma Lambda H
 
 <div class="sr-record-row">
   <div class="sr-record-title">ServiceNow Certified System Administrator</div>
-  <div class="sr-record-detail">CSA | scheduled June 2026</div>
+  <div class="sr-record-detail">CSA | scheduled July 2026</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-scheduled">Scheduled</span></div>
 </div>
 
