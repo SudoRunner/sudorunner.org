@@ -1,6 +1,6 @@
 ---
 title: "Vlad K."
-description: "Cybersecurity consultant helping organizations manage vulnerabilities, improve security operations, and deliver ServiceNow SecOps solutions."
+description: "Cybersecurity consultant with ServiceNow SecOps delivery experience, critical infrastructure operations background, and a Penn State cybersecurity foundation."
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -9,96 +9,76 @@ showWordCount: false
 
 <section class="sr-home-hero">
 
+<p class="sr-home-headline">
+Cybersecurity Consultant
+</p>
+
 <p class="sr-home-subtitle">
-Cybersecurity consultant helping organizations manage vulnerabilities, improve security operations, and deliver ServiceNow SecOps solutions.
+ServiceNow SecOps | Vulnerability Response | Security Operations | OT/ICS Security
 </p>
 
 <p class="sr-home-story">
-sudoRunner is my professional portfolio. It connects my client-facing ServiceNow delivery experience, cybersecurity education, and building operations background into one story: I help technical teams and business stakeholders turn vulnerability findings into assigned, trackable remediation work.
-</p>
-
-<p class="sr-home-identity">
-<strong>ServiceNow SecOps | Vulnerability Response | Client-Facing Delivery | Security Operations</strong>
+sudoRunner is my professional portfolio for recruiters and hiring teams. It highlights my ServiceNow SecOps delivery experience, critical infrastructure operations background, and Penn State cybersecurity foundation.
 </p>
 
 <div class="sr-home-cta-row">
-  <a class="sr-button sr-home-primary" href="/professional-experience/">View Professional Experience</a>
-</div>
-
-<div class="sr-cta-row">
-  <a class="sr-button-secondary sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps Work</a>
-  <a class="sr-button-secondary sr-button" href="/about/">About Me</a>
-  <a class="sr-button-secondary sr-button" href="/resume/">Resume</a>
-  <a class="sr-button-secondary sr-button" href="/contact/">Contact</a>
+  <a class="sr-button sr-home-primary" href="/start-here/">Start Here: 60-Second Review</a>
 </div>
 
 </section>
 
 <section class="sr-home-feature-section">
 
-<h2>Featured Professional Evidence</h2>
+<h2>Featured Work</h2>
+
+<p class="sr-section-intro">
+Three fast entry points into my strongest portfolio evidence.
+</p>
 
 <div class="sr-home-primary-grid">
 
 <div class="sr-card sr-home-primary-card">
 
-<h3>Wipro ServiceNow Vulnerability Response Engagement</h3>
+<h3>ServiceNow SecOps</h3>
 
 <p>
-Client-facing cybersecurity consulting experience supporting a ServiceNow Vulnerability Response implementation, including stakeholder coordination, user stories, RAID tracking, UAT support, training support, and go-live readiness.
+Client-facing Vulnerability Response delivery experience and hands-on lab work focused on triage, remediation ownership, exception handling, validation, closure, and SecOps workflow design.
 </p>
 
 <div class="sr-home-primary-links">
-<a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">View Wipro Engagement</a>
+<a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">View ServiceNow SecOps</a>
 </div>
 
 </div>
 
 <div class="sr-card sr-home-primary-card">
 
-<h3>Accesso Critical Infrastructure Operations</h3>
+<h3>OT/ICS & Infrastructure</h3>
 
 <p>
-Nearly five years as a building engineer supporting a major Class A commercial building: tenant support, contractors, HVAC, pumps, electrical rooms, life-safety systems, access-controlled spaces, and operational continuity.
+Critical infrastructure and facilities operations foundation from nearly five years supporting a major Class A commercial building environment with life-safety systems, access-controlled spaces, HVAC, electrical rooms, pumps, contractors, and operational continuity.
 </p>
 
 <div class="sr-home-primary-links">
-<a class="sr-button" href="/professional-experience/accesso-critical-infrastructure-operations/">View Accesso Experience</a>
+<a class="sr-button" href="/ot-ics-security/">View OT/ICS Work</a>
 </div>
 
 </div>
 
 <div class="sr-card sr-home-primary-card">
 
-<h3>ServiceNow SecOps Lab Hub</h3>
+<h3>Academic Projects</h3>
 
 <p>
-Hands-on Vulnerability Response workflow work focused on vulnerable items, remediation ownership, validation, exception handling, closure, and security operations process design.
+Penn State cybersecurity project evidence across incident response, digital forensics, malware analysis, governance, risk, privacy, programming, HCI, cloud, and security operations foundations.
 </p>
 
 <div class="sr-home-primary-links">
-<a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">View SecOps Work</a>
+<a class="sr-button" href="/projects/">View Academic Projects</a>
 </div>
 
 </div>
 
-</div>
-
-</section>
-
-<section class="sr-home-closing">
-
-<div class="sr-callout">
-
-<strong>Technical foundation:</strong> My Penn State cybersecurity degree and academic projects support this professional story with evidence across incident response, digital forensics, malware analysis, governance, risk, privacy, OT/ICS security, HCI, cloud, and software foundations.
-
-</div>
-
-<div class="sr-cta-row">
-  <a class="sr-button-secondary sr-button" href="/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/">Incident Response</a>
-  <a class="sr-button-secondary sr-button" href="/projects/ist-454-computer-cyber-forensics-lab-evidence/">Forensics</a>
-  <a class="sr-button-secondary sr-button" href="/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/">Malware Analysis</a>
-  <a class="sr-button-secondary sr-button" href="/projects/">All Projects</a>
 </div>
 
 </section>

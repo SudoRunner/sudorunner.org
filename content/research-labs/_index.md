@@ -9,19 +9,19 @@ showWordCount: false
 
 <span class="sr-eyebrow">Research & Labs</span>
 
-This section is for hands-on lab work and technical notes.
+This section highlights hands-on lab work and technical notes that support my cybersecurity foundation.
 
-The project gallery has the full course-coded evidence map. This page is narrower: ServiceNow SecOps workflow work, malware/security labs, and the technical lab collections that best show how I work through systems, evidence, and process.
+The project gallery contains the full academic evidence map. This page is narrower: it focuses on ServiceNow SecOps workflow work, malware analysis, security foundations, and lab collections that show how I work through systems, evidence, tools, and process.
 
 <div class="sr-callout">
 
-<strong>How to read this section:</strong> Start with ServiceNow SecOps if you are reviewing role fit. Start with CYBER 366 if you want malware analysis. Start with CYBER 262 or IST 451 if you want broader security foundations.
+<strong>How to read this section:</strong> Start with ServiceNow SecOps for role fit, CYBER 366 for malware analysis, CYBER 262 for security foundations, and IST 451 for broader security lab exposure.
 
 </div>
 
 ---
 
-## Start Here
+## Primary Lab Evidence
 
 <div class="sr-card-grid">
 
@@ -31,9 +31,9 @@ The project gallery has the full course-coded evidence map. This page is narrowe
 
 ### [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
 
-This is the most career-aligned lab section. It focuses on Vulnerability Response workflow: vulnerable item triage, ownership, remediation tracking, validation, exceptions, and closure.
+The most career-aligned lab section.
 
-This is where I would send someone first for ServiceNow SecOps or Vulnerability Response conversations.
+It focuses on Vulnerability Response workflow: vulnerable item triage, ownership, remediation tracking, validation, exception handling, and closure.
 
 </div>
 
@@ -52,8 +52,6 @@ This is where I would send someone first for ServiceNow SecOps or Vulnerability 
 
 A practical checklist for thinking through vulnerable item intake, risk review, assignment group ownership, remediation path, exception handling, validation, and closure.
 
-This is shorter than the lab hub and easier to review quickly.
-
 </div>
 
 <div class="sr-project-meta">
@@ -63,21 +61,13 @@ This is shorter than the lab hub and easier to review quickly.
 
 </div>
 
-</div>
-
----
-
-## Malware and Security Lab Collections
-
-<div class="sr-card-grid">
-
 <div class="sr-card sr-project-card">
 
 <div>
 
-### [CYBER 366: Malware Analytics & Reverse Engineering Lab Collection](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/)
+### [CYBER 366: Malware Analytics & Reverse Engineering](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/)
 
-This is the strongest malware-analysis lab collection in the portfolio.
+My strongest malware-analysis lab collection.
 
 It covers static analysis, dynamic analysis, packed executables, UPX, FLOSS, PE inspection, ProcMon, RegShot, IDA Pro, Ghidra, Binary Ninja, anti-debugging behavior, and keylogging indicators.
 
@@ -90,15 +80,21 @@ It covers static analysis, dynamic analysis, packed executables, UPX, FLOSS, PE 
 
 </div>
 
+</div>
+
+---
+
+## Supporting Lab Collections
+
+<div class="sr-card-grid">
+
 <div class="sr-card sr-project-card">
 
 <div>
 
 ### [CYBER 262: Security Foundations Lab Collection](/research-labs/cyber-262-security-foundations-lab-collection/)
 
-A hands-on security foundations collection covering Linux log analysis, Python parsing, endpoint protection, Wazuh HIDS, Snort NIDS, Splunk, two-factor authentication, and buffer overflow concepts.
-
-This page shows the base layer behind later malware, forensics, and incident response work.
+Hands-on security foundations work covering Linux log analysis, Python parsing, endpoint protection, Wazuh HIDS, Snort NIDS, Splunk, two-factor authentication, and buffer overflow concepts.
 
 </div>
 
@@ -117,8 +113,6 @@ This page shows the base layer behind later malware, forensics, and incident res
 
 A broader security lab collection covering service identification, Apache hardening, OpenVAS, SQL injection concepts, malware analysis, IDS concepts, wireless security, and privilege escalation concepts.
 
-This is a supporting lab collection, not the first page I would send someone to, but it adds useful breadth.
-
 </div>
 
 <div class="sr-project-meta">
@@ -128,47 +122,58 @@ This is a supporting lab collection, not the first page I would send someone to,
 
 </div>
 
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [Academic Projects Gallery](/projects/)
+
+Larger project writeups live in the academic projects gallery, including incident response, digital forensics, governance, cloud, HCI, privacy, software development, and risk analysis.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Course-Coded Evidence</span>
+  <span class="sr-static-label">Project Gallery</span>
+</div>
+
+</div>
+
 </div>
 
 ---
 
-## What This Section Shows
+## What This Section Demonstrates
 
 <div class="sr-record-list">
 
 <div class="sr-record-row sr-record-head">
   <div>Area</div>
-  <div>Evidence</div>
-  <div>Why It Matters</div>
+  <div>What It Shows</div>
+  <div>Signal</div>
 </div>
 
 <div class="sr-record-row">
   <div class="sr-record-title">ServiceNow SecOps</div>
-  <div class="sr-record-detail">SecOps lab hub and VR triage checklist.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Primary Career Fit</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title">Vulnerability Response</div>
-  <div class="sr-record-detail">Workflow thinking around vulnerable item review, assignment, remediation, exception handling, validation, and closure.</div>
-  <div class="sr-record-status"><span class="sr-static-label">VR Workflow</span></div>
+  <div class="sr-record-detail">Workflow thinking around vulnerable item review, assignment, remediation, exception handling, validation, closure, and analyst-supported decision making.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Primary Career Fit</span></div>
 </div>
 
 <div class="sr-record-row">
   <div class="sr-record-title">Malware Analysis</div>
-  <div class="sr-record-detail">CYBER 366 lab work with static analysis, dynamic analysis, unpacking, reverse-engineering tools, and behavior interpretation.</div>
+  <div class="sr-record-detail">Static and dynamic analysis, unpacking, strings review, behavioral observation, process activity, registry review, and reverse-engineering tool exposure.</div>
   <div class="sr-record-status"><span class="sr-static-label">Technical Depth</span></div>
 </div>
 
 <div class="sr-record-row">
   <div class="sr-record-title">Detection Foundations</div>
-  <div class="sr-record-detail">Wazuh, Snort, Splunk, endpoint protection, logs, IDS concepts, and security monitoring foundations.</div>
+  <div class="sr-record-detail">Wazuh, Snort, Splunk, endpoint protection, logs, IDS concepts, alerting concepts, and SIEM-style investigation foundations.</div>
   <div class="sr-record-status"><span class="sr-static-label">SOC-Relevant</span></div>
 </div>
 
 <div class="sr-record-row">
   <div class="sr-record-title">Security Lab Breadth</div>
-  <div class="sr-record-detail">Web security, vulnerability scanning, IDS concepts, wireless security, malware investigation, and privilege escalation concepts from IST 451.</div>
+  <div class="sr-record-detail">Web security, vulnerability scanning, IDS concepts, wireless security, malware investigation, Apache hardening, and privilege escalation concepts.</div>
   <div class="sr-record-status"><span class="sr-static-label">Supporting Evidence</span></div>
 </div>
 
@@ -176,9 +181,9 @@ This is a supporting lab collection, not the first page I would send someone to,
 
 ---
 
-## Tools Referenced in These Labs
+## Tools and Concepts Referenced
 
-This is not a mastery claim for every tool. It is a map of tools I used or studied in the lab work summarized here.
+This is not a mastery claim for every tool. It is a map of tools and concepts used or studied in the lab work summarized here.
 
 <div class="sr-record-list">
 
@@ -228,56 +233,6 @@ This is not a mastery claim for every tool. It is a map of tools I used or studi
 
 ---
 
-## Lab-Heavy Work Outside This Section
-
-Some of the strongest hands-on work lives under Projects instead of Research & Labs because those pages are bigger than a simple lab note.
-
-<div class="sr-card-grid">
-
-<div class="sr-card">
-
-### [CYBER 440 Capstone](/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/)
-
-The best incident response and forensic investigation story in the portfolio.
-
-<span class="sr-static-label sr-static-label-complete">Flagship</span>
-
-</div>
-
-<div class="sr-card">
-
-### [IST 454 Computer & Cyber Forensics](/projects/ist-454-computer-cyber-forensics-lab-evidence/)
-
-Forensic imaging, hash verification, registry analysis, data carving, and deleted file recovery.
-
-<span class="sr-static-label sr-static-label-complete">Forensics</span>
-
-</div>
-
-<div class="sr-card">
-
-### [IST 456 Security & Risk Management](/projects/ist-456-security-risk-management-enigma-glass-labs/)
-
-Enigma Glass SIEM-style labs covering ransomware, compromised credentials, and data exfiltration.
-
-<span class="sr-static-label sr-static-label-complete">Risk + SOC</span>
-
-</div>
-
-<div class="sr-card">
-
-### [SRA 221 Information Security Foundations](/projects/sra-221-information-security-foundations-lab-collection/)
-
-Earlier security-tool exposure: OWASP ZAP, Wireshark, SPARTA, OpenVPN, pfSense, Active Directory, forensics, and Splunk.
-
-<span class="sr-static-label sr-static-label-complete">Foundational</span>
-
-</div>
-
-</div>
-
----
-
 ## How I Treat Lab Writeups
 
 <div class="sr-card-grid">
@@ -286,7 +241,7 @@ Earlier security-tool exposure: OWASP ZAP, Wireshark, SPARTA, OpenVPN, pfSense, 
 
 ### Keep the Method
 
-I summarize the workflow, tools, findings, and lessons learned.
+I summarize the workflow, tools, findings, reasoning, and lessons learned.
 
 <span class="sr-static-label sr-static-label-complete">Method</span>
 
@@ -294,7 +249,7 @@ I summarize the workflow, tools, findings, and lessons learned.
 
 <div class="sr-card">
 
-### Remove the Sensitive Parts
+### Remove Sensitive Details
 
 I do not publish raw submissions, malware samples, private screenshots, credentials, exact lab artifacts, or full solution steps.
 
@@ -304,7 +259,7 @@ I do not publish raw submissions, malware samples, private screenshots, credenti
 
 <div class="sr-card">
 
-### Connect It to Roles
+### Connect Labs to Roles
 
 The goal is not to show that I completed a class. The goal is to show what the work proves about how I investigate, document, and think through security problems.
 
@@ -316,11 +271,11 @@ The goal is not to show that I completed a class. The goal is to show what the w
 
 ---
 
-## Quick Actions
+## Continue Reviewing
 
 <div class="sr-cta-row">
   <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
   <a class="sr-button-secondary sr-button" href="/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/">CYBER 366 Malware</a>
   <a class="sr-button-secondary sr-button" href="/research-labs/cyber-262-security-foundations-lab-collection/">CYBER 262 Foundations</a>
-  <a class="sr-button-secondary sr-button" href="/projects/">Projects</a>
+  <a class="sr-button-secondary sr-button" href="/projects/">Academic Projects</a>
 </div>

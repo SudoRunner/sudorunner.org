@@ -1,27 +1,28 @@
 ---
-title: "Projects"
-description: "Selected cybersecurity, ServiceNow, incident response, forensics, GRC, cloud security, HCI, software, internship, and academic projects from Vlad K."
+
+title: "Featured Work"
+description: "Professional, technical, and academic work supporting cybersecurity consulting, ServiceNow SecOps, Vulnerability Response, incident response, forensics, malware analysis, OT/ICS security, governance, and risk management."
 showDate: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
----
+--------------------
 
-<span class="sr-eyebrow">Portfolio Gallery</span>
+<span class="sr-eyebrow">Featured Work</span>
 
-This page is organized by review value, not just by course number.
+This section is organized by professional relevance rather than course number.
 
-The first section is what I would point to first for ServiceNow SecOps, cybersecurity analyst, incident response, forensics, or GRC conversations. The later sections fill in the technical foundation behind that work: networking, risk analysis, HCI, cloud, software development, and web design.
+The goal is to show how my professional experience, ServiceNow SecOps focus, cybersecurity education, and technical projects connect together.
 
 <div class="sr-callout">
 
-<strong>Publishing note:</strong> These are public summaries. I do not publish raw lab files, malware samples, forensic images, full academic answers, credentials, private screenshots, client information, or sensitive implementation details.
+<strong>How to use this page:</strong> Start with ServiceNow SecOps, Incident Response, Digital Forensics, Malware Analysis, and Governance. The remaining projects provide supporting technical foundation.
 
 </div>
 
 ---
 
-## Start Here: Strongest Evidence
+# Primary Technical Evidence
 
 <div class="sr-card-grid">
 
@@ -29,9 +30,11 @@ The first section is what I would point to first for ServiceNow SecOps, cybersec
 
 <div>
 
-### [ServiceNow SecOps Lab Hub](/research-labs/servicenow-secops-lab-hub/)
+### [ServiceNow SecOps & Vulnerability Response](/research-labs/servicenow-secops-lab-hub/)
 
-This is the most directly career-aligned section of the portfolio. It covers Vulnerability Response workflow thinking: vulnerable item triage, assignment ownership, remediation tracking, validation, exceptions, and closure.
+My primary technical focus area.
+
+Covers Vulnerability Response workflow design, ownership, remediation tracking, validation, exception handling, closure, and security operations process improvement.
 
 </div>
 
@@ -46,15 +49,15 @@ This is the most directly career-aligned section of the portfolio. It covers Vul
 
 <div>
 
-### [CYBER 440: Cybersecurity Capstone Incident Response & Forensics](/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/)
+### [Incident Response Investigation & Forensics](/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/)
 
-A capstone investigation where I had to connect multiple evidence sources into one incident story: phishing, malware activity, forensic images, memory artifacts, logs, affected systems, impact, and remediation.
+Capstone incident investigation involving phishing, malware activity, forensic evidence, memory artifacts, logs, timelines, impact assessment, and remediation planning.
 
 </div>
 
 <div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Capstone</span>
-  <span class="sr-static-label">Incident Response</span>
+  <span class="sr-static-label sr-static-label-complete">CYBER 440</span>
+  <span class="sr-static-label">Capstone</span>
 </div>
 
 </div>
@@ -63,15 +66,15 @@ A capstone investigation where I had to connect multiple evidence sources into o
 
 <div>
 
-### [CYBER 366: Malware Analytics & Reverse Engineering Lab Collection](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/)
+### [Malware Analysis & Reverse Engineering](/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/)
 
-Hands-on malware analysis work covering static analysis, dynamic analysis, UPX unpacking, strings/FLOSS, ProcMon, RegShot, IDA Pro, Ghidra, Binary Ninja, anti-debugging, and keylogging indicators.
+Hands-on malware analysis covering static analysis, dynamic analysis, UPX unpacking, strings analysis, ProcMon, RegShot, IDA Pro, Ghidra, Binary Ninja, and reverse engineering concepts.
 
 </div>
 
 <div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Malware Analysis</span>
-  <span class="sr-static-label">Reverse Engineering</span>
+  <span class="sr-static-label sr-static-label-complete">CYBER 366</span>
+  <span class="sr-static-label">Malware Analysis</span>
 </div>
 
 </div>
@@ -80,15 +83,15 @@ Hands-on malware analysis work covering static analysis, dynamic analysis, UPX u
 
 <div>
 
-### [IST 454: Computer & Cyber Forensics Lab Evidence](/projects/ist-454-computer-cyber-forensics-lab-evidence/)
+### [Digital Forensics Investigation](/projects/ist-454-computer-cyber-forensics-lab-evidence/)
 
-Selected forensic evidence from the course: forensic imaging, mounting, hash verification, registry analysis, data carving, deleted file recovery, and AI/IoT forensics research.
+Forensic imaging, hash verification, registry analysis, deleted-file recovery, evidence handling, data carving, and AI/IoT forensic research.
 
 </div>
 
 <div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Digital Forensics</span>
-  <span class="sr-static-label">Evidence Handling</span>
+  <span class="sr-static-label sr-static-label-complete">IST 454</span>
+  <span class="sr-static-label">Digital Forensics</span>
 </div>
 
 </div>
@@ -97,15 +100,15 @@ Selected forensic evidence from the course: forensic imaging, mounting, hash ver
 
 <div>
 
-### [IST 456: Security & Risk Management with Enigma Glass Labs](/projects/ist-456-security-risk-management-enigma-glass-labs/)
+### [Governance, Risk & Privacy](/projects/ist-456-security-risk-management-enigma-glass-labs/)
 
-Security management work that bridges SOC-style investigation and GRC: ransomware, compromised credentials, data exfiltration, ISO 27000 concepts, policy, contingency planning, and risk-based recommendations.
+Security management, ransomware response, compromised credentials, risk treatment, policy development, contingency planning, governance, and compliance-aware decision making.
 
 </div>
 
 <div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Risk Management</span>
-  <span class="sr-static-label">GRC + SOC</span>
+  <span class="sr-static-label sr-static-label-complete">IST 456</span>
+  <span class="sr-static-label">GRC</span>
 </div>
 
 </div>
@@ -114,15 +117,15 @@ Security management work that bridges SOC-style investigation and GRC: ransomwar
 
 <div>
 
-### [IST 495: Penn State College of IST Network Lab Development Internship](/projects/ist-495-network-lab-development-internship/)
+### [Network Security Internship Experience](/projects/ist-495-network-lab-development-internship/)
 
-Professional internship experience with Penn State College of IST. I worked on networking lab modernization, technical research, lab validation, documentation, rubrics, teamwork, and supervisor updates.
+Professional internship experience involving networking labs, technical validation, documentation, research, troubleshooting, and academic technology support.
 
 </div>
 
 <div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Internship</span>
-  <span class="sr-static-label">Networking</span>
+  <span class="sr-static-label sr-static-label-complete">IST 495</span>
+  <span class="sr-static-label">Internship</span>
 </div>
 
 </div>
@@ -131,231 +134,135 @@ Professional internship experience with Penn State College of IST. I worked on n
 
 ---
 
-## Incident Response, Forensics, Malware, and Security Operations
+# Security Operations & Incident Response Foundation
 
 <div class="sr-record-list">
 
 <div class="sr-record-row sr-record-head">
   <div>Project</div>
-  <div>Why it matters</div>
-  <div>Area</div>
+  <div>Focus</div>
+  <div>Course</div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/cyber-342w-incident-response-disaster-recovery-planning/">CYBER 342W: Incident Response, Disaster Recovery & Business Continuity Planning</a></div>
-  <div class="sr-record-detail">This is the planning side of incident response: NIST 800-61, CSIRT structure, communication, containment, recovery, DR/BC, and post-incident lessons learned.</div>
-  <div class="sr-record-status"><span class="sr-static-label">IR Planning</span></div>
+  <div class="sr-record-title"><a href="/projects/cyber-342w-incident-response-disaster-recovery-planning/">Incident Response, Disaster Recovery & Business Continuity Planning</a></div>
+  <div class="sr-record-detail">NIST 800-61, CSIRT structure, communication planning, containment, recovery, disaster recovery, business continuity, and post-incident lessons learned.</div>
+  <div class="sr-record-status"><span class="sr-static-label">CYBER 342W</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/malware-based-attack-investigation-lab/">IST 451: Malware-Based Attack Investigation Lab</a></div>
-  <div class="sr-record-detail">A defensive investigation lab focused on suspicious traffic, firewall logs, containment, spoofing indicators, packet capture review, and process identification.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Investigation</span></div>
+  <div class="sr-record-title"><a href="/projects/malware-based-attack-investigation-lab/">Malware-Based Attack Investigation</a></div>
+  <div class="sr-record-detail">Firewall review, packet captures, suspicious traffic, containment decisions, process identification, and defensive investigation workflow.</div>
+  <div class="sr-record-status"><span class="sr-static-label">IST 451</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/research-labs/ist-451-security-labs-collection/">IST 451: Security Labs Collection</a></div>
-  <div class="sr-record-detail">A broader security lab collection covering service identification, Apache hardening, OpenVAS, SQL injection concepts, malware analysis, IDS concepts, and wireless security.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Security Labs</span></div>
+  <div class="sr-record-title"><a href="/research-labs/ist-451-security-labs-collection/">Security Operations Lab Collection</a></div>
+  <div class="sr-record-detail">Service identification, OpenVAS, SQL injection concepts, IDS concepts, malware analysis, Apache hardening, and wireless security.</div>
+  <div class="sr-record-status"><span class="sr-static-label">IST 451</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/research-labs/cyber-262-security-foundations-lab-collection/">CYBER 262: Security Foundations Lab Collection</a></div>
-  <div class="sr-record-detail">A hands-on foundation course: Linux logs, Python parsing, host-based defense, Wazuh, Snort, Splunk, 2FA, and buffer overflow concepts.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Foundations</span></div>
+  <div class="sr-record-title"><a href="/research-labs/cyber-262-security-foundations-lab-collection/">Security Foundations Lab Collection</a></div>
+  <div class="sr-record-detail">Linux logs, Wazuh, Snort, Splunk, Python parsing, host defense, 2FA concepts, and buffer overflow exposure.</div>
+  <div class="sr-record-status"><span class="sr-static-label">CYBER 262</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/sra-221-information-security-foundations-lab-collection/">SRA 221: Information Security Foundations Lab Collection</a></div>
-  <div class="sr-record-detail">Earlier security-tool exposure: OWASP ZAP, reconnaissance, Wireshark, SPARTA, OpenVPN, pfSense, Active Directory, file system forensics, and Splunk.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Intro Security</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/network-traffic-analysis-ml-anomaly-detection/">CYBER 362: Network Traffic Analysis & ML-Based Anomaly Detection</a></div>
-  <div class="sr-record-detail">Packet investigation, suspicious file analysis, Splunk review, clustering, supervised machine learning, and anomaly detection concepts.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Traffic + ML</span></div>
+  <div class="sr-record-title"><a href="/projects/network-traffic-analysis-ml-anomaly-detection/">Network Traffic Analysis & Machine Learning</a></div>
+  <div class="sr-record-detail">Packet analysis, Splunk review, clustering, supervised learning, anomaly detection, and traffic investigation concepts.</div>
+  <div class="sr-record-status"><span class="sr-static-label">CYBER 362</span></div>
 </div>
 
 </div>
 
 ---
 
-## GRC, Privacy, and Decision Analysis
+# Governance, Risk & Decision Making
 
 <div class="sr-record-list">
 
 <div class="sr-record-row sr-record-head">
   <div>Project</div>
-  <div>Why it matters</div>
-  <div>Area</div>
+  <div>Focus</div>
+  <div>Course</div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/ist-432-cyber-law-privacy-grc-case-analysis/">IST 432: Cyber Law, Privacy & GRC Case Analysis</a></div>
-  <div class="sr-record-detail">Cyber law and governance work: privacy, surveillance authority, Fourth Amendment concerns, CFAA authorization boundaries, cybersquatting, platform governance, and cybercrime scenarios.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Cyber Law</span></div>
+  <div class="sr-record-title"><a href="/projects/ist-432-cyber-law-privacy-grc-case-analysis/">Cyber Law, Privacy & Governance</a></div>
+  <div class="sr-record-detail">Privacy, cybercrime, surveillance, governance, compliance, legal considerations, and cybersecurity policy analysis.</div>
+  <div class="sr-record-status"><span class="sr-static-label">IST 432</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/sra-311-risk-analysis-security-context/">SRA 311: Risk Analysis in a Security Context</a></div>
-  <div class="sr-record-detail">Applied risk analysis: analytic confidence, source credibility, risk matrices, weighted ranking, organizational risk maturity, cyber hygiene, threat modeling, and risk treatment.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Risk Analysis</span></div>
+  <div class="sr-record-title"><a href="/projects/sra-311-risk-analysis-security-context/">Risk Analysis & Security Context</a></div>
+  <div class="sr-record-detail">Threat modeling, risk treatment, confidence analysis, risk matrices, weighted ranking, and organizational risk maturity.</div>
+  <div class="sr-record-status"><span class="sr-static-label">SRA 311</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/sra-231-decision-theory-analysis-security-reasoning/">SRA 231: Decision Theory & Analysis for Security Reasoning</a></div>
-  <div class="sr-record-detail">The decision-theory foundation behind risk work: decision matrices, decision trees, decisions under ignorance, decisions under risk, expected value, and group decisions.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Decision Theory</span></div>
+  <div class="sr-record-title"><a href="/projects/sra-231-decision-theory-analysis-security-reasoning/">Decision Theory & Security Reasoning</a></div>
+  <div class="sr-record-detail">Decision trees, expected value, decisions under uncertainty, group decisions, and structured security reasoning.</div>
+  <div class="sr-record-status"><span class="sr-static-label">SRA 231</span></div>
 </div>
 
 </div>
 
 ---
 
-## OT/ICS, Cloud, HCI, and Software Foundations
+# OT/ICS, Cloud & Software Foundations
 
 <div class="sr-record-list">
 
 <div class="sr-record-row sr-record-head">
   <div>Project</div>
-  <div>Why it matters</div>
-  <div>Area</div>
+  <div>Focus</div>
+  <div>Course</div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/ot-ics-security/ics-it-ot-application-level-dos-lab/">IST 451: ICS/IT-OT Application-Level DoS Attack Lab</a></div>
-  <div class="sr-record-detail">OT/ICS security work focused on SCADA visibility disruption, application-level DoS behavior, operational impact, and recovery validation.</div>
-  <div class="sr-record-status"><span class="sr-static-label">OT/ICS</span></div>
+  <div class="sr-record-title"><a href="/ot-ics-security/ics-it-ot-application-level-dos-lab/">OT/ICS Security & Operational Disruption</a></div>
+  <div class="sr-record-detail">SCADA visibility disruption, application-level DoS behavior, operational impact, availability concerns, and recovery validation.</div>
+  <div class="sr-record-status"><span class="sr-static-label">IST 451</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/ist-402-cloud-virtualization-secaas-architecture/">IST 402: Cloud Virtualization, Containers & SECaaS Architecture</a></div>
-  <div class="sr-record-detail">Cloud and emerging technology work: Hyper-V, OpenStack, Docker, Docker Compose, secure cloud architecture, mTLS, zero trust, workflow modeling, and SECaaS strategy.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Cloud Security</span></div>
+  <div class="sr-record-title"><a href="/projects/ist-402-cloud-virtualization-secaas-architecture/">Cloud Security & Virtualization Architecture</a></div>
+  <div class="sr-record-detail">Docker, OpenStack, Hyper-V, SECaaS, zero trust concepts, cloud architecture, workflow design, and secure deployment thinking.</div>
+  <div class="sr-record-status"><span class="sr-static-label">IST 402</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/ist-331-user-centered-design-booking-redesign/">IST 331: User-Centered Design & Booking.com Redesign</a></div>
-  <div class="sr-record-detail">The HCI evidence behind how I think about usability: user research, low/high-fidelity prototypes, Figma collaboration, usability testing, and iterative redesign.</div>
-  <div class="sr-record-status"><span class="sr-static-label">HCI</span></div>
+  <div class="sr-record-title"><a href="/projects/ist-331-user-centered-design-booking-redesign/">User-Centered Design & Workflow Engineering</a></div>
+  <div class="sr-record-detail">User research, workflow design, Figma, usability testing, prototyping, accessibility awareness, and interface improvement.</div>
+  <div class="sr-record-status"><span class="sr-static-label">IST 331</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/ist-261-productivity-assistant-application-design-studio/">IST 261: Productivity Assistant Application Design Studio</a></div>
-  <div class="sr-record-detail">Application design work with requirements thinking, noun/verb analysis, OOP modeling, MVC, persistence, task queues, GUI workflows, and testing.</div>
-  <div class="sr-record-status"><span class="sr-static-label">App Design</span></div>
+  <div class="sr-record-title"><a href="/projects/ist-261-productivity-assistant-application-design-studio/">Application Design Studio</a></div>
+  <div class="sr-record-detail">Requirements analysis, object-oriented design, persistence, MVC concepts, GUI workflows, and testing.</div>
+  <div class="sr-record-status"><span class="sr-static-label">IST 261</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/ist-242-intermediate-java-object-oriented-application-development/">IST 242: Intermediate Java & Object-Oriented Application Development</a></div>
-  <div class="sr-record-detail">Intermediate Java work with inheritance, abstract classes, interfaces, polymorphism, Swing GUI development, validation, and cleaner application structure.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Intermediate Java</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/ist-240-introductory-java-programming-oop-labs/">IST 240: Introductory Java Programming & OOP Lab Progression</a></div>
-  <div class="sr-record-detail">The early Java foundation: classes, constructors, methods, encapsulation, inheritance, arrays, ArrayLists, search logic, and model/data separation.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Java Basics</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/java-data-structures-software-engineering-foundations/">IST 311: Java Data Structures, OOP & Software Engineering Foundations</a></div>
-  <div class="sr-record-detail">The stronger software engineering layer: data structures, Big-O, object-oriented design, UML/CRC, testing, debugging, and Git workflow practice.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Data Structures</span></div>
-</div>
-
-<div class="sr-record-row">
-  <div class="sr-record-title"><a href="/projects/uphill-struggle-bicycles-web-design-project/">IST 250: Uphill Struggle Bicycles Web Design Project</a></div>
-  <div class="sr-record-detail">Early web design work with page structure, navigation, front-end presentation, usability thinking, and building a complete website concept.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Web Design</span></div>
+  <div class="sr-record-title"><a href="/projects/ist-242-intermediate-java-object-oriented-application-development/">Java & Object-Oriented Development</a></div>
+  <div class="sr-record-detail">Inheritance, polymorphism, abstract classes, interfaces, Swing applications, validation, and software structure.</div>
+  <div class="sr-record-status"><span class="sr-static-label">IST 242</span></div>
 </div>
 
 </div>
 
 ---
 
-## Concepts and Site-Building Work
+## Where I Am Headed
 
-<div class="sr-card-grid">
+My professional direction is centered around:
 
-<div class="sr-card sr-project-card">
+* ServiceNow SecOps
+* Vulnerability Response
+* Security Operations
+* Cybersecurity Consulting
+* Client-Facing Delivery
+* OT/ICS Security
 
-<div>
-
-### [AI-Powered Vulnerability Ownership Recommender](/ai-security/ai-powered-vulnerability-ownership-recommender/)
-
-A concept for AI-assisted ServiceNow SecOps decision support: vulnerable item ownership, assignment group routing, remediation path suggestions, escalation priority, and analyst-reviewed recommendations.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">AI SecOps</span>
-  <span class="sr-static-label">Concept</span>
-</div>
-
-</div>
-
-<div class="sr-card sr-project-card">
-
-<div>
-
-### [sudoRunner Portfolio Website](/projects/sudorunner-portfolio-website/)
-
-This website is also a project: Hugo, Blowfish, GitHub, Cloudflare Pages, DNS, email routing, custom styling, mobile HCI fixes, favicon branding, guided review paths, and security-conscious publishing.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Hugo + Cloudflare</span>
-  <span class="sr-static-label">HCI</span>
-</div>
-
-</div>
-
-</div>
-
----
-
-## Quick Review Guidance
-
-<div class="sr-card-grid">
-
-<div class="sr-card">
-
-### Best for ServiceNow / Vulnerability Response
-
-Start with the ServiceNow SecOps Lab Hub, then review IST 456 and the AI ownership recommender concept.
-
-<span class="sr-static-label sr-static-label-complete">SecOps Path</span>
-
-</div>
-
-<div class="sr-card">
-
-### Best for Cybersecurity Analyst Roles
-
-Start with CYBER 440, CYBER 366, IST 454, CYBER 362, CYBER 262, and IST 456.
-
-<span class="sr-static-label sr-static-label-complete">Analyst Path</span>
-
-</div>
-
-<div class="sr-card">
-
-### Best for GRC / Privacy Conversations
-
-Start with IST 456, IST 432, SRA 311, SRA 231, and CYBER 342W.
-
-<span class="sr-static-label sr-static-label-complete">Risk Path</span>
-
-</div>
-
-</div>
-
-<div class="sr-cta-row">
-  <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
-  <a class="sr-button-secondary sr-button" href="/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/">CYBER 440 Capstone</a>
-  <a class="sr-button-secondary sr-button" href="/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/">CYBER 366 Malware</a>
-  <a class="sr-button-secondary sr-button" href="/capabilities/">Capabilities</a>
-</div>
+The projects above show the technical foundation supporting that path.

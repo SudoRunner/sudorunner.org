@@ -9,38 +9,74 @@ showWordCount: false
 
 <span class="sr-eyebrow">OT/ICS Security</span>
 
-My OT/ICS interest is grounded in two things:
+My OT/ICS security interest is built on a practical foundation: nearly five years of building operations experience, academic ICS/SCADA lab exposure, and cybersecurity training.
 
-1. Real building operations experience supporting critical infrastructure systems.
-2. Academic cybersecurity work involving ICS/SCADA concepts, availability, disruption, and recovery validation.
+I do not present myself as a senior OT/ICS specialist. I present OT/ICS as a developing specialty connected to real infrastructure operations, cyber-physical risk, availability, and security workflow coordination.
 
-I do not present myself as a senior OT/ICS specialist. I present OT/ICS as a developing specialty built on practical facilities experience and cybersecurity training.
+<div class="sr-callout">
 
----
-
-## Start Here
-
-<div class="sr-card-grid">
-
-<div class="sr-card">
-
-### [Critical Infrastructure Operations Foundation](/ot-ics-security/critical-infrastructure-operations-foundation/)
-
-My strongest OT/ICS-relevant professional experience.
-
-Nearly five years as a building engineer supporting HVAC, pumps, electrical rooms, fire/life-safety systems, access-controlled spaces, contractors, preventive maintenance, and operational continuity in a Class A commercial building.
-
-<span class="sr-static-label sr-static-label-complete">Professional Foundation</span>
+<strong>Why this section matters:</strong> My background gives me a practical understanding of operational environments where uptime, safety, access, vendor coordination, maintenance windows, and recovery matter as much as technical security findings.
 
 </div>
 
-<div class="sr-card">
+---
+
+## Primary Evidence
+
+<div class="sr-card-grid">
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [Critical Infrastructure Operations Foundation](/ot-ics-security/critical-infrastructure-operations-foundation/)
+
+My strongest OT/ICS-relevant professional foundation.
+
+Nearly five years as a building engineer supporting HVAC, pumps, electrical rooms, fire and life-safety systems, access-controlled spaces, contractors, preventive maintenance, tenant support, and operational continuity in a Class A commercial building environment.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Professional Foundation</span>
+  <span class="sr-static-label">Building Operations</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
 
 ### [ICS/IT-OT Application-Level DoS Lab](/ot-ics-security/ics-it-ot-application-level-dos-lab/)
 
 Academic OT/ICS lab work focused on application-level disruption, visibility loss, operational impact, availability, and recovery validation.
 
-<span class="sr-static-label sr-static-label-complete">Academic Lab Evidence</span>
+This page shows how I connect cybersecurity concepts to operational disruption and recovery.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Academic Lab Evidence</span>
+  <span class="sr-static-label">ICS/SCADA Concepts</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [ServiceNow SecOps Connection](/research-labs/servicenow-secops-lab-hub/)
+
+My ServiceNow SecOps direction connects naturally to OT/ICS environments because operational security work depends on ownership, escalation, documentation, remediation tracking, validation, and closure.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Workflow Connection</span>
+  <span class="sr-static-label">ServiceNow SecOps</span>
+</div>
 
 </div>
 
@@ -48,62 +84,38 @@ Academic OT/ICS lab work focused on application-level disruption, visibility los
 
 ---
 
-## Why OT/ICS Matters To Me
-
-Building operations taught me that infrastructure is not abstract.
-
-When HVAC, electrical, life-safety, access, or building-control systems fail, the impact is immediate and physical. People feel the consequences.
-
-That experience shaped how I think about OT/ICS security.
-
-Cybersecurity recommendations in operational environments cannot ignore:
-
-- uptime
-- safety
-- access
-- maintenance windows
-- vendor activity
-- change coordination
-- monitoring
-- recovery
-- operational constraints
-
-This is why I am interested in OT/ICS security as a developing specialty.
-
----
-
-## Capability-to-Evidence Map
+## What My Background Adds
 
 <div class="sr-record-list">
 
 <div class="sr-record-row sr-record-head">
-  <div>Capability</div>
-  <div>Evidence</div>
+  <div>Area</div>
+  <div>What It Shows</div>
   <div>Signal</div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Critical Infrastructure Operations</div>
-  <div class="sr-record-detail"><a href="/ot-ics-security/critical-infrastructure-operations-foundation/">Accesso building engineering experience</a> supporting a large Class A commercial building.</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Professional Experience</span></div>
+  <div class="sr-record-title">Operational Awareness</div>
+  <div class="sr-record-detail">Experience around HVAC, pumps, electrical rooms, life-safety systems, physical access, tenant impact, contractor coordination, and preventive maintenance.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Professional</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Cyber-Physical Risk Awareness</div>
-  <div class="sr-record-detail">Experience around HVAC, electrical rooms, pumps, life-safety systems, physical access, contractor coordination, and building controls.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Operational Awareness</span></div>
+  <div class="sr-record-title">Cyber-Physical Risk Thinking</div>
+  <div class="sr-record-detail">Understanding that security recommendations in operational environments must account for uptime, safety, availability, recovery, and operational constraints.</div>
+  <div class="sr-record-status"><span class="sr-static-label">OT/ICS-Relevant</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">ICS/SCADA Concepts</div>
-  <div class="sr-record-detail"><a href="/ot-ics-security/ics-it-ot-application-level-dos-lab/">Academic ICS/IT-OT DoS lab</a> involving disruption, visibility loss, and recovery validation.</div>
+  <div class="sr-record-title">ICS/SCADA Exposure</div>
+  <div class="sr-record-detail">Academic lab work involving disruption, visibility loss, operational impact, and recovery validation in an ICS/IT-OT security context.</div>
   <div class="sr-record-status"><span class="sr-static-label">Academic Evidence</span></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">ServiceNow SecOps Connection</div>
-  <div class="sr-record-detail">Operational work taught me the importance of ownership, work tracking, escalation, documentation, and closure — the same concepts I now apply to ServiceNow SecOps workflows.</div>
-  <div class="sr-record-status"><span class="sr-static-label">Workflow Connection</span></div>
+  <div class="sr-record-title">Workflow Discipline</div>
+  <div class="sr-record-detail">Operational work taught me the value of ownership, escalation, documentation, follow-through, and closure — the same concepts I apply to ServiceNow SecOps and Vulnerability Response.</div>
+  <div class="sr-record-status"><span class="sr-static-label">ServiceNow Link</span></div>
 </div>
 
 </div>
@@ -112,7 +124,28 @@ This is why I am interested in OT/ICS security as a developing specialty.
 
 ## How This Fits My Main Career Direction
 
-My primary lane remains:
+My primary professional lane remains **ServiceNow SecOps and Vulnerability Response**.
 
-```text
-ServiceNow SecOps / Vulnerability Response
+OT/ICS matters because many operational environments need better ways to turn security findings into practical work:
+
+- clear ownership
+- remediation coordination
+- operational risk review
+- maintenance-aware planning
+- exception handling
+- validation
+- closure
+- reporting
+
+That is where my building operations background, cybersecurity education, and ServiceNow SecOps direction connect.
+
+---
+
+## Continue Reviewing
+
+<div class="sr-cta-row">
+  <a class="sr-button" href="/ot-ics-security/critical-infrastructure-operations-foundation/">Infrastructure Operations</a>
+  <a class="sr-button-secondary sr-button" href="/ot-ics-security/ics-it-ot-application-level-dos-lab/">ICS/IT-OT Lab</a>
+  <a class="sr-button-secondary sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
+  <a class="sr-button-secondary sr-button" href="/professional-experience/">Professional Experience</a>
+</div>

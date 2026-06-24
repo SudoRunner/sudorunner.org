@@ -1,43 +1,27 @@
 ---
-
 title: "AI & Security"
-description: "Concept notes and research ideas at the intersection of artificial intelligence, cybersecurity operations, vulnerability management, and OT/ICS risk."
+description: "Concept notes and research ideas at the intersection of artificial intelligence, cybersecurity operations, vulnerability management, ServiceNow SecOps, and OT/ICS risk."
 showDate: false
 showAuthor: false
 showReadingTime: false
-----------------------
+showWordCount: false
+---
 
-<span class="sr-eyebrow">Portfolio Gallery</span>
+<span class="sr-eyebrow">AI & Security</span>
 
-This section explores concept notes, research ideas, and future lab work at the intersection of artificial intelligence, cybersecurity operations, vulnerability management, ServiceNow SecOps, and OT/ICS security.
+This section explores concept notes at the intersection of **AI, cybersecurity operations, vulnerability management, ServiceNow SecOps, and OT/ICS risk translation**.
 
-The goal is not to present AI as a replacement for security professionals. Instead, this section focuses on how AI could support better triage, prioritization, ownership assignment, communication, and risk translation across technical and operational teams.
+The goal is not to present AI as a replacement for security professionals. The focus is on how AI could support better triage, prioritization, ownership assignment, communication, and analyst-reviewed decision support.
 
 <div class="sr-callout">
 
-<strong>AI content approach:</strong> These pages are labeled clearly as concept notes, idea-lab writeups, or future lab ideas. They are intended to show security workflow thinking without overstating them as completed production systems.
+<strong>AI content approach:</strong> These pages are clearly framed as concept notes and portfolio-safe ideas. They are meant to show workflow thinking without overstating them as completed production systems.
 
 </div>
 
 ---
 
-## Featured Concept Notes
-<div class="sr-card sr-project-card">
-
-<div>
-
-### [AI-Powered Vulnerability Ownership Recommender for ServiceNow SecOps](/ai-security/ai-powered-vulnerability-ownership-recommender/)
-
-A concept design for AI-assisted vulnerable item ownership, assignment group recommendation, remediation path suggestion, escalation priority, and analyst-reviewed next steps.
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-status sr-status-concept">AI SecOps</span>
-  <span class="sr-status sr-status-progress">ServiceNow VR</span>
-</div>
-
-</div>
+## Featured AI Security Concepts
 
 <div class="sr-card-grid">
 
@@ -45,15 +29,49 @@ A concept design for AI-assisted vulnerable item ownership, assignment group rec
 
 <div>
 
-### [Using AI to Translate Vulnerability Risk Between Cybersecurity and OT Operations Teams](/ai-security/using-ai-to-translate-vulnerability-risk/)
+### [AI-Powered Vulnerability Ownership Recommender](/ai-security/ai-powered-vulnerability-ownership-recommender/)
 
-A concept for using AI to help translate vulnerability findings into operationally meaningful language for OT, ICS, cybersecurity, and business stakeholders.
+A concept design for AI-assisted vulnerable item ownership, assignment group recommendation, remediation path suggestion, escalation priority, and analyst-reviewed next steps inside a ServiceNow SecOps-style workflow.
 
 </div>
 
 <div class="sr-project-meta">
-  <span class="sr-status sr-status-concept">Concept Note</span>
-  <span class="sr-status sr-status-progress">OT/ICS Risk</span>
+  <span class="sr-static-label sr-static-label-complete">ServiceNow SecOps</span>
+  <span class="sr-static-label">Ownership Routing</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [AI-Assisted Vulnerability Triage for ServiceNow SecOps](/ai-security/ai-assisted-vulnerability-triage-for-servicenow-secops/)
+
+A concept for using AI to help summarize vulnerable item context, highlight remediation considerations, support triage consistency, and keep analyst review as the required decision checkpoint.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Vulnerability Response</span>
+  <span class="sr-static-label">Human-in-the-Loop</span>
+</div>
+
+</div>
+
+<div class="sr-card sr-project-card">
+
+<div>
+
+### [Using AI to Translate Vulnerability Risk](/ai-security/using-ai-to-translate-vulnerability-risk/)
+
+A concept for using AI to translate vulnerability findings into operationally meaningful language for cybersecurity, OT, ICS, business, and remediation stakeholders.
+
+</div>
+
+<div class="sr-project-meta">
+  <span class="sr-static-label sr-static-label-complete">Risk Translation</span>
+  <span class="sr-static-label">OT/ICS Context</span>
 </div>
 
 </div>
@@ -62,37 +80,75 @@ A concept for using AI to help translate vulnerability findings into operational
 
 ---
 
-## Content Types
+## What This Section Demonstrates
+
+<div class="sr-record-list">
+
+<div class="sr-record-row sr-record-head">
+  <div>Theme</div>
+  <div>What It Shows</div>
+  <div>Signal</div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">ServiceNow SecOps Thinking</div>
+  <div class="sr-record-detail">How AI could support vulnerable item triage, assignment group recommendation, remediation context, exception documentation, and validation workflows.</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Primary Fit</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Human-in-the-Loop Design</div>
+  <div class="sr-record-detail">AI recommendations should support analyst review, not bypass it. The concepts here keep human validation before escalation, communication, or remediation action.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Analyst Review</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Risk Translation</div>
+  <div class="sr-record-detail">Technical vulnerability data often needs to be translated into business, operational, and remediation language that different stakeholders can act on.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Communication</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">OT/ICS Relevance</div>
+  <div class="sr-record-detail">Operational environments need security workflows that account for uptime, safety, access, maintenance windows, vendor coordination, and recovery constraints.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Operational Risk</span></div>
+</div>
+
+</div>
+
+---
+
+## Design Boundaries
 
 <div class="sr-card-grid">
 
 <div class="sr-card">
 
-### Concept Notes
+### Decision Support, Not Autopilot
 
-Forward-looking cybersecurity and AI ideas based on real workflow challenges, professional observations, and security operations concepts.
+The concepts focus on helping analysts see context faster. They do not suggest that AI should automatically approve risk decisions, close vulnerabilities, or bypass review.
 
-<span class="sr-status sr-status-concept">Idea Lab</span>
-
-</div>
-
-<div class="sr-card">
-
-### Future Labs
-
-Planned hands-on experiments, mockups, diagrams, and prototypes that could demonstrate how an AI-assisted security workflow might work in practice.
-
-<span class="sr-status sr-status-progress">Planned</span>
+<span class="sr-static-label sr-static-label-complete">Human Review Required</span>
 
 </div>
 
 <div class="sr-card">
 
-### ServiceNow SecOps Ideas
+### Portfolio-Safe Ideas
 
-Concepts focused on how AI could support Vulnerability Response, vulnerable item context, ownership assignment, remediation communication, and exception documentation.
+These writeups avoid publishing client data, private implementation details, raw vulnerability exports, credentials, sensitive screenshots, or production configuration details.
 
-<span class="sr-status sr-status-lab">SecOps</span>
+<span class="sr-static-label sr-static-label-complete">Security First</span>
+
+</div>
+
+<div class="sr-card">
+
+### Workflow-Focused AI
+
+The strongest use case is not “AI replaces the analyst.” It is “AI helps organize context so the analyst, owner, or stakeholder can make a better decision.”
+
+<span class="sr-static-label sr-static-label-complete">Practical AI</span>
 
 </div>
 
@@ -100,49 +156,28 @@ Concepts focused on how AI could support Vulnerability Response, vulnerable item
 
 ---
 
-## Future AI SecOps Lab Ideas
+## How This Fits My Main Direction
 
-<div class="sr-card-grid">
+My primary professional direction remains **ServiceNow SecOps and Vulnerability Response**.
 
-<div class="sr-card">
+AI matters to that direction because vulnerability programs often struggle with:
 
-### AI-Powered Vulnerability Ownership Recommender
+- too many findings
+- unclear ownership
+- inconsistent triage
+- weak remediation context
+- poor translation between security and operations teams
+- exception documentation
+- validation and closure discipline
 
-A concept for recommending assignment groups based on vulnerable item context, CI ownership, business criticality, remediation history, and historical assignment patterns.
+The concepts in this section explore how AI could support those workflow problems while keeping analyst judgment, governance, and accountability in place.
 
-<span class="sr-status sr-status-concept">Planned Concept</span>
+---
 
+## Continue Reviewing
+
+<div class="sr-cta-row">
+  <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
+  <a class="sr-button-secondary sr-button" href="/projects/">Academic Projects</a>
+  <a class="sr-button-secondary sr-button" href="/ot-ics-security/">OT/ICS Security</a>
 </div>
-
-<div class="sr-card">
-
-### AI Vulnerable Item Context Summary
-
-A future lab idea for summarizing vulnerable item details into analyst-reviewed context without removing human oversight.
-
-<span class="sr-status sr-status-progress">Future Lab</span>
-
-</div>
-
-<div class="sr-card">
-
-### Analyst Review Checkpoint
-
-A workflow idea where AI-generated recommendations require analyst validation before communication, escalation, or remediation action.
-
-<span class="sr-status sr-status-lab">Human-in-the-Loop</span>
-
-</div>
-
-<div class="sr-card">
-
-### OT/ICS Risk Translation
-
-A concept for translating CVEs, severity, asset criticality, and remediation constraints into operationally meaningful language.
-
-<span class="sr-status sr-status-progress">OT/ICS</span>
-
-</div>
-
-</div>
-

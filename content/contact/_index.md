@@ -9,7 +9,7 @@ showWordCount: false
 
 <span class="sr-eyebrow">Professional Contact</span>
 
-Use this page for role-relevant conversations, recruiter outreach, consulting discussions, portfolio review follow-up, and ServiceNow SecOps or cybersecurity opportunities.
+Use this page for recruiter outreach, role-relevant conversations, ServiceNow SecOps opportunities, cybersecurity consulting discussions, portfolio review follow-up, and OT/ICS-focused conversations.
 
 <div class="sr-callout">
 
@@ -19,7 +19,7 @@ Use this page for role-relevant conversations, recruiter outreach, consulting di
 
 ---
 
-## Schedule a Call
+## Contact Options
 
 <div class="sr-card-grid">
 
@@ -33,7 +33,9 @@ The fastest way to connect is to schedule a short intro call.
 
 Use this for recruiter conversations, ServiceNow SecOps opportunities, cybersecurity consulting roles, portfolio review follow-up, or role-fit discussions.
 
-<a class="sr-button" href="https://calendly.com/contact-sudorunner/30min">Schedule 30-Minute Call</a>
+<div class="sr-cta-row">
+  <a class="sr-button" href="https://calendly.com/contact-sudorunner/30min">Schedule 30-Minute Call</a>
+</div>
 
 </div>
 
@@ -44,23 +46,19 @@ Use this for recruiter conversations, ServiceNow SecOps opportunities, cybersecu
 
 </div>
 
-</div>
-
----
-
-## Contact Options
-
-<div class="sr-card-grid">
-
 <div class="sr-card sr-project-card" id="email">
 
 <div>
 
 ### Email
 
-For professional opportunities, portfolio review, or relevant technical conversations:
+For professional opportunities, portfolio review, or relevant technical conversations, email:
 
-<a href="mailto:contact@sudorunner.org">contact@sudorunner.org</a>
+<strong>contact@sudorunner.org</strong>
+
+<div class="sr-cta-row">
+  <a class="sr-button" href="mailto:contact@sudorunner.org">Send Email</a>
+</div>
 
 </div>
 
@@ -79,7 +77,9 @@ For professional opportunities, portfolio review, or relevant technical conversa
 
 Use LinkedIn for professional networking, recruiter outreach, opportunity-related messages, and background review.
 
-<a href="https://www.linkedin.com/in/vki/">View LinkedIn Profile</a>
+<div class="sr-cta-row">
+  <a class="sr-button" href="https://www.linkedin.com/in/vki/">View LinkedIn Profile</a>
+</div>
 
 </div>
 
@@ -100,45 +100,38 @@ Use LinkedIn for professional networking, recruiter outreach, opportunity-relate
 
 <div class="sr-card">
 
-### Recommended Review Path
+### Quick Review
 
-Best quick review path:
-
-[Professional Experience](/professional-experience/) -> [ServiceNow SecOps](/research-labs/servicenow-secops-lab-hub/) -> [Resume](/resume/) -> [Contact](/contact/)
-
-<span class="sr-static-label sr-static-label-complete">Reviewer Friendly</span>
-
-</div>
-
-<div class="sr-card">
-
-### Main Professional Value
-
-My strongest value is client-facing cybersecurity delivery: translating technical security requirements into clear ownership, workflows, user stories, stakeholder communication, UAT support, and delivery execution.
-
-<span class="sr-static-label sr-static-label-complete">Consulting Fit</span>
-
-</div>
-
-<div class="sr-card">
-
-### Security and Privacy
-
-This site uses a public-facing contact alias and avoids publishing private phone numbers, home address, raw academic submissions, client data, sensitive screenshots, or confidential implementation details.
-
-<span class="sr-static-label sr-static-label-complete">Security First</span>
-
-</div>
-
-</div>
-
----
-
-## Quick Links
+The fastest overview is the Start Here page, followed by Professional Experience and ServiceNow SecOps.
 
 <div class="sr-cta-row">
-  <a class="sr-button" href="https://calendly.com/contact-sudorunner/30min">Book Intro Call</a>
-  <a class="sr-button-secondary sr-button" href="/resume/">Resume</a>
-  <a class="sr-button-secondary sr-button" href="/professional-experience/">Professional Experience</a>
+  <a class="sr-button-secondary sr-button" href="/start-here/">Start Here</a>
+</div>
+
+</div>
+
+<div class="sr-card">
+
+### Primary Focus
+
+My strongest fit is ServiceNow SecOps, Vulnerability Response, cybersecurity consulting, security operations workflow, and client-facing delivery.
+
+<div class="sr-cta-row">
   <a class="sr-button-secondary sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
+</div>
+
+</div>
+
+<div class="sr-card">
+
+### Resume
+
+For a formal summary of experience, education, credentials, and role fit, use the resume page or PDF.
+
+<div class="sr-cta-row">
+  <a class="sr-button-secondary sr-button" href="/resume/">View Resume</a>
+</div>
+
+</div>
+
 </div>

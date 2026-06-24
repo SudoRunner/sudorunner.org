@@ -1,34 +1,39 @@
 ---
-
 title: "Start Here"
-description: "The fastest way to review Vlad K.'s cybersecurity portfolio."
+description: "A fast 60-second review of Vlad K.'s cybersecurity portfolio."
 showDate: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
---------------------
+---
 
 <span class="sr-eyebrow">Start Here</span>
 
-# If You Only Read Three Things
+# 60-Second Portfolio Review
 
-If you only spend a few minutes reviewing this portfolio, I recommend reading these pages in order:
+I am a cybersecurity consultant focused on **ServiceNow SecOps, Vulnerability Response, client-facing delivery, and security operations workflows**.
+
+My strongest value is helping technical teams and business stakeholders turn vulnerability findings into clear ownership, remediation work, validation, reporting, and closure.
+
+<div class="sr-callout">
+
+<strong>Best fit:</strong> ServiceNow SecOps, Vulnerability Response, cybersecurity consulting, security operations, and roles where technical security work must be translated into practical execution.
+
+</div>
+
+---
+
+# Why This Portfolio Matters
 
 <div class="sr-card-grid">
 
 <div class="sr-card">
 
-### 1. Professional Experience
+### 1. ServiceNow SecOps Delivery
 
-My strongest evidence.
+I supported a real client-facing ServiceNow Vulnerability Response engagement at Wipro, including stakeholder coordination, user stories, RAID tracking, UAT support, training support, go-live readiness, and delivery execution.
 
-A real client-facing ServiceNow Vulnerability Response engagement delivered as part of a Wipro consulting team.
-
-This project involved stakeholder coordination, user stories, RAID tracking, UAT support, go-live readiness, project ownership responsibilities, and successful client delivery.
-
-<div class="sr-cta-row">
-  <a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">View Wipro Engagement</a>
-</div>
+<a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">View Wipro Engagement</a>
 
 <span class="sr-static-label sr-static-label-complete">Highest Signal</span>
 
@@ -36,31 +41,25 @@ This project involved stakeholder coordination, user stories, RAID tracking, UAT
 
 <div class="sr-card">
 
-### 2. ServiceNow SecOps
+### 2. Security Operations Workflow
 
-My primary professional specialization.
+My work focuses on how vulnerability data becomes operational action: assignment, ownership, remediation tracking, validation, exception handling, reporting, and closure.
 
-This section focuses on Vulnerability Response workflow design, ownership, remediation tracking, validation, exception handling, and closure.
+<a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">View ServiceNow SecOps</a>
 
-<div class="sr-cta-row">
-  <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">View ServiceNow SecOps</a>
-</div>
-
-<span class="sr-static-label sr-static-label-complete">Primary Career Focus</span>
+<span class="sr-static-label sr-static-label-complete">Primary Focus</span>
 
 </div>
 
 <div class="sr-card">
 
-### 3. Resume
+### 3. Critical Infrastructure Foundation
 
-The quickest overview of my experience, education, certifications, interests, and supporting evidence.
+Before cybersecurity, I spent nearly five years as a building engineer supporting Class A commercial building operations, contractors, tenants, life-safety systems, access-controlled spaces, HVAC, electrical rooms, pumps, and operational continuity.
 
-<div class="sr-cta-row">
-  <a class="sr-button" href="/resume/">View Resume</a>
-</div>
+<a class="sr-button" href="/ot-ics-security/">View OT/ICS & Infrastructure</a>
 
-<span class="sr-static-label sr-static-label-complete">Quick Summary</span>
+<span class="sr-static-label sr-static-label-complete">Operational Background</span>
 
 </div>
 
@@ -68,85 +67,85 @@ The quickest overview of my experience, education, certifications, interests, an
 
 ---
 
-# What This Portfolio Is About
-
-This portfolio is organized around three evidence layers.
+# Technical Foundation
 
 <div class="sr-record-list">
 
 <div class="sr-record-row sr-record-head">
-  <div>Layer</div>
-  <div>Purpose</div>
-  <div>Examples</div>
+  <div>Evidence Area</div>
+  <div>What It Shows</div>
+  <div>Where To Review</div>
 </div>
 
 <div class="sr-record-row">
   <div class="sr-record-title">Professional Experience</div>
-  <div class="sr-record-detail">
-  Real client-facing work, stakeholder coordination, implementation support, delivery ownership, UAT support, and go-live activities.
-  </div>
-  <div class="sr-record-status">
-    <span class="sr-static-label sr-static-label-complete">Wipro</span>
-  </div>
+  <div class="sr-record-detail">Client-facing consulting, project coordination, stakeholder communication, ServiceNow Vulnerability Response support, UAT, and go-live readiness.</div>
+  <div class="sr-record-status"><a class="sr-button-secondary sr-button" href="/professional-experience/">Experience</a></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">ServiceNow & Security Operations</div>
-  <div class="sr-record-detail">
-  ServiceNow SecOps, Vulnerability Response workflow design, remediation ownership, analyst workflow, and security operations thinking.
-  </div>
-  <div class="sr-record-status">
-    <span class="sr-static-label">Primary Focus</span>
-  </div>
+  <div class="sr-record-title">ServiceNow SecOps</div>
+  <div class="sr-record-detail">Vulnerable item lifecycle, remediation ownership, validation, exception handling, closure, and security operations workflow design.</div>
+  <div class="sr-record-status"><a class="sr-button-secondary sr-button" href="/research-labs/servicenow-secops-lab-hub/">SecOps</a></div>
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Academic Evidence</div>
-  <div class="sr-record-detail">
-  Supporting technical foundation across incident response, malware analysis, forensics, governance, OT/ICS, HCI, cloud, and software development.
-  </div>
-  <div class="sr-record-status">
-    <span class="sr-static-label">Supporting Evidence</span>
-  </div>
+  <div class="sr-record-title">Academic Projects</div>
+  <div class="sr-record-detail">Incident response, forensics, malware analysis, governance, risk, privacy, cloud, HCI, software development, and OT/ICS security.</div>
+  <div class="sr-record-status"><a class="sr-button-secondary sr-button" href="/projects/">Projects</a></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title">Research Labs</div>
+  <div class="sr-record-detail">Hands-on lab evidence across security foundations, malware analytics, ServiceNow SecOps, and technical investigation workflows.</div>
+  <div class="sr-record-status"><a class="sr-button-secondary sr-button" href="/research-labs/">Labs</a></div>
 </div>
 
 </div>
 
 ---
 
-# What I Want To Do Professionally
-
-My strongest professional interests today are:
+# Strongest Pages To Review
 
 <div class="sr-card-grid">
 
 <div class="sr-card">
 
-### ServiceNow SecOps
+### Wipro ServiceNow VR Engagement
 
-Vulnerability Response, workflow ownership, remediation tracking, validation, exception handling, and security operations process improvement.
+The strongest professional evidence on this site.
 
-<span class="sr-static-label sr-static-label-complete">Primary Direction</span>
-
-</div>
-
-<div class="sr-card">
-
-### Cybersecurity Operations
-
-Incident response, investigation workflow, analyst decision-making, evidence handling, and operational security.
-
-<span class="sr-static-label sr-static-label-complete">Operations</span>
+<a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">Open Page</a>
 
 </div>
 
 <div class="sr-card">
 
-### OT/ICS Security
+### ServiceNow SecOps Lab Hub
 
-Industrial cybersecurity, cyber-physical risk, SCADA concepts, availability, resilience, and operational technology security.
+Hands-on Vulnerability Response workflow and process design evidence.
 
-<span class="sr-static-label sr-static-label-complete">Developing Specialty</span>
+<a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">Open Page</a>
+
+</div>
+
+<div class="sr-card">
+
+### Academic Projects
+
+Curated cybersecurity project evidence from Penn State.
+
+<a class="sr-button" href="/projects/">Open Page</a>
+
+</div>
+
+<div class="sr-card">
+
+### Resume
+
+Quick formal overview of experience, education, certifications, and direction.
+
+<a class="sr-button" href="/resume/">Open Page</a>
 
 </div>
 
@@ -154,126 +153,10 @@ Industrial cybersecurity, cyber-physical risk, SCADA concepts, availability, res
 
 ---
 
-# Recommended Review Paths
-
-## ServiceNow Reviewer
-
-```text
-Wipro Engagement
-↓
-ServiceNow SecOps Lab Hub
-↓
-VR Checklist
-↓
-Resume
-```
+# Next Step
 
 <div class="sr-cta-row">
-  <a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">Start ServiceNow Path</a>
-</div>
-
----
-
-## Cybersecurity Operations Reviewer
-
-```text
-Wipro Engagement
-↓
-CYBER 440 Capstone
-↓
-IST 454 Forensics
-↓
-CYBER 366 Malware Analytics
-```
-
-<div class="sr-cta-row">
-  <a class="sr-button" href="/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/">Start Operations Path</a>
-</div>
-
----
-
-## OT/ICS Reviewer
-
-```text
-OT/ICS Security
-↓
-ICS/IT-OT DoS Lab
-↓
-Resume
-```
-
-<div class="sr-cta-row">
-  <a class="sr-button" href="/ot-ics-security/">Start OT/ICS Path</a>
-</div>
-
----
-
-# Strongest Supporting Evidence
-
-These are the strongest academic and lab-based pages in the portfolio.
-
-<div class="sr-card-grid">
-
-<div class="sr-card">
-
-### CYBER 440
-
-Incident response, investigation workflow, forensic evidence, timelines, impact assessment, and remediation planning.
-
-<a class="sr-button" href="/projects/cyber-440-cybersecurity-capstone-incident-response-forensics/">View CYBER 440</a>
-
-</div>
-
-<div class="sr-card">
-
-### IST 454
-
-Forensic imaging, hash verification, registry analysis, deleted file recovery, and evidence handling.
-
-<a class="sr-button" href="/projects/ist-454-computer-cyber-forensics-lab-evidence/">View IST 454</a>
-
-</div>
-
-<div class="sr-card">
-
-### CYBER 366
-
-Malware analysis, dynamic analysis, reverse engineering exposure, and analyst workflow.
-
-<a class="sr-button" href="/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/">View CYBER 366</a>
-
-</div>
-
-<div class="sr-card">
-
-### IST 456
-
-Governance, Risk & Privacy, ransomware response, governance, compliance awareness, and security management.
-
-<a class="sr-button" href="/projects/ist-456-security-risk-management-enigma-glass-labs/">View IST 456</a>
-
-</div>
-
-</div>
-
----
-
-# Next Steps
-
-If you're a recruiter, hiring manager, or consulting leader:
-
-<div class="sr-cta-row">
-  <a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">Professional Experience</a>
+  <a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">View Professional Experience</a>
   <a class="sr-button-secondary sr-button" href="/resume/">Resume</a>
   <a class="sr-button-secondary sr-button" href="/contact/">Contact</a>
 </div>
-
-If you're evaluating technical depth:
-
-<div class="sr-cta-row">
-  <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
-  <a class="sr-button-secondary sr-button" href="/projects/">Projects</a>
-  <a class="sr-button-secondary sr-button" href="/capabilities/">Capabilities</a>
-</div>
-
-Thank you for taking the time to review my work.
