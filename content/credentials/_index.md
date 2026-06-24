@@ -1,11 +1,12 @@
 ---
+
 title: "Credentials"
 description: "Education, certifications, academic honors, professional development, and supporting evidence for Vlad K."
 showDate: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
----
+--------------------
 
 <span class="sr-eyebrow">Credentials</span>
 
@@ -29,9 +30,9 @@ I keep sensitive verification material private. Credential IDs, transcripts, raw
 
 **B.S. Cybersecurity Analytics & Operations**
 
-Graduated <span class="sr-cum-laude">Cum Laude</span>  
-GPA: **3.88**  
-Focus Area: **Application Development**  
+Graduated <span class="sr-cum-laude">Cum Laude</span>
+GPA: **3.88**
+Focus Area: **Application Development**
 Academic Honors: **The Honor Society of Phi Kappa Phi** | **Alpha Sigma Lambda Honor Society**
 
 Relevant areas of study included cybersecurity operations, network security, risk analysis, application development, incident response, malware analysis, digital forensics, user-centered design, cloud concepts, and OT/ICS security foundations.
@@ -59,7 +60,7 @@ Relevant areas of study included cybersecurity operations, network security, ris
 
 <div class="sr-record-row">
   <div class="sr-record-title">ServiceNow Certified System Administrator</div>
-  <div class="sr-record-detail">CSA | scheduled June 2026</div>
+  <div class="sr-record-detail">CSA | scheduled July 2026</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-scheduled">Scheduled</span></div>
 </div>
 
@@ -238,13 +239,13 @@ Verification material is available only when appropriate for a recruiter, employ
 
 I do not publish:
 
-- certification IDs
-- transcripts
-- student records
-- raw certificates with private metadata
-- full academic submissions
-- screenshots containing sensitive course or lab information
-- private contact details
+* certification IDs
+* transcripts
+* student records
+* raw certificates with private metadata
+* full academic submissions
+* screenshots containing sensitive course or lab information
+* private contact details
 
 That keeps the public portfolio useful without turning it into a document dump.
 
