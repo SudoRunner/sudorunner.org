@@ -434,9 +434,9 @@ Usability, workflow design, testing, and improvement of user experiences.
 
 <div class="sr-card">
 
-### [Capabilities](/capabilities/)
+### [Professional Experience](/professional-experience/)
 
-Capability-to-evidence mapping across cybersecurity, workflow design, communication, and technical support.
+Professional evidence across cybersecurity consulting, infrastructure operations, communication, and technical support.
 
 <span class="sr-static-label sr-static-label-complete">Evidence Map</span>
 

@@ -455,9 +455,9 @@ Workflow ownership, remediation, accountability, and governance-aware security o
 
 <div class="sr-card">
 
-### [Capabilities](/capabilities/)
+### [Featured Work](/projects/)
 
-Capability-to-evidence map connecting governance, privacy, and cybersecurity operations.
+Curated professional, technical, governance, privacy, and cybersecurity operations evidence.
 
 <span class="sr-static-label sr-static-label-complete">Evidence Map</span>
 

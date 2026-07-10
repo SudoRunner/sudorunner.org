@@ -177,7 +177,7 @@ The concepts in this section explore how AI could support those workflow problem
 ## Continue Reviewing
 
 <div class="sr-cta-row">
-  <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
+  <a class="sr-button" href="/servicenow-secops/">ServiceNow SecOps</a>
   <a class="sr-button-secondary sr-button" href="/projects/">Academic Projects</a>
   <a class="sr-button-secondary sr-button" href="/ot-ics-security/">OT/ICS Security</a>
 </div>

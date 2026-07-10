@@ -15,7 +15,7 @@ I do not present myself as a senior OT/ICS specialist. I present OT/ICS as a dev
 
 <div class="sr-callout">
 
-<strong>Why this section matters:</strong> My background gives me a practical understanding of operational environments where uptime, safety, access, vendor coordination, maintenance windows, and recovery matter as much as technical security findings.
+<strong>Why this section matters:</strong> My background gives me a practical understanding that availability, documentation, coordination, and recovery matter alongside technical security findings.
 
 </div>
 
@@ -33,7 +33,7 @@ I do not present myself as a senior OT/ICS specialist. I present OT/ICS as a dev
 
 My strongest OT/ICS-relevant professional foundation.
 
-Nearly five years as a building engineer supporting HVAC, pumps, electrical rooms, fire and life-safety systems, access-controlled spaces, contractors, preventive maintenance, tenant support, and operational continuity in a Class A commercial building environment.
+Nearly five years in building engineering, developing operational ownership, documentation discipline, stakeholder communication, and continuity-focused thinking.
 
 </div>
 
@@ -67,7 +67,7 @@ This page shows how I connect cybersecurity concepts to operational disruption a
 
 <div>
 
-### [ServiceNow SecOps Connection](/research-labs/servicenow-secops-lab-hub/)
+### [ServiceNow SecOps Connection](/servicenow-secops/)
 
 My ServiceNow SecOps direction connects naturally to OT/ICS environments because operational security work depends on ownership, escalation, documentation, remediation tracking, validation, and closure.
 
@@ -96,7 +96,7 @@ My ServiceNow SecOps direction connects naturally to OT/ICS environments because
 
 <div class="sr-record-row">
   <div class="sr-record-title">Operational Awareness</div>
-  <div class="sr-record-detail">Experience around HVAC, pumps, electrical rooms, life-safety systems, physical access, tenant impact, contractor coordination, and preventive maintenance.</div>
+  <div class="sr-record-detail">Experience applying ownership, documentation, communication, coordination, and continuity discipline in a real operating environment.</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-complete">Professional</span></div>
 </div>
 
@@ -146,6 +146,6 @@ That is where my building operations background, cybersecurity education, and Se
 <div class="sr-cta-row">
   <a class="sr-button" href="/ot-ics-security/critical-infrastructure-operations-foundation/">Infrastructure Operations</a>
   <a class="sr-button-secondary sr-button" href="/ot-ics-security/ics-it-ot-application-level-dos-lab/">ICS/IT-OT Lab</a>
-  <a class="sr-button-secondary sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
+  <a class="sr-button-secondary sr-button" href="/servicenow-secops/">ServiceNow SecOps</a>
   <a class="sr-button-secondary sr-button" href="/professional-experience/">Professional Experience</a>
 </div>

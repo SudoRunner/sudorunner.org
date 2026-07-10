@@ -46,7 +46,7 @@ Client-facing Vulnerability Response delivery experience and hands-on lab work f
 </p>
 
 <div class="sr-home-primary-links">
-<a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">View ServiceNow SecOps</a>
+<a class="sr-button" href="/servicenow-secops/">View ServiceNow SecOps</a>
 </div>
 
 </div>
@@ -56,7 +56,7 @@ Client-facing Vulnerability Response delivery experience and hands-on lab work f
 <h3>OT/ICS & Infrastructure</h3>
 
 <p>
-Critical infrastructure and facilities operations foundation from nearly five years supporting a major Class A commercial building environment with life-safety systems, access-controlled spaces, HVAC, electrical rooms, pumps, contractors, and operational continuity.
+Nearly five years of building-engineering experience that developed operational ownership, documentation discipline, stakeholder communication, and a continuity-focused mindset.
 </p>
 
 <div class="sr-home-primary-links">

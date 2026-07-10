@@ -14,7 +14,7 @@ title = "sudoRunner"
   # description = "My awesome website"
   copyright = "© { year } Vlad K. · sudoRunner · Cybersecurity Portfolio · ServiceNow SecOps · OT/ICS Security"
 
-# [params.author]
+[params.author]
 name = "Vlad K."
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"

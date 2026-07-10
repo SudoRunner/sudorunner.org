@@ -24,6 +24,19 @@
   --sr-shadow: 0 18px 45px rgba(2, 6, 23, 0.26);
 }
 
+/* Blowfish applies h-screen to the body. Long mobile pages then overflow the
+   fixed 100vh body and expose the darker root canvas after the first viewport. */
+html,
+body {
+  background-color: var(--sr-bg) !important;
+}
+
+body {
+  height: auto !important;
+  min-height: 100vh !important;
+  min-height: 100dvh !important;
+}
+
 
 /* =========================================================
    Header / navbar stabilization
@@ -573,7 +586,8 @@ body:has(.sr-home-hero) footer {
 }
 
 .sr-status-progress,
-.sr-static-label-scheduled {
+.sr-static-label-scheduled,
+.sr-static-label-progress {
   border-color: rgba(245, 158, 11, 0.38);
   background: rgba(245, 158, 11, 0.12);
   color: #facc15;
@@ -1243,6 +1257,16 @@ footer a:hover {
   footer {
     padding-bottom: calc(5rem + env(safe-area-inset-bottom)) !important;
   }
+
+  #scroll-to-top {
+    inset-inline-end: 0.75rem !important;
+    bottom: calc(0.75rem + env(safe-area-inset-bottom)) !important;
+  }
+
+  #scroll-to-top a {
+    width: 2.75rem !important;
+    height: 2.75rem !important;
+  }
 }
 
 @media (max-width: 420px) {
@@ -1277,7 +1301,9 @@ body {
 
 /* Only apply sticky-footer behavior on the custom homepage */
 body:has(.sr-home-hero) {
+  height: auto !important;
   min-height: 100vh !important;
+  min-height: 100dvh !important;
   display: flex !important;
   flex-direction: column !important;
 }

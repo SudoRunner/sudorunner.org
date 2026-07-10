@@ -39,7 +39,7 @@
 [[main]]
   name = "ServiceNow SecOps"
   parent = "featured-work"
-  url = "/research-labs/servicenow-secops-lab-hub/"
+  url = "/servicenow-secops/"
   weight = 21
 
 [[main]]
