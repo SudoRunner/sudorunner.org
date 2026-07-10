@@ -501,9 +501,9 @@ Governance and decision-making supported by effective communication and process 
 
 <div class="sr-card">
 
-### [Capabilities](/capabilities/)
+### [Featured Work](/projects/)
 
-Capability-to-evidence map showing how HCI supports cybersecurity work.
+Curated evidence showing how HCI, workflow design, and cybersecurity work connect.
 
 <span class="sr-static-label sr-static-label-complete">Evidence Map</span>
 

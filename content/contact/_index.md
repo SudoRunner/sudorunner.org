@@ -23,7 +23,7 @@ Use this page for recruiter outreach, role-relevant conversations, ServiceNow Se
 
 <div class="sr-card-grid">
 
-<div class="sr-card sr-project-card" id="book-intro-call">
+<div class="sr-card sr-project-card" id="contact-book-intro-call">
 
 <div>
 
@@ -46,7 +46,7 @@ Use this for recruiter conversations, ServiceNow SecOps opportunities, cybersecu
 
 </div>
 
-<div class="sr-card sr-project-card" id="email">
+<div class="sr-card sr-project-card" id="contact-email">
 
 <div>
 
@@ -69,7 +69,7 @@ For professional opportunities, portfolio review, or relevant technical conversa
 
 </div>
 
-<div class="sr-card sr-project-card" id="linkedin">
+<div class="sr-card sr-project-card" id="contact-linkedin">
 
 <div>
 
@@ -117,7 +117,7 @@ The fastest overview is the Start Here page, followed by Professional Experience
 My strongest fit is ServiceNow SecOps, Vulnerability Response, cybersecurity consulting, security operations workflow, and client-facing delivery.
 
 <div class="sr-cta-row">
-  <a class="sr-button-secondary sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
+  <a class="sr-button-secondary sr-button" href="/servicenow-secops/">ServiceNow SecOps</a>
 </div>
 
 </div>

@@ -54,9 +54,9 @@ Supported a client-facing ServiceNow Vulnerability Response implementation invol
 
 <div>
 
-### [Accesso Services — Critical Infrastructure Operations](/ot-ics-security/critical-infrastructure-operations-foundation/)
+### [Building Engineering — Operations Foundation](/ot-ics-security/critical-infrastructure-operations-foundation/)
 
-Nearly five years supporting a major Class A commercial building environment involving tenants, contractors, HVAC systems, pumps, electrical rooms, life-safety systems, preventive maintenance, and operational continuity.
+Nearly five years of building-engineering experience that developed operational ownership, documentation discipline, stakeholder communication, and continuity-focused thinking.
 
 </div>
 
@@ -106,7 +106,7 @@ Supported networking lab modernization, validation testing, technical documentat
 
 <div class="sr-record-row">
   <div class="sr-record-title">Operational Responsibility</div>
-  <div class="sr-record-detail">Experience supporting real-world infrastructure where uptime, safety, maintenance, and continuity directly affect operations.</div>
+  <div class="sr-record-detail">Experience in a real operating environment where ownership, documentation, communication, reliability, and continuity mattered.</div>
 </div>
 
 <div class="sr-record-row">
@@ -141,7 +141,7 @@ The rest of this portfolio provides supporting evidence through technical projec
 # Continue Exploring
 
 <div class="sr-cta-row">
-  <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
+  <a class="sr-button" href="/servicenow-secops/">ServiceNow SecOps</a>
   <a class="sr-button-secondary sr-button" href="/projects/">Academic Projects</a>
   <a class="sr-button-secondary sr-button" href="/resume/">Resume</a>
   <a class="sr-button-secondary sr-button" href="/contact/">Contact</a>

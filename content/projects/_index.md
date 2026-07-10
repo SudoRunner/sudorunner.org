@@ -30,7 +30,7 @@ The goal is to show how my professional experience, ServiceNow SecOps focus, cyb
 
 <div>
 
-### [ServiceNow SecOps & Vulnerability Response](/research-labs/servicenow-secops-lab-hub/)
+### [ServiceNow SecOps & Vulnerability Response](/servicenow-secops/)
 
 My primary technical focus area.
 

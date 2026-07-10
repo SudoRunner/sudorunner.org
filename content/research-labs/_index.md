@@ -274,7 +274,7 @@ The goal is not to show that I completed a class. The goal is to show what the w
 ## Continue Reviewing
 
 <div class="sr-cta-row">
-  <a class="sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
+  <a class="sr-button" href="/servicenow-secops/">ServiceNow SecOps</a>
   <a class="sr-button-secondary sr-button" href="/research-labs/cyber-366-malware-analytics-reverse-engineering-lab-collection/">CYBER 366 Malware</a>
   <a class="sr-button-secondary sr-button" href="/research-labs/cyber-262-security-foundations-lab-collection/">CYBER 262 Foundations</a>
   <a class="sr-button-secondary sr-button" href="/projects/">Academic Projects</a>

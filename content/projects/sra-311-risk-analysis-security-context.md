@@ -57,7 +57,7 @@ This portfolio-safe case study summarizes selected SRA 311 Risk Analysis in a Se
 
 SRA 311 focused on risk analysis in a security context. The course emphasized how analysts evaluate uncertainty, weigh evidence, assess credibility, compare risk methods, and translate threat scenarios into practical risk treatment plans.
 
-This course is important to my portfolio because it strengthens the **Governance, Risk & Privacy-analysis side** of cybersecurity. It is not a technical tool lab. Instead, it demonstrates structured reasoning, uncertainty management, source credibility review, decision support, and risk communication.
+This course is important to my portfolio because it strengthens the **governance, risk, and privacy analysis** side of cybersecurity. It is not a technical tool lab. Instead, it demonstrates structured reasoning, uncertainty management, source credibility review, decision support, and risk communication.
 
 The available coursework supports several major themes:
 
@@ -710,4 +710,3 @@ This project can later be connected to:
 * an evidence credibility checklist
 
 For now, this page serves as the main portfolio-safe summary of my SRA 311 Risk Analysis in a Security Context work.
-

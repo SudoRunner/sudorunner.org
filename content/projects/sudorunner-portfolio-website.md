@@ -369,7 +369,7 @@ The core pages were rewritten to sound more direct and less generic.
 
 <div class="sr-record-row">
   <div class="sr-record-title">Core Reviewer Pages</div>
-  <div class="sr-record-detail"><a href="/start-here/">Start Here</a>, <a href="/review-paths/">Review Paths</a>, <a href="/capabilities/">Capabilities</a>, <a href="/opportunity-fit/">Opportunity Fit</a></div>
+  <div class="sr-record-detail"><a href="/start-here/">Start Here</a>, <a href="/servicenow-secops/">ServiceNow SecOps</a>, <a href="/professional-experience/">Professional Experience</a>, <a href="/resume/">Resume</a></div>
   <div class="sr-record-status"><span class="sr-static-label">Navigation</span></div>
 </div>
 
@@ -471,6 +471,6 @@ Things I may add later:
 <div class="sr-cta-row">
   <a class="sr-button" href="/start-here/">Start Here</a>
   <a class="sr-button-secondary sr-button" href="/projects/">Projects</a>
-  <a class="sr-button-secondary sr-button" href="/capabilities/">Capabilities</a>
+  <a class="sr-button-secondary sr-button" href="/servicenow-secops/">ServiceNow SecOps</a>
   <a class="sr-button-secondary sr-button" href="/changelog/">Changelog</a>
 </div>
