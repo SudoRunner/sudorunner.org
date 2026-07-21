@@ -1,6 +1,6 @@
 ---
 
-title: "IST 495: Penn State College of IST Network Lab Development Internship"
+title: "IST 495: Penn State College of IST Network Security Development Internship"
 description: "A portfolio-safe internship case study focused on networking lab modernization, technical research, validation testing, documentation, instructional support, and academic technology improvement."
 date: 2026-06-05
 tags: ["Internship", "Networking", "Technical Documentation", "Lab Development", "Quality Assurance", "Education Technology", "Penn State"]
@@ -15,7 +15,7 @@ showWordCount: false
 
 <div class="sr-case-hero">
 
-IST 495 was a network lab development internship with the Penn State College of Information Sciences and Technology.
+IST 495 was a network security development internship with the Penn State College of Information Sciences and Technology.
 
 The internship focused on improving networking laboratory environments used by students, validating technical exercises, supporting instructional materials, testing lab workflows, documenting findings, and helping maintain the quality of educational networking resources.
 
@@ -30,7 +30,7 @@ The internship focused on improving networking laboratory environments used by s
 
 <div class="sr-case-item">
   <span class="sr-case-label">Role</span>
-  <span class="sr-case-value">Network Lab Development Intern</span>
+  <span class="sr-case-value">Network Security Development Intern</span>
 </div>
 
 <div class="sr-case-item">
@@ -467,4 +467,4 @@ Future improvements could include:
 * technical documentation samples
 * educational technology improvement case studies
 
-For now, this page serves as the primary portfolio-safe summary of my Penn State College of IST Network Lab Development Internship experience.
+For now, this page serves as the primary portfolio-safe summary of my Penn State College of IST Network Security Development Internship experience.

@@ -157,7 +157,7 @@ CYBER 440 and IST 454 give me strong academic evidence, but I would frame this a
 
 <div class="sr-record-row">
   <div class="sr-record-title">Technical Documentation / Networking</div>
-  <div class="sr-record-detail"><a href="/projects/ist-495-network-lab-development-internship/">IST 495 Network Lab Development Internship</a></div>
+  <div class="sr-record-detail"><a href="/projects/ist-495-network-lab-development-internship/">IST 495 Network Security Development Internship</a></div>
   <div class="sr-record-status"><span class="sr-static-label">Professional Experience</span></div>
 </div>
 

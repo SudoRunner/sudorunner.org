@@ -109,7 +109,7 @@ A developing specialty supported by building operations experience, OT/ICS acade
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Penn State College of IST — Network Lab Internship</div>
+  <div class="sr-record-title">Penn State College of IST — Network Security Development Internship</div>
   <div class="sr-record-detail">Supported networking lab modernization, validation testing, technical documentation, instructional support, and technology operations within an academic environment.</div>
   <div class="sr-record-status"><a class="sr-button-secondary sr-button" href="/projects/ist-495-network-lab-development-internship/">View</a></div>
 </div>

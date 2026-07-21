@@ -161,7 +161,7 @@ Added security risk management evidence covering Enigma Glass SIEM-style investi
 
 <div>
 
-### [IST 495: Penn State College of IST Network Lab Development Internship](/projects/ist-495-network-lab-development-internship/)
+### [IST 495: Penn State College of IST Network Security Development Internship](/projects/ist-495-network-lab-development-internship/)
 
 Added professional internship evidence covering networking lab modernization, technical research, lab validation, documentation, rubrics, teamwork, and supervisor-facing communication.
 

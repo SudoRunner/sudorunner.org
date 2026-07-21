@@ -72,7 +72,7 @@ Nearly five years of building-engineering experience that developed operational 
 
 <div>
 
-### [Penn State Network Lab Internship](/projects/ist-495-network-lab-development-internship/)
+### [Penn State Network Security Development Internship](/projects/ist-495-network-lab-development-internship/)
 
 Supported networking lab modernization, validation testing, technical documentation, instructional support, and technology operations within Penn State's College of Information Sciences and Technology.
 
