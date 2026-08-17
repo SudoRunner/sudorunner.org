@@ -60,8 +60,8 @@ Relevant areas of study included cybersecurity operations, network security, ris
 
 <div class="sr-record-row">
   <div class="sr-record-title">ServiceNow Certified System Administrator</div>
-  <div class="sr-record-detail">CSA | scheduled July 2026</div>
-  <div class="sr-record-status"><span class="sr-static-label sr-static-label-scheduled">Scheduled</span></div>
+  <div class="sr-record-detail">CSA | Exam preparation in progress</div>
+  <div class="sr-record-status"><span class="sr-static-label sr-static-label-scheduled">In Progress</span></div>
 </div>
 
 <div class="sr-record-row">
