@@ -1,7 +1,6 @@
 ---
 title: "Capabilities"
 description: "Capability-to-evidence map for Vlad K., connecting professional ServiceNow SecOps experience, Vulnerability Response delivery, cybersecurity operations, OT/ICS security, incident response, forensics, malware analysis, governance, privacy, and technical foundations."
-aliases: ["/capabilities/"]
 showDate: false
 showAuthor: false
 showReadingTime: false

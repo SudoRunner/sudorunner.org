@@ -131,7 +131,6 @@ Badges help connect professional capabilities to evidence across projects, labs,
 
 <div class="sr-cta-row">
   <a class="sr-button" href="/projects/">Projects</a>
-  <a class="sr-button" href="/capabilities/">Capabilities</a>
+  <a class="sr-button" href="/resume/professional-focus/">Professional Focus</a>
   <a class="sr-button-secondary sr-button" href="/changelog/">Changelog</a>
 </div>
-

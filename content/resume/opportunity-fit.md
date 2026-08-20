@@ -4,6 +4,7 @@ description: "Professional focus and capability-to-evidence map for Vlad K., cen
 slug: "professional-focus"
 aliases:
   - "/resume/opportunity-fit/"
+  - "/capabilities/"
 showDate: false
 showAuthor: false
 showReadingTime: false

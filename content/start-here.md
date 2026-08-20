@@ -2,6 +2,8 @@
 
 title: "Start Here"
 description: "A fast plain-English review of Vlad K.'s cybersecurity portfolio."
+aliases:
+  - "/review-paths/"
 showDate: false
 showAuthor: false
 showReadingTime: false
