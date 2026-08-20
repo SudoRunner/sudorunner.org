@@ -240,7 +240,7 @@ Instead, I publish:
 - what tools or methods were used
 - what the project shows
 - what I learned
-- why it matters for the roles I am targeting
+- why it matters in relevant professional contexts
 - where the limits are
 
 That approach lets the site show real work without becoming a data leak.
