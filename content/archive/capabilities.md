@@ -1,6 +1,7 @@
 ---
 title: "Capabilities"
 description: "Capability-to-evidence map for Vlad K., connecting professional ServiceNow SecOps experience, Vulnerability Response delivery, cybersecurity operations, OT/ICS security, incident response, forensics, malware analysis, governance, privacy, and technical foundations."
+aliases: ["/capabilities/"]
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -349,6 +350,6 @@ The rest of the portfolio supports that direction by showing technical foundatio
 <div class="sr-cta-row">
   <a class="sr-button" href="/professional-experience/wipro-servicenow-vulnerability-response-engagement/">Professional Experience</a>
   <a class="sr-button-secondary sr-button" href="/research-labs/servicenow-secops-lab-hub/">ServiceNow SecOps</a>
-  <a class="sr-button-secondary sr-button" href="/review-paths/">Review Paths</a>
+  <a class="sr-button-secondary sr-button" href="/start-here/">Start Here</a>
   <a class="sr-button-secondary sr-button" href="/resume/">Resume</a>
 </div>
