@@ -1,9 +1,9 @@
 # Main navigation for sudoRunner
-# Clean recruiter-focused architecture:
+# Professional portfolio architecture:
 # About Me = who I am and professional background
 # Featured Work = proof of hands-on cybersecurity, ServiceNow, OT/ICS, academic, lab, and AI work
 # Resume = resume and credentials
-# Contact = direct next steps
+# Contact = professional correspondence
 
 [[main]]
   name = "About"
@@ -104,19 +104,13 @@
   weight = 41
 
 [[main]]
-  name = "Book Intro Call"
-  parent = "contact"
-  url = "https://calendly.com/contact-sudorunner/30min"
-  weight = 42
-
-[[main]]
   name = "Email"
   parent = "contact"
   url = "mailto:contact@sudorunner.org"
-  weight = 43
+  weight = 42
 
 [[main]]
   name = "LinkedIn"
   parent = "contact"
   url = "https://www.linkedin.com/in/vki/"
-  weight = 44
+  weight = 43

@@ -5,6 +5,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
+draft: true
 ---
 
 <span class="sr-eyebrow">Review Paths</span>

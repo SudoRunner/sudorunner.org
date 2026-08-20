@@ -64,7 +64,7 @@ This site is meant to solve that problem.
 
 The goal is simple:
 
-- help a recruiter understand my fit quickly
+- help professional and technical reviewers understand the work quickly
 - help a technical reviewer find the strongest evidence
 - keep ServiceNow SecOps and Vulnerability Response easy to find
 - show academic work without dumping raw submissions

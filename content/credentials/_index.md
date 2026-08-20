@@ -60,7 +60,7 @@ Relevant areas of study included cybersecurity operations, network security, ris
 
 <div class="sr-record-row">
   <div class="sr-record-title">ServiceNow Certified System Administrator</div>
-  <div class="sr-record-detail">CSA | Exam preparation in progress</div>
+  <div class="sr-record-detail">Exam preparation in progress; certification not yet held.</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-scheduled">In Progress</span></div>
 </div>
 
@@ -235,7 +235,7 @@ Professional context connecting credentials to client delivery, ServiceNow Vulne
 
 ## Private Verification
 
-Verification material is available only when appropriate for a recruiter, employer, or authorized reviewer.
+Verification material can be provided to an authorized reviewer when appropriate.
 
 I do not publish:
 

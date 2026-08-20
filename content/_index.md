@@ -18,7 +18,7 @@ ServiceNow SecOps | Vulnerability Response | Security Operations | OT/ICS Securi
 </p>
 
 <p class="sr-home-story">
-sudoRunner is my professional portfolio for recruiters and hiring teams. It highlights my ServiceNow SecOps delivery experience, critical infrastructure operations background, and Penn State cybersecurity foundation.
+sudoRunner documents my work across ServiceNow SecOps delivery, critical infrastructure operations, and cybersecurity research and labs. It is designed to make the work, evidence, and professional development behind those areas easy to review.
 </p>
 
 <div class="sr-home-cta-row">

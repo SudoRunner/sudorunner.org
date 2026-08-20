@@ -38,43 +38,43 @@ My strongest professional value is helping translate technical security findings
 
 ---
 
-# Best-Fit Roles
+# Core Capability Areas
 
 <div class="sr-card-grid">
 
 <div class="sr-card">
 
-### ServiceNow SecOps Consultant
+### ServiceNow SecOps & Vulnerability Response
 
-Best aligned with Vulnerability Response, vulnerable item workflow, requirements support, user stories, UAT support, training support, implementation communication, and client delivery.
+Professional experience includes Vulnerability Response workflow, requirements support, user stories, UAT support, training support, implementation communication, and client delivery.
 
-<span class="sr-static-label sr-static-label-complete">Primary Fit</span>
-
-</div>
-
-<div class="sr-card">
-
-### Cybersecurity Analyst
-
-Aligned with incident response, malware analysis foundations, packet analysis, SIEM exposure, endpoint behavior review, evidence handling, and reporting.
-
-<span class="sr-static-label sr-static-label-complete">Strong Fit</span>
+<span class="sr-static-label sr-static-label-complete">Primary Focus</span>
 
 </div>
 
 <div class="sr-card">
 
-### Vulnerability Management Analyst
+### Cybersecurity Operations
 
-Aligned with vulnerable item triage, remediation ownership, risk review, assignment routing, exception handling, validation, and closure.
+Academic and lab foundations include incident response, malware analysis, packet analysis, SIEM exposure, endpoint behavior review, evidence handling, and reporting.
 
-<span class="sr-static-label sr-static-label-complete">Strong Fit</span>
+<span class="sr-static-label sr-static-label-complete">Supporting Foundation</span>
 
 </div>
 
 <div class="sr-card">
 
-### OT/ICS Security Analyst
+### Vulnerability Management Workflow
+
+Work centers on vulnerable item triage, remediation ownership, risk review, assignment routing, exception handling, validation, and closure.
+
+<span class="sr-static-label sr-static-label-complete">Core Workflow</span>
+
+</div>
+
+<div class="sr-card">
+
+### OT/ICS Security
 
 A developing specialty supported by building operations experience, OT/ICS academic exposure, cyber-physical risk thinking, availability concerns, and industrial security learning.
 
@@ -154,7 +154,7 @@ Academic Honors: **The Honor Society of Phi Kappa Phi** | **Alpha Sigma Lambda H
 
 <div class="sr-record-row">
   <div class="sr-record-title">ServiceNow Certified System Administrator</div>
-  <div class="sr-record-detail">CSA | Exam preparation in progress</div>
+  <div class="sr-record-detail">Exam preparation in progress; certification not yet held.</div>
   <div class="sr-record-status"><span class="sr-static-label sr-static-label-scheduled">In Progress</span></div>
 </div>
 
@@ -276,7 +276,7 @@ Academic Honors: **The Honor Society of Phi Kappa Phi** | **Alpha Sigma Lambda H
 
 # Contact
 
-For professional opportunities, portfolio review, or relevant technical conversations:
+For portfolio questions or relevant technical conversations:
 
 <div class="sr-cta-row">
   <a class="sr-button" href="/contact/">Contact Me</a>

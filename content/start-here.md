@@ -26,7 +26,7 @@ My main technical focus is **ServiceNow Security Operations**, especially **Vuln
 
 <div class="sr-callout">
 
-<strong>Best fit:</strong> ServiceNow Security Operations, Vulnerability Response, cybersecurity consulting, security operations, and roles where technical security work must be translated into practical business execution.
+<strong>Primary focus:</strong> ServiceNow Security Operations and Vulnerability Response, supported by cybersecurity delivery, security operations, and OT/ICS-aware workflow thinking.
 
 </div>
 

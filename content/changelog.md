@@ -74,7 +74,7 @@ I am treating the site like a real portfolio product: content is added, reviewed
 </div>
 
 <div class="sr-record-row">
-  <div class="sr-record-title">Resume, About, Credentials, and Opportunity Fit Rewrites</div>
+  <div class="sr-record-title">Resume, About, Credentials, and Professional Focus Rewrites</div>
   <div class="sr-record-detail">Updated the high-traffic personal pages so they sound more direct, less generic, and more honest about primary strengths, supporting areas, and developing interests.</div>
   <div class="sr-record-status"><span class="sr-static-label">Core Pages</span></div>
 </div>

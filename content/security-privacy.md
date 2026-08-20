@@ -20,7 +20,7 @@ This page explains how `sudoRunner` is designed as a public cybersecurity portfo
 
 ## Privacy-Conscious Public Resume
 
-The public resume available on this site is intentionally different from a direct job-application resume.
+The public resume available on this site is intentionally privacy-reduced for open web publishing.
 
 It uses:
 

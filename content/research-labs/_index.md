@@ -15,7 +15,7 @@ The project gallery contains the full academic evidence map. This page is narrow
 
 <div class="sr-callout">
 
-<strong>How to read this section:</strong> Start with ServiceNow SecOps for role fit, CYBER 366 for malware analysis, CYBER 262 for security foundations, and IST 451 for broader security lab exposure.
+<strong>How to read this section:</strong> Start with ServiceNow SecOps for workflow depth, CYBER 366 for malware analysis, CYBER 262 for security foundations, and IST 451 for broader security lab exposure.
 
 </div>
 

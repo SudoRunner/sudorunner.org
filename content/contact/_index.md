@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Professional contact options for ServiceNow SecOps, Vulnerability Response, cybersecurity consulting, security operations, and OT/ICS-focused opportunities."
+description: "Professional contact information for questions about sudoRunner, ServiceNow SecOps, cybersecurity delivery, and OT/ICS-focused work."
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -9,11 +9,11 @@ showWordCount: false
 
 <span class="sr-eyebrow">Professional Contact</span>
 
-Use this page for recruiter outreach, role-relevant conversations, ServiceNow SecOps opportunities, cybersecurity consulting discussions, portfolio review follow-up, and OT/ICS-focused conversations.
+Use this page for professional correspondence about the portfolio, ServiceNow SecOps, cybersecurity delivery, vulnerability management workflows, or OT/ICS-focused work.
 
 <div class="sr-callout">
 
-<strong>Best fit conversations:</strong> ServiceNow SecOps, Vulnerability Response, cybersecurity consulting, vulnerability management, security operations, client-facing delivery, and OT/ICS security-focused opportunities.
+<strong>Topics covered:</strong> ServiceNow SecOps, Vulnerability Response, cybersecurity delivery, vulnerability management, security operations workflows, and OT/ICS security.
 
 </div>
 
@@ -23,36 +23,13 @@ Use this page for recruiter outreach, role-relevant conversations, ServiceNow Se
 
 <div class="sr-card-grid">
 
-<div class="sr-card sr-project-card" id="contact-book-intro-call">
-
-<div>
-
-### Book an Intro Call
-
-The fastest way to connect is to schedule a short intro call.
-
-Use this for recruiter conversations, ServiceNow SecOps opportunities, cybersecurity consulting roles, portfolio review follow-up, or role-fit discussions.
-
-<div class="sr-cta-row">
-  <a class="sr-button" href="https://calendly.com/contact-sudorunner/30min">Schedule 30-Minute Call</a>
-</div>
-
-</div>
-
-<div class="sr-project-meta">
-  <span class="sr-static-label sr-static-label-complete">Calendly</span>
-  <span class="sr-static-label">30 Minutes</span>
-</div>
-
-</div>
-
 <div class="sr-card sr-project-card" id="contact-email">
 
 <div>
 
 ### Email
 
-For professional opportunities, portfolio review, or relevant technical conversations, email:
+For portfolio questions or relevant technical discussions, email:
 
 <strong>contact@sudorunner.org</strong>
 
@@ -75,7 +52,7 @@ For professional opportunities, portfolio review, or relevant technical conversa
 
 ### LinkedIn
 
-Use LinkedIn for professional networking, recruiter outreach, opportunity-related messages, and background review.
+Use LinkedIn to review my professional background, experience updates, and public professional activity.
 
 <div class="sr-cta-row">
   <a class="sr-button" href="https://www.linkedin.com/in/vki/">View LinkedIn Profile</a>
@@ -85,7 +62,7 @@ Use LinkedIn for professional networking, recruiter outreach, opportunity-relate
 
 <div class="sr-project-meta">
   <span class="sr-static-label sr-static-label-complete">Professional Network</span>
-  <span class="sr-static-label">Recruiter Friendly</span>
+  <span class="sr-static-label">Professional Profile</span>
 </div>
 
 </div>
@@ -94,7 +71,7 @@ Use LinkedIn for professional networking, recruiter outreach, opportunity-relate
 
 ---
 
-## Before Reaching Out
+## Portfolio References
 
 <div class="sr-card-grid">
 
@@ -114,7 +91,7 @@ The fastest overview is the Start Here page, followed by Professional Experience
 
 ### Primary Focus
 
-My strongest fit is ServiceNow SecOps, Vulnerability Response, cybersecurity consulting, security operations workflow, and client-facing delivery.
+My primary professional focus is ServiceNow SecOps, Vulnerability Response, cybersecurity delivery, security operations workflow, and client-facing implementation work.
 
 <div class="sr-cta-row">
   <a class="sr-button-secondary sr-button" href="/servicenow-secops/">ServiceNow SecOps</a>
@@ -126,7 +103,7 @@ My strongest fit is ServiceNow SecOps, Vulnerability Response, cybersecurity con
 
 ### Resume
 
-For a formal summary of experience, education, credentials, and role fit, use the resume page or PDF.
+For a formal summary of experience, education, and credentials, use the resume page or PDF.
 
 <div class="sr-cta-row">
   <a class="sr-button-secondary sr-button" href="/resume/">View Resume</a>
