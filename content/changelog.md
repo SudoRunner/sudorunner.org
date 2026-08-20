@@ -57,7 +57,7 @@ I am treating the site like a real portfolio product: content is added, reviewed
 
 <div class="sr-record-row">
   <div class="sr-record-title">Review Paths Rewrite</div>
-  <div class="sr-record-detail">Rewrote role-based review paths for recruiters, ServiceNow reviewers, cybersecurity analysts, incident response reviewers, GRC reviewers, OT/ICS reviewers, cloud reviewers, and HCI/software reviewers.</div>
+  <div class="sr-record-detail">Reworked audience-specific review paths across ServiceNow, cybersecurity operations, incident response and forensics, GRC, OT/ICS, cloud, and HCI/software evidence.</div>
   <div class="sr-record-status"><span class="sr-static-label">Navigation</span></div>
 </div>
 

@@ -185,7 +185,7 @@ The current structure is built around reviewer intent:
 
 <div class="sr-record-row">
   <div class="sr-record-title">Different reviewers care about different evidence</div>
-  <div class="sr-record-detail">Built role-based review paths for recruiters, ServiceNow reviewers, cybersecurity analysts, IR/forensics reviewers, GRC reviewers, OT/ICS reviewers, cloud reviewers, and HCI/software reviewers.</div>
+  <div class="sr-record-detail">Built audience-specific review paths across ServiceNow, cybersecurity operations, IR/forensics, GRC, OT/ICS, cloud, and HCI/software evidence.</div>
   <div class="sr-record-status"><span class="sr-static-label">Role-Based Paths</span></div>
 </div>
 
