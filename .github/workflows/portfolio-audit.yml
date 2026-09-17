@@ -9,19 +9,23 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: portfolio-audit-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   audit:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
           fetch-depth: 0
           submodules: recursive
           persist-credentials: false
       - name: Install pinned Hugo Extended
         env:
-          HUGO_VERSION: 0.147.9
+          HUGO_VERSION: 0.161.1
         run: |
           set -euo pipefail
           archive="hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
@@ -33,77 +37,21 @@ jobs:
           echo "$RUNNER_TEMP" >> "$GITHUB_PATH"
       - name: Build production site
         run: hugo --gc --minify
-      - name: Audit content, navigation, and internal links
+      - name: Audit content, navigation, history, and live routes
+        run: python3 scripts/audit_portfolio.py --live
+      - name: Assemble review snapshot
+        if: always()
         run: |
-          python3 - <<'PY'
-          import csv, io, json, re, subprocess
-          from pathlib import Path
-          from html.parser import HTMLParser
-          from urllib.parse import urljoin, urlsplit, unquote
-          class Page(HTMLParser):
-              def __init__(self, text):
-                  super().__init__(); self.links = []; self.ids = set(); self.redirect = False
-                  self.feed(text)
-              def handle_starttag(self, tag, attrs):
-                  a = dict(attrs)
-                  if a.get('id'): self.ids.add(a['id'])
-                  if tag == 'a' and a.get('href'): self.links.append(a['href'])
-                  if tag == 'meta' and a.get('http-equiv', '').lower() == 'refresh': self.redirect = True
-          root = Path('public')
-          pages = {}
-          for f in root.rglob('*.html'):
-              rel = f.relative_to(root).as_posix()
-              route = '/' + rel[:-10] if rel.endswith('index.html') else '/' + rel
-              pages[route] = Page(f.read_text(encoding='utf-8'))
-          def normalize(path):
-              path = unquote(path)
-              if path.endswith('/index.html'): path = path[:-10]
-              if not Path(path).suffix and not path.endswith('/'): path += '/'
-              return path
-          graph = {p: set() for p in pages}
-          broken = []
-          anchors = []
-          for route, page in pages.items():
-              for href in page.links:
-                  u = urlsplit(urljoin('https://sudorunner.org' + route, href))
-                  if u.scheme not in ('http', 'https') or u.netloc not in ('sudorunner.org', 'www.sudorunner.org'): continue
-                  target = normalize(u.path)
-                  if target in pages:
-                      graph[route].add(target)
-                      if u.fragment and unquote(u.fragment) not in pages[target].ids:
-                          anchors.append({'from': route, 'to': href})
-                  elif not (root / unquote(u.path).lstrip('/')).is_file():
-                      broken.append({'from': route, 'to': href})
-          evidence_sections = ('/projects/', '/research-labs/', '/ot-ics-security/', '/ai-security/', '/professional-experience/')
-          evidence = sorted(p for p in pages if p.startswith(evidence_sections) and p not in evidence_sections and not pages[p].redirect and '/page/' not in p)
-          featured_links = graph.get('/projects/', set())
-          missing_featured = [p for p in evidence if p not in featured_links]
-          incoming = {p: sorted(s for s, targets in graph.items() if p in targets and s != p and not s.startswith(('/tags/', '/categories/', '/series/', '/authors/'))) for p in evidence}
-          unreachable = []
-          seen = set(); queue = ['/']
-          while queue:
-              p = queue.pop()
-              if p in seen: continue
-              seen.add(p); queue.extend(graph.get(p, set()) - seen)
-          unreachable = [p for p in evidence if p not in seen]
-          historical = subprocess.check_output(['git', 'diff', '--name-status', '37263618ffdbee8281d0f13072e80dc2e2d57feb', 'HEAD', '--', 'content'], text=True)
-          deleted = [line for line in historical.splitlines() if line.startswith(('D\t', 'R'))]
-          report = {'html_pages': len(pages), 'evidence_pages': len(evidence), 'evidence_inventory': evidence, 'missing_from_featured_work': missing_featured, 'unreachable_evidence': unreachable, 'orphan_evidence': [p for p, links in incoming.items() if not links], 'broken_internal_links': broken, 'broken_anchors': anchors, 'historical_deletions_or_moves_since_2026_06_06': deleted}
-          Path('portfolio-audit.json').write_text(json.dumps(report, indent=2) + '\n')
-          print(json.dumps(report, indent=2))
-          summary = Path(__import__('os').environ['GITHUB_STEP_SUMMARY'])
-          with summary.open('a') as out:
-              out.write('# Portfolio audit\n\n' + f'{len(evidence)} evidence pages; {len(broken)} broken internal links; {len(anchors)} broken anchors; {len(unreachable)} unreachable evidence pages.\n\n')
-              out.write('```json\n' + json.dumps(report, indent=2) + '\n```\n')
-          if broken or unreachable:
-              raise SystemExit('Broken internal links or unreachable portfolio evidence found.')
-          PY
+          git archive --format=tar HEAD | gzip > audit-source.tar.gz
+          git log --all --format='COMMIT %H %cs %s' --name-status -- content > audit-history.txt
       - name: Retain audit evidence
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
           name: portfolio-audit
           path: |
             portfolio-audit.json
-            public/sitemap.xml
+            audit-source.tar.gz
+            audit-history.txt
+            public/
           retention-days: 30
