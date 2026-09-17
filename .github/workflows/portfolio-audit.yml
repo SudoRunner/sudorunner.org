@@ -1,0 +1,62 @@
+name: Portfolio completeness audit
+
+on:
+  push:
+    branches: [main, 'fix/portfolio-completeness-*']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: portfolio-audit-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          fetch-depth: 0
+          submodules: recursive
+          persist-credentials: false
+      - name: Install pinned Hugo Extended
+        env:
+          HUGO_VERSION: 0.161.1
+        run: |
+          set -euo pipefail
+          archive="hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          release="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}"
+          curl --fail --location --retry 3 "$release/$archive" -o "$RUNNER_TEMP/$archive"
+          curl --fail --location --retry 3 "$release/hugo_${HUGO_VERSION}_checksums.txt" -o "$RUNNER_TEMP/checksums.txt"
+          (cd "$RUNNER_TEMP" && grep " $archive$" checksums.txt | sha256sum --check --strict)
+          tar -xzf "$RUNNER_TEMP/$archive" -C "$RUNNER_TEMP" hugo
+          echo "$RUNNER_TEMP" >> "$GITHUB_PATH"
+      - name: Build production site
+        run: hugo --gc --minify
+      - name: Audit content, navigation, history, and live routes
+        run: python3 scripts/audit_portfolio.py --live --strict-catalog
+      - name: Test regression checks and preserve published inventory
+        run: |
+          python3 scripts/check_portfolio_inventory.py --self-test
+          python3 scripts/check_portfolio_inventory.py
+      - name: Assemble review snapshot
+        if: always()
+        run: |
+          git archive --format=tar HEAD | gzip > audit-source.tar.gz
+          git log --all --format='COMMIT %H %cs %s' --name-status -- content > audit-history.txt
+      - name: Retain audit evidence
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: portfolio-audit
+          path: |
+            portfolio-audit.json
+            portfolio-inventory-check.json
+            audit-source.tar.gz
+            audit-history.txt
+            public/
+          retention-days: 30

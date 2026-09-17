@@ -6,13 +6,15 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showWordCount: false
---------------------
+---
 
 <span class="sr-eyebrow">Featured Work</span>
 
 This section is organized by professional relevance rather than course number.
 
 The goal is to show how my professional experience, ServiceNow SecOps focus, cybersecurity education, and technical projects connect together.
+
+Browse the themed sections below, or open the [complete project directory](#complete-project-directory) for every published academic case study, professional case study, lab, checklist, and concept.
 
 <div class="sr-callout">
 
@@ -174,6 +176,12 @@ Professional internship experience involving networking labs, technical validati
   <div class="sr-record-status"><span class="sr-static-label">CYBER 362</span></div>
 </div>
 
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/sra-221-information-security-foundations-lab-collection/">Information Security Foundations</a></div>
+  <div class="sr-record-detail">Wireshark, OWASP ZAP, pfSense, Active Directory, file system forensics, and Splunk log analysis across foundational security labs.</div>
+  <div class="sr-record-status"><span class="sr-static-label">SRA 221</span></div>
+</div>
+
 </div>
 
 ---
@@ -250,7 +258,48 @@ Professional internship experience involving networking labs, technical validati
   <div class="sr-record-status"><span class="sr-static-label">IST 242</span></div>
 </div>
 
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/ist-240-introductory-java-programming-oop-labs/">Introductory Java Programming & OOP Labs</a></div>
+  <div class="sr-record-detail">Java fundamentals, control flow, methods, classes, object-oriented programming, and progressive programming lab practice.</div>
+  <div class="sr-record-status"><span class="sr-static-label">IST 240</span></div>
 </div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/java-data-structures-software-engineering-foundations/">Java Data Structures & Software Engineering</a></div>
+  <div class="sr-record-detail">Lists, queues, trees, graphs, Big-O analysis, UML and CRC modeling, JUnit, debugging, and Git workflow practice.</div>
+  <div class="sr-record-status"><span class="sr-static-label">IST 311</span></div>
+</div>
+
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/uphill-struggle-bicycles-web-design-project/">Uphill Struggle Bicycles Web Design</a></div>
+  <div class="sr-record-detail">Multi-page website design using HTML and CSS, navigation structure, layout, styling, and front-end development practice.</div>
+  <div class="sr-record-status"><span class="sr-static-label">IST 250</span></div>
+</div>
+
+
+</div>
+
+---
+
+## Portfolio Engineering
+
+<div class="sr-record-list">
+
+<div class="sr-record-row">
+  <div class="sr-record-title"><a href="/projects/sudorunner-portfolio-website/">sudoRunner Portfolio Website</a></div>
+  <div class="sr-record-detail">Design and development of this public portfolio, including Hugo, Cloudflare Pages, GitHub, navigation, and privacy-conscious publishing.</div>
+  <div class="sr-record-status"><span class="sr-static-label">Personal Project</span></div>
+</div>
+
+</div>
+
+---
+
+## Complete Project Directory
+
+This directory is generated from the published portfolio pages. Academic work remains separate from professional experience, personal labs, and concept proposals.
+
+{{< portfolio-directory >}}
 
 ---
 
