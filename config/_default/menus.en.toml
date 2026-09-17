@@ -114,3 +114,9 @@
   parent = "contact"
   url = "https://www.linkedin.com/in/vki/"
   weight = 43
+
+# Keep the public publishing/privacy policy reachable throughout the site.
+[[footer]]
+  name = "Security & Privacy"
+  url = "/security-privacy/"
+  weight = 10

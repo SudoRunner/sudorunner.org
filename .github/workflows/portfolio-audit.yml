@@ -38,7 +38,11 @@ jobs:
       - name: Build production site
         run: hugo --gc --minify
       - name: Audit content, navigation, history, and live routes
-        run: python3 scripts/audit_portfolio.py --live
+        run: python3 scripts/audit_portfolio.py --live --strict-catalog
+      - name: Test regression checks and preserve published inventory
+        run: |
+          python3 scripts/check_portfolio_inventory.py --self-test
+          python3 scripts/check_portfolio_inventory.py
       - name: Assemble review snapshot
         if: always()
         run: |
@@ -51,6 +55,7 @@ jobs:
           name: portfolio-audit
           path: |
             portfolio-audit.json
+            portfolio-inventory-check.json
             audit-source.tar.gz
             audit-history.txt
             public/

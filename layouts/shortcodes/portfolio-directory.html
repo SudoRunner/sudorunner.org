@@ -1,0 +1,28 @@
+{{- /* Keep complete navigation tied to published pages, not a hand-maintained list. */ -}}
+{{- $sections := slice "projects" "research-labs" "ot-ics-security" "ai-security" "professional-experience" -}}
+{{- $pages := where site.RegularPages "Section" "in" $sections -}}
+{{- $academic := slice -}}
+{{- $other := slice -}}
+{{- range $pages -}}
+  {{- if findRE `^(IST|CYBER|SRA)\s+[0-9]` .Title -}}
+    {{- $academic = $academic | append . -}}
+  {{- else -}}
+    {{- $other = $other | append . -}}
+  {{- end -}}
+{{- end -}}
+<details class="sr-project-directory">
+  <summary>Browse all {{ len $pages }} entries: {{ len $academic }} academic and {{ len $other }} professional, lab, and concept pages</summary>
+  <h3>Academic Projects &amp; Course Labs</h3>
+  <ul>
+    {{- range sort $academic "Title" }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{- end }}
+  </ul>
+  <h3>Professional Experience, Personal Labs &amp; Concepts</h3>
+  <p>These pages describe different types of work; each page identifies its own context and status.</p>
+  <ul>
+    {{- range sort $other "Title" }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{- end }}
+  </ul>
+</details>
